@@ -1,6 +1,18 @@
 # Accueil
 ---
 
+## Installer le site localement
+
+1. Installer [NodeJS](https://nodejs.org/fr/).
+2. Installer `docsify-cli`.
+
+    ```bash
+    npm i docsify-cli -g
+    ```
+3. Cloner le dépôt git.
+4. Faire la commande `docsify serve` pour lancer le site localement.
+
+
 ## Extensions installées sur le site
 
 * [Emoji](https://docsify.js.org/#/plugins?id=emoji): Permet de mettre des emojis comme sur Discord :100:.
@@ -48,7 +60,10 @@
 
 * [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol/#/): Permet de contrôler les GIF (voir documentation).
 * [docsify-example-panels](https://vagnerdomingues.github.io/docsify-example-panels/#/)
+* [docsify-footer](https://github.com/erickjx/docsify-footer-enh): Permet d'ajouter un footer.
+* [docsify-progress](https://github.com/HerbertHe/docsify-progress)
+* [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title)
 
-https://docsify.js.org/#/awesome?id=plugins
+[Retrouve ici la liste des extensions listées sur Docsify.](https://docsify.js.org/#/awesome?id=plugins)
 
 {docsify-updated}
