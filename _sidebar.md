@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Accueil](/ "Accueil")
-* [Test](test.md "Test")
+* [SADoJ Life US](life/index.md "SADoJ Life US")
+  * [Scripts (framework)](life/framework/index.md "Scripts (framework)")
