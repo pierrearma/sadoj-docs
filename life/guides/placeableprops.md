@@ -260,4 +260,14 @@ Liste des objets plaçables en fonction du magasin / fournisseur.
     </div>
 </div>
 
+## Indisponible à la vente
+
+<div class="models">
+	<div class="model">
+        <img src="_media/placeableprops/prop_lectern_02.png" loading="lazy" alt="Pupitre">
+        <span><strong>Pupitre</strong></span>
+        <span>prop_lectern_02</span>
+    </div>
+</div>
+
 {docsify-updated}
