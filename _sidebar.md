@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 * [Accueil](/ "Accueil")
 * La communauté
 * SADoJ Life US
@@ -13,5 +11,5 @@
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
-  * Guides de jeux
-    * [Objets placeables]( "Objets placeables")
+  * Guides de jeu
+    * [Objets plaçables](life/guides/placeableprops.md "Objets plaçables")

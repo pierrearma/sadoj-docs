@@ -2,6 +2,8 @@
 
 > Auteur de la page: Pierre.
 
+---
+
 ## Étape 1 : Récupérer le steamID64
 
 Pour récupérer le steamID64, il existe différents sites web:
