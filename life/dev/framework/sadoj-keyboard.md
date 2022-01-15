@@ -112,3 +112,18 @@ Pour passer une ligne, l'utilisateur doit faire <kbd>Shift</kbd> + <kbd>Entrée<
   placeholder = "Entre beaucoup de texte" --[[ string ]] -- Facultatif. Une valeur d'exemple qui sera affichée lorsqu'aucune valeur n'est saisie. Rien par défaut.
 }
 ```
+
+#### date
+
+`date` est un champ permettant de rentrer une date.
+
+```lua
+{
+  label = "Label"  --[[ string ]], -- Facultatif. Nom du champ. Chaîne vide par défaut.
+  type = "date" --[[ string ]],
+  required = true --[[ boolean ]], -- Facultatif. Un attribut qui indique que le champ doit être renseigné avant de pouvoir envoyer le formulaire. Vrai par défaut.
+  min = "1922-01-01" --[[ string ]], -- Facultatif. La date la plus reculée qui peut être saisie. Rien par défaut.
+  max = "2004-12-31" --[[ string ]], -- Facultatif. La date la plus avancée qui peut être saisie. Rien par défaut.
+  step = 1 --[[ number ]] -- Facultatif. Le pas (en jours) à utiliser pour l'incrément quand on utilise les boutons d'augmentation/diminution. Cet incrément est également utilisé pour la validation. 1 par défaut.
+}
+```
