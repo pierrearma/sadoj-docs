@@ -89,8 +89,8 @@ local keyboard --[[ boolean ]], result --[[ string ]] [, [...] --[[ string ]]]  
   label = "Label"  --[[ string ]], -- Facultatif. Nom du champ. Chaîne vide par défaut.
   type = "number" --[[ string ]],
   required = true --[[ boolean ]], -- Facultatif. Un attribut qui indique que le champ doit être renseigné avant de pouvoir envoyer le formulaire. Vrai par défaut.
-  max = 255 --[[ number ]], -- Facultatif. 	La valeur maximale qui peut être acceptée. Rien par défaut.
-  min = 0 --[[ number ]], -- Facultatif. 	La valeur minimale qui peut être acceptée. Rien par défaut.
+  max = 255 --[[ number ]], -- Facultatif. La valeur maximale qui peut être acceptée. Rien par défaut.
+  min = 0 --[[ number ]], -- Facultatif. La valeur minimale qui peut être acceptée. Rien par défaut.
   placeholder = "Entre un nombre" --[[ string ]], -- Facultatif. Une valeur d'exemple qui sera affichée lorsqu'aucune valeur n'est saisie. Rien par défaut.
   step = 1 --[[ number ]] -- Facultatif. Le pas à utiliser pour incrémenter la valeur à l'aide du contrôle fourni par l'agent utilisateur. Cet incrément est également utilisé pour la validation de la valeur. 1 par défaut.
 }
