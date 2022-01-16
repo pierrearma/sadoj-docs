@@ -127,3 +127,5 @@ Pour passer une ligne, l'utilisateur doit faire <kbd>Shift</kbd> + <kbd>Entrée<
   step = 1 --[[ number ]] -- Facultatif. Le pas (en jours) à utiliser pour l'incrément quand on utilise les boutons d'augmentation/diminution. Cet incrément est également utilisé pour la validation. 1 par défaut.
 }
 ```
+
+{docsify-updated}
