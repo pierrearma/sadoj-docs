@@ -1,6 +1,9 @@
 * [Accueil](/ "Accueil")
 * La communauté
 * SADoJ Life US
+  * Guides de jeu
+    * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
+    * [Objets plaçables](life/guides/placeableprops.md "Objets plaçables")
   * Développement
     * Scripts (framework)
       * [sadoj-core](life/dev/framework/sadoj-core.md "sadoj-core")
@@ -11,5 +14,3 @@
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
-  * Guides de jeu
-    * [Objets plaçables](life/guides/placeableprops.md "Objets plaçables")
