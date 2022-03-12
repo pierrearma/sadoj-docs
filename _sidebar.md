@@ -4,6 +4,7 @@
   * Guides de jeu
     * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
     * [Objets plaçables](life/guides/placeableprops.md "Objets plaçables")
+    * [Guerres de territoires](life/guides/turfwars.md "Guerres de territoires")
   * Développement
     * Scripts (framework)
       * [sadoj-core](life/dev/framework/sadoj-core.md "sadoj-core")
