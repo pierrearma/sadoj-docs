@@ -11,6 +11,7 @@
       * [Inventaire](life/dev/framework/Inventaire.md "Inventaire")
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
       * [Mini-jeux](life/dev/framework/minigames.md "Mini-jeux")
+      * [sadoj-persistentprop](life/dev/framework/sadoj-persistentprop.md "sadoj-persistentprop")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
