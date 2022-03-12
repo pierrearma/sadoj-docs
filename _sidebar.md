@@ -12,7 +12,9 @@
       * [Inventaire](life/dev/framework/Inventaire.md "Inventaire")
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
       * [Mini-jeux](life/dev/framework/minigames.md "Mini-jeux")
-      * [sadoj-persistentprop](life/dev/framework/sadoj-persistentprop.md "sadoj-persistentprop")
+      * [sadoj-persistentprops](life/dev/framework/sadoj-persistentprops.md "sadoj-persistentprops")
+      * [sadoj-persistentvehicles](life/dev/framework/sadoj-persistentvehicles.md "sadoj-persistentvehicles")
+      * [sadoj-garages](life/dev/framework/sadoj-garages.md "sadoj-garages")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
