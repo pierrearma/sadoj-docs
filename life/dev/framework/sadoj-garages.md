@@ -17,7 +17,11 @@ Cet événement permet d'écouter l'apparition d'un véhicule à partir d'un gar
 <!-- tabs:start -->
 #### **Event (client)**
 ```lua
-TriggerEvent("sadoj-garages:VehicleSpawn", NetId, DataBDD, GaragesData)
+RegisterServerEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
+
+  --Mettez votre code ici
+
+end)
 ```
 
 * **Résultats:**
@@ -28,7 +32,11 @@ TriggerEvent("sadoj-garages:VehicleSpawn", NetId, DataBDD, GaragesData)
 
 #### **Event (server)**
 ```lua
-TriggerEvent("sadoj-garages:VehicleSpawn", NetId, DataBDD, GaragesData)
+RegisterServerEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
+
+  --Mettez votre code ici
+
+end)
 ```
 
 * **Résultats:**
@@ -47,7 +55,11 @@ Cet événement permet d'écouter la d'isparition d'un véhicule à partir d'un 
 <!-- tabs:start -->
 #### **Event (client)**
 ```lua
-TriggerEvent("sadoj-garages:VehicleDespawn", GarageId, Plate, Model, Data, Health)
+RegisterServerEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
+
+  --Mettez votre code ici
+
+end)
 ```
 
 * **Résultats:**
@@ -60,7 +72,11 @@ TriggerEvent("sadoj-garages:VehicleDespawn", GarageId, Plate, Model, Data, Healt
 
 #### **Event (server)**
 ```lua
-TriggerEvent("sadoj-garages:VehicleSpawn", GarageId, Plate, Model, Data, Health)
+RegisterServerEvent("sadoj-garages:VehicleSpawn", function(GarageId, Plate, Model, Data, Health)
+
+  --Mettez votre code ici
+
+end)
 ```
 
 * **Résultats:**
@@ -75,10 +91,10 @@ TriggerEvent("sadoj-garages:VehicleSpawn", GarageId, Plate, Model, Data, Health)
 ### Rangement d'un véhicule
 
 
-Cette exports vous permettez vérifier si le véhicule peut être rangé dans ce garage.
+Cette export vous permet vérifier si le véhicule peut être rangé dans ce garage.
 
 <!-- tabs:start -->
-#### **Event (client)**
+#### **Export (client)**
 ```lua
 local result --[[ boolean ]] = exports["sadoj-garages"]:CheckCanStoreVehicleByGarageId(vehicle --[[ vehicle ]], garageId --[[ integer ]])
 ```
@@ -91,10 +107,10 @@ local result --[[ boolean ]] = exports["sadoj-garages"]:CheckCanStoreVehicleByGa
 <!-- tabs:end -->
 
 
-Cette exports vous permet de ranger un véhicule dans un script à autre que sadoj-garages.
+Cette export vous permet de ranger un véhicule dans un script à autre que sadoj-garages.
 
 <!-- tabs:start -->
-#### **Event (client)**
+#### **Export (client)**
 ```lua
 exports["sadoj-garages"]:StoreVehicle(vehicle --[[ vehicle ]], garageId --[[ integer ]])
 ```
