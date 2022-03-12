@@ -10,14 +10,14 @@ Les organisations & gang ont la possiblité de participer aux "guerres de territ
 
 L'objectif est donc, pour une organisation, d'avoir un maximum d'influence pour étendre son activité ou pour, par exemple, démontrer sa puissance et sa supériorité. Il est toutefois possible que dans le futur, contrôler une ou des zones soit requis pour faire certaines actions.
 
-Chaque organisation ou gang qui participe à une couleur qui lui est propre, il n'est, en aucun cas, possible de savoir directement **en rôle-play** que telle couleur corrrespond à tel groupe.
+Chaque organisation ou gang qui participe a une couleur qui lui est propre, il n'est, en aucun cas, possible de savoir directement **en rôle-play** que telle couleur corrrespond à tel groupe.
 *(Il est évident que vous allez par exemple directement associé le vert aux Famillies, mais parce que vous connaissez leur couleur et non parce que c'est écrit en hors rôle-play quelque part.)*
 
-La participation au système pour une organisation ou un gang n'est pas obligatoire *(par exemple un mafia discrète ne cherche pas forcément l'influence sur la population)*.
+La participation au système pour une organisation ou un gang n'est pas obligatoire *(par exemple une mafia discrète ne cherche pas forcément l'influence sur la population)*.
 
 ## À quoi cela ressemble ?
 
-Il est possible pour les personnes ayant accès (membres d'une organisation, d'un gang ou acteurs de la Justice) d'activé la visibilité des zones d'influence via le menu F7.
+Il est possible pour les personnes ayant accès (membres d'une organisation, d'un gang ou acteurs de la Justice) d'activer la visibilité des zones d'influence via le menu F7.
 
 Les organisations y ont accès pour des raisons évidentes, cependant la Justice y a accès pour simuler le travail de personnages non-joueurs (services anti-gang, services de renseignements, etc...).
 
@@ -66,6 +66,6 @@ Voici les actions qui font perdre des points:
 
 Le système est en constante évolution, l'objectif est d'accroître le nombre d'actions éligibles et d'accroître l'aspect stratégique en réglant correctement l'apport ou la perte de points et leur validité.
 
-Vous pouvez apportez vos idées au système à l'aide des formulaires de développement.
+Vous pouvez apporter vos idées au système à l'aide des formulaires de développement.
 
 {docsify-updated}
