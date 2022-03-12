@@ -99,6 +99,44 @@ exports["sadoj-core"]:tPrint(tbl --[[ table ]])
 
 ## Fonctions côté serveur (exports & events)
 
+### Joueur
+
+#### GetClosestPlayerFromCoords
+
+Permet de récupérer le joueur le plus proche d'une coordonnées.
+
+<!-- tabs:start -->
+
+#### **Export**
+
+```lua
+local PlayerId --[[ integer ]], ClosestDist --[[ vector3 ]] = exports["sadoj-core"]:GetClosestPlayerFromCoords(tbl --[[ table ]])
+```
+* **Résultats:**
+  * **PlayerId:** Le ServerId du joueur de plus proche.
+  * **ClosestDist:** La distance entre le joueur et les coordonnées donner.
+<!-- tabs:end -->
+
+#### GetAllPlayersClosestFromCoords
+
+Permet de récupérer tous les joueurs à proximité d'une coordonnées.
+
+<!-- tabs:start -->
+
+#### **Export**
+
+```lua
+local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersClosestFromCoords(tbl --[[ table ]])
+```
+* **Résultats:**
+  * Tableau avec la liste des ServerId.
+
+    ```lua
+    [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
+    ```
+
+<!-- tabs:end -->
+
 ### Débogage
 
 #### tPrint
