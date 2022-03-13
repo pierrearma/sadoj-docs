@@ -19,16 +19,55 @@ Chaque dégâts (visuel et mécanique) d'un véhicule est stocké sous forme de 
   * **1000**: Le moteur est parfait
 * **BodyHealth** : La vie du corps du moteur (type `number`)  *(**Minimum**: `0`, **Maximum:** `1000`)*
 * **PetrolTankHealth** : La vie du réservoir de carburant (type `number`)  *(**Minimum**: `0`, **Maximum:** `1000`)*
-    * **650**: Le réservoir commence à fuir
+  * **650**: Le réservoir commence à fuir
 * **DirtLevel** : Le niveau de saleté du véhiculer (type `number`)  *(**Minimum**: `0.0`, **Maximum:** `15.0`)*
 * **NumberVehicleDeformation** : Le nombre de points de déformation sur le véhicule (type `number`)
 * **Deformation** : Tableau avec les positions et l'intensité de tout les point de déformation (type `table`)
-* **DoorDamaged** : Tableau contenant tous les dégâts des portes (type `table`)
-* **Window** : Tableau contenant tous les dégâts des fenêtres (type `table`)
-* **Wheels** : Tableau contenant toutes les informations sur les roux (type `table`)
-
+ ```lua
+  {
+    {{"x" :VehicleOffsetX --[[ integer ]], "y":VehicleOffsetY --[[ integer ]], "z":VehicleOffsetZ --[[ integer ]]}, DamageStrength --[[ integer ]]},
+    {{"x" :VehicleOffsetX --[[ integer ]], "y":VehicleOffsetY --[[ integer ]], "z":VehicleOffsetZ --[[ integer ]]}, DamageStrength --[[ integer ]]},
+    ...
+  }
+  ```
+* **DoorDamaged** : Tableau contenant tous les dégâts des portes (type `table`) (**DoorId** de `0` à `5`)
+  ```lua
+  {
+    [0] = IsDoorDamaged --[[ boolean ]]
+    [1] = IsDoorDamaged --[[ boolean ]]
+    [2] = IsDoorDamaged --[[ boolean ]]
+    [3] = IsDoorDamaged --[[ boolean ]]
+    ...
+  }
+  ```
+* **Window** : Tableau contenant tous les dégâts des fenêtres (type `table`) (**WindowId** de `0` à `7`)
+  ```lua
+  {
+    [0] = IsWindowIntact --[[ boolean ]]
+    [1] = IsWindowIntact --[[ boolean ]]
+    [2] = IsWindowIntact --[[ boolean ]]
+    [3] = IsWindowIntact --[[ boolean ]]
+    ...
+  }
+  ```
+* **Wheels** : Tableau contenant toutes les informations sur les roux (type `table`) (**WindowId** de `0` à `5`)
+  ```lua
+  {
+    Health = {
+      [0] = WheelsHealth --[[ number ]]
+      [1] = WheelsHealth --[[ number ]]
+      [2] = WheelsHealth --[[ number ]]
+      [3] = WheelsHealth --[[ number ]]
+      ...
+    }
+  }
+  ```
 
 ### Vérification
+
+#### CheckDataToSetDamage
+
+Permet de vérifier les données avant de les envoyer à la fonction `SetDamage`.
 
 <!-- tabs:start -->
 #### **Export (client)**
@@ -45,6 +84,10 @@ local result --[[ boolean ]] = exports["sadoj-cehiclehealth"]:CheckDataToSetDama
 
 ### Récupération des données
 
+#### GetDamage
+
+Permet de récupérer tous les dégâts du véhicule (visuel et mécanique).
+
 <!-- tabs:start -->
 #### **Export (client)**
 ```lua
@@ -54,26 +97,58 @@ local result --[[ table ]] = exports["sadoj-cehiclehealth"]:GetDamage(vehicle --
 * **Paramètres:**
   * **vehicle:** Le véhicule où vous souhaitez récupérer tous les dégâts.
 * **Résultats:**
-  * Tableau avec la liste des entités.
-
+  * Tableau avec la liste de tous les dégâts.
     ```lua
     {
-        EngineHealth, --[[ number ]]
-        BodyHealth, --[[ number ]]
-        PetrolTankHealth, --[[ number ]]
-        DirtLevel, --[[ number ]]
-        NumberVehicleDeformation, --[[ number ]]
-        Deformation, --[[ table ]]
-        DoorDamaged, --[[ table ]]
-        Window, --[[ table ]]
-        Wheels, --[[ table ]]
+      EngineHealth, --[[ number ]]
+      BodyHealth, --[[ number ]]
+      PetrolTankHealth, --[[ number ]]
+      DirtLevel, --[[ number ]]
+      NumberVehicleDeformation, --[[ number ]]
+      Deformation, --[[ table ]]
+      DoorDamaged, --[[ table ]]
+      Window, --[[ table ]]
+      Wheels, --[[ table ]]
     }
     ```
+<!-- tabs:end -->
 
+#### GetVehicleDeformation
+
+Cette fonction vous permet de récupérer la liste de tous les points de déformation.
+
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+local result --[[ table ]] = exports["sadoj-cehiclehealth"]:GetVehicleDeformation(vehicle --[[ vehicle ]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez récupérer la liste de tous les points de déformation.
+<!-- tabs:end -->
+
+#### GetNumberVehicleDeformation
+
+Permet de récupérer le nombre de points de déformation.
+
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+local result --[[ number ]] = exports["sadoj-cehiclehealth"]:GetNumberVehicleDeformation(vehicle --[[ vehicle ]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez récupérer la liste de tous les points de déformation.
 <!-- tabs:end -->
 
 
+
+
 ### Application des données
+
+#### SetDamage
+
+Permet d'appliquer tous les dégâts au véhicule (visuel et mécanique). Il faut utiliser la fonction `CheckDataToSetDamage` avant d'utiliser celle-ci.
 
 <!-- tabs:start -->
 #### **Export (client)**
@@ -83,7 +158,7 @@ exports["sadoj-cehiclehealth"]:SetDamage(vehicle --[[ vehicle ]], DamageData --[
 
 * **Paramètres:**
   * **vehicle:** Le véhicule sur lequel vous souhaitez appliquer les dégâts.
-  * **DamageData:**  Tableau complet contenant tous les dégâts du véhicule (récupérer avec la fonction `GetDamage`).
+  * **DamageData:** Tableau complet contenant tous les dégâts du véhicule (récupérer avec la fonction `GetDamage`).
   * **callback:** Paramètre à facultatif.
 
 
@@ -101,6 +176,22 @@ exports["sadoj-cehiclehealth"]:SetDamage(vehicle --[[ vehicle ]], DamageData --[
         ```lua
         exports["sadoj-cehiclehealth"]:SetDamage(vehicle, DamageData) -- Les dégâts s'appliqueront si vous exécuter cette fonction
         ```
+<!-- tabs:end -->
+
+#### SetVehicleDeformation
+
+Permet d'appliquer les points de déformation sur un véhicule.
+
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+exports["sadoj-cehiclehealth"]:SetVehicleDeformation(vehicle --[[ vehicle ]], DeformationPoints --[[ table ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule sur lequel vous souhaitez appliquer les points de déformation.
+  * **DeformationPoints:** Tableau complet contenant tous les points de déformation.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 
