@@ -20,3 +20,4 @@
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
+      * [Alarme anti-intrusion](life/dev/tutorials/sadoj-motiondetector.md "Alarme anti-intrusion")
