@@ -52,11 +52,11 @@ Cette export vous permet de vérifier s'il y a un suspect dans le véhicule.
 <!-- tabs:start -->
 #### **Export (client)**
 ```lua
-local result --[[ boolean ]] = exports["sadoj-police"]:IsVehicleAsSuspect(ped  --[[ Ped ]])
+local result --[[ boolean ]] = exports["sadoj-police"]:IsVehicleAsSuspect(vehicle  --[[ vehicle ]])
 ```
 
 * **Paramètres:**
-  * **ped:** Le Ped que vous souhaitez vérifier.
+  * **vehicle:** Le véhicule dans lequel vous souhaitez vérifier s'il y a un suspect.
 * **Résultats:**
   * `true` s'il y a un suspect dans le véhicule, `false` sinon.
 <!-- tabs:end -->
@@ -71,7 +71,7 @@ local SupectNetId --[[ integer ]], SupectIsPlayer --[[ boolean ]] = exports["sad
 ```
 
 * **Paramètres:**
-  * **ped:** Le Ped que vous souhaitez vérifier.
+  * **vehicle:** Le véhicule dans lequel vous souhaitez récupérer le suspect.
 * **Résultats:**
   * **SupectNetId:** Le Network ID du suspect dans le véhicule (ServerId si Player).
   * **SupectIsPlayer:** `true` s'il y a un suspect et un joueur, `false` sinon.
