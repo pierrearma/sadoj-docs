@@ -72,7 +72,7 @@ end)
 
 #### **Event (server)**
 ```lua
-RegisterServerEvent("sadoj-garages:VehicleSpawn", function(GarageId, Plate, Model, Data, Health)
+RegisterServerEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
 
   --Mettez votre code ici
 
