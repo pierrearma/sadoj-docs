@@ -17,7 +17,7 @@ Cet événement permet d'écouter l'apparition d'un véhicule à partir d'un gar
 <!-- tabs:start -->
 #### **Event (client)**
 ```lua
-RegisterServerEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
+RegisterNetEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
 
   --Mettez votre code ici
 
@@ -55,7 +55,7 @@ Cet événement permet d'écouter la d'isparition d'un véhicule à partir d'un 
 <!-- tabs:start -->
 #### **Event (client)**
 ```lua
-RegisterServerEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
+RegisterNetEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
 
   --Mettez votre code ici
 
