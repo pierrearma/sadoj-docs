@@ -81,6 +81,24 @@ local result --[[ boolean ]] = exports["sadoj-core"]:IsAllVehicleDoorsClosed(veh
 
 <!-- tabs:end -->
 
+### Joueur
+
+#### GetAllPlayers
+<!-- tabs:start -->
+#### **Export**
+
+```lua
+local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
+```
+* **Résultats:**
+  * Tableau avec la liste de tous les joueurs (ServerId).
+
+    ```lua
+    [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
+    ```
+<!-- tabs:end -->
+
+
 ### Débogage
 
 #### tPrint
@@ -122,7 +140,6 @@ local PlayerId --[[ integer ]], ClosestDist --[[ vector3 ]] = exports["sadoj-cor
 Permet de récupérer tous les joueurs à proximité d'une coordonnées.
 
 <!-- tabs:start -->
-
 #### **Export**
 
 ```lua
@@ -134,7 +151,21 @@ local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersClosestFromCoord
     ```lua
     [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
     ```
+<!-- tabs:end -->
 
+#### GetAllPlayers
+<!-- tabs:start -->
+#### **Export**
+
+```lua
+local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
+```
+* **Résultats:**
+  * Tableau avec la liste de tous les joueurs (ServerId).
+
+    ```lua
+    [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
+    ```
 <!-- tabs:end -->
 
 ### Débogage
