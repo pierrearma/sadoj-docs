@@ -25,9 +25,9 @@ Cette option est recommandé car plus optimisé.
 
 L'emplacement du fichier de configuration se trouve dans: `[SCRIPT]/[INNOVATION]/sadoj-motiondetector/Config/MotionDetector_config_InteriorAlarmsList.lua`.
 
-* **Alarme customiser:**
+* **Alarme customisé:**
 
-Les alarmes customiser sont faits pour les endroits où il y a du public afin de séparer plusieurs zones (public et privé) dans le même bâtiment, l'alarme se déclenchera automatiquement lorsque vous rentrerez dans la zone défini.
+Les alarmes customisées sont faits pour les endroits où il y a du public afin de séparer plusieurs zones (public et privé) dans le même bâtiment, l'alarme se déclenchera automatiquement lorsque vous rentrerez dans la zone défini.
 
 L'emplacement du fichier de configuration se trouve dans: `[SCRIPT]/[INNOVATION]/sadoj-motiondetector/Config/MotionDetector_config_CustomAlarmsList.lua`.
 
@@ -93,7 +93,7 @@ Ouvrez le fichier de configuration en fonction du type d'alarme que vous avez ch
 ```
 
 
-* **Alarme customiser:**
+* **Alarme customisé:**
 
 ```lua
     ["exemple" --[[ string ]]] = { --Saisissez le nom de votre alarme à la place de 'exemple'. Attention le nom de l'alarme doit être unique.
