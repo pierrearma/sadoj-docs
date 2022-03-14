@@ -63,12 +63,12 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 #### Véhicule
 
-- <kbd>GAUCHE</kbd> : Clignotant gauche
-- <kbd>DROITE</kbd> : Clignotant droit
-- <kbd>BAS</kbd> : Warning
+- <kbd>←</kbd> : Clignotant gauche
+- <kbd>→</kbd> : Clignotant droit
+- <kbd>↓</kbd> : Warning
 - <kbd>L</kbd> : Activer / Désactiver le projecteur (spotlight) *(uniquement les véhicules équipés)*
-- <kbd>Page down</kbd> : Descendre le projecteur (spotlight) *(uniquement les véhicules équipés)*
-- <kbd>Page up</kbd> : Monter le projecteur (spotlight) *(uniquement les véhicules équipés)*
+- <kbd>⇟</kbd> : Descendre le projecteur (spotlight) *(uniquement les véhicules équipés)*
+- <kbd>⇞</kbd> : Monter le projecteur (spotlight) *(uniquement les véhicules équipés)*
 - <kbd>Fin</kbd> : Pivoter le projecteur (spotlight) à droite *(uniquement les véhicules équipés)*
 - <kbd>Suppr</kbd> : Pivoter le projecteur (spotlight) à gauche *(uniquement les véhicules équipés)*
 
