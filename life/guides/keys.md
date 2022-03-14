@@ -56,7 +56,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 - **MAINTENIR** <kbd>Alt</kbd> : Système de ciblage
 - <kbd>F6</kbd> : Gestion du trafic *(uniquement accessible pour les services de secours et dépanneurs en service)*
-- <kbd>Pause</kbd> : Gestion des gyrophares *(uniquement accessible par la police)*
+- <kbd>F4</kbd> : Gestion des gyrophares *(uniquement accessible par la police)*
 - <kbd>Maj G</kbd> : Mégaphone *(uniquement accessible par la police)*
 
 #### Personnage
@@ -83,6 +83,8 @@ Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kb
 - `carfire` : Mettre en feu le véhicule dans lequel vous êtes
 - `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
 - `ToggleNewMap` : Activer / Désactiver la carte avec les codes postaux
+- `goto {code postal}` : Mettre un point GPS sur le code postal correspondant
 - `e {nom de l'animation}` : Permet de jouer une animation *(voir menu animation)*
+- `PullOver` : Permet d'activer / désactiver les contrôles routier PNJ *(uniquement acessible par la police)*
 
 {docsify-updated}
