@@ -79,6 +79,16 @@ local result --[[ boolean ]] = exports["sadoj-cehiclehealth"]:CheckDataToSetDama
   * **DamageData:** Tableau complet contenant tous les dégâts du véhicule (récupérer avec la fonction `GetDamage`).
 * **Résultats:**
   * `true` si les données envoyées sont bonnes, `false` sinon.
+
+#### **Export (server)**
+```lua
+local result --[[ boolean ]] = exports["sadoj-cehiclehealth"]:CheckDataToSetDamage(DamageData --[[ table ]])
+```
+
+* **Paramètres:**
+  * **DamageData:** Tableau complet contenant tous les dégâts du véhicule (récupérer avec la fonction `GetDamage`).
+* **Résultats:**
+  * `true` si les données envoyées sont bonnes, `false` sinon.
 <!-- tabs:end -->
 
 
@@ -226,6 +236,31 @@ exports["sadoj-cehiclehealth"]:FixAllDamage(vehicle --[[ vehicle ]][, callback -
         ```lua
         exports["sadoj-cehiclehealth"]:FixAllDamage(vehicle) -- Le véhicule se répare quand vous exécuter cette fonction
         ```
+
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixAllDamage(vehicle --[[ vehicle ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule que vous souhaitez réparer.
+  * **callback:** Paramètre à facultatif.
+
+
+* **Exemple d'utilisation:**
+    * Avec callback:
+        ```lua
+        exports["sadoj-cehiclehealth"]:FixAllDamage(vehicle, function()
+
+            --Mettez votre code ici. (Le code que vous mettrez ici s'exécutera une fois que le véhicule sera réparé)
+
+        end)
+        ```
+
+    * Sans callback:
+        ```lua
+        exports["sadoj-cehiclehealth"]:FixAllDamage(vehicle) -- Le véhicule se répare quand vous exécuter cette fonction
+        ```
 <!-- tabs:end -->
 
 #### FixAllVisualDamage
@@ -242,6 +277,14 @@ exports["sadoj-cehiclehealth"]:FixAllVisualDamage(vehicle --[[ vehicle ]][, call
   * **vehicle:** Le véhicule où vous souhaitez réparer les dégâts visuels.
   * **callback:** Paramètre à facultatif.
 
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixAllVisualDamage(vehicle --[[ vehicle ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer les dégâts visuels.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 #### FixVehicleDeformation
@@ -258,6 +301,14 @@ exports["sadoj-cehiclehealth"]:FixVehicleDeformation(vehicle --[[ vehicle ]][, c
   * **vehicle:** Le véhicule où vous souhaitez réparer tous les points de déformation.
   * **callback:** Paramètre à facultatif.
 
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixVehicleDeformation(vehicle --[[ vehicle ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer tous les points de déformation.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 #### FixVehicleDeformationByDeformationId
@@ -266,6 +317,16 @@ Permet de réparer un point de déformation en fonction Id du point.
 
 <!-- tabs:start -->
 #### **Export (client)**
+```lua
+exports["sadoj-cehiclehealth"]:FixVehicleDeformationByDeformationId(vehicle --[[ vehicle ]], DeformId --[[ integer ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer tous les points de déformation.
+  * **DeformId:**
+  * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
 ```lua
 exports["sadoj-cehiclehealth"]:FixVehicleDeformationByDeformationId(vehicle --[[ vehicle ]], DeformId --[[ integer ]][, callback --[[ function ]]])
 ```
@@ -289,6 +350,15 @@ exports["sadoj-cehiclehealth"]:FixEngineHealth(vehicle --[[ vehicle ]][, callbac
 * **Paramètres:**
   * **vehicle:** Le véhicule où vous souhaitez réparer les dégâts du moteur.
   * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixEngineHealth(vehicle --[[ vehicle ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer les dégâts du moteur.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 #### FixEngineBodyHealth
@@ -304,6 +374,15 @@ exports["sadoj-cehiclehealth"]:FixEngineBodyHealth(vehicle --[[ vehicle ]][, cal
 * **Paramètres:**
   * **vehicle:** Le véhicule où vous souhaitez réparer les dégâts du corps du moteur.
   * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixEngineBodyHealth(vehicle --[[ vehicle ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer les dégâts du corps du moteur.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 #### FixPetrolTankHealth
@@ -312,6 +391,15 @@ Permet de réparer le réservoir de carburant.
 
 <!-- tabs:start -->
 #### **Export (client)**
+```lua
+exports["sadoj-cehiclehealth"]:FixPetrolTankHealth(vehicle --[[ vehicle ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer le réservoir de carburant.
+  * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
 ```lua
 exports["sadoj-cehiclehealth"]:FixPetrolTankHealth(vehicle --[[ vehicle ]][, callback --[[ function ]]])
 ```
@@ -336,6 +424,16 @@ exports["sadoj-cehiclehealth"]:FixDoorDamagedByDoorId(vehicle --[[ vehicle ]], D
   * **vehicle:** Le véhicule où vous souhaitez réparer le réservoir de carburant.
   * **DoorId:** L'index de la porte que vous souhaitez réparer.
   * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixDoorDamagedByDoorId(vehicle --[[ vehicle ]], DoorId --[[ integer ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer le réservoir de carburant.
+  * **DoorId:** L'index de la porte que vous souhaitez réparer.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 #### FixWheelsByWheelsId
@@ -352,6 +450,16 @@ exports["sadoj-cehiclehealth"]:FixWheelsByWheelsId(vehicle --[[ vehicle ]], Whee
   * **vehicle:** Le véhicule où vous souhaitez réparer le réservoir de carburant.
   * **WheelsID:** L'index de la roue que vous souhaitez réparer.
   * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
+```lua
+exports["sadoj-cehiclehealth"]:FixWheelsByWheelsId(vehicle --[[ vehicle ]], WheelsID --[[ integer ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer le réservoir de carburant.
+  * **WheelsID:** L'index de la roue que vous souhaitez réparer.
+  * **callback:** Paramètre à facultatif.
 <!-- tabs:end -->
 
 #### FixWindowsByWindowsId
@@ -360,6 +468,16 @@ Permet de réparer une vitre en fonction de ID de la vitre.
 
 <!-- tabs:start -->
 #### **Export (client)**
+```lua
+exports["sadoj-cehiclehealth"]:FixWindowsByWindowsId(vehicle --[[ vehicle ]], WindowsId --[[ integer ]][, callback --[[ function ]]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Le véhicule où vous souhaitez réparer le réservoir de carburant.
+  * **WindowsId:** L'index de la vitre que vous souhaitez réparer.
+  * **callback:** Paramètre à facultatif.
+
+#### **Export (serveur)**
 ```lua
 exports["sadoj-cehiclehealth"]:FixWindowsByWindowsId(vehicle --[[ vehicle ]], WindowsId --[[ integer ]][, callback --[[ function ]]])
 ```
