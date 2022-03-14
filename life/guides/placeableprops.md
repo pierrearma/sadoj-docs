@@ -32,7 +32,30 @@ Liste des objets plaçables en fonction du magasin / fournisseur.
 
 ## Magasin d'outils
 
-<div class="models">
+
+<!-- <script>
+    let MainDiv = document.createElement('div');
+    MainDiv.classList.add('model');
+
+    let DivImg = document.createElement('img');
+    DivImg.src = ""
+    let DivName1 = document.createElement('span');
+    let DivName2 = document.createElement('strong');
+    DivName2.innerHTML = "Caisse à outil"
+    DivName1.appendChild(DivName2);
+
+
+    let DivModel = document.createElement('span');
+    DivModel.innerHTML = "prop_tool_box_04"
+
+    MainDiv.appendChild(DivImg);
+    MainDiv.appendChild(DivName1);
+    MainDiv.appendChild(DivModel);
+    var down = document.getElementById('MagasinOutils')
+    down.appendChild(MainDiv)
+</script> -->
+
+<div class="models" id="MagasinOutils">
 	<div class="model">
         <img src="_media/placeableprops/tools/prop_tool_box_04.jpg" loading="lazy" alt="Caisse à outil">
         <span><strong>Caisse à outil</strong></span>
