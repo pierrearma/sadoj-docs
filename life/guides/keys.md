@@ -16,6 +16,7 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 
 - <kbd>F2</kbd> : Inventaire
 - <kbd>F7</kbd> : Menu Life
+- <kbd>F9</kbd> : Tenue
 - <kbd>F10</kbd> : Animations
 - <kbd>?</kbd> : Menu véhicule
 - <kbd>.</kbd> : Téléphone
@@ -28,6 +29,7 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - <kbd>Alt</kbd> + <kbd>?</kbd> : Verrouiller / Déverrouiller un véhicule
 - **MAINTENIR** <kbd>F</kbd> : Sortir d'un véhicule en laissant le moteur allumé
 - <kbd>Maj G</kbd> + <kbd>E</kbd> : Pousser un véhicule
+- <kbd>G</kbd> : Descendre en rappel depuis un hélicoptère équipé *(il faut être en passager)*
 
 #### Personnage
 
@@ -79,6 +81,7 @@ Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kb
 - `dark` : Voir les actions illégales autorisées *(si le nombre de policier en service est suffisant)*
 - `fire` : Déclencher un incendie de structure
 - `carfire` : Mettre en feu le véhicule dans lequel vous êtes
+- `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
 - `ToggleNewMap` : Activer / Désactiver la carte avec les codes postaux
 - `e {nom de l'animation}` : Permet de jouer une animation *(voir menu animation)*
 
