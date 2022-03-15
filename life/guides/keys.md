@@ -43,6 +43,12 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
   * <kbd>⇞</kbd> : Augmenter la sensibilité du mouvement de la caméra
   * <kbd>⇟</kbd> : Diminuer la sensibilité du mouvement de la caméra
 
+* Sirène: *(uniquement les véhicules équipés)*
+  * <kbd>A</kbd> : Allumer / Eteindre les gyrophare
+  * <kbd>Alt</kbd> : Activer / Désactiver la sirène primaire.
+  * <kbd>↑</kbd> : Activer / Désactiver la sirène secondaire.
+  * <kbd>R</kbd> : Modifier la tonalité de la sirène primaire
+  * **MAINTENIR** <kbd>R</kbd> : Activer la sirène primaire lors du maintien. *(uniquement si la sirène primaire n'est pas activé)*
 
 
 
