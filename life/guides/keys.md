@@ -99,6 +99,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kbd> pour ouvrir et fermer la console)*.
 
+- `me {action}` : Affiche l'action au dessus de la tête de votre personnage
 - `dark` : Voir les actions illégales autorisées *(si le nombre de policier en service est suffisant)*
 - `fire` : Déclencher un incendie de structure
 - `carfire` : Mettre en feu le véhicule dans lequel vous êtes
