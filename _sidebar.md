@@ -1,5 +1,4 @@
 * [Accueil](/ "Accueil")
-* La communauté
 * SADoJ Life US
   * Guides de jeu
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
@@ -22,3 +21,6 @@
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
       * [Alarme anti-intrusion](life/dev/tutorials/sadoj-motiondetector.md "Alarme anti-intrusion")
+* SADoJ Docs
+  * [Installer le site localement](sadoj-docs/install.md)
+  * [Extensions du site](sadoj-docs/extensions.md)
