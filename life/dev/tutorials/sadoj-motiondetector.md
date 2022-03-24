@@ -168,4 +168,15 @@ Il ne vous reste plus qu'à aller tester les modifications apportées, si il n'y
 
 Ne vous occupez pas du 'debug' la désactivation est automatique.
 
+
+## Étape 5 (facultatif): Ajouter une télécommande dans le F7
+
+Ajouter la ligne ci-dessous dans le F7 que vous souhaitez.
+
+* Liste des types d'alarmes disponibles: `Interior`, `Custom`
+
+```lua
+    Menu.addButton("nom du bouton ici", "MotionDetectorWirelessDisabledAlarme", {"nom de votre alarme", "type de votre alarme"})
+```
+
 {docsify-updated}
