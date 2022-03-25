@@ -93,63 +93,26 @@ local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
   * Tableau avec la liste de tous les joueurs (ServerId).
 
     ```lua
-      {
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
-        ...
-      }
+      [5, 10, 14, 15 18, 55, 57, 60, 73, 97, ...]
     ```
 <!-- tabs:end -->
 
-#### Événement d'écoute
-
-Cet événement vous permettra de savoir quand un joueur essaie d'entrer dans un véhicule.
+#### GetAllPlayersWithData
 <!-- tabs:start -->
-#### **Event (client)**
+#### **Export**
 ```lua
-  RegisterNetEvent("sadoj-core/player/EnteringVehicle", function(Vehicle, SeatId, NetId)
-
-    --Mettez votre code ici
-
-  end)
+local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersWithData()
 ```
-<!-- tabs:end -->
+* **Résultats:**
+  * Tableau avec la liste de tous les joueurs (ServerId).
 
-
-Cet événement vous permettra de savoir quand un joueur interrompt le fait de vouloir monter dans un véhicule.
-<!-- tabs:start -->
-#### **Event (client)**
-```lua
-  RegisterNetEvent("sadoj-core/player/EnteringAborted", function()
-
-    --Mettez votre code ici
-
-  end)
-```
-<!-- tabs:end -->
-
-Cet événement vous permettra de savoir quand un joueur monte dans un véhicule.
-<!-- tabs:start -->
-#### **Event (client)**
-```lua
-  RegisterNetEvent("sadoj-core/player/EnteredVehicle", function(Vehicle, SeatId, NetId)
-
-    --Mettez votre code ici
-
-  end)
-```
-<!-- tabs:end -->
-
-Cet événement vous permettra de savoir quand un joueur sort d'un véhicule.
-<!-- tabs:start -->
-#### **Event (client)**
-```lua
-  RegisterNetEvent("sadoj-core/player/ExitVehicle", function(Vehicle, SeatId, NetId)
-
-    --Mettez votre code ici
-
-  end)
-```
+    ```lua
+      {
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
+        ...
+      }
+    ```
 <!-- tabs:end -->
 
 ### Débogage
@@ -217,64 +180,27 @@ local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
   * Tableau avec la liste de tous les joueurs (ServerId).
 
    ```lua
-      {
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
-        ...
-      }
+      [5, 10, 14, 15 18, 55, 57, 60, 73, 97, ...]
     ```
 <!-- tabs:end -->
 
-
-#### Événement d'écoute
-
-Cet événement vous permettra de savoir quand un joueur essaie d'entrer dans un véhicule.
+#### GetAllPlayersWithData
 <!-- tabs:start -->
-#### **Event (server)**
+#### **Export**
+
 ```lua
-  RegisterServerEvent("sadoj-core/server/player/EnteringVehicle", function(PlayerServerId, SeatId, NetId)
-
-    --Mettez votre code ici
-
-  end)
+local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersWithData()
 ```
-<!-- tabs:end -->
+* **Résultats:**
+  * Tableau avec la liste de tous les joueurs (ServerId).
 
-Cet événement vous permettra de savoir quand un joueur interrompt le fait de vouloir monter dans un véhicule.
-<!-- tabs:start -->
-#### **Event (server)**
-```lua
-  RegisterServerEvent("sadoj-core/server/player/EnteringAborted", function(PlayerServerId)
-
-    --Mettez votre code ici
-
-  end)
-```
-<!-- tabs:end -->
-
-
-Cet événement vous permettra de savoir quand un joueur monte dans un véhicule.
-<!-- tabs:start -->
-#### **Event (server)**
-```lua
-  RegisterServerEvent("sadoj-core/server/player/EnteredVehicle", function(PlayerServerId, SeatId, NetId)
-
-    --Mettez votre code ici
-
-  end)
-```
-<!-- tabs:end -->
-
-Cet événement vous permettra de savoir quand un joueur sort d'un véhicule.
-<!-- tabs:start -->
-#### **Event (server)**
-```lua
-  RegisterServerEvent("sadoj-core/server/player/ExitVehicle", function(PlayerServerId, SeatId, NetId)
-
-    --Mettez votre code ici
-
-  end)
-```
+   ```lua
+      {
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
+        ...
+      }
+    ```
 <!-- tabs:end -->
 
 
@@ -291,7 +217,99 @@ Permet l'affichage d'un tableau en console.
 ```lua
 exports["sadoj-core"]:tPrint(tbl --[[ table ]])
 ```
-
 <!-- tabs:end -->
+
+## Événement d'écoute (events)
+
+### Joueur
+
+#### Assaie d'entrer dans un véhicule
+
+Cet événement vous permettra de savoir quand un joueur essaie d'entrer dans un véhicule.
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-core/events/player/EnteringVehicle", function(Vehicle, SeatId, NetId)
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (server)**
+```lua
+  RegisterServerEvent("sadoj-core/server/events/player/EnteringVehicle", function(PlayerServerId, SeatId, NetId)
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
+
+#### Monter dans un véhicule interrompu
+Cet événement vous permettra de savoir quand un joueur interrompt le fait de vouloir monter dans un véhicule.
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-core/events/player/EnteringAborted", function()
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (server)**
+```lua
+  RegisterServerEvent("sadoj-core/server/events/player/EnteringAborted", function(PlayerServerId)
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
+#### Monter dans un véhicule
+
+Cet événement vous permettra de savoir quand un joueur monte dans un véhicule.
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-core/events/player/EnteredVehicle", function(Vehicle, SeatId, NetId)
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (server)**
+```lua
+  RegisterServerEvent("sadoj-core/server/events/player/EnteredVehicle", function(PlayerServerId, SeatId, NetId)
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
+#### Sortir d'un véhicule
+
+Cet événement vous permettra de savoir quand un joueur sort d'un véhicule.
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-core/events/player/ExitVehicle", function(Vehicle, SeatId, NetId)
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (server)**
+```lua
+  RegisterServerEvent("sadoj-core/server/events/player/ExitVehicle", function(PlayerServerId, SeatId, NetId)
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
 
 {docsify-updated}
