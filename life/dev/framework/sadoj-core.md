@@ -1,12 +1,12 @@
 # sadoj-core
 
-> Auteur de la page: Pierre.
+> Auteur de la page: Pierre & Thomas.
 
 ---
 
 ## Informations
 
-* Auteurs du script: Pierre
+* Auteurs du script: Pierre & Thomas
 * Emplacement: `[SCRIPT]/[BASE]/sadoj-core`
 
 Ce script regroupe la majorité des fonctions du framework et permet de fournir un ensemble de fonctions utiles à la création de script.
@@ -93,7 +93,11 @@ local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
   * Tableau avec la liste de tous les joueurs (ServerId).
 
     ```lua
-    [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
+      {
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
+        ...
+      }
     ```
 <!-- tabs:end -->
 
@@ -212,8 +216,12 @@ local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
 * **Résultats:**
   * Tableau avec la liste de tous les joueurs (ServerId).
 
-    ```lua
-    [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
+   ```lua
+      {
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
+        {playerId = --[[ integer ]], PlayerName = --[[ string ]]},
+        ...
+      }
     ```
 <!-- tabs:end -->
 
