@@ -151,6 +151,36 @@ exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
 ```
 <!-- tabs:end -->
 
+### Barre de progression et Timer (Dev en cours)
+
+#### DrawTimerProgressBar
+<!-- tabs:start -->
+#### **Export**
+```lua
+local BarId --[[ integer ]] = exports["sadoj-core"]:DrawTimerProgressBar(Title --[[ string ]], TitleColor --[[ table ]], FgColor --[[ table ]], BgColor --[[ table ]], usePlayerStyle --[[ boolean ]])
+```
+* **Paramètres:**
+  * **ModelHash:** Le modèle de l'objet que vous souhaitez créer.
+  * **Options:**
+    ```lua
+    {
+
+    }
+    ```
+<!-- tabs:end -->
+
+#### DrawTimerBar
+<!-- tabs:start -->
+#### **Export**
+```lua
+exports["sadoj-core"]:DrawTimerBar()
+```
+* **Paramètres:**
+
+<!-- tabs:end -->
+
+
+
 ### Débogage
 
 #### tPrint
