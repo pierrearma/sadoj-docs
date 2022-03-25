@@ -157,28 +157,74 @@ exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
 <!-- tabs:start -->
 #### **Export**
 ```lua
-local BarId --[[ integer ]] = exports["sadoj-core"]:DrawTimerProgressBar(Title --[[ string ]], TitleColor --[[ table ]], FgColor --[[ table ]], BgColor --[[ table ]], usePlayerStyle --[[ boolean ]])
+local BarId --[[ string ]] = exports["sadoj-core"]:CreateTimerProgressBar(Title --[[ string ]], TitleColor --[[ table ]], FgColor --[[ table ]], BgColor --[[ table ]], usePlayerStyle --[[ boolean ]])
 ```
 * **Paramètres:**
-  * **ModelHash:** Le modèle de l'objet que vous souhaitez créer.
-  * **Options:**
+  * **Title:** Titre.
+  * **TitleColor:** La couleur du titre (RGBA).
     ```lua
-    {
-
-    }
+      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
     ```
+  * **FgColor:** Couleur de la barre de progression (RGBA).
+    ```lua
+      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
+    ```
+  * **BgColor:** La couleur background (RGBA).
+    ```lua
+      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
+    ```
+  * **usePlayerStyle:** Ecriture en gras.
+
 <!-- tabs:end -->
 
 #### DrawTimerBar
 <!-- tabs:start -->
 #### **Export**
 ```lua
-exports["sadoj-core"]:DrawTimerBar()
+local BarId --[[ string ]] = exports["sadoj-core"]:CreateTimerBar(Title --[[ string ]], Text --[[ string ]], TitleColor --[[ table ]], TextColor --[[ table ]], usePlayerStyle --[[ boolean ]])
 ```
 * **Paramètres:**
-
+  * **Title:** Titre.
+  * **Text:**
+  * **TitleColor:** La couleur du titre (RGBA).
+  * **TextColor:** Le couleur du texte (EGBA).
+  * **usePlayerStyle:** Ecriture en gras.
 <!-- tabs:end -->
 
+
+#### DeleteBar
+<!-- tabs:start -->
+#### **Export**
+```lua
+exports["sadoj-core"]:DeleteBar(BarId --[[ string ]])
+```
+* **Paramètres:**
+  * **BarId:** ID de votre bar.
+<!-- tabs:end -->
+
+
+#### SetProgressToProgressBar
+<!-- tabs:start -->
+#### **Export**
+```lua
+exports["sadoj-core"]:SetProgressToProgressBar(BarId --[[ string ]], Progress --[[ integer ]])
+```
+* **Paramètres:**
+  * **BarId:** ID de votre bar.
+  * **Progress:** Le niveau de progression de la ProgressBar. *(**Minimum**: `0`, **Maximum:** `100`)*
+<!-- tabs:end -->
+
+
+#### SetTextToTimerBar
+<!-- tabs:start -->
+#### **Export**
+```lua
+exports["sadoj-core"]:SetTextToTimerBar(BarId --[[ string ]], Text --[[ integer ]])
+```
+* **Paramètres:**
+  * **BarId:** ID de votre bar.
+  * **Text:** Le texte qui s'affiche sera dans la TimeBar. *(**Maximum:** `15` caractères)*
+<!-- tabs:end -->
 
 
 ### Débogage
