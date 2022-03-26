@@ -151,9 +151,9 @@ exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
 ```
 <!-- tabs:end -->
 
-### Barre de progression et Timer (Dev en cours)
+### Barre de progression et Timer
 
-#### DrawTimerProgressBar
+#### CreateTimerProgressBar
 <!-- tabs:start -->
 #### **Export**
 ```lua
@@ -177,7 +177,7 @@ local BarId --[[ string ]] = exports["sadoj-core"]:CreateTimerProgressBar(Title 
 
 <!-- tabs:end -->
 
-#### DrawTimerBar
+#### CreateTimerBar
 <!-- tabs:start -->
 #### **Export**
 ```lua
@@ -185,10 +185,19 @@ local BarId --[[ string ]] = exports["sadoj-core"]:CreateTimerBar(Title --[[ str
 ```
 * **Paramètres:**
   * **Title:** Titre.
-  * **Text:**
+  * **Text:** Le texte qui le texte qui s'affichera dans votre TimeBar. *(**Maximum:** `15` caractères)*
   * **TitleColor:** La couleur du titre (RGBA).
+    ```lua
+      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
+    ```
   * **TextColor:** Le couleur du texte (EGBA).
+    ```lua
+      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
+    ```
   * **usePlayerStyle:** Ecriture en gras.
+    ```lua
+      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
+    ```
 <!-- tabs:end -->
 
 
@@ -223,7 +232,7 @@ exports["sadoj-core"]:SetTextToTimerBar(BarId --[[ string ]], Text --[[ integer 
 ```
 * **Paramètres:**
   * **BarId:** ID de votre bar.
-  * **Text:** Le texte qui s'affiche sera dans la TimeBar. *(**Maximum:** `15` caractères)*
+  * **Text:** Le texte qui s'affichera dans la TimeBar. *(**Maximum:** `15` caractères)*
 <!-- tabs:end -->
 
 
