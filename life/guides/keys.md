@@ -38,7 +38,7 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 
 * Caméra embarquée *(uniquement sur les hélicoptères équipées)* :
   - <kbd>Maj G</kbd> : Activer / Désactiver la caméra d'un hélicoptère
-  - <kbd>Space</kbd> : Verrouiller / Déverrouiller le véhicule visé par la caméra
+  - <kbd>Espace</kbd> : Verrouiller / Déverrouiller le véhicule visé par la caméra
   - <kbd>G</kbd> : Activer / Désactiver le spotlight
   - <kbd>⇞</kbd> : Augmenter la sensibilité du mouvement de la caméra
   - <kbd>⇟</kbd> : Diminuer la sensibilité du mouvement de la caméra
