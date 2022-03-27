@@ -22,10 +22,10 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - <kbd>.</kbd> : Téléphone
 - <kbd>Maj G</kbd> + <kbd>F2</kbd> : Radio (item nécessaire)
 
-* Menu animal:
-  * <kbd>Alt</kbd> + <kbd>↖</kbd> : Ouvrir le menu
-  * <kbd>T</kbd> : Faire suivre / Mettre à l'arrêt le chien
-  * <kbd>T</kbd> + <kbd>Viser arme</kbd> : Faire attaquer
+* Menu animal :
+  - <kbd>Alt</kbd> + <kbd>↖</kbd> : Ouvrir le menu
+  - <kbd>T</kbd> : Faire suivre / arrêter le chien
+  - <kbd>T</kbd> : Faire attaquer en visant la cible avec une arme
 
 #### Véhicule
 
@@ -36,21 +36,19 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - <kbd>Maj G</kbd> + <kbd>E</kbd> : Pousser un véhicule
 - <kbd>G</kbd> : Descendre en rappel depuis un hélicoptère équipé *(il faut être en passager)*
 
-* Caméra embarquée: *(uniquement sur les hélicoptères équipée)*
-  * <kbd>Maj G</kbd> : Activer / Désactiver la caméra d'un hélicoptère
-  * <kbd>Space</kbd> : Verrouiller / Déverrouiller le véhicule visé par la caméra
-  * <kbd>G</kbd> : Activer / Désactiver le spotlight
-  * <kbd>⇞</kbd> : Augmenter la sensibilité du mouvement de la caméra
-  * <kbd>⇟</kbd> : Diminuer la sensibilité du mouvement de la caméra
+* Caméra embarquée *(uniquement sur les hélicoptères équipées)* :
+  - <kbd>Maj G</kbd> : Activer / Désactiver la caméra d'un hélicoptère
+  - <kbd>Space</kbd> : Verrouiller / Déverrouiller le véhicule visé par la caméra
+  - <kbd>G</kbd> : Activer / Désactiver le spotlight
+  - <kbd>⇞</kbd> : Augmenter la sensibilité du mouvement de la caméra
+  - <kbd>⇟</kbd> : Diminuer la sensibilité du mouvement de la caméra
 
-* Sirène: *(uniquement les véhicules équipés)*
-  * <kbd>A</kbd> : Allumer / Eteindre les gyrophare
-  * <kbd>Alt</kbd> : Activer / Désactiver la sirène primaire.
-  * <kbd>↑</kbd> : Activer / Désactiver la sirène secondaire.
-  * <kbd>R</kbd> : Modifier la tonalité de la sirène primaire
-  * **MAINTENIR** <kbd>R</kbd> : Activer la sirène primaire lors du maintien. *(uniquement si la sirène primaire n'est pas activé)*
-
-
+- Sirène *(uniquement les véhicules équipés)* :
+  - <kbd>A</kbd> : Allumer / Eteindre les gyrophare
+  - <kbd>Alt</kbd> : Activer / Désactiver la sirène primaire.
+  - <kbd>↑</kbd> : Activer / Désactiver la sirène secondaire.
+  - <kbd>R</kbd> : Modifier la tonalité de la sirène primaire
+  - **MAINTENIR** <kbd>R</kbd> : Activer la sirène primaire lors du maintien. *(uniquement si la sirène primaire n'est pas activé)*
 
 #### Personnage
 
