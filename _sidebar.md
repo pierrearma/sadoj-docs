@@ -19,6 +19,7 @@
       * [sadoj-police](life/dev/framework/sadoj-police.md "sadoj-police")
       * [sadoj-vehiclehealth](life/dev/framework/sadoj-vehiclehealth.md "sadoj-vehiclehealth")
       * [sadoj-turfwars](life/dev/framework/sadoj-turfwars.md "sadoj-turfwars")
+      * [sadoj-cayoperico](life/dev/framework/sadoj-cayoperico.md "sadoj-cayoperico")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
