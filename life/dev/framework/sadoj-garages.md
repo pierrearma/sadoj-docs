@@ -30,7 +30,7 @@ end)
   * **GaragesData:** Toutes les données qui se trouve dans le fichier config du garageID en question.
 
 
-#### **Event (server)**
+#### **Event (serveur)**
 ```lua
 RegisterServerEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
 
@@ -70,7 +70,7 @@ end)
   * **Health:** Tous les dégâts physique et mécanique du véhicule.
 
 
-#### **Event (server)**
+#### **Event (serveur)**
 ```lua
 RegisterServerEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
 

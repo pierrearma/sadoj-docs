@@ -83,7 +83,7 @@ end --[[ function ]])
 
 <!-- tabs:start -->
 
-### **Export (server)**
+### **Export (serveur)**
 
 ```lua
 exports["sadoj-callbacks"]:TriggerClientCallback(name --[[ string ]], serverId --[[ integer ]][, param1 --[[ any ]][, param2 --[[ any ]][, ...]]])

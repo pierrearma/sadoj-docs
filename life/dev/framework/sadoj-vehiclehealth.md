@@ -80,7 +80,7 @@ local result --[[ boolean ]] = exports["sadoj-cehiclehealth"]:CheckDataToSetDama
 * **Résultats:**
   * `true` si les données envoyées sont bonnes, `false` sinon.
 
-#### **Export (server)**
+#### **Export (serveur)**
 ```lua
 local result --[[ boolean ]] = exports["sadoj-cehiclehealth"]:CheckDataToSetDamage(DamageData --[[ table ]])
 ```
