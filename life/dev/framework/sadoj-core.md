@@ -151,91 +151,6 @@ exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
 ```
 <!-- tabs:end -->
 
-### Barre de progression et Timer
-
-#### CreateTimerProgressBar
-<!-- tabs:start -->
-#### **Export**
-```lua
-local BarId --[[ string ]] = exports["sadoj-core"]:CreateTimerProgressBar(Title --[[ string ]], TitleColor --[[ table ]], FgColor --[[ table ]], BgColor --[[ table ]], usePlayerStyle --[[ boolean ]])
-```
-* **Paramètres:**
-  * **Title:** Titre.
-  * **TitleColor:** La couleur du titre (RGBA).
-    ```lua
-      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
-    ```
-  * **FgColor:** Couleur de la barre de progression (RGBA).
-    ```lua
-      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
-    ```
-  * **BgColor:** La couleur background (RGBA).
-    ```lua
-      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
-    ```
-  * **usePlayerStyle:** Ecriture en gras.
-
-<!-- tabs:end -->
-
-#### CreateTimerBar
-<!-- tabs:start -->
-#### **Export**
-```lua
-local BarId --[[ string ]] = exports["sadoj-core"]:CreateTimerBar(Title --[[ string ]], Text --[[ string ]], TitleColor --[[ table ]], TextColor --[[ table ]], usePlayerStyle --[[ boolean ]])
-```
-* **Paramètres:**
-  * **Title:** Titre.
-  * **Text:** Le texte qui le texte qui s'affichera dans votre TimeBar. *(**Maximum:** `15` caractères)*
-  * **TitleColor:** La couleur du titre (RGBA).
-    ```lua
-      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
-    ```
-  * **TextColor:** Le couleur du texte (EGBA).
-    ```lua
-      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
-    ```
-  * **usePlayerStyle:** Ecriture en gras.
-    ```lua
-      {255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]], 255 --[[ integer ]]}
-    ```
-<!-- tabs:end -->
-
-
-#### DeleteBar
-<!-- tabs:start -->
-#### **Export**
-```lua
-exports["sadoj-core"]:DeleteBar(BarId --[[ string ]])
-```
-* **Paramètres:**
-  * **BarId:** ID de votre bar.
-<!-- tabs:end -->
-
-
-#### SetProgressToProgressBar
-<!-- tabs:start -->
-#### **Export**
-```lua
-exports["sadoj-core"]:SetProgressToProgressBar(BarId --[[ string ]], Progress --[[ integer ]])
-```
-* **Paramètres:**
-  * **BarId:** ID de votre bar.
-  * **Progress:** Le niveau de progression de la ProgressBar. *(**Minimum**: `0`, **Maximum:** `100`)*
-<!-- tabs:end -->
-
-
-#### SetTextToTimerBar
-<!-- tabs:start -->
-#### **Export**
-```lua
-exports["sadoj-core"]:SetTextToTimerBar(BarId --[[ string ]], Text --[[ integer ]])
-```
-* **Paramètres:**
-  * **BarId:** ID de votre bar.
-  * **Text:** Le texte qui s'affichera dans la TimeBar. *(**Maximum:** `15` caractères)*
-<!-- tabs:end -->
-
-
 ### Débogage
 
 #### tPrint
@@ -359,6 +274,60 @@ exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
 ```
 <!-- tabs:end -->
 
+### Whebhooks
+
+```lua
+  content = --[[ string ]],
+  username = --[[ string ]],
+  avatar_url = --[[ string ]],
+  embeds = {
+    {
+      title = --[[ string ]],
+      description = --[[ string ]],
+      url = --[[ string ]],
+      color = --[[ number ]],
+      fields = {
+        {
+          name = --[[ string ]],
+          value = --[[ string ]]
+        },
+        ...
+      },
+      author = {
+        name = --[[ string ]],
+        url = --[[ string ]],
+        icon_url = --[[ string ]],
+      },
+      footer = {
+        text = --[[ string ]],
+        icon_url = --[[ string ]],
+      },
+      timestamp = --[[ string ]],
+      image = {
+        url = --[[ string ]]
+      },
+      thumbnail = {
+        url = --[[ string ]]
+      },
+    }
+    ...
+  }
+```
+#### SendWebhooks
+
+<!-- tabs:start -->
+#### **Export (server)**
+```lua
+exports["sadoj-core"]:SendWebhooks(Link --[[ string ]], Data --[[ table ]])
+```
+
+#### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-core/server/functions/webhooks/SendWebhooks", Link --[[ string ]], Data --[[ table ]])
+```
+<!-- tabs:end -->
+
+
 ### Débogage
 
 #### tPrint
@@ -373,6 +342,10 @@ Permet l'affichage d'un tableau en console.
 exports["sadoj-core"]:tPrint(tbl --[[ table ]])
 ```
 <!-- tabs:end -->
+
+
+
+
 
 ## Événement d'écoute (events)
 
