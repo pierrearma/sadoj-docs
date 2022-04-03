@@ -1,5 +1,9 @@
 # sadoj-ui - Dialogues
 
+> Auteur de la page: Pierre.
+
+---
+
 Un dialogue est un texte qui s'affiche en bas au centre de l'écran.
 
 ## DisplayDialogue
