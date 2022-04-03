@@ -4,13 +4,16 @@
 
 ---
 
-### Informations
+## Informations
 
 * Auteurs du script: Thomas
 * Emplacement: `[SCRIPT]/[INNOVATION]/sadoj-persistentprop`
 
+Ce script permet d'enregistrer des prop de manière persistante. Ces props réapparaissent lorsqu'ils disparaissent.
 
-### Register-prop
+## Utilisation
+
+### Enregistrer un prop
 
 <!-- tabs:start -->
 #### **Event (client)**
@@ -42,9 +45,7 @@ TriggerEvent("sadoj-persistentprop/server/register-prop", netId --[[ integer ]],
       ```
 <!-- tabs:end -->
 
-
-
-### Forget-prop
+### Désenregistrer un prop
 
 <!-- tabs:start -->
 #### **Event (client)**
