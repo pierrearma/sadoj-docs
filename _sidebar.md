@@ -8,6 +8,8 @@
   * Développement
     * Scripts (framework)
       * [sadoj-core](life/dev/framework/sadoj-core.md "sadoj-core")
+      * [sadoj-ui](life/dev/framework/sadoj-ui/index.md "sadoj-ui")
+        * [Dialogues](life/dev/framework/sadoj-ui/dialogue.md "Dialogues")
       * [sadoj-callbacks](life/dev/framework/sadoj-callbacks.md "sadoj-callbacks")
       * [Infos_Joueur](life/dev/framework/Infos_Joueur.md "Infos_Joueur")
       * [Inventaire](life/dev/framework/Inventaire.md "Inventaire")
