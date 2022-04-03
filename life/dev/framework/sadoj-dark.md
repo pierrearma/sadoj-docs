@@ -4,64 +4,71 @@
 
 ---
 
-### Informations
+## Informations
 
 * Auteurs du script: Thomas & Pierre
 * Emplacement: `[SCRIPT]/[DARK]/sadoj-dark`
 
-
+## Utilisation
 
 ### Crochetage de voiture
 
-Cette export vous permet de vérifier si un véhicule a été crocheter de manière illégale.
+Cet export vous permet de vérifier si un véhicule a été crocheter de manière illégale.
 
 <!-- tabs:start -->
+
 #### **Export (client)**
+
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dark"]:IsVehicleLockPicked(vehicle --[[ vehicle ]])
+local result --[[ boolean ]] = exports["sadoj-dark"]:IsVehicleLockPicked(vehicle --[[ Vehicle ]])
 ```
 
 * **Paramètres:**
   * **vehicle:** Le véhicule que vous souhaitez vérifier.
 * **Résultats:**
-  * `true` si le véhicule a été crocheter, `false` sinon.
+  * `true` si le véhicule a été crocheté, `false` sinon.
 
-#### **Export (server)**
+#### **Export (serveur)**
+
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dark"]:IsVehicleLockPicked(vehicle --[[ vehicle ]])
+local result --[[ boolean ]] = exports["sadoj-dark"]:IsVehicleLockPicked(vehicle --[[ Vehicle ]])
 ```
 
 * **Paramètres:**
   * **vehicle:** Le véhicule que vous souhaitez vérifier.
 * **Résultats:**
-  * `true` si le véhicule a été crocheter, `false` sinon.
+  * `true` si le véhicule a été crocheté, `false` sinon.
+
 <!-- tabs:end -->
 
-### Position du rochetage de voiture
+### Position où a été crocheté un véhicule
 
-Cette export vous permet de récupérer la position où le véhicule a été crocheter de manière illégale.
+Cet export vous permet de récupérer la position où le véhicule a été crocheté de manière illégale.
 
 <!-- tabs:start -->
+
 #### **Export (client)**
+
 ```lua
-local coords --[[ vector3 ]] = exports["sadoj-dark"]:GetVehicleLockPickingPosition(vehicle --[[ vehicle ]])
+local coords --[[ vector3 ]] = exports["sadoj-dark"]:GetVehicleLockPickingPosition(vehicle --[[ Vehicle ]])
 ```
 
 * **Paramètres:**
   * **vehicle:** Le véhicule sur lequel vous souhaitez récupérer les coordonnées du crochetage.
 * **Résultats:**
-  * Coordonnées sous forme de vecteur 3.
+  * Coordonnées où a été crocheté le véhicule. Retourne ? s'il n'a pas été crocheté.
 
-#### **Export (server)**
+#### **Export (serveur)**
+
 ```lua
-local coords --[[ vector3 ]] = exports["sadoj-dark"]:GetVehicleLockPickingPosition(vehicle --[[ vehicle ]])
+local coords --[[ vector3 ]] = exports["sadoj-dark"]:GetVehicleLockPickingPosition(vehicle --[[ Vehicle ]])
 ```
 
 * **Paramètres:**
   * **vehicle:** Le véhicule sur lequel vous souhaitez récupérer les coordonnées du crochetage.
 * **Résultats:**
-  * Coordonnées sous forme de vecteur 3.
+  * Coordonnées où a été crocheté le véhicule. Retourne ? s'il n'a pas été crocheté.
+
 <!-- tabs:end -->
-
 
 {docsify-updated}
