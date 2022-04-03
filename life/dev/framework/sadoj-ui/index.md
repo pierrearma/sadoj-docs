@@ -7,15 +7,15 @@
 ## Informations
 
 * Auteurs du script: Pierre
-* Emplacement: `[SCRIPT]/[DARK]/sadoj-turfwars`
+* Emplacement: `[SCRIPT]/[BASE]/sadoj-ui`
 
 Ce script gère la partie interface. Le script est en cours de développement.
 
 ## Modules
 
 * [Dialogues](life/dev/framework/sadoj-ui/dialogue.md)
-* Notifications
-* Textes d'aide
+* [Textes d'aide](life/dev/framework/sadoj-ui/helptext.md)
+* [Notifications](life/dev/framework/sadoj-ui/notification.md)
 * Timerbars
 * Divers
 
