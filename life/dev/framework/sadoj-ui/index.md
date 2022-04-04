@@ -16,8 +16,8 @@ Ce script gère la partie interface. Le script est en cours de développement.
 * [Dialogues](life/dev/framework/sadoj-ui/dialogue.md)
 * [Textes d'aide](life/dev/framework/sadoj-ui/helptext.md)
 * [Notifications](life/dev/framework/sadoj-ui/notification.md)
-* Timerbars
-* Divers
+* [Timerbars](life/dev/framework/sadoj-ui/timerbars.md)
+* [Divers](life/dev/framework/sadoj-ui/misc.md)
 
 ## Fonctionnement des TextEntry
 

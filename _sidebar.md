@@ -12,6 +12,8 @@
         * [Dialogues](life/dev/framework/sadoj-ui/dialogue.md "Dialogues")
         * [Textes d'aide](life/dev/framework/sadoj-ui/helptext.md "Textes d'aide")
         * [Notifications](life/dev/framework/sadoj-ui/notification.md "Notifications")
+        * [Timerbars](life/dev/framework/sadoj-ui/timerbars.md "Timerbars")
+        * [Divers](life/dev/framework/sadoj-ui/misc.md "Divers")
       * [sadoj-callbacks](life/dev/framework/sadoj-callbacks.md "sadoj-callbacks")
       * [Infos_Joueur](life/dev/framework/Infos_Joueur.md "Infos_Joueur")
       * [Inventaire](life/dev/framework/Inventaire.md "Inventaire")
