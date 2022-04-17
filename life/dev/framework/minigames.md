@@ -250,4 +250,47 @@ end
 
 <!-- tabs:end -->
 
+## Keypack
+
+### Informations
+
+* Auteurs du script: ultrahacx (non SADoJ) & Thomas
+* Emplacement: `[SCRIPT]/[DARK]/[MINIGAMES]/minigame_keypackhack`
+
+Démo:
+
+![Lockpicking](../../../_media/framework/minigames/minigame_keypackhack.webm ':include :type=video style=max-height:500px;max-width:100%; controls')
+
+Ce mini-jeux ne fait aucune animation, uniquement l'affichage. A vous d'ajouter des animations.
+
+### Utilisation
+
+<!-- tabs:start -->
+
+#### **Export**
+
+```lua
+TriggerEvent("minigame_keypackhack:start", levels --[[ number ]], lifes --[[ number ]], time --[[ number ]], cb --[[ function ]])
+
+function cb(result --[[ boolean ]], reason --[[ string|nil ]])
+
+end
+```
+
+* **Paramètres:**
+  * **levels:** Nombre de niveaux. Entre 1 et 4.
+  * **lifes:** Nombre de vies Entre 1 et 6.
+  * **time:** Temps en secondes.
+* **Résultats:**
+  * Le résultat passe par la fonction callback `cb`.
+  * **result:** Si le mini-jeux a été terminé avec succès.
+  * **reason:** Raison de l'échec du mini-jeux.
+    * `"successful"` si réussi.
+    * `"time out"` si le joueur a pris trop de temps.
+    * `"dead"` si le joueur est mort.
+    * `"abort"` si abandonné.
+    * `"failed"` si échoué (a utilisé toutes ses vies).
+
+<!-- tabs:end -->
+
 {docsify-updated}
