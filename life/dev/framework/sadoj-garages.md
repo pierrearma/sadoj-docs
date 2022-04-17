@@ -11,7 +11,7 @@
 
 
 * Liste de tous les statuts d'un véhicule à disponible :
-  * **state 2**: Le véhicule se trouve dans un garage.
+  * **state 0**: Le véhicule se trouve dans un garage.
   * **state 1**: Le véhicule ne se trouve pas dans un garage il est donc sorti.
   * **state 2**: Le véhicule est en cours de réparation (PNJ).
   * **state 3**: Le véhicule se trouve en fourrière.
