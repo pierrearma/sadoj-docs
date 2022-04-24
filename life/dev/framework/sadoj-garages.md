@@ -129,4 +129,16 @@ exports["sadoj-garages"]:StoreVehicle(vehicle --[[ vehicle ]], garageId --[[ int
 
 <!-- tabs:end -->
 
+
+### GetGaragesNameByGarageId
+
+<!-- tabs:start -->
+```lua
+local Name --[[ string ]] = exports["sadoj-garages"]:GetGaragesNameByGarageId(garageId --[[ integer ]])
+```
+* **Paramètres:**
+  * **garageId:** ID du garage duquel vous souhaitez récupérer le nom.
+
+<!-- tabs:end -->
+
 {docsify-updated}
