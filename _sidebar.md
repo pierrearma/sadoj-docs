@@ -18,6 +18,7 @@
       * [Infos_Joueur](life/dev/framework/Infos_Joueur.md "Infos_Joueur")
       * [Inventaire](life/dev/framework/Inventaire.md "Inventaire")
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
+      * [sadoj-dispatch](life/dev/framework/sadoj-dispatch.md "sadoj-dispatch")
       * [Mini-jeux](life/dev/framework/minigames.md "Mini-jeux")
       * [sadoj-persistentprops](life/dev/framework/sadoj-persistentprops.md "sadoj-persistentprops")
       * [sadoj-persistentvehicles](life/dev/framework/sadoj-persistentvehicles.md "sadoj-persistentvehicles")
