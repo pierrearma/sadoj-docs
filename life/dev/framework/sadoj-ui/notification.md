@@ -112,7 +112,7 @@ TriggerNetEvent("sadoj-ui:client:ShowNotificationWithTextEntry", serverId --[[ i
 ### **Export (client)**
 
 ```lua
-local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowAdvancedNotification(text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string]])
+local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowAdvancedNotification(text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -123,13 +123,14 @@ local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowAdvancedNotification
   * **textureName:** Nom de la texture.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 * **Retour:**
     * **notifHandle:** Identifiant de la notification (utile avec certaines Natives).
 
 ### **Event (client)**
 
 ```lua
-TriggerEvent("sadoj-ui:client:ShowAdvancedNotification", text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerEvent("sadoj-ui:client:ShowAdvancedNotification", text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -140,11 +141,12 @@ TriggerEvent("sadoj-ui:client:ShowAdvancedNotification", text --[[ string ]], sa
   * **textureName:** Nom de la texture.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -155,6 +157,7 @@ TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotification", serverId --[[ intege
   * **textureName:** Nom de la texture.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 <!-- tabs:end -->
 
@@ -165,7 +168,7 @@ TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotification", serverId --[[ intege
 ### **Export (client)**
 
 ```lua
-local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowAdvancedNotificationWithTextEntry(entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]])
+local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowAdvancedNotificationWithTextEntry(entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -177,13 +180,14 @@ local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowAdvancedNotification
   * **textureName:** Nom de la texture.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 * **Retour:**
     * **notifHandle:** Identifiant de la notification (utile avec certaines Natives).
 
 ### **Event (client)**
 
 ```lua
-TriggerEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -195,11 +199,12 @@ TriggerEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", entryKey -
   * **textureName:** Nom de la texture.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -211,6 +216,7 @@ TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", serverI
   * **textureName:** Nom de la texture.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 <!-- tabs:end -->
 
@@ -221,7 +227,7 @@ TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", serverI
 ### **Export (client)**
 
 ```lua
-local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowPedHeadshotNotification(text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]])
+local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowPedHeadshotNotification(text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -232,13 +238,14 @@ local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowPedHeadshotNotificat
   * **isTransparent:** Si vrai, la texture est transparente. `false` par défaut.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 * **Retour:**
     * **notifHandle:** Identifiant de la notification (utile avec certaines Natives).
 
 ### **Event (client)**
 
 ```lua
-TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotification", text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotification", text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -249,11 +256,12 @@ TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotification", text --[[ string ]],
   * **isTransparent:** Si vrai, la texture est transparente. `false` par défaut.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -264,6 +272,7 @@ TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotification", serverId --[[ int
   * **isTransparent:** Si vrai, la texture est transparente. `false` par défaut.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 <!-- tabs:end -->
 
@@ -274,7 +283,7 @@ TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotification", serverId --[[ int
 ### **Export (client)**
 
 ```lua
-local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowPedHeadshotNotificationWithTextEntry(entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]])
+local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowPedHeadshotNotificationWithTextEntry(entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -286,13 +295,14 @@ local notifHandle --[[ integer ]] = exports["sadoj-ui"]:ShowPedHeadshotNotificat
   * **isTransparent:** Si vrai, la texture est transparente. `false` par défaut.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 * **Retour:**
     * **notifHandle:** Identifiant de la notification (utile avec certaines Natives).
 
 ### **Event (client)**
 
 ```lua
-TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -304,11 +314,12 @@ TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", entryKe
   * **isTransparent:** Si vrai, la texture est transparente. `false` par défaut.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]])
+TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -320,7 +331,19 @@ TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", serv
   * **isTransparent:** Si vrai, la texture est transparente. `false` par défaut.
   * **title:** Titre de la notification.
   * **subtitle:** Sous-titre de la notification.
+  * **iconType:** Icône de la notification. Voir en bas de page. 4 (aucun icône) par défaut.
 
 <!-- tabs:end -->
+
+**iconTypes:**
+1. Chat Box
+2. Email
+3. Add Friend Request
+4. Nothing
+5. Nothing
+6. Nothing
+7. Right Jumping Arrow
+8. RP Icon
+9. $ Icon
 
 {docsify-updated}
