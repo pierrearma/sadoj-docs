@@ -27,7 +27,7 @@ TriggerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsource, op
   * **options:** Les options de l'appel.
 
 
-#### **Event (Serveur)**
+#### **Event (serveur)**
 
 ```lua
 TriggerServerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsource, options)
@@ -55,7 +55,7 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:IsConnectedToCentral(se
   * **job:**
 
 
-#### **Export (Serveur)**
+#### **Export (serveur)**
 
 ```lua
 local result --[[ boolean ]] = exports["sadoj-dispatch"]:IsConnectedToCentral(serverId --[[ integer ]], job  --[[ String ]])
@@ -63,7 +63,28 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:IsConnectedToCentral(se
 * **Paramètres:**
   * **serverId:**
   * **job:**
+<!-- tabs:end -->
 
+
+### DoesCentralExist
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:DoesCentralExist(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
+
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:DoesCentralExist(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
 <!-- tabs:end -->
 
 
@@ -79,14 +100,109 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedT
   * **job:**
 
 
-#### **Export (Serveur)**
+#### **Export (serveur)**
 
 ```lua
 local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentral(job  --[[ String ]])
 ```
 * **Paramètres:**
   * **job:**
+<!-- tabs:end -->
 
+### GetAllPlayersConnectedToCentralWithData
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentralWithData(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
+
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentralWithData(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
+<!-- tabs:end -->
+
+### GetNumberOfConnectedPlayerInCentral
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetNumberOfConnectedPlayerInCentral(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
+
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetNumberOfConnectedPlayerInCentral(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
+<!-- tabs:end -->
+
+
+### GetPlayerConnectedCentralByServerId
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetPlayerConnectedCentralByServerId(serverId --[[ integer ]])
+```
+* **Paramètres:**
+  * **serverId:**
+
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetPlayerConnectedCentralByServerId(serverId --[[ integer ]])
+```
+* **Paramètres:**
+  * **serverId:**
+<!-- tabs:end -->
+
+### GetMyConnectedCentral
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentral()
+```
+<!-- tabs:end -->
+
+### GetMyConnectedCentralWithData
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentralWithData()
+```
+<!-- tabs:end -->
+
+### GetMyJobState
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyJobState(job  --[[ String ]])
+```
+* **Paramètres:**
+  * **job:**
 <!-- tabs:end -->
 
 {docsify-updated}
