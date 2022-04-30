@@ -19,7 +19,6 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - <kbd>F9</kbd> : Tenue
 - <kbd>F10</kbd> : Animations
 - <kbd>?</kbd> : Menu véhicule
-- <kbd>.</kbd> : Téléphone
 - <kbd>Maj G</kbd> + <kbd>F2</kbd> : Radio (item nécessaire)
 
 * Menu animal :
@@ -73,6 +72,8 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 #### Menus
 
+- <kbd>.</kbd> : Téléphone
+- <kbd>!</kbd> : Préférences de l'interface
 - **MAINTENIR** <kbd>Alt</kbd> : Système de ciblage
 - <kbd>F6</kbd> : Gestion du trafic *(uniquement accessible pour les services de secours et dépanneurs en service)*
 - <kbd>F4</kbd> : Gestion des gyrophares *(uniquement accessible par la police)*
