@@ -9,6 +9,7 @@
     * Scripts (framework)
       * [sadoj-core](life/dev/framework/sadoj-core.md "sadoj-core")
       * [sadoj-ui](life/dev/framework/sadoj-ui/index.md "sadoj-ui")
+        * [Interface](life/dev/framework/sadoj-ui/hud.md "Interface")
         * [Dialogues](life/dev/framework/sadoj-ui/dialogue.md "Dialogues")
         * [Textes d'aide](life/dev/framework/sadoj-ui/helptext.md "Textes d'aide")
         * [Notifications](life/dev/framework/sadoj-ui/notification.md "Notifications")
