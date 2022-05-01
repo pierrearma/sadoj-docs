@@ -41,139 +41,145 @@ TriggerServerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsour
 <!-- tabs:end -->
 
 
+### Vérification
 
-### IsConnectedToCentral
+#### IsConnectedToCentral
 
 <!-- tabs:start -->
-#### **Export (client)**
+#### **CallBack (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:IsConnectedToCentral(serverId --[[ integer ]], job  --[[ String ]])
+local result --[[ boolean ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:IsConnectedToCentral", serverId --[[ integer ]], central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **serverId:**
-  * **job:**
+  * **serverId:** serverId du joueur.
+  * **central:** La centrale que vous souhaitez vérifier.
 
 
 #### **Export (serveur)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:IsConnectedToCentral(serverId --[[ integer ]], job  --[[ String ]])
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:IsConnectedToCentral(serverId --[[ integer ]], central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **serverId:**
-  * **job:**
+  * **serverId:** serverId du joueur.
+  * **central:** La centrale que vous souhaitez vérifier.
 <!-- tabs:end -->
 
 
-### DoesCentralExist
+#### DoesCentralExist
 
 <!-- tabs:start -->
 #### **Export (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:DoesCentralExist(job  --[[ String ]])
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:DoesCentralExist(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale que vous souhaitez vérifier.
 
 
 #### **Export (serveur)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:DoesCentralExist(job  --[[ String ]])
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:DoesCentralExist(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale que vous souhaitez vérifier.
 <!-- tabs:end -->
 
 
-### GetAllPlayersConnectedToCentral
 
+
+
+
+### Récupération des données
+
+#### GetAllPlayersConnectedToCentral
 <!-- tabs:start -->
-#### **Export (client)**
+#### **CallBack (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentral(job  --[[ String ]])
+local result --[[ table ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:GetAllPlayersConnectedToCentral", central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale où je souhaiterais récupérer tous les joueurs connectés.
 
 
 #### **Export (serveur)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentral(job  --[[ String ]])
+local result --[[ table ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentral(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale où je souhaiterais récupérer tous les joueurs connectés.
 <!-- tabs:end -->
 
-### GetAllPlayersConnectedToCentralWithData
+#### GetAllPlayersConnectedToCentralWithData
 
 <!-- tabs:start -->
-#### **Export (client)**
+#### **CallBack (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentralWithData(job  --[[ String ]])
+local result --[[ table ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:GetAllPlayersConnectedToCentralWithData", central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale où je souhaiterais récupérer tous les joueurs connectés.
 
 
 #### **Export (serveur)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentralWithData(job  --[[ String ]])
+local result --[[ table ]] = exports["sadoj-dispatch"]:GetAllPlayersConnectedToCentralWithData(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale où je souhaiterais récupérer tous les joueurs connectés.
 <!-- tabs:end -->
 
-### GetNumberOfConnectedPlayerInCentral
+#### GetNumberOfConnectedPlayerInCentral
 
 <!-- tabs:start -->
-#### **Export (client)**
+#### **CallBack (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetNumberOfConnectedPlayerInCentral(job  --[[ String ]])
+local result --[[ number ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:GetNumberOfConnectedPlayerInCentral", central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale où je souhaiterais récupérer le nombre de joueurs connectés.
 
 
 #### **Export (serveur)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetNumberOfConnectedPlayerInCentral(job  --[[ String ]])
+local result --[[ number ]] = exports["sadoj-dispatch"]:GetNumberOfConnectedPlayerInCentral(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:** La centrale où je souhaiterais récupérer le nombre de joueurs connectés.
 <!-- tabs:end -->
 
 
-### GetPlayerConnectedCentralByServerId
+#### GetPlayerConnectedCentralByServerId
 
 <!-- tabs:start -->
-#### **Export (client)**
+#### **CallBack (client)**
+
+```lua
+local result --[[ table ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:GetPlayerConnectedCentralByServerId", serverId  --[[ integer ]])
+```
+* **Paramètres:**
+  * **serverId:** Le serverId du joueur.
+
+
+#### **Export (serveur)**
 
 ```lua
 local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetPlayerConnectedCentralByServerId(serverId --[[ integer ]])
 ```
 * **Paramètres:**
-  * **serverId:**
-
-
-#### **Export (serveur)**
-
-```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetPlayerConnectedCentralByServerId(serverId --[[ integer ]])
-```
-* **Paramètres:**
-  * **serverId:**
+  * **serverId:** Le serverId du joueur.
 <!-- tabs:end -->
 
-### GetMyConnectedCentral
+#### GetMyConnectedCentral
 
 <!-- tabs:start -->
 #### **Export (client)**
@@ -183,7 +189,7 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentral()
 ```
 <!-- tabs:end -->
 
-### GetMyConnectedCentralWithData
+#### GetMyConnectedCentralWithData
 
 <!-- tabs:start -->
 #### **Export (client)**
@@ -193,16 +199,25 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentralWi
 ```
 <!-- tabs:end -->
 
-### GetMyJobState
+#### GetMyJobState
 
 <!-- tabs:start -->
 #### **Export (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyJobState(job  --[[ String ]])
+local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyJobState(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **job:**
+  * **central:**
 <!-- tabs:end -->
+
+
+
+### Application des données
+
+
+
+### Événement d'écoute
+
 
 {docsify-updated}
