@@ -35,7 +35,7 @@ TriggerEvent("sadoj-ui:client:DisplayDialogue", text --[[ string ]][, duration -
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:DisplayDialogue", serverId --[[ integer ]], text --[[ string ]][, duration --[[ integer ]][, drawImmetiatly --[[ boolean ]]]])
+TriggerClientEvent("sadoj-ui:client:DisplayDialogue", serverId --[[ integer ]], text --[[ string ]][, duration --[[ integer ]][, drawImmetiatly --[[ boolean ]]]])
 ```
 
 * **Paramètres:**
@@ -76,7 +76,7 @@ TriggerEvent("sadoj-ui:client:DisplayDialogueWithTextEntry", entryKey --[[ strin
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:DisplayDialogueWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]][, duration --[[ integer ]][, drawImmetiatly --[[ boolean ]]]])
+TriggerClientEvent("sadoj-ui:client:DisplayDialogueWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]][, duration --[[ integer ]][, drawImmetiatly --[[ boolean ]]]])
 ```
 
 * **Paramètres:**

@@ -48,7 +48,7 @@ TriggerEvent("sadoj-ui:client:DisplayWarningPopup", titleMsg --[[ string ]][, wa
 Depuis le serveur, il est impossible à l'utilisateur de refuser le popup.
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:DisplayWarningPopup", serverId --[[ integer ]], titleMsg --[[ string ]][, warningMsg --[[ string ]][, promptMsg --[[ string ]][, confirmInstructionButton --[[ string ]]]]])
+TriggerClientEvent("sadoj-ui:client:DisplayWarningPopup", serverId --[[ integer ]], titleMsg --[[ string ]][, warningMsg --[[ string ]][, promptMsg --[[ string ]][, confirmInstructionButton --[[ string ]]]]])
 ```
 
 * **Paramètres:**

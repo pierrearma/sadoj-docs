@@ -47,7 +47,7 @@ TriggerEvent("sadoj-ui:client:ShowNotification", text --[[ string ]][, isImporta
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowNotification", serverId --[[ integer ]], text --[[ string ]][, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
+TriggerClientEvent("sadoj-ui:client:ShowNotification", serverId --[[ integer ]], text --[[ string ]][, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
 ```
 
 * **Paramètres:**
@@ -93,7 +93,7 @@ TriggerEvent("sadoj-ui:client:ShowNotificationWithTextEntry", entryKey --[[ stri
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] [, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
+TriggerClientEvent("sadoj-ui:client:ShowNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] [, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
 ```
 
 * **Paramètres:**
@@ -146,7 +146,7 @@ TriggerEvent("sadoj-ui:client:ShowAdvancedNotification", text --[[ string ]], sa
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
+TriggerClientEvent("sadoj-ui:client:ShowAdvancedNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -204,7 +204,7 @@ TriggerEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", entryKey -
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
+TriggerClientEvent("sadoj-ui:client:ShowAdvancedNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], textureDict --[[ string ]], textureName --[[ string ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -261,7 +261,7 @@ TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotification", text --[[ string ]],
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
+TriggerClientEvent("sadoj-ui:client:ShowPedHeadshotNotification", serverId --[[ integer ]], text --[[ string ]], saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**
@@ -319,7 +319,7 @@ TriggerEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", entryKe
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
+TriggerClientEvent("sadoj-ui:client:ShowPedHeadshotNotificationWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]] saveHistory --[[ boolean ]], backgroundColor --[[ integer ]], ped --[[ Ped ]], isTransparent --[[ boolean ]], title --[[ string ]], subtitle --[[ string ]][, iconType --[[ integer ]]])
 ```
 
 * **Paramètres:**

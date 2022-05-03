@@ -33,7 +33,7 @@ TriggerEvent("sadoj-ui:client:DisplayHelpText", text --[[ string ]][, beep --[[ 
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:DisplayHelpText", serverId --[[ integer ]], text --[[ string ]][, beep --[[ boolean ]]])
+TriggerClientEvent("sadoj-ui:client:DisplayHelpText", serverId --[[ integer ]], text --[[ string ]][, beep --[[ boolean ]]])
 ```
 
 * **Paramètres:**
@@ -71,7 +71,7 @@ TriggerEvent("sadoj-ui:client:DisplayHelpTextWithTextEntry", entryKey --[[ strin
 ### **Event (serveur)**
 
 ```lua
-TriggerNetEvent("sadoj-ui:client:DisplayHelpTextWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]][, beep --[[ boolean ]]])
+TriggerClientEvent("sadoj-ui:client:DisplayHelpTextWithTextEntry", serverId --[[ integer ]], entryKey --[[ string ]], params --[[ table ]][, beep --[[ boolean ]]])
 ```
 
 * **Paramètres:**
