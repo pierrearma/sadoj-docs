@@ -17,11 +17,11 @@
 #### **Event (client)**
 
 ```lua
-TriggerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsource, options)
+TriggerEvent("sadoj-dispatch:server:MakeCall", central --[[ String ]], pos --[[ vector3 ]], message --[[ String ]], callsource --[[ String ]], options)
 ```
 * **Paramètres:**
-  * **job:** Le job de la centrale.
-  * **pos:** La position où la centrale doit être.
+  * **central:** La centrale que vous souhaitez appeler.
+  * **pos:** La position de l'appel.
   * **message:** Le message à envoyer à la centrale.
   * **callsource:** Le nom de la source qui a fait l'appel.
   * **options:** Les options de l'appel.
@@ -30,10 +30,10 @@ TriggerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsource, op
 #### **Event (serveur)**
 
 ```lua
-TriggerServerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsource, options)
+TriggerServerEvent("sadoj-dispatch:server:MakeCall", central --[[ String ]], pos --[[ vector3 ]], message --[[ String ]], callsource --[[ String ]], options)
 ```
 * **Paramètres:**
-  * **job:** La centrale que vous souhaitez appeler.
+  * **central:** La centrale que vous souhaitez appeler.
   * **pos:** La position de l'appel.
   * **message:** Le message à envoyer à la centrale.
   * **callsource:** Le nom de la source qui a fait l'appel.
@@ -49,7 +49,7 @@ TriggerServerEvent("sadoj-dispatch:server:MakeCall", job, pos, message, callsour
 #### **CallBack (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:IsConnectedToCentral", serverId --[[ integer ]], central  --[[ String ]])
+local result --[[ boolean ]] = exports["sadoj-callbacks"]:TriggerServerCallback("sadoj-dispatch:server:IsConnectedToCentral", serverId --[[ integer ]], central --[[ String ]])
 ```
 * **Paramètres:**
   * **serverId:** serverId du joueur.
@@ -185,7 +185,7 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetPlayerConnectedCentr
 #### **Export (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentral()
+local result --[[ table ]] = exports["sadoj-dispatch"]:GetMyConnectedCentral()
 ```
 <!-- tabs:end -->
 
@@ -195,7 +195,7 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentral()
 #### **Export (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentralWithData()
+local result --[[ table ]] = exports["sadoj-dispatch"]:GetMyConnectedCentralWithData()
 ```
 <!-- tabs:end -->
 
@@ -205,10 +205,10 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyConnectedCentralWi
 #### **Export (client)**
 
 ```lua
-local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyJobState(central  --[[ String ]])
+local result --[[ String ]] = exports["sadoj-dispatch"]:GetMyJobState(central  --[[ String ]])
 ```
 * **Paramètres:**
-  * **central:**
+  * **central:** La centrale où je souhaiterais récupérer mon statut.
 <!-- tabs:end -->
 
 
@@ -218,6 +218,91 @@ local result --[[ boolean ]] = exports["sadoj-dispatch"]:GetMyJobState(central  
 
 
 ### Événement d'écoute
+
+#### Connexion à une centrale
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-dispatch:client:PlayerConnectedToCentral", function(central --[[ String ]])
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (serveur)**
+```lua
+  RegisterNetEvent("sadoj-dispatch:server:PlayerConnectedToCentral", function(serverId --[[ integer ]], central --[[ String ]])
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
+
+#### Déconnexion d'une à centrale
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-dispatch:client:PlayerDisconnectedToCentral", function(central --[[ String ]])
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (serveur)**
+```lua
+  RegisterNetEvent("sadoj-dispatch:server:PlayerDisconnectedToCentral", function(serverId --[[ integer ]], central --[[ String ]])
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
+
+#### Prise d'un appel
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+  RegisterNetEvent("sadoj-dispatch:client:CallTaken", function(callId --[[ integer ]], central --[[ String ]])
+
+    --Mettez votre code ici
+
+  end)
+```
+#### **Event (serveur)**
+```lua
+  RegisterNetEvent("sadoj-dispatch:server:CallTaken", function(serverId --[[ integer ]], callId --[[ integer ]], central --[[ String ]])
+
+    --Mettez votre code ici
+
+  end)
+```
+<!-- tabs:end -->
+
+
+### Autre
+
+#### SendNotifForAllPlayersInService
+<!-- tabs:start -->
+#### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-dispatch:server:SendNotifForAllPlayersInService", central  --[[ String ]], message --[[ String ]])
+```
+* **Paramètres:**
+  * **central:** La centrale où je souhaiterais envoyer la notification.
+  * **message:** Le message à envoyer.
+
+#### **Export (serveur)**
+```lua
+exports["sadoj-dispatch"]:SendNotifForAllPlayersInService(central  --[[ String ]], message --[[ String ]])
+```
+* **Paramètres:**
+  * **central:** La centrale où je souhaiterais envoyer la notification.
+  * **message:** Le message à envoyer.
+<!-- tabs:end -->
 
 
 {docsify-updated}
