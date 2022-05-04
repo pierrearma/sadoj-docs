@@ -13,7 +13,7 @@ Permet de séparer une chaîne de caractère en plusieurs dans un tableau.
 #### **Export (client)**
 
 ```lua
-exports["sadoj-core"]:SplitStringByChunk(text --[[ string ]], chunkSize --[[ integer ]])
+local result --[[ table ]] = exports["sadoj-core"]:SplitStringByChunk(text --[[ string ]], chunkSize --[[ integer ]])
 ```
 * **Paramètres:**
   * **text:** La chaîne de caractère à séparer.
@@ -22,7 +22,7 @@ exports["sadoj-core"]:SplitStringByChunk(text --[[ string ]], chunkSize --[[ int
 #### **Export (serveur)**
 
 ```lua
-exports["sadoj-core"]:SplitStringByChunk(text --[[ string ]], chunkSize --[[ integer ]])
+local result --[[ table ]] = exports["sadoj-core"]:SplitStringByChunk(text --[[ string ]], chunkSize --[[ integer ]])
 ```
 * **Paramètres:**
   * **text:** La chaîne de caractère à séparer.
@@ -43,3 +43,17 @@ end
 -- 3    678
 -- 4    9
 ```
+
+
+#### GenerateUUID
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+local result --[[ string ]] = exports["sadoj-core"]:GenerateUUID()
+```
+
+#### **Export (serveur)**
+```lua
+local result --[[ string ]] = exports["sadoj-core"]:GenerateUUID()
+```
+<!-- tabs:end -->
