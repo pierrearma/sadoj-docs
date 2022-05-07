@@ -11,16 +11,16 @@
 
 Ce script regroupe la majorité des fonctions du framework et permet de fournir un ensemble de fonctions utiles à la création de script.
 
-
 ## Fonctions
-  * [Véhicule](life/dev/framework/sadoj-core/function/vehicle.md "Véhicule")
-  * [Joueur](life/dev/framework/sadoj-core/function/player.md "Joueur")
-  * [Objet](life/dev/framework/sadoj-core/function/objet.md "Objet")
-  * [Débogage](life/dev/framework/sadoj-core/function/debug.md "Débogage")
-  * [Webhooks](life/dev/framework/sadoj-core/function/webhooks.md "Webhooks")
-  * [String](life/dev/framework/sadoj-core/function/string.md "String")
 
-
+* [Véhicule](life/dev/framework/sadoj-core/function/vehicle.md "Véhicule")
+* [Joueur](life/dev/framework/sadoj-core/function/player.md "Joueur")
+* [Objet](life/dev/framework/sadoj-core/function/objet.md "Objet")
+* [Streaming](life/dev/framework/sadoj-core/function/streaming.md)
+* [Débogage](life/dev/framework/sadoj-core/function/debug.md "Débogage")
+* [Webhook](life/dev/framework/sadoj-core/function/webhook.md "Webhook")
+* [Divers](life/dev/framework/sadoj-core/function/misc.md "Divers")
 
 ## Événement
- * [Joueur](life/dev/framework/sadoj-core/events/player.md "Joueur")
+
+* [Joueur](life/dev/framework/sadoj-core/events/player.md "Joueur")
