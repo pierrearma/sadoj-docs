@@ -1,15 +1,17 @@
-# sadoj-core - Function
+# sadoj-core - Fonctions
 
 > Auteur de la page: Pierre & Thomas.
 
 ---
 
-
 ## Modules
 
 * [Véhicule](life/dev/framework/sadoj-core/function/vehicle.md)
 * [Joueur](life/dev/framework/sadoj-core/function/player.md)
+* [Ped](life/dev/framework/sadoj-core/function/ped.md)
 * [Objet](life/dev/framework/sadoj-core/function/objet.md)
 * [Débogage](life/dev/framework/sadoj-core/function/debug.md)
-* [Webhooks](life/dev/framework/sadoj-core/function/webhooks.md)
-* [String](life/dev/framework/sadoj-core/function/string.md)
+* [Webhook](life/dev/framework/sadoj-core/function/webhook.md)
+* [Divers](life/dev/framework/sadoj-core/function/misc.md)
+
+{docsify-updated}

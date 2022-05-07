@@ -1,17 +1,19 @@
-# sadoj-core - Events - Joueur
+# sadoj-core - Événements - Joueur
 
 > Auteur de la page:  Thomas.
 
 ---
 
+### Événements d'écoutes
 
-### Événement d'écoute (events)
-
-#### Assaie d'entrer dans un véhicule
+#### Essayer d'entrer dans un véhicule
 
 Cet événement vous permettra de savoir quand un joueur essaie d'entrer dans un véhicule.
+
 <!-- tabs:start -->
+
 #### **Event (client)**
+
 ```lua
   RegisterNetEvent("sadoj-core/events/player/EnteringVehicle", function(Vehicle, SeatId, NetId)
 
@@ -19,7 +21,9 @@ Cet événement vous permettra de savoir quand un joueur essaie d'entrer dans un
 
   end)
 ```
+
 #### **Event (server)**
+
 ```lua
   RegisterServerEvent("sadoj-core/server/events/player/EnteringVehicle", function(PlayerServerId, SeatId, NetId)
 
@@ -27,13 +31,17 @@ Cet événement vous permettra de savoir quand un joueur essaie d'entrer dans un
 
   end)
 ```
+
 <!-- tabs:end -->
 
-
 #### Monter dans un véhicule interrompu
+
 Cet événement vous permettra de savoir quand un joueur interrompt le fait de vouloir monter dans un véhicule.
+
 <!-- tabs:start -->
+
 #### **Event (client)**
+
 ```lua
   RegisterNetEvent("sadoj-core/events/player/EnteringAborted", function()
 
@@ -41,7 +49,9 @@ Cet événement vous permettra de savoir quand un joueur interrompt le fait de v
 
   end)
 ```
+
 #### **Event (server)**
+
 ```lua
   RegisterServerEvent("sadoj-core/server/events/player/EnteringAborted", function(PlayerServerId)
 
@@ -49,13 +59,17 @@ Cet événement vous permettra de savoir quand un joueur interrompt le fait de v
 
   end)
 ```
+
 <!-- tabs:end -->
 
 #### Monter dans un véhicule
 
 Cet événement vous permettra de savoir quand un joueur monte dans un véhicule.
+
 <!-- tabs:start -->
+
 #### **Event (client)**
+
 ```lua
   RegisterNetEvent("sadoj-core/events/player/EnteredVehicle", function(Vehicle, SeatId, NetId)
 
@@ -63,7 +77,9 @@ Cet événement vous permettra de savoir quand un joueur monte dans un véhicule
 
   end)
 ```
+
 #### **Event (server)**
+
 ```lua
   RegisterServerEvent("sadoj-core/server/events/player/EnteredVehicle", function(PlayerServerId, SeatId, NetId)
 
@@ -71,13 +87,17 @@ Cet événement vous permettra de savoir quand un joueur monte dans un véhicule
 
   end)
 ```
+
 <!-- tabs:end -->
 
 #### Sortir d'un véhicule
 
 Cet événement vous permettra de savoir quand un joueur sort d'un véhicule.
+
 <!-- tabs:start -->
+
 #### **Event (client)**
+
 ```lua
   RegisterNetEvent("sadoj-core/events/player/ExitVehicle", function(Vehicle, SeatId, NetId)
 
@@ -85,7 +105,9 @@ Cet événement vous permettra de savoir quand un joueur sort d'un véhicule.
 
   end)
 ```
+
 #### **Event (server)**
+
 ```lua
   RegisterServerEvent("sadoj-core/server/events/player/ExitVehicle", function(PlayerServerId, SeatId, NetId)
 
@@ -93,7 +115,7 @@ Cet événement vous permettra de savoir quand un joueur sort d'un véhicule.
 
   end)
 ```
-<!-- tabs:end -->
 
+<!-- tabs:end -->
 
 {docsify-updated}

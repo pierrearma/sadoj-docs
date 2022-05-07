@@ -1,102 +1,139 @@
-# sadoj-core - Function - Joueur
+# sadoj-core - Fonctions - Joueur
 
-> Auteur de la page: Thomas.
+> Auteur de la page: Pierre & Thomas.
 
 ---
 
-#### GetAllPlayers
-<!-- tabs:start -->
-#### **Export (client)**
-```lua
-local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
-```
-* **Résultats:**
-  * Tableau avec la liste de tous les joueurs (ServerId).
+#### GetPlayerFromIdentifier
 
-    ```lua
-      [5, 10, 14, 15 18, 55, 57, 60, 73, 97, ...]
-    ```
+<!-- tabs:start -->
 
 #### **Export (serveur)**
-```lua
-local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayers()
-```
-* **Résultats:**
-  * Tableau avec la liste de tous les joueurs (ServerId).
 
-    ```lua
-      [5, 10, 14, 15 18, 55, 57, 60, 73, 97, ...]
-    ```
+```lua
+local playerSrc --[[ Integer ]] = exports["sadoj-core"]:GetPlayerFromIdentifier(identifier --[[ string ]])
+```
+
+* **Paramètres:**
+  * **identifier:** L'identifiant du joueur.
+* **Retour:**
+  * **playerSrc:** Le Server Id du joueur correspondant à l'identifiant, ou `nil` si aucun joueur ne correspond.
+
 <!-- tabs:end -->
 
-#### GetAllPlayersWithData
+#### GetPlayerIdentifier
 
 <!-- tabs:start -->
-#### **Export (client)**
-```lua
-local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersWithData()
-```
-* **Résultats:**
-  * Tableau avec la liste de tous les joueurs (ServerId).
 
-    ```lua
-      {
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
-        ...
-      }
-    ```
 #### **Export (serveur)**
-```lua
-local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersWithData()
-```
-* **Résultats:**
-  * Tableau avec la liste de tous les joueurs (ServerId).
 
-    ```lua
-      {
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
-        {playerId = --[[ integer ]], PlayerName = --[[ string ]], Coords = --[[ vector3 ]]},
-        ...
-      }
-    ```
+```lua
+local identifier --[[ string ]] = exports["sadoj-core"]:GetPlayerIdentifier(playerSrc --[[ Integer ]])
+```
+
+* **Paramètres:**
+  * **playerSrc:** Le Server Id du joueur.
+* **Retour:**
+  * **identifier:** L'identifiant du joueur.
+
+<!-- tabs:end -->
+
+#### GetAllPlayers
+
+<!-- tabs:start -->
+
+#### **Export (serveur)**
+
+```lua
+local players --[[ table ]] = exports["sadoj-core"]:GetAllPlayers([ignoreList --[[ table ]]])
+```
+
+* **Paramètres:**
+  * **ignoreList:** Liste des joueurs à ignorer (aucun par défaut).
+* **Retour:**
+  * **players:** Liste des joueurs.
+
+<!-- tabs:end -->
+
+#### GetAllPlayersInScope
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersInScope([ignoreList --[[ table ]]])
+```
+
+* **Paramètres:**
+  * **ignoreList:** Liste des joueurs à ignorer (aucun par défaut).
+* **Retour:**
+  * **result:** Liste des joueurs.
+
 <!-- tabs:end -->
 
 #### GetClosestPlayerFromCoords
 
 <!-- tabs:start -->
 
+#### **Export (client)**
+
+```lua
+local closestPlayer --[[ Player ]], closestDistance --[[ number ]] = exports["sadoj-core"]:GetClosestPlayerFromCoords(coords --[[ vector3 ]][, ignoreList --[[ table ]]])
+```
+
+* **Paramètres:**
+  * **coords:** Coordonnées où chercher.
+  * **ignoreList:** Liste des joueurs à ignorer (aucun par défaut).
+* **Retour:**
+  * **closestPlayer:** Le joueur le plus proche, `-1` si aucun.
+  * **closestDistance:** La distance entre le joueur le plus proche et le point de référence, `-1` si aucun.
+
 #### **Export (serveur)**
 
 ```lua
-local PlayerId --[[ integer ]], ClosestDist --[[ vector3 ]] = exports["sadoj-core"]:GetClosestPlayerFromCoords(coords --[[ vector3 ]])
+local closestPlayer --[[ Player ]], closestDistance --[[ number ]] = exports["sadoj-core"]:GetClosestPlayerFromCoords(coords --[[ vector3 ]][, ignoreList --[[ table ]]])
 ```
-* **Paramètres:**
-  * **coords:** Coordonnées à partir de laquelle vous souhaitez récupérer le joueur de plus proche.
 
-* **Résultats:**
-  * **PlayerId:** Le ServerId du joueur de plus proche.
-  * **ClosestDist:** La distance entre le joueur et les coordonnées donner.
+* **Paramètres:**
+  * **coords:** Coordonnées où chercher.
+  * **ignoreList:** Liste des joueurs à ignorer (aucun par défaut).
+* **Retour:**
+  * **closestPlayer:** Le joueur le plus proche, `-1` si aucun.
+  * **closestDistance:** La distance entre le joueur le plus proche et le point de référence, `-1` si aucun.
+
 <!-- tabs:end -->
 
-#### GetAllPlayersClosestFromCoords
-
-Permet de récupérer tous les joueurs à proximité d'une coordonnées.
+#### GetPlayersInRadius
 
 <!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local players --[[ table ]] = exports["sadoj-core"]:GetPlayersInRadius(coords --[[ vector3 ]], radius --[[ number ]][, ignoreList --[[ table ]]])
+```
+
+* **Paramètres:**
+  * **coords:** Coordonnées où chercher.
+  * **radius:** Rayon de recherche.
+  * **ignoreList:** Liste des joueurs à ignorer (aucun par défaut).
+* **Retour:**
+  * **players:** Liste des joueurs dans le rayon.
+
 #### **Export (serveur)**
 
 ```lua
-local result --[[ table ]] = exports["sadoj-core"]:GetAllPlayersClosestFromCoords(coords --[[ vector3 ]], radius --[[ number ]])
+local players --[[ table ]] = exports["sadoj-core"]:GetPlayersInRadius(coords --[[ vector3 ]], radius --[[ number ]][, ignoreList --[[ table ]]])
 ```
+
 * **Paramètres:**
-  * **coords:** Coordonnées à partir de laquelle vous souhaitez récupérer les joueur.
+  * **coords:** Coordonnées où chercher.
   * **radius:** Rayon de recherche.
+  * **ignoreList:** Liste des joueurs à ignorer (aucun par défaut).
+* **Retour:**
+  * **players:** Liste des joueurs dans le rayon.
 
-* **Résultats:**
-  * Tableau avec la liste des ServerId.
-
-    ```lua
-    [ 20, 32, 36, 45, 52, 58, 59, 75, 80 ...]
-    ```
 <!-- tabs:end -->
+
+{docsify-updated}

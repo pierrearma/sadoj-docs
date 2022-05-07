@@ -1,10 +1,35 @@
-# sadoj-core - Function - Webhooks
+# sadoj-core - Fonctions - Webhook
 
-> Auteur de la page: Thomas.
+> Auteur de la page: Pierre & Thomas.
 
 ---
 
+#### SendDiscordWebhook
+
+<!-- tabs:start -->
+
+#### **Export (serveur)**
+
 ```lua
+exports["sadoj-core"]:SendDiscordWebhook(Link --[[ string ]], Data --[[ table ]])
+```
+
+#### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-core/server/functions/webhooks/SendDiscordWebhook", Link --[[ string ]], Data --[[ table ]])
+```
+
+#### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-core/server/functions/webhooks/SendDiscordWebhook", Link --[[ string ]], Data --[[ table ]])
+```
+
+<!-- tabs:end -->
+
+```lua
+local data = {
   content = --[[ string ]],
   username = --[[ string ]],
   avatar_url = --[[ string ]],
@@ -40,19 +65,7 @@
     }
     ...
   }
+}
 ```
 
-
-#### SendWebhooks
-
-<!-- tabs:start -->
-#### **Export (server)**
-```lua
-exports["sadoj-core"]:SendWebhooks(Link --[[ string ]], Data --[[ table ]])
-```
-
-#### **Event (client)**
-```lua
-TriggerServerEvent("sadoj-core/server/functions/webhooks/SendWebhooks", Link --[[ string ]], Data --[[ table ]])
-```
-<!-- tabs:end -->
+{docsify-updated}

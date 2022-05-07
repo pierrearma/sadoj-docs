@@ -1,67 +1,78 @@
-# sadoj-core - Function - Objet
+# sadoj-core - Fonctions - Objet
 
-> Auteur de la page: Thomas.
+> Auteur de la page: Pierre & Thomas.
 
 ---
 
-#### SpawnObject
+#### CreateObject
 
 <!-- tabs:start -->
+
 #### **Export (client)**
+
 ```lua
-local result --[[ Entity ]] = exports["sadoj-core"]:SpawnObject(ModelHash --[[ Hash ]], Coords --[[ vector3 ]], Options --[[ table ]])
+local result --[[ Entity ]] = exports["sadoj-core"]:CreateObject(model --[[ Hash ]], coords --[[ vector3 ]][, options --[[ table ]]])
 ```
+
 * **Paramètres:**
-  * **ModelHash:** Le modèle de l'objet que vous souhaitez créer.
-  * **Coords:** Les coordonnées à laquelle vous souhaitez créer l'objet.
-  * **Options:**
+  * **model:** Le modèle de l'objet que vous souhaitez créer.
+  * **coords:** Les coordonnées à laquelle vous souhaitez créer l'objet.
+  * **options:**
     ```lua
     {
-      Heading --[[ integer ]], -- Heading de l'objet.
-      Rotation --[[ vector3 ]], -- Rotation de l'objet.
+      isNetwork --[[ boolean ]], -- Si l'objet est enregistré dans le network, sinon l'objet n'existe que localement.
+      isAMissionEntity --[[ boolean ]],
+      isADoor --[[ boolean ]], -- Si l'objet que vous créez et une porte
 
-      IsNetwork --[[ boolean ]], -- Si l'objet est enregistré dans le network, sinon l'objet n'existe que localement.
-      NetMissionEntity --[[ boolean ]],
-      DoorFlag --[[ boolean ]], -- Si l'objet que vous créez et une porte
+      heading --[[ integer ]], -- Heading de l'objet.
+      rotation --[[ vector3 ]], -- Rotation de l'objet.
 
-      ObjectOnGround --[[ boolean ]], -- Placer automatiquement l'objet sur le sol
-      FreezePosition --[[ boolean ]], -- Si objet peut être déplacé
-      DisableCollision --[[ boolean ]], -- Si l'objet à une collision
+      placeOnGround --[[ boolean ]], -- Placer automatiquement l'objet sur le sol
+      freezePosition --[[ boolean ]], -- Si objet peut être déplacé
+      disableCollision --[[ boolean ]], -- Si les collisions sont désactivées
     }
     ```
+* **Retour:**
+  * **result:** L'objet créé.
 
 #### **Export (serveur)**
+
 ```lua
-local result --[[ Entity ]] = exports["sadoj-core"]:SpawnObject(ModelHash --[[ Hash ]], Coords --[[ vector3 ]], Options --[[ table ]])
+local result --[[ Entity ]] = exports["sadoj-core"]:CreateObject(model --[[ Hash ]], coords --[[ vector3 ]][, options --[[ table ]]])
 ```
+
 * **Paramètres:**
-  * **ModelHash:** Le modèle de l'objet que vous souhaitez créer.
-  * **Coords:** Les coordonnées à laquelle vous souhaitez créer l'objet.
-  * **Options:**
+  * **model:** Le modèle de l'objet que vous souhaitez créer.
+  * **coords:** Les coordonnées à laquelle vous souhaitez créer l'objet.
+  * **options:**
     ```lua
     {
-      Heading --[[ integer ]], -- Heading de l'objet.
-      Rotation --[[ vector3 ]], -- Rotation de l'objet.
+      heading --[[ integer ]], -- Heading de l'objet.
+      rotation --[[ vector3 ]], -- Rotation de l'objet.
 
-      NetMissionEntity --[[ boolean ]],
-      DoorFlag --[[ boolean ]], -- Si l'objet que vous créez et une porte
+      isAMissionEntity --[[ boolean ]],
+      isADoor --[[ boolean ]], -- Si l'objet que vous créez et une porte
 
-      ObjectOnGround --[[ boolean ]], -- Placer automatiquement l'objet sur le sol
-      FreezePosition --[[ boolean ]], -- Si objet peut être déplacé
-      DisableCollision --[[ boolean ]], -- Si l'objet à une collision
+      freezePosition --[[ boolean ]], -- Si objet peut être déplacé
     }
     ```
+* **Retour:**
+  * **result:** L'objet créé.
+
 <!-- tabs:end -->
 
-#### DeleteMyEntity
+#### DeleteEntity
+
+Cette fonction permet de supprimer une entité même sans en être le propriétaire.
 
 <!-- tabs:start -->
+
 #### **Export (client)**
+
 ```lua
-exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
+exports["sadoj-core"]:DeleteEntity(Entity --[[ Entity ]])
 ```
-#### **Export (serveur)**
-```lua
-exports["sadoj-core"]:DeleteMyEntity(Entity --[[ Entity ]])
-```
+
 <!-- tabs:end -->
+
+{docsify-updated}

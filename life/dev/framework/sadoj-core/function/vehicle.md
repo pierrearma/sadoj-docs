@@ -1,4 +1,4 @@
-# sadoj-core - Function - Véhicule
+# sadoj-core - Fonctions - Véhicule
 
 > Auteur de la page: Pierre & Thomas.
 
@@ -16,9 +16,8 @@ Permet de récupérer l'ensemble des véhicules existant localement (avec OneSyn
 local result --[[ table ]] = exports["sadoj-core"]:GetAllVehiclesInScope()
 ```
 
-* **Résultats:**
-  * Tableau avec la liste des entités.
-
+* **Retour:**
+  * **result:** Tableau avec la liste des entités.
     ```lua
     [ 770, 1026, 1282, 1538, 1794, 2050, 2306, 2562, 2818, 3074, 3330, 3586, 3842, 4098, 4354, 4610, ...]
     ```
@@ -35,23 +34,10 @@ local result --[[ table ]] = exports["sadoj-core"]:GetAllVehiclesInScope()
 local result --[[ Entity ]] = exports["sadoj-core"]:GetClosestVehicleFromCoords(coords --[[ vector3 ]])
 ```
 
-* **Résultats:**
-  * Le véhicule le plus proche de des coordonnées. Faire un [DoesEntityExist](https://docs.fivem.net/natives/?_0x7239B21A38F536BA) pour vérifier l'existence du véhicule.
-
-<!-- tabs:end -->
-
-#### GetClosestVehicleFromEntity
-
-<!-- tabs:start -->
-
-#### **Export (client)**
-
-```lua
-local result --[[ Entity ]] = exports["sadoj-core"]:GetClosestVehicleFromEntity(entity --[[ Entity ]])
-```
-
-* **Résultats:**
-  * Le véhicule le plus proche de l'entité. Faire un [DoesEntityExist](https://docs.fivem.net/natives/?_0x7239B21A38F536BA) pour vérifier l'existence du véhicule.
+* **Paramètres:**
+  * **coords:** Coordonnées où chercher.
+* **Retour:**
+  * **result:** Le véhicule le plus proche de des coordonnées. Faire un [DoesEntityExist](https://docs.fivem.net/natives/?_0x7239B21A38F536BA) pour vérifier l'existence du véhicule.
 
 <!-- tabs:end -->
 
@@ -65,7 +51,28 @@ local result --[[ Entity ]] = exports["sadoj-core"]:GetClosestVehicleFromEntity(
 local result --[[ boolean ]] = exports["sadoj-core"]:IsAllVehicleDoorsClosed(vehicle --[[ Vehicle ]])
 ```
 
-* **Résultats:**
-  * `true` si le véhicule à toutes ses portes de fermé, `false` sinon.
+* **Paramètres:**
+  * **vehicle:** Véhicule à vérifier.
+* **Retour:**
+  * **result:** `true` si toutes les portes sont fermées, `false` sinon.
 
 <!-- tabs:end -->
+
+#### GetVehicleSeatPedIsUsing
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:GetVehicleSeatPedIsUsing(ped --[[ Ped ]])
+```
+
+* **Paramètres:**
+  * **ped:** Ped à vérifier.
+* **Retour:**
+  * **result:** Le numéro de la place du ped, `-2` si non trouvé. Voir [IsVehicleSeatFree](https://docs.fivem.net/natives/?_0x22AC59A870E6A669) pour l'index des places.
+
+<!-- tabs:end -->
+
+{docsify-updated}

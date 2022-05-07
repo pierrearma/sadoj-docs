@@ -1,15 +1,15 @@
-# sadoj-core - Function - Débogage
+# sadoj-core - Fonctions - Débogage
 
 > Auteur de la page: Pierre & Thomas.
 
 ---
-
 
 #### tPrint
 
 Permet l'affichage d'un tableau en console.
 
 <!-- tabs:start -->
+
 #### **Export (client)**
 
 ```lua
@@ -20,4 +20,7 @@ exports["sadoj-core"]:tPrint(tbl --[[ table ]])
 ```lua
 exports["sadoj-core"]:tPrint(tbl --[[ table ]])
 ```
+
 <!-- tabs:end -->
+
+{docsify-updated}
