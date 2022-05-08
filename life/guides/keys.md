@@ -104,7 +104,6 @@ Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kb
 - `fire` : Déclencher un incendie de structure
 - `carfire` : Mettre en feu le véhicule dans lequel vous êtes
 - `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
-- `ToggleNewMap` : Activer / Désactiver la carte avec les codes postaux
 - `goto {code postal}` : Mettre un point GPS sur le code postal correspondant
 - `e {nom de l'animation}` : Permet de jouer une animation *(voir menu animation)*
 - `PullOver` : Permet d'activer / désactiver les contrôles routier PNJ *(uniquement acessible par la police)*
