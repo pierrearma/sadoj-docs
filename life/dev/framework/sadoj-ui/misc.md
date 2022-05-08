@@ -59,4 +59,37 @@ TriggerClientEvent("sadoj-ui:client:DisplayWarningPopup", serverId --[[ integer 
 
 <!-- tabs:end -->
 
+## SetWaypointToPostal
+
+<!-- tabs:start -->
+
+### **Export (client)**
+
+```lua
+exports["sadoj-ui"]:SetWaypointToPostal(postalCode --[[ string ]])
+```
+
+* **Paramètres:**
+  * **postalCode:** Code postal où mettre le point de navigation.
+
+<!-- tabs:end -->
+
+## GetNearestPostalFromCoords
+
+<!-- tabs:start -->
+
+### **Export (client)**
+
+```lua
+local nearestPostal --[[ string ]], nearestDistance --[[ number ]] = exports["sadoj-ui"]:GetNearestPostalFromCoords(coords --[[ vector3 ]])
+```
+
+* **Paramètres:**
+  * **coords:** Coordonnées où chercher.
+* **Retour:**
+  * **nearestPostal:** Code postal le plus proche.
+  * **nearestDistance:** Distance entre les coordonnées et le code postal le plus proche.
+
+<!-- tabs:end -->
+
 {docsify-updated}
