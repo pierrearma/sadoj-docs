@@ -25,6 +25,17 @@ local playerSrc --[[ Integer ]] = exports["sadoj-core"]:GetPlayerFromIdentifier(
 
 <!-- tabs:start -->
 
+#### **Export (client)**
+
+```lua
+local identifier --[[ String ]] = exports["sadoj-core"]:GetPlayerIdentifier(playerId --[[ Integer ]])
+```
+
+* **Paramètres:**
+  * **playerId:** Le joueur (pas le Server Id).
+* **Retour:**
+  * **identifier:** L'identifiant du joueur.
+
 #### **Export (serveur)**
 
 ```lua
