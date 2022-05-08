@@ -21,6 +21,6 @@ Ce script regroupe la majorité des fonctions du framework et permet de fournir 
 * [Webhook](life/dev/framework/sadoj-core/function/webhook.md "Webhook")
 * [Divers](life/dev/framework/sadoj-core/function/misc.md "Divers")
 
-## Événement
+## Événements
 
 * [Joueur](life/dev/framework/sadoj-core/events/player.md "Joueur")
