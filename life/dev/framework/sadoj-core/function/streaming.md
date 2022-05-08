@@ -64,4 +64,19 @@ exports["sadoj-core"]:LoadNamedPtfxAsset(name --[[ string ]])
 
 <!-- tabs:end -->
 
+#### LoadStreamedTextureDict
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+exports["sadoj-core"]:LoadStreamedTextureDict(dict --[[ string ]])
+```
+
+* **Paramètres**
+    * **dict:** Le nom du dictionnaire à charger.
+
+<!-- tabs:end -->
+
 {docsify-updated}

@@ -75,4 +75,57 @@ local result --[[ number ]] = exports["sadoj-core"]:GetVehicleSeatPedIsUsing(ped
 
 <!-- tabs:end -->
 
+#### IsVehicleEmpty
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-core"]:IsVehicleEmpty(vehicle --[[ Vehicle ]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Véhicule à vérifier.
+* **Retour:**
+  * **result:** `true` si le véhicule est vide, `false` sinon.
+
+<!-- tabs:end -->
+
+#### GetVehicleInDirection
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ Vehicle ]] = exports["sadoj-core"]:GetVehicleInDirection(coordsFrom --[[ vector3 ]], coordsTo --[[ vector3 ]])
+```
+
+* **Paramètres:**
+  * **coordsFrom:** Coordonnées de départ.
+  * **coordsTo:** Coordonnées d'arrivée.
+* **Retour:**
+  * **result:** Le véhicule trouvé. Faire un [DoesEntityExist](https://docs.fivem.net/natives/?_0x7239B21A38F536BA) pour vérifier l'existence du véhicule.
+
+<!-- tabs:end -->
+
+#### GetVehicleInFrontOfPed
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ Vehicle ]] = exports["sadoj-core"]:GetVehicleInFrontOfPed(ped --[[ Ped ]][, distance --[[ number ]]])
+```
+
+* **Paramètres:**
+  * **ped:** Ped.
+  * **distance:** Distance maximum à parcourir, par défaut: `5`.
+* **Retour:**
+  * **result:** Le véhicule trouvé. Faire un [DoesEntityExist](https://docs.fivem.net/natives/?_0x7239B21A38F536BA) pour vérifier l'existence du véhicule.
+
+<!-- tabs:end -->
+
 {docsify-updated}

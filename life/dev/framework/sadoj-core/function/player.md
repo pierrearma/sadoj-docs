@@ -147,4 +147,21 @@ local players --[[ table ]] = exports["sadoj-core"]:GetPlayersInRadius(coords --
 
 <!-- tabs:end -->
 
+#### Teleport
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+exports["sadoj-core"]:Teleport(coords --[[ vector3 ]], heading --[[ number ]], canTeleportVehicle --[[ boolean ]])
+```
+
+* **Paramètres:**
+  * **coords:** Coordonnées où se téléporter.
+  * **heading:** Orientation du joueur.
+  * **canTeleportVehicle:** Peut-on téléporter un véhicule?
+
+<!-- tabs:end -->
+
 {docsify-updated}
