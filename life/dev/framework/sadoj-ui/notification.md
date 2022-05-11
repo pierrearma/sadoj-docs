@@ -58,6 +58,27 @@ TriggerClientEvent("sadoj-ui:client:ShowNotification", serverId --[[ integer ]],
 
 <!-- tabs:end -->
 
+## ShowNotificationToPlayer
+
+Permet d'envoyer une notification à un joueur depuis un script client.
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-ui:client:ShowNotificationToPlayer", playerSrc --[[ Integer ]], text --[[ string ]][, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
+```
+
+* **Paramètres:**
+  * **playerSrc:** Server ID du joueur.
+  * **text:** Texte de la notification (moins de 100 caractères).
+  * **isImportant:** Si vrai, la notification clignote. `false` par défaut.
+  * **saveHistory:** Si vrai, la notification est enregistrée dans l'historique. `false` par défaut.
+  * **backgroundColor:** Couleur de fond de la notification. `nil` par défaut. [Voir les couleurs ici.](https://docs.fivem.net/docs/game-references/hud-colors/)
+
+<!-- tabs:end -->
+
 ## ShowNotificationWithTextEntry
 
 <!-- tabs:start -->
@@ -97,6 +118,28 @@ TriggerClientEvent("sadoj-ui:client:ShowNotificationWithTextEntry", serverId --[
 ```
 
 * **Paramètres:**
+  * **entryKey:** entryKey du texte.
+  * **params:** Tableau de chaînes de caractères. Tableau vide si aucun paramètre dans l'entryKey.
+  * **isImportant:** Si vrai, la notification clignote. `false` par défaut.
+  * **saveHistory:** Si vrai, la notification est enregistrée dans l'historique. `false` par défaut.
+  * **backgroundColor:** Couleur de fond de la notification. `nil` par défaut. [Voir les couleurs ici.](https://docs.fivem.net/docs/game-references/hud-colors/)
+
+<!-- tabs:end -->
+
+## ShowNotificationWithTextEntryToPlayer
+
+Permet d'envoyer une notification à un joueur depuis un script client.
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-ui:client:ShowNotificationWithTextEntryToPlayer", playerSrc --[[ Integer ]], entryKey --[[ string ]], params --[[ table ]] [, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
+```
+
+* **Paramètres:**
+  * **playerSrc:** Server ID du joueur.
   * **entryKey:** entryKey du texte.
   * **params:** Tableau de chaînes de caractères. Tableau vide si aucun paramètre dans l'entryKey.
   * **isImportant:** Si vrai, la notification clignote. `false` par défaut.
