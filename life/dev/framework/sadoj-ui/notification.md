@@ -67,7 +67,7 @@ Permet d'envoyer une notification à un joueur depuis un script client.
 ### **Event (client)**
 
 ```lua
-TriggerServerEvent("sadoj-ui:client:ShowNotificationToPlayer", playerSrc --[[ Integer ]], text --[[ string ]][, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
+TriggerServerEvent("sadoj-ui:server:ShowNotificationToPlayer", playerSrc --[[ Integer ]], text --[[ string ]][, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
 ```
 
 * **Paramètres:**
@@ -135,7 +135,7 @@ Permet d'envoyer une notification à un joueur depuis un script client.
 ### **Event (client)**
 
 ```lua
-TriggerServerEvent("sadoj-ui:client:ShowNotificationWithTextEntryToPlayer", playerSrc --[[ Integer ]], entryKey --[[ string ]], params --[[ table ]] [, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
+TriggerServerEvent("sadoj-ui:server:ShowNotificationWithTextEntryToPlayer", playerSrc --[[ Integer ]], entryKey --[[ string ]], params --[[ table ]] [, isImportant --[[ boolean ]][, saveHistory --[[ boolean ]][, backgroundColor --[[ integer ]]]])
 ```
 
 * **Paramètres:**
