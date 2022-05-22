@@ -128,4 +128,17 @@ Pour passer une ligne, l'utilisateur doit faire <kbd>Shift</kbd> + <kbd>Entrée<
 }
 ```
 
+#### color
+
+`color` est un champ permettant de rentrer une couleur.
+
+La couleur par défaut sera le noir, d'où l'inutilité du champ `required`.
+
+```lua
+{
+  label = "Label"  --[[ string ]], -- Facultatif. Nom du champ. Chaîne vide par défaut.
+  type = "color" --[[ string ]],
+}
+```
+
 {docsify-updated}
