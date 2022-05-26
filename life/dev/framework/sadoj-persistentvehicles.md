@@ -60,7 +60,7 @@ TriggerEvent("sadoj-persistentvehicles/server/forget-vehicle", netId --[[ intege
 #### **Event (client)**
 
 ```lua
-RegisterNetEvent("sadoj-persistentvehicles/VehicleSpawn", function(NetId, Value)
+RegisterNetEvent("sadoj-persistentvehicles/VehicleSpawn", function(netId, value)
 
   --Mettez votre code ici
 
@@ -69,12 +69,12 @@ end)
 
 * **Résultats:**
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
-  * **Value:** Toutes les données enregistrées par le script sous forme de tableau.
+  * **value:** Toutes les données enregistrées par le script sous forme de tableau.
 
 #### **Event (serveur)**
 
 ```lua
-RegisterServerEvent("sadoj-persistentvehicles/server/VehicleSpawn", function(NetId, Value)
+RegisterServerEvent("sadoj-persistentvehicles/server/VehicleSpawn", function(serverId, netId, value)
 
   --Mettez votre code ici
 
@@ -82,8 +82,9 @@ end)
 ```
 
 * **Résultats:**
+  * **serverId:** Le server ID du joueur qui vient de déclencher l'apparition du véhicule.
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
-  * **Value:** Toutes les données enregistrées par le script sous forme de tableau.
+  * **value:** Toutes les données enregistrées par le script sous forme de tableau.
 
 <!-- tabs:end -->
 
