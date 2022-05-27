@@ -40,6 +40,7 @@
       * [sadoj-turfwars](life/dev/framework/sadoj-turfwars.md "sadoj-turfwars")
       * [sadoj-cayoperico](life/dev/framework/sadoj-cayoperico.md "sadoj-cayoperico")
       * [sadoj-dark](life/dev/framework/sadoj-dark.md "sadoj-dark")
+      * [sadoj-npwd](life/dev/framework/sadoj-npwd.md "sadoj-npwd")
       * [pmms](life/dev/framework/pmms.md "pmms")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
