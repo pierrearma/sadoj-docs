@@ -52,7 +52,6 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - <kbd>²</kbd> : Arrêter l'animation en cours
 - <kbd>F5</kbd> : Changer l'intensité de votre voix *(chuchotter, parler, crier)*
 - <kbd>U</kbd> : Tomber / Se relever
-- <kbd>X</kbd> : Lever / Baisser les bras
 - <kbd>B</kbd> : Pointer du doigt
 - <kbd>Maj G</kbd> + <kbd>E</kbd> : Faire chuter un personnage en courant *(joueur)*
 - <kbd>E</kbd> : Braquer un joueur en le visant avec une arme de poing
@@ -70,6 +69,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 #### Menus
 
+- <kbd>X</kbd> : Menu radial
 - <kbd>.</kbd> : Téléphone
 - <kbd>!</kbd> : Préférences de l'interface
 - <kbd>?</kbd> : Gestion du véhicule (quand vous êtes dans un véhicule)
@@ -99,12 +99,9 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kbd> pour ouvrir et fermer la console)*.
 
-- `me {action}` : Affiche l'action au dessus de la tête de votre personnage
-- `dark` : Voir les actions illégales autorisées *(si le nombre de policier en service est suffisant)*
 - `fire` : Déclencher un incendie de structure
 - `carfire` : Mettre en feu le véhicule dans lequel vous êtes
 - `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
-- `goto {code postal}` : Mettre un point GPS sur le code postal correspondant
 - `e {nom de l'animation}` : Permet de jouer une animation *(voir menu animation)*
 - `PullOver` : Permet d'activer / désactiver les contrôles routier PNJ *(uniquement acessible par la police)*
 - `montant_braquage` : Récupérer le montant de tous les braquages d'un commerce PNJ de la soirée *(uniquement acessible par la police)*
