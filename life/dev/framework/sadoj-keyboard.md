@@ -141,4 +141,34 @@ La couleur par défaut sera le noir, d'où l'inutilité du champ `required`.
 }
 ```
 
+#### datetime-local
+
+`datetime-local` est un champ permettant de rentrer une date et une heure.
+
+```lua
+{
+  label = "Label"  --[[ string ]], -- Facultatif. Nom du champ. Chaîne vide par défaut.
+  type = "datetime-local" --[[ string ]],
+  required = true --[[ boolean ]], -- Facultatif. Un attribut qui indique que le champ doit être renseigné avant de pouvoir envoyer le formulaire. Vrai par défaut.
+  min = "1922-01-01T16:23" --[[ string ]], -- Facultatif. La date la plus reculée qui peut être saisie. Rien par défaut.
+  max = "2004-12-31T23:47" --[[ string ]], -- Facultatif. La date la plus avancée qui peut être saisie. Rien par défaut.
+  step = 60 --[[ number ]] -- Facultatif. Le pas (en secondes) à utiliser pour l'incrément quand on utilise les boutons d'augmentation/diminution. Cet incrément est également utilisé pour la validation. 60 par défaut.
+}
+```
+
+#### time
+
+`time` est un champ permettant de rentrer une heure.
+
+```lua
+{
+  label = "Label"  --[[ string ]], -- Facultatif. Nom du champ. Chaîne vide par défaut.
+  type = "time" --[[ string ]],
+  required = true --[[ boolean ]], -- Facultatif. Un attribut qui indique que le champ doit être renseigné avant de pouvoir envoyer le formulaire. Vrai par défaut.
+  min = "16:23" --[[ string ]], -- Facultatif. La date la plus reculée qui peut être saisie. Rien par défaut.
+  max = "23:47" --[[ string ]], -- Facultatif. La date la plus avancée qui peut être saisie. Rien par défaut.
+  step = 60 --[[ number ]] -- Facultatif. Le pas (en secondes) à utiliser pour l'incrément quand on utilise les boutons d'augmentation/diminution. Cet incrément est également utilisé pour la validation. 60 par défaut.
+}
+```
+
 {docsify-updated}
