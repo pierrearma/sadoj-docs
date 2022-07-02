@@ -135,4 +135,30 @@ local result --[[ number ]] = exports["sadoj-core"]:Round(number --[[ number ]][
 
 <!-- tabs:end -->
 
+#### ToBoolean
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:ToBoolean(value --[[ number / string / nil / boolean]])
+```
+
+* **Paramètres:**
+  * **value:** La valeur que vous souhaitez transformer en boolean.
+* **Retour:**
+  * **result:** La valeur sous forme d'un boolean.
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:ToBoolean(value --[[ number / string / nil / boolean]])
+```
+
+* **Paramètres:**
+  * **value:** La valeur que vous souhaitez transformer en boolean.
+* **Retour:**
+  * **result:** La valeur sous forme d'un boolean.
+
+<!-- tabs:end -->
+
 {docsify-updated}
