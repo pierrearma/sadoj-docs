@@ -83,7 +83,7 @@ Permet de récupérer tous les dégâts du véhicule (visuel et mécanique).
 #### **Export (client)**
 
 ```lua
-local result --[[ table ]] = exports["sadoj-cehiclehealth"]:GetDamage(vehicle --[[ vehicle ]])
+local result --[[ table ]] = exports["sadoj-vehiclehealth"]:GetDamage(vehicle --[[ vehicle ]])
 ```
 
 * **Paramètres:**
@@ -115,7 +115,7 @@ Cette fonction vous permet de récupérer la liste de tous les points de déform
 #### **Export (client)**
 
 ```lua
-local result --[[ table ]] = exports["sadoj-cehiclehealth"]:GetVehicleDeformation(vehicle --[[ vehicle ]])
+local result --[[ table ]] = exports["sadoj-vehiclehealth"]:GetVehicleDeformation(vehicle --[[ vehicle ]])
 ```
 
 * **Paramètres:**
@@ -132,7 +132,7 @@ Permet de récupérer le nombre de points de déformation.
 #### **Export (client)**
 
 ```lua
-local result --[[ number ]] = exports["sadoj-cehiclehealth"]:GetNumberVehicleDeformation(vehicle --[[ vehicle ]])
+local result --[[ number ]] = exports["sadoj-vehiclehealth"]:GetNumberVehicleDeformation(vehicle --[[ vehicle ]])
 ```
 
 * **Paramètres:**
