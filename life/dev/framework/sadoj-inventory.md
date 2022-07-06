@@ -23,6 +23,10 @@ Chaque inventaire possède un nom (ou identifiant) unique et bien particulier. C
 
 De manière générale, il est préférable dans vos scripts de coder ce qui concerne l'inventaire côté serveur.
 
+Un inventaire est un simple tableau d'items. Chaque item est un tableau contenant les informations suivantes:
+
+- ToDo
+
 ## Utilisation
 
 ### Récupérer le nom d'un inventaire
@@ -31,10 +35,220 @@ De manière générale, il est préférable dans vos scripts de coder ce qui con
 
 <!-- tabs:start -->
 
-### **Export (client)**
+### **Export (client & serveur)**
 
 ```lua
 local name --[[ string ]] = exports["sadoj-inventory"]:GetPlayerInventoryName(player --[[ Player ]])
 ```
+
+* **Paramètres:**
+  * **player:** Joueur dont on veut récupérer le nom de l'inventaire.
+* **Résultat:**
+  * **name:** Nom de l'inventaire.
+
+<!-- tabs:end -->
+
+### Les véhicules
+
+<!-- tabs:start -->
+
+### **Export (client & serveur)**
+
+```lua
+local name --[[ string ]] = exports["sadoj-inventory"]:GetVehicleInventoryName(vehicle --[[ Vehicle ]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Véhicule dont on veut récupérer le nom de l'inventaire.
+* **Résultat:**
+    * **name:** Nom de l'inventaire.
+
+<!-- tabs:end -->
+
+### Les coffres
+
+<!-- tabs:start -->
+
+### **Export (client & serveur)**
+
+```lua
+local name --[[ string ]] = exports["sadoj-inventory"]:GetSafeInventoryName(safe --[[ string ]])
+```
+
+* **Paramètres:**
+  * **safe:** Nom du coffre dont on veut récupérer le nom de l'inventaire.
+* **Résultat:**
+    * **name:** Nom de l'inventaire.
+
+<!-- tabs:end -->
+
+## Récupérer un inventaire
+
+> [!ATTENTION]
+> Cet export est réservé uniquement au script necessitant un traitement particulier de l'inventaire. Il est préférable d'utiliser les autres exports.
+
+<!-- tabs:start -->
+
+### **Export (client & serveur)**
+
+```lua
+local inventory --[[ table ]] = exports["sadoj-inventory"]:GetInventoryFromName(name --[[ string ]])
+```
+
+* **Paramètres:**
+  * **name:** Nom de l'inventaire.
+* **Résultat:**
+    * **inventory:** Inventaire.
+
+<!-- tabs:end -->
+
+### Récupérer la quantité d'un item dans un inventaire
+
+<!-- tabs:start -->
+
+### **Export (client & serveur)**
+
+```lua
+local quantity --[[ number ]] = exports["sadoj-inventory"]:GetInventoryItemCountFromName(inventoryName --[[ string ]], itemName --[[ string ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+* **Résultat:**
+    * **quantity:** Quantité de l'item.
+
+<!-- tabs:end -->
+
+## Savoir si un item est présent dans un inventaire avec une quantité spécifique
+
+<!-- tabs:start -->
+
+### **Export (client & serveur)**
+
+```lua
+local isPresent --[[ boolean ]] = exports["sadoj-inventory"]:IsInventoryHasItemCountFromName(inventoryName --[[ string ]], itemName --[[ string ]], count --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **count:** Quantité de l'item.
+* **Résultat:**
+    * **isPresent:** Booléen indiquant si l'inventaire contient l'item avec la quantité spécifiée.
+
+<!-- tabs:end -->
+
+## Supprimer un item dans un inventaire
+
+### Depuis l'UUID de l'item
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromUuid", inventoryName --[[ string ]], uuid --[[ string ]], quantity --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **uuid:** UUID de l'item.
+  * **quantity:** Quantité de l'item.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromUuid", inventoryName --[[ string ]], uuid --[[ string ]], quantity --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **uuid:** UUID de l'item.
+  * **quantity:** Quantité de l'item.
+
+<!-- tabs:end -->
+
+### Depuis le nom de l'item
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **quantity:** Quantité de l'item.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **quantity:** Quantité de l'item.
+
+<!-- tabs:end -->
+
+## Ajouter un item dans un inventaire
+
+### Depuis un item
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:AddItemToInventory", inventoryName --[[ string ]], item --[[ table ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **item:** Item.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:client:AddItemToInventory", inventoryName --[[ string ]], item --[[ table ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **item:** Item.
+
+<!-- tabs:end -->
+
+### Depuis le nom de l'item
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:AddItemToInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **quantity:** Quantité de l'item.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:client:AddItemToInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **quantity:** Quantité de l'item.
 
 <!-- tabs:end -->

@@ -28,6 +28,7 @@
         * [Divers](life/dev/framework/sadoj-ui/misc.md "Divers")
       * [sadoj-callbacks](life/dev/framework/sadoj-callbacks.md "sadoj-callbacks")
       * [Infos_Joueur](life/dev/framework/Infos_Joueur.md "Infos_Joueur")
+      * [sadoj-inventory](life/dev/framework/sadoj-inventory.md "sadoj-inventory")
       * [Inventaire](life/dev/framework/Inventaire.md "Inventaire")
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
       * [sadoj-dispatch](life/dev/framework/sadoj-dispatch.md "sadoj-dispatch")
