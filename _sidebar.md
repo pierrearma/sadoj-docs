@@ -44,6 +44,7 @@
       * [sadoj-npwd](life/dev/framework/sadoj-npwd.md "sadoj-npwd")
       * [pmms](life/dev/framework/pmms.md "pmms")
       * [sadoj-vehiclecustom](life/dev/framework/sadoj-vehiclecustom.md "sadoj-vehiclecustom")
+      * [sadoj-misc](life/dev/framework/sadoj-misc.md "sadoj-misc")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
