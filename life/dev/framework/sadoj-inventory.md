@@ -252,3 +252,97 @@ TriggerEvent("sadoj-inventory:client:AddItemToInventoryFromName", inventoryName 
   * **quantity:** Quantité de l'item.
 
 <!-- tabs:end -->
+
+## Définir les métadonnées d'un item dans un inventaire
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:SetItemMetadataToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], metadataKey --[[ string ]], metadataValue --[[ any ]], metadataDisplayed --[[ boolean ]], quantity --[[ number|nil ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemUuid:** UUID de l'item.
+  * **metadataKey:** Clé de la métadonnée.
+  * **metadataValue:** Valeur de la métadonnée.
+  * **metadataDisplayed:** Booléen indiquant si la métadonnée est affichée.
+  * **quantity:** Quantité de l'item. Si nil, cela définit la métadonnée sur tout l'item. Si non nil, cela définit la métadonnée sur la quantité spécifiée en créant donc un nouvel item.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:client:SetItemMetadataToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], metadataKey --[[ string ]], metadataValue --[[ any ]], metadataDisplayed --[[ boolean ]], quantity --[[ number|nil ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemUuid:** UUID de l'item.
+  * **metadataKey:** Clé de la métadonnée.
+  * **metadataValue:** Valeur de la métadonnée.
+  * **metadataDisplayed:** Booléen indiquant si la métadonnée est affichée.
+  * **quantity:** Quantité de l'item. Si nil, cela définit la métadonnée sur tout l'item. Si non nil, cela définit la métadonnée sur la quantité spécifiée en créant donc un nouvel item.
+
+<!-- tabs:end -->
+
+## Transférer un item d'un inventaire à un autre
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:TransferItemFromInventoryToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], quantity --[[ number ]], targetInventoryName --[[ string ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire source.
+  * **itemUuid:** UUID de l'item.
+  * **quantity:** Quantité de l'item.
+  * **targetInventoryName:** Nom de l'inventaire cible.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:client:TransferItemFromInventoryToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], quantity --[[ number ]], targetInventoryName --[[ string ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire source.
+  * **itemUuid:** UUID de l'item.
+  * **quantity:** Quantité de l'item.
+  * **targetInventoryName:** Nom de l'inventaire cible.
+
+<!-- tabs:end -->
+
+## Écouter lors d'une action sur un item
+
+<!-- tabs:start -->
+
+### **Client**
+
+```lua
+RegisterNetEvent("sadoj-inventory:itemAction", function(action --[[ string ]], item --[[ table ]])
+  -- Votre code ici.
+end)
+```
+
+* **Paramètres:**
+  * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
+  * **item:** Item.
+
+### **Serveur**
+
+```lua
+RegisterServerEvent("sadoj-inventory:itemAction", function(action --[[ string ]], item --[[ table ]])
+  -- Votre code ici.
+end)
+```
+
+* **Paramètres:**
+  * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
+  * **item:** Item.
+
+<!-- tabs:end -->
