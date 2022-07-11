@@ -25,7 +25,17 @@ De manière générale, il est préférable dans vos scripts de coder ce qui con
 
 Un inventaire est un simple tableau d'items. Chaque item est un tableau contenant les informations suivantes:
 
-- ToDo
+- `name`: Nom de l'item (string)
+- `uuid`: Identifiant unique de l'item (string)
+- `quantity`: Quantité de l'item (integer)
+- `label`: Nom d'affichage de l'item (string)
+- `desc`: Description de l'item (string|nil)
+- `weight`: Poids de l'item en gramme (integer)
+- `category`: Catégorie de l'item (string|nil)
+- `badge`: Nom de la texture de l'icône de l'item (string|nil)
+- `unique`: Si vrai, l'item ne se combinnera pas avec d'autres même si l'item est identique (boolean)
+- `actions`: Tableau avec comme clé le nom de l'action et comme valeur le nom d'affichage de l'action (table)
+- `metadata`: Tableau avec comme clé le nom de la métadonnée et comme valeur un tableau avec comme clés `value` et `displayed` (table)
 
 ## Utilisation
 
@@ -48,7 +58,7 @@ local name --[[ string ]] = exports["sadoj-inventory"]:GetPlayerInventoryName(pl
 
 <!-- tabs:end -->
 
-### Les véhicules
+#### Les véhicules
 
 <!-- tabs:start -->
 
@@ -65,7 +75,7 @@ local name --[[ string ]] = exports["sadoj-inventory"]:GetVehicleInventoryName(v
 
 <!-- tabs:end -->
 
-### Les coffres
+#### Les coffres
 
 <!-- tabs:start -->
 
@@ -82,7 +92,7 @@ local name --[[ string ]] = exports["sadoj-inventory"]:GetSafeInventoryName(safe
 
 <!-- tabs:end -->
 
-## Récupérer un inventaire
+### Récupérer un inventaire
 
 > [!ATTENTION]
 > Cet export est réservé uniquement au script necessitant un traitement particulier de l'inventaire. Il est préférable d'utiliser les autres exports.
@@ -120,7 +130,7 @@ local quantity --[[ number ]] = exports["sadoj-inventory"]:GetInventoryItemCount
 
 <!-- tabs:end -->
 
-## Savoir si un item est présent dans un inventaire avec une quantité spécifique
+### Savoir si un item est présent dans un inventaire avec une quantité spécifique
 
 <!-- tabs:start -->
 
@@ -139,9 +149,9 @@ local isPresent --[[ boolean ]] = exports["sadoj-inventory"]:IsInventoryHasItemC
 
 <!-- tabs:end -->
 
-## Supprimer un item dans un inventaire
+### Supprimer un item dans un inventaire
 
-### Depuis l'UUID de l'item
+#### Depuis l'UUID de l'item
 
 <!-- tabs:start -->
 
@@ -169,7 +179,7 @@ TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromUuid", inventory
 
 <!-- tabs:end -->
 
-### Depuis le nom de l'item
+#### Depuis le nom de l'item
 
 <!-- tabs:start -->
 
@@ -197,9 +207,9 @@ TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromName", inventory
 
 <!-- tabs:end -->
 
-## Ajouter un item dans un inventaire
+### Ajouter un item dans un inventaire
 
-### Depuis un item
+#### Depuis un item
 
 <!-- tabs:start -->
 
@@ -225,7 +235,7 @@ TriggerEvent("sadoj-inventory:client:AddItemToInventory", inventoryName --[[ str
 
 <!-- tabs:end -->
 
-### Depuis le nom de l'item
+#### Depuis le nom de l'item
 
 <!-- tabs:start -->
 
@@ -253,7 +263,7 @@ TriggerEvent("sadoj-inventory:client:AddItemToInventoryFromName", inventoryName 
 
 <!-- tabs:end -->
 
-## Définir les métadonnées d'un item dans un inventaire
+### Définir les métadonnées d'un item dans un inventaire
 
 <!-- tabs:start -->
 
@@ -287,7 +297,7 @@ TriggerEvent("sadoj-inventory:client:SetItemMetadataToInventoryFromUuid", invent
 
 <!-- tabs:end -->
 
-## Transférer un item d'un inventaire à un autre
+### Transférer un item d'un inventaire à un autre
 
 <!-- tabs:start -->
 
@@ -317,7 +327,7 @@ TriggerEvent("sadoj-inventory:client:TransferItemFromInventoryToInventoryFromUui
 
 <!-- tabs:end -->
 
-## Écouter lors d'une action sur un item
+### Écouter lors d'une action sur un item
 
 <!-- tabs:start -->
 
