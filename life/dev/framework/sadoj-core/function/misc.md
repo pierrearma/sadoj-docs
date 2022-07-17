@@ -158,7 +158,61 @@ local result --[[ number ]] = exports["sadoj-core"]:ToBoolean(value --[[ number 
   * **value:** La valeur que vous souhaitez transformer en boolean.
 * **Retour:**
   * **result:** La valeur sous forme d'un boolean.
+<!-- tabs:end -->
+
+#### Tablelength
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:Tablelength(table --[[ table ]])
+```
+
+* **Paramètres:**
+  * **table:** La table que vous souhaitez compter.
+* **Retour:**
+  * **result:** Le nombre d'éléments dans la table.
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:Tablelength(table --[[ table ]])
+```
+
+* **Paramètres:**
+  * **table:** La table que vous souhaitez compter.
+* **Retour:**
+  * **result:** Le nombre d'éléments dans la table.
+<!-- tabs:end -->
+
+
+#### GetGroundAtCoords
+
+> [!ATTENTION]
+> Pour que cet export fonctionne correctement il faut impérativement qu'il y ait un joueur à proximité. Sinon la fonction retournera nil.
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local coords --[[ vector3 ]] = exports["sadoj-core"]:GetGroundAtCoords(coords --[[ vector3 ]], maxDist --[[ number ]], intersectWorld --[[ boolean ]], intersectVehicles --[[ boolean ]], intersectPedsSimpleCollision --[[ boolean ]], intersectPeds --[[ boolean ]], intersectObjects --[[ boolean ]], intersectWater --[[ boolean ]], intersectFoliage --[[ boolean ]], intersectEverything --[[ boolean ]])
+```
+
+* **Paramètres:**
+  * **coords:** Les coordonnées où vous souhaitez obtenir le sol.
+  * **maxDist:** La distance maximale à parcourir pour trouver le sol (`50.0` par défaut).
+  * **intersectWorld:** Si vous souhaitez que la function prennent en compte le sol du le monde (`false` par défaut).
+  * **intersectVehicles:** Si vous souhaitez que la function prennent en compte les véhicules (`false` par défaut).
+  * **intersectPedsSimpleCollision:** Si vous souhaitez que la function prennent en compte les peds simple collision (`false` par défaut).
+  * **intersectPeds:** Si vous souhaitez que la function prennent en compte les peds (`false` par défaut).
+  * **intersectObjects:** Si vous souhaitez que la function prennent en compte les objets (`false` par défaut).
+  * **intersectWater:** Si vous souhaitez que la function prennent en compte l'eau (`false` par défaut).
+  * **intersectFoliage:** Si vous souhaitez que la function prennent en compte le feuillage (`false` par défaut).
+  * **intersectEverything:** Si vous souhaitez que la function prennent en compte tout (`false` par défaut).
+* **Retour:**
+  * **result:** Les coordonnées du sol (`nil` si aucun sol).
 
 <!-- tabs:end -->
+
 
 {docsify-updated}
