@@ -178,6 +178,8 @@ local quantity --[[ number ]] = exports["sadoj-inventory"]:GetInventoryItemCount
 
 #### Depuis un filtre de recherche
 
+<!-- tabs:start -->
+
 ### **Export (client & serveur)**
 
 ```lua
