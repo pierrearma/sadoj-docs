@@ -95,7 +95,7 @@ local name --[[ string ]] = exports["sadoj-inventory"]:GetSafeInventoryName(safe
 ### Récupérer un inventaire
 
 > [!ATTENTION]
-> Ces exports sont réservés uniquement au script necessitant un traitement particulier de l'inventaire. Il est préférable d'utiliser les autres exports.
+> Ces exports sont réservés uniquement aux scripts necessitant un traitement particulier de l'inventaire. Il est préférable d'utiliser les autres exports.
 
 #### Tout l'inventaire
 
