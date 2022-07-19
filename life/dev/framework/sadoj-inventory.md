@@ -132,6 +132,8 @@ end
 * **Paramètres:**
   * **name:** Nom de l'inventaire.
   * **checkFunction:** Fonction de filtrage.
+* **Résultat:**
+    * **inventory:** Inventaire filtré.
 
 <!-- tabs:end -->
 
@@ -142,7 +144,7 @@ end
 <!-- tabs:start -->
 
 ```lua
-local isPresent --[[ boolean ]] = exports["sadoj-inventory"]:GetInventoryItemCountWithCheckFunction(inventory --[[ table ]], checkFunction --[[ function ]])
+local quantity --[[ number ]] = exports["sadoj-inventory"]:GetInventoryItemCountWithCheckFunction(inventory --[[ table ]], checkFunction --[[ function ]])
 
 -- Exemple de checkFunction:
 function checkFunction(item)
@@ -153,6 +155,8 @@ end
 * **Paramètres:**
   * **inventory:** Inventaire.
   * **checkFunction:** Fonction de vérification.
+* **Résultat:**
+    * **quantity:** Quantité de l'item.
 
 <!-- tabs:end -->
 
@@ -195,6 +199,8 @@ end
   * **inventoryName:** Nom de l'inventaire.
   * **checkFunction:** Fonction de vérification.
   * **count:** Quantité à vérifier.
+* **Résultat:**
+    * **isPresent:** Booléen indiquant si l'inventaire contient l'item avec la quantité spécifiée.
 
 <!-- tabs:end -->
 
