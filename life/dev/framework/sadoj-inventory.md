@@ -95,7 +95,9 @@ local name --[[ string ]] = exports["sadoj-inventory"]:GetSafeInventoryName(safe
 ### Récupérer un inventaire
 
 > [!ATTENTION]
-> Cet export est réservé uniquement au script necessitant un traitement particulier de l'inventaire. Il est préférable d'utiliser les autres exports.
+> Ces exports sont réservés uniquement au script necessitant un traitement particulier de l'inventaire. Il est préférable d'utiliser les autres exports.
+
+#### Tout l'inventaire
 
 <!-- tabs:start -->
 
@@ -112,7 +114,49 @@ local inventory --[[ table ]] = exports["sadoj-inventory"]:GetInventoryFromName(
 
 <!-- tabs:end -->
 
+#### Avec un filtre de recherche
+
+<!-- tabs:start -->
+
+### **Export (client & serveur)**
+
+```lua
+local inventory --[[ table ]] = exports["sadoj-inventory"]:GetInventoryItemsWithCheckFunction(name --[[ string ]], checkFunction --[[ function ]])
+
+-- Exemple de checkFunction
+function checkFunction(item --[[ table ]])
+    return item.name == "couscous"
+end
+```
+
+* **Paramètres:**
+  * **name:** Nom de l'inventaire.
+  * **checkFunction:** Fonction de filtrage.
+
+<!-- tabs:end -->
+
 ### Récupérer la quantité d'un item dans un inventaire
+
+#### Depuis un filtre de recherche
+
+<!-- tabs:start -->
+
+```lua
+local isPresent --[[ boolean ]] = exports["sadoj-inventory"]:GetInventoryItemCountWithCheckFunction(inventory --[[ table ]], checkFunction --[[ function ]])
+
+-- Exemple de checkFunction:
+function checkFunction(item)
+    return item.name == "couscous"
+end
+```
+
+* **Paramètres:**
+  * **inventory:** Inventaire.
+  * **checkFunction:** Fonction de vérification.
+
+<!-- tabs:end -->
+
+#### Depuis le nom de l'item
 
 <!-- tabs:start -->
 
@@ -131,6 +175,28 @@ local quantity --[[ number ]] = exports["sadoj-inventory"]:GetInventoryItemCount
 <!-- tabs:end -->
 
 ### Savoir si un item est présent dans un inventaire avec une quantité spécifique
+
+#### Depuis un filtre de recherche
+
+### **Export (client & serveur)**
+
+```lua
+local isPresent --[[ boolean ]] = exports["sadoj-inventory"]:IsInventoryHasItemCountWithCheckFunction(inventoryName --[[ string ]], checkFunction --[[ function ]], count --[[ number ]])
+
+-- Exemple de checkFunction:
+local function checkFunction(item)
+    return item.name == "couscous"
+end
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **checkFunction:** Fonction de vérification.
+  * **count:** Quantité à vérifier.
+
+<!-- tabs:end -->
+
+#### Depuis le nom de l'item
 
 <!-- tabs:start -->
 
@@ -169,7 +235,7 @@ TriggerServerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromUuid", inv
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromUuid", inventoryName --[[ string ]], uuid --[[ string ]], quantity --[[ number ]])
+TriggerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromUuid", inventoryName --[[ string ]], uuid --[[ string ]], quantity --[[ number ]])
 ```
 
 * **Paramètres:**
@@ -197,7 +263,7 @@ TriggerServerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromName", inv
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
+TriggerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
 ```
 
 * **Paramètres:**
@@ -210,6 +276,9 @@ TriggerEvent("sadoj-inventory:client:RemoveItemFromInventoryFromName", inventory
 ### Ajouter un item dans un inventaire
 
 #### Depuis un item
+
+> [!TIP]
+> Vous pouvez utiliser les exports `CreateItemByName` et `SetItemMetadata` pour ajouter des items directement avec des métadonnées.
 
 <!-- tabs:start -->
 
@@ -226,7 +295,7 @@ TriggerServerEvent("sadoj-inventory:server:AddItemToInventory", inventoryName --
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:client:AddItemToInventory", inventoryName --[[ string ]], item --[[ table ]])
+TriggerEvent("sadoj-inventory:server:AddItemToInventory", inventoryName --[[ string ]], item --[[ table ]])
 ```
 
 * **Paramètres:**
@@ -253,7 +322,7 @@ TriggerServerEvent("sadoj-inventory:server:AddItemToInventoryFromName", inventor
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:client:AddItemToInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
+TriggerEvent("sadoj-inventory:server:AddItemToInventoryFromName", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]])
 ```
 
 * **Paramètres:**
@@ -284,7 +353,7 @@ TriggerServerEvent("sadoj-inventory:server:SetItemMetadataToInventoryFromUuid", 
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:client:SetItemMetadataToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], metadataKey --[[ string ]], metadataValue --[[ any ]], metadataDisplayed --[[ boolean ]], quantity --[[ number|nil ]])
+TriggerEvent("sadoj-inventory:server:SetItemMetadataToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], metadataKey --[[ string ]], metadataValue --[[ any ]], metadataDisplayed --[[ boolean ]], quantity --[[ number|nil ]])
 ```
 
 * **Paramètres:**
@@ -316,7 +385,7 @@ TriggerServerEvent("sadoj-inventory:server:TransferItemFromInventoryToInventoryF
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:client:TransferItemFromInventoryToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], quantity --[[ number ]], targetInventoryName --[[ string ]])
+TriggerEvent("sadoj-inventory:server:TransferItemFromInventoryToInventoryFromUuid", inventoryName --[[ string ]], itemUuid --[[ string ]], quantity --[[ number ]], targetInventoryName --[[ string ]])
 ```
 
 * **Paramètres:**
