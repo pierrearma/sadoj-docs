@@ -186,6 +186,28 @@ local result --[[ number ]] = exports["sadoj-core"]:Tablelength(table --[[ table
 <!-- tabs:end -->
 
 
+#### IsADevServer
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-core"]:IsADevServer()
+```
+
+* **Retour:**
+  * **result:** `true` si le serveur est un serveur de développement.
+
+#### **Export (serveur)**
+
+```lua
+local result --[[ boolean ]] = exports["sadoj-core"]:IsADevServer()
+```
+
+* **Retour:**
+  * **result:** `true` si le serveur est un serveur de développement.
+<!-- tabs:end -->
+
+
 #### GetGroundAtCoords
 
 > [!ATTENTION]
