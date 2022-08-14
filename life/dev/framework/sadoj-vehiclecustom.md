@@ -146,4 +146,25 @@ local result --[[ String ]] = exports["sadoj-vehiclecustom"]:GetVehicleHornLabel
 <!-- tabs:end -->
 
 
+### Evénement d'écoute
+
+
+<!-- tabs:start -->
+#### **Event (serveur)**
+
+```lua
+RegisterServerEvent("sadoj-vehiclecustom:server:VehicleCustomUpdate", function(identifier, netId, custom)
+
+  --Mettez votre code ici
+
+end)
+```
+
+* **Résultats:**
+  * **identifier:** Identifiant du véhicule.
+  * **netId:** NetId du véhicule.
+  * **custom:** Custom du véhicule.
+<!-- tabs:end -->
+
+
 {docsify-updated}
