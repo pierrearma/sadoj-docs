@@ -33,11 +33,12 @@ local identifier --[[ string ]] = exports["sadoj-persistentvehicles"]:RegisterVe
 #### **Export (client)**
 
 ```lua
-exports["sadoj-persistentvehicles"]:RegisterVehicle(identifier --[[ string ]][, delete --[[ boolean ]]])
+exports["sadoj-persistentvehicles"]:ForgetVehicle(identifier --[[ string ]][, delete --[[ boolean ]]])
 ```
 
 * **Paramètres:**
   * **identifier:** L'identifiant du véhicule que vous souhaitez désenregistrer.
+  * **delete:** Si vrai, si vous souhaitez supprimé le véhicule.
 
 #### **Event (serveur)**
 ```lua
