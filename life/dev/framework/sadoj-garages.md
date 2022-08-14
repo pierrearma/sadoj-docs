@@ -160,7 +160,7 @@ local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(
 * **Résultats:**
   * **identifier:** L'identifiant du véhicule.
 
-#### **Serveur (client)**
+#### **Export (serveur)**
 ```lua
 local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(vehicle --[[ vehicle ]])
 ```
