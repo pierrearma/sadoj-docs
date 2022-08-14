@@ -133,12 +133,41 @@ exports["sadoj-garages"]:StoreVehicle(vehicle --[[ vehicle ]], garageId --[[ int
 ### GetGaragesNameByGarageId
 
 <!-- tabs:start -->
+#### **Export (client)**
 ```lua
 local Name --[[ string ]] = exports["sadoj-garages"]:GetGaragesNameByGarageId(garageId --[[ integer ]])
 ```
 * **Paramètres:**
   * **garageId:** ID du garage duquel vous souhaitez récupérer le nom.
 
+#### **Serveur (client)**
+```lua
+local Name --[[ string ]] = exports["sadoj-garages"]:GetGaragesNameByGarageId(garageId --[[ integer ]])
+```
+* **Paramètres:**
+  * **garageId:** ID du garage duquel vous souhaitez récupérer le nom.
+<!-- tabs:end -->
+
+### GetVehicleIdentifier
+
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(vehicle --[[ vehicle ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule que vous souhaitez récupérer l'identifiant.
+* **Résultats:**
+  * **identifier:** L'identifiant du véhicule.
+
+#### **Serveur (client)**
+```lua
+local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(vehicle --[[ vehicle ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule que vous souhaitez récupérer l'identifiant.
+* **Résultats:**
+  * **identifier:** L'identifiant du véhicule.
 <!-- tabs:end -->
 
 {docsify-updated}
