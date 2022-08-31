@@ -28,29 +28,29 @@ Cet événement permet d'écouter l'apparition d'un véhicule à partir d'un gar
 #### **Event (client)**
 
 ```lua
-RegisterNetEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
+RegisterNetEvent("sadoj-garages:client:VehicleSpawn", function(netId, valueBdd, valueGarage)
   --Mettez votre code ici
 end)
 ```
 
 * **Résultats:**
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
-  * **DataBDD:** Toutes les données enregistrées dans la base de données (Table user_vehicle).
-  * **GaragesData:** Toutes les données qui se trouve dans le fichier config du garageID en question.
+  * **valueBdd:** Toutes les données enregistrées dans la base de données (Table user_vehicle).
+  * **valueGarage:** Toutes les données qui se trouve dans le fichier config du garageID en question.
 
 
 #### **Event (serveur)**
 
 ```lua
-RegisterServerEvent("sadoj-garages:VehicleSpawn", function(NetId, DataBDD, GaragesData)
+RegisterServerEvent("sadoj-garages:server:VehicleSpawn", function(netId, valueBdd, valueGarage)
   --Mettez votre code ici
 end)
 ```
 
 * **Résultats:**
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
-  * **DataBDD:** Toutes les données enregistrées dans la base de données (Table user_vehicle).
-  * **GaragesData:** Toutes les données qui se trouve dans le fichier config du garageID en question.
+  * **valueBdd:** Toutes les données enregistrées dans la base de données (Table user_vehicle).
+  * **valueGarage:** Toutes les données qui se trouve dans le fichier config du garageID en question.
 
 <!-- tabs:end -->
 
@@ -63,33 +63,27 @@ Cet événement permet d'écouter la d'isparition d'un véhicule à partir d'un 
 #### **Event (client)**
 
 ```lua
-RegisterNetEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
+RegisterNetEvent("sadoj-garages:client:VehicleStored", function(garageId, vehicleIdentifier)
   --Mettez votre code ici
 end)
 ```
 
 * **Résultats:**
-  * **GarageId:** Le GarageID dans lequel le véhicule va se ranger.
-  * **Plate:** La plaque du véhicule.
-  * **Model:** Le modèle (Hash) du véhicule.
-  * **Data:** Toutes les données qui se trouve dans la table data sur la BDD.
-  * **Health:** Tous les dégâts physique et mécanique du véhicule.
+  * **garageId:** Id du garage dans lequel le véhicule est stocké.
+  * **vehicleIdentifier:** Identifiant du véhicule stocké.
 
 
 #### **Event (serveur)**
 
 ```lua
-RegisterServerEvent("sadoj-garages:VehicleDespawn", function(GarageId, Plate, Model, Data, Health)
+RegisterServerEvent("sadoj-garages:server:VehicleStored", function(garageId, vehicleIdentifier)
   --Mettez votre code ici
 end)
 ```
 
 * **Résultats:**
-  * **GarageId:** Le GarageID dans lequel le véhicule va se ranger.
-  * **Plate:** La plaque du véhicule.
-  * **Model:** Le modèle (Hash) du véhicule.
-  * **Data:** Toutes les données qui se trouve dans la table data sur la BDD.
-  * **Health:** Tous les dégâts physique et mécanique du véhicule.
+  * **garageId:** Id du garage dans lequel le véhicule est stocké.
+  * **vehicleIdentifier:** Identifiant du véhicule stocké.
 
 <!-- tabs:end -->
 
@@ -168,6 +162,54 @@ local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(
   * **vehicle:** Le véhicule que vous souhaitez récupérer l'identifiant.
 * **Résultats:**
   * **identifier:** L'identifiant du véhicule.
+<!-- tabs:end -->
+
+### Conditions de rangement
+
+#### AddVehicleStoringCondition
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+local id --[[ integer  ]] = exports["sadoj-garages"]:AddVehicleStoringCondition(function()
+  -- votre code ici
+end --[[ function  ]])
+```
+* **Retour:**
+  * **id:** L'identifiant de la condition.
+<!-- tabs:end -->
+
+#### RemoveVehicleStoringCondition
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+exports["sadoj-garages"]:RemoveVehicleStoringCondition(id --[[ integer ]])
+```
+* **Paramètres:**
+  * **id:** L'identifiant de la condition.
+<!-- tabs:end -->
+
+### Fonction avant rangement
+
+#### AddFunctionBeforeVehicleStoring
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+local id --[[ integer  ]] = exports["sadoj-garages"]:AddFunctionBeforeVehicleStoring(function(vehicle --[[ vehicle ]], garageId --[[ integer ]])
+  -- votre code ici
+end --[[ function  ]])
+```
+* **Retour:**
+  * **id:** L'identifiant de la fonction.
+<!-- tabs:end -->
+
+#### RemoveFunctionBeforeVehicleStoring
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+exports["sadoj-garages"]:RemoveFunctionBeforeVehicleStoring(id --[[ integer ]])
+```
+* **Paramètres:**
+  * **id:** L'identifiant de la fonction.
 <!-- tabs:end -->
 
 {docsify-updated}
