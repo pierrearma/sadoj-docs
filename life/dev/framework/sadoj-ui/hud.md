@@ -208,4 +208,21 @@ end
 
 <!-- tabs:end -->
 
+## RemoveStatusModule
+
+Cette fonction permet de supprimer un module de statut. Par exemple, quand vous redémarrez la ressource.
+
+<!-- tabs:start -->
+
+### **Export (client)**
+
+```lua
+exports["sadoj-ui"]:RemoveStatusModule(name --[[ string ]])
+```
+
+* **Paramètres:**
+    * **name**: Le nom du module.
+
+<!-- tabs:end -->
+
 {docsify-updated}
