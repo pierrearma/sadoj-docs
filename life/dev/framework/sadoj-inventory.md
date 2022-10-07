@@ -285,9 +285,6 @@ TriggerEvent("sadoj-inventory:server:RemoveItemFromInventoryFromName", inventory
 
 #### Depuis un item
 
-> [!TIP]
-> Vous pouvez utiliser les exports `CreateItemByName` et `SetItemMetadata` pour ajouter des items directement avec des métadonnées.
-
 <!-- tabs:start -->
 
 ### **Event (client)**
@@ -312,7 +309,7 @@ TriggerEvent("sadoj-inventory:server:AddItemToInventory", inventoryName --[[ str
 
 <!-- tabs:end -->
 
-#### Depuis le nom de l'item
+#### Depuis le nom de l'item (sans métadonnées)
 
 <!-- tabs:start -->
 
@@ -337,6 +334,36 @@ TriggerEvent("sadoj-inventory:server:AddItemToInventoryFromName", inventoryName 
   * **inventoryName:** Nom de l'inventaire.
   * **itemName:** Nom de l'item.
   * **quantity:** Quantité de l'item.
+
+<!-- tabs:end -->
+
+#### Depuis le nom de l'item (avec métadonnées)
+
+<!-- tabs:start -->
+
+### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-inventory:server:AddItemToInventoryFromNameWithMetadata", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]], metadata --[[ table ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **quantity:** Quantité de l'item.
+  * **metadata:** Métadonnées de l'item.
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:server:AddItemToInventoryFromNameWithMetadata", inventoryName --[[ string ]], itemName --[[ string ]], quantity --[[ number ]], metadata --[[ table ]])
+```
+
+* **Paramètres:**
+  * **inventoryName:** Nom de l'inventaire.
+  * **itemName:** Nom de l'item.
+  * **quantity:** Quantité de l'item.
+  * **metadata:** Métadonnées de l'item.
 
 <!-- tabs:end -->
 
@@ -431,5 +458,93 @@ end)
 * **Paramètres:**
   * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
   * **item:** Item.
+
+<!-- tabs:end -->
+
+### Écouter le changement de poids de l'inventaire
+
+<!-- tabs:start -->
+
+### **Client**
+
+```lua
+RegisterNetEvent("sadoj-inventory:updateWeight", function(weight --[[ number ]])
+  -- Votre code ici.
+end)
+```
+
+* **Paramètres:**
+  * **weight:** Poids de l'inventaire (en kg).
+
+### **Serveur**
+
+```lua
+RegisterServerEvent("sadoj-inventory:updateWeight", function(weight --[[ number ]])
+  -- Votre code ici, possibilité d'utiliser `source` pour récupérer l'ID du joueur.
+end)
+```
+
+* **Paramètres:**
+  * **weight:** Poids de l'inventaire (en kg).
+
+<!-- tabs:end -->
+
+### Écouter quand on s'équipe d'une arme
+
+<!-- tabs:start -->
+
+### **Client**
+
+```lua
+RegisterNetEvent("sadoj-inventory:equipWeapon", function(item --[[ table ]], weaponConfig --[[ table ]])
+  -- Votre code ici.
+end)
+```
+
+* **Paramètres:**
+  * **item:** Item.
+  * **weaponConfig:** Configuration de l'arme.
+
+### **Serveur**
+
+```lua
+RegisterServerEvent("sadoj-inventory:equipWeapon", function(item --[[ table ]], weaponConfig --[[ table ]])
+  -- Votre code ici, possibilité d'utiliser `source` pour récupérer l'ID du joueur.
+end)
+```
+
+* **Paramètres:**
+  * **item:** Item.
+  * **weaponConfig:** Configuration de l'arme.
+
+<!-- tabs:end -->
+
+### Écouter quand on se déséquipe d'une arme
+
+<!-- tabs:start -->
+
+### **Client**
+
+```lua
+RegisterNetEvent("sadoj-inventory:deequipWeapon", function(item --[[ table ]], weaponConfig --[[ table ]])
+  -- Votre code ici.
+end)
+```
+
+* **Paramètres:**
+  * **item:** Item.
+  * **weaponConfig:** Configuration de l'arme.
+
+### **Serveur**
+
+```lua
+RegisterServerEvent("sadoj-inventory:deequipWeapon", function(item --[[ table ]], weaponConfig --[[ table ]])
+  -- Votre code ici, possibilité d'utiliser `source` pour récupérer l'ID du joueur.
+end)
+```
+
+* **Paramètres:**
+  * **item:** Item.
+  * **weaponConfig:** Configuration de l'arme.
 
 <!-- tabs:end -->
