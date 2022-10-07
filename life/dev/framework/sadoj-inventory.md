@@ -548,3 +548,33 @@ end)
   * **weaponConfig:** Configuration de l'arme.
 
 <!-- tabs:end -->
+
+### Bloquer l'ouverture de l'inventaire
+
+<!-- tabs:start -->
+
+### **Export (client)**
+
+```lua
+local token = --[[ string ]] = exports["sadoj-inventory"]:BlockInventory()
+```
+
+* **Retourne:**
+  * **token:** Token de déblocage de l'inventaire.
+
+<!-- tabs:end -->
+
+### Débloquer l'ouverture de l'inventaire
+
+<!-- tabs:start -->
+
+### **Export (client)**
+
+```lua
+exports["sadoj-inventory"]:UnblockInventory(token --[[ string ]])
+```
+
+* **Paramètres:**
+  * **token:** Token de déblocage de l'inventaire.
+
+<!-- tabs:end -->
