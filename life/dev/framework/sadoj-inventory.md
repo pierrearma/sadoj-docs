@@ -578,3 +578,20 @@ exports["sadoj-inventory"]:UnblockInventory(token --[[ string ]])
   * **token:** Token de déblocage de l'inventaire.
 
 <!-- tabs:end -->
+
+### Ajouter une action personnalisée sur un item
+
+<!-- tabs:start -->
+
+### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-inventory:server:AddItemAction", itemName --[[ string ]], action --[[ string ]], label --[[ string ]])
+```
+
+* **Paramètres:**
+  * **itemName:** Nom de l'item.
+  * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
+  * **label:** Label de l'action.
+
+<!-- tabs:end -->
