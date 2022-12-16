@@ -49,30 +49,6 @@ TriggerEvent("sadoj-persistentvehicles:server:ForgetVehicle", identifier --[[ st
   * **delete:** Si vrai, si vous souhaitez supprimé le véhicule.
 <!-- tabs:end -->
 
-
-### Vérification
-
-<!-- tabs:start -->
-#### **Export (client)**
-```lua
-local result --[[ boolean ]] = exports["sadoj-persistentvehicles"]:IdentifierIsRegistered(identifier --[[ string ]])
-```
-* **Paramètres:**
-  * **identifier:** L'identifiant du véhicule que vous souhaitez vérifier.
-* **Résultat:**
-  * **boolean:** Si le véhicule est enregistré.
-
-#### **Export (serveur)**
-```lua
-local result --[[ boolean ]] = exports["sadoj-persistentvehicles"]:IdentifierIsRegistered(identifier --[[ string ]])
-```
-
-* **Paramètres:**
-  * **identifier:** L'identifiant du véhicule que vous souhaitez vérifier.
-* **Résultat:**
-  * **boolean:** Si le véhicule est enregistré.
-<!-- tabs:end -->
-
 ### Evénement d'écoute
 
 <!-- tabs:start -->
@@ -103,6 +79,45 @@ end)
   * **serverId:** Le server ID du joueur qui vient de déclencher l'apparition du véhicule.
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
   * **value:** Toutes les données enregistrées par le script sous forme de tableau.
+<!-- tabs:end -->
+
+
+### Champ personnalisés
+
+<!-- tabs:start -->
+#### **Export (serveur)**
+
+```lua
+exports["sadoj-persistentvehicles"]:RegisterField(GetCurrentResourceName(), name --[[ string ]], function(vehicleIdentifier --[[ string ]], value --[[ table ]])
+
+end --[[ function ]])
+```
+* **Paramètres:**
+  * **name:** Le nom du champ.
+  * **func:** La fonction qui sera appelée pour récupérer la valeur du champ.
+<!-- tabs:end -->
+
+<!-- tabs:start -->
+#### **Export (serveur)**
+
+```lua
+exports["sadoj-persistentvehicles"]:RemoveField(name --[[ string ]])
+
+```
+* **Paramètres:**
+  * **name:** Le nom du champ.
+<!-- tabs:end -->
+
+
+<!-- tabs:start -->
+#### **Export (serveur)**
+
+```lua
+exports["sadoj-persistentvehicles"]:FieldIsRegistered(name --[[ string ]])
+
+```
+* **Paramètres:**
+  * **name:** Le nom du champ.
 <!-- tabs:end -->
 
 {docsify-updated}
