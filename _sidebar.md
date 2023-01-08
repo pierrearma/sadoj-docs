@@ -29,6 +29,7 @@
       * [sadoj-callbacks](life/dev/framework/sadoj-callbacks.md "sadoj-callbacks")
       * [Infos_Joueur](life/dev/framework/Infos_Joueur.md "Infos_Joueur")
       * [sadoj-inventory](life/dev/framework/sadoj-inventory.md "sadoj-inventory")
+      * [sadoj-licenses](life/dev/framework/sadoj-licenses.md "sadoj-licenses")
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
       * [sadoj-dispatch](life/dev/framework/sadoj-dispatch.md "sadoj-dispatch")
       * [Mini-jeux](life/dev/framework/minigames.md "Mini-jeux")
