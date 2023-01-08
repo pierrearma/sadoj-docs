@@ -92,7 +92,7 @@ local hasLicense --[[ boolean ]], uuid --[[ string ]] = exports["sadoj-licenses"
 <!-- tabs:start -->
 #### **Event (client)**
 ```lua
-local uuid --[[ string ]] = exports["sadoj-licenses"]:PlayerHasLicenseFromUuid(player --[[ number or string ]], licenseName --[[ string ]])
+local uuid --[[ string ]] = exports["sadoj-licenses"]:AddPlayerLicense(player --[[ number or string ]], licenseName --[[ string ]])
 ```
 * **Paramètres:**
   * **player:** Le joueur (pas le Server Id) ou l'identifiant du joueur.
@@ -102,7 +102,7 @@ local uuid --[[ string ]] = exports["sadoj-licenses"]:PlayerHasLicenseFromUuid(p
 
 #### **Event (serveur)**
 ```lua
-local uuid --[[ string ]] = exports["sadoj-licenses"]:PlayerHasLicenseFromUuid(player --[[ number or string ]], licenseName --[[ string ]])
+local uuid --[[ string ]] = exports["sadoj-licenses"]:AddPlayerLicense(player --[[ number or string ]], licenseName --[[ string ]])
 ```
 * **Paramètres:**
   * **player:** Le Server Id du joueur ou l'identifiant du joueur.
