@@ -9,6 +9,25 @@
 * Auteurs du script: Thomas
 * Emplacement: `[SCRIPT]/[BASE]/sadoj-licenses`
 
+La liste des licences est contenue dans un tableau. Chaque licence est un tableau contenant les informations suivantes:
+
+- `name`: Le nom de la licence (string)
+- `uuid`: L'identifiant de la licence (string)
+- `label`: Le label de la licence (string)
+- `desc`: La description de la licence (string)
+- `date`: La date d'obtention de la licence (string)
+- `state`: L'état de la licence (integer)
+  - `0`: Invalide
+  - `1`: Valide
+  - `2`: Suspendu
+  - `3`: Expiré
+- `isFake`: Si la licence est fausse (boolean)
+- `data`: Tableau avec les avec la vraie identité du détenteur de la distance (table)
+- `metadata`: Tableau avec comme clé le nom de la métadonnée et comme valeur un tableau avec comme clés value, displayed et canRemove (table)
+- `expirationDate`: La date d'expiration de la licence (facultatif) (string)
+- `endDateOfSuspension`: La date de fin de suspension de la licence (facultatif, uniquement si le statut et 2) (string)
+
+
 ## Utilisation
 
 ### Récupération
@@ -30,6 +49,29 @@ local result --[[ table ]] = exports["sadoj-licenses"]:GetPlayerLicenses(player 
 ```
 * **Paramètres:**
   * **player:** Le Server Id du joueur ou l'identifiant du joueur.
+* **Retour:**
+  * **result:** Les licences du joueur.
+<!-- tabs:end -->
+
+#### GetPlayerLicenseStateFromUuid
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+local result --[[ table ]] = exports["sadoj-licenses"]:GetPlayerLicenseStateFromUuid(player --[[ number or string ]], licenseUuid --[[ string ]])
+```
+* **Paramètres:**
+  * **player:** Le joueur (pas le Server Id) ou l'identifiant du joueur.
+  * **licenseUuid:** L'identifiant de la licence.
+* **Retour:**
+  * **result:** Les licences du joueur.
+
+#### **Event (serveur)**
+```lua
+local result --[[ table ]] = exports["sadoj-licenses"]:GetPlayerLicenseStateFromUuid(player --[[ number or string ]], licenseUuid --[[ string ]])
+```
+* **Paramètres:**
+  * **player:** Le Server Id du joueur ou l'identifiant du joueur.
+  * **licenseUuid:** L'identifiant de la licence.
 * **Retour:**
   * **result:** Les licences du joueur.
 <!-- tabs:end -->
@@ -85,6 +127,36 @@ local hasLicense --[[ boolean ]], uuid --[[ string ]] = exports["sadoj-licenses"
   * **hasLicense:** Si le joueur a la licence.
   * **uuid:** L'identifiant de la licence.
 <!-- tabs:end -->
+
+#### PlayerHasLicenseFromNameAndState
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+local hasLicense --[[ boolean ]], uuid --[[ string ]] = exports["sadoj-licenses"]:PlayerHasLicenseFromNameAndState(player --[[ number or string ]], licenseName --[[ string ]], state --[[ string ]], noFakeLicense --[[ boolean ]])
+```
+* **Paramètres:**
+  * **player:** Le joueur (pas le Server Id) ou l'identifiant du joueur.
+  * **licenseName:** Le nom de la licence.
+  * **state:** L'état de la licence.
+  * **noFakeLicense:** `true` si on ne veut pas de fausse licence, `false` sinon. Par défaut `false`.
+* **Retour:**
+  * **hasLicense:** Si le joueur a la licence.
+  * **uuid:** L'identifiant de la licence.
+
+#### **Event (serveur)**
+```lua
+local hasLicense --[[ boolean ]], uuid --[[ string ]] = exports["sadoj-licenses"]:PlayerHasLicenseFromNameAndState(player --[[ number or string ]], licenseName --[[ string ]], state --[[ string ]], noFakeLicense --[[ boolean ]])
+```
+* **Paramètres:**
+  * **player:** Le Server Id du joueur ou l'identifiant du joueur.
+  * **licenseName:** Le nom de la licence.
+  * **state:** L'état de la licence.
+  * **noFakeLicense:** `true` si on ne veut pas de fausse licence, `false` sinon. Par défaut `false`.
+* **Retour:**
+  * **hasLicense:** Si le joueur a la licence.
+  * **uuid:** L'identifiant de la licence.
+<!-- tabs:end -->
+
 
 ### Ajout
 
