@@ -80,4 +80,21 @@ exports["sadoj-npwd"]:RemoveMessageListener(id --[[ integer ]])
 
 <!-- tabs:end -->
 
+## API
+
+### Envoyer un SMS
+
+Requête POST à l'adresse `http://[IP]:[PORT]/sadoj-npwd/sendsms`.
+
+* **Paramètres (JSON):**
+  * **senderNumber:** Numéro du message d'origine. (string)
+  * **targetNumber:** Numéro du message cible. (string)
+  * **message:** Message à envoyer. (string)
+* **Retour:**
+  * En cas de succès:
+    * **success:** `true`
+  * En cas d'erreur:
+    * Erreur 400 avec un message d'erreur.
+
+
 {docsify-updated}
