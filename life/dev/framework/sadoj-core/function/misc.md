@@ -236,5 +236,23 @@ local coords --[[ vector3 ]] = exports["sadoj-core"]:GetGroundAtCoords(coords --
 
 <!-- tabs:end -->
 
+#### FormatNum
+
+Permet de formater un nombre en une chaîne de caractères. Exemple: `123456789` deviendra `$123,456,789`.
+
+<!-- tabs:start -->
+#### **Export (client/serveur)**
+
+```lua
+local result --[[ string ]] = exports["sadoj-core"]:FormatNum(number --[[ number ]][, decimals --[[ integer ]]])
+```
+
+* **Paramètres:**
+  * **number:** Le nombre à formater.
+  * **decimals:** Le nombre de décimales à garder (0 par défaut).
+* **Retour:**
+  * **result:** Le nombre formaté.
+
+<!-- tabs:end -->
 
 {docsify-updated}
