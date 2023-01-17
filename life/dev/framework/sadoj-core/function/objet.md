@@ -75,4 +75,32 @@ exports["sadoj-core"]:DeleteEntity(Entity --[[ Entity ]])
 
 <!-- tabs:end -->
 
+#### SetEntityDistanceCullingRadius
+
+Permet de modifier le culling radius depuis un event.
+
+<!-- tabs:start -->
+
+#### **Event (client)**
+
+```lua
+TriggerServerEvent("sadoj-core:SetEntityDistanceCullingRadius", netId --[[ integer ]], radius --[[ number ]])
+```
+
+* **Paramètres:**
+  * **netId:** Le netId de l'entité.
+  * **radius:** Le nouveau culling radius (0.0 pour réinitialiser).
+
+#### **Event (serveur)**
+
+```lua
+TriggerEvent("sadoj-core:SetEntityDistanceCullingRadius", netId --[[ integer ]], radius --[[ number ]])
+```
+
+* **Paramètres:**
+  * **netId:** Le netId de l'entité.
+  * **radius:** Le nouveau culling radius (0.0 pour réinitialiser).
+
+<!-- tabs:end -->
+
 {docsify-updated}
