@@ -50,6 +50,7 @@
       * [sadoj-vehiclecustom](life/dev/framework/sadoj-vehiclecustom.md "sadoj-vehiclecustom")
       * [sadoj-misc](life/dev/framework/sadoj-misc.md "sadoj-misc")
       * [sadoj-particles](life/dev/framework/sadoj-particles.md "sadoj-particles")
+      * [sadoj-vehiclelock](life/dev/framework/sadoj-vehiclelock.md "sadoj-vehiclelock")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
