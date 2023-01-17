@@ -14,13 +14,11 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 
 #### Menus
 
-- <kbd>F2</kbd> : Inventaire
 - <kbd>F7</kbd> : Menu Life
 - <kbd>F9</kbd> : Tenue
 - <kbd>F10</kbd> : Animations
 - <kbd>Maj G</kbd> + <kbd>F2</kbd> : Radio (item nécessaire)
-
-* Menu animal :
+- Menu animal :
   - <kbd>Alt</kbd> + <kbd>↖</kbd> : Ouvrir le menu
   - <kbd>T</kbd> : Faire suivre / arrêter le chien
   - <kbd>T</kbd> : Faire attaquer en visant la cible avec une arme
@@ -32,14 +30,12 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - **MAINTENIR** <kbd>F</kbd> : Sortir d'un véhicule en laissant le moteur allumé
 - <kbd>Maj G</kbd> + <kbd>E</kbd> : Pousser un véhicule
 - <kbd>G</kbd> : Descendre en rappel depuis un hélicoptère équipé *(il faut être en passager)*
-
-* Caméra embarquée *(uniquement sur les hélicoptères équipées)* :
+- Caméra embarquée *(uniquement sur les hélicoptères équipées)* :
   - <kbd>Maj G</kbd> : Activer / Désactiver la caméra d'un hélicoptère
   - <kbd>Espace</kbd> : Verrouiller / Déverrouiller le véhicule visé par la caméra
   - <kbd>G</kbd> : Activer / Désactiver le spotlight
   - <kbd>⇞</kbd> : Augmenter la sensibilité du mouvement de la caméra
   - <kbd>⇟</kbd> : Diminuer la sensibilité du mouvement de la caméra
-
 - Sirène *(uniquement les véhicules équipés)* :
   - <kbd>A</kbd> : Allumer / Eteindre les gyrophare
   - <kbd>Alt</kbd> : Activer / Désactiver la sirène primaire.
@@ -69,6 +65,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 #### Menus
 
+- <kbd>F2</kbd> : Inventaire
 - <kbd>X</kbd> : Menu radial
 - <kbd>.</kbd> : Téléphone
 - <kbd>!</kbd> : Préférences de l'interface
@@ -89,11 +86,12 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 - <kbd>←</kbd> : Clignotant gauche
 - <kbd>→</kbd> : Clignotant droit
 - <kbd>↓</kbd> : Warning
-- <kbd>L</kbd> : Activer / Désactiver le projecteur (spotlight) *(uniquement les véhicules équipés)*
-- <kbd>⇟</kbd> : Descendre le projecteur (spotlight) *(uniquement les véhicules équipés)*
-- <kbd>⇞</kbd> : Monter le projecteur (spotlight) *(uniquement les véhicules équipés)*
-- <kbd>Fin</kbd> : Pivoter le projecteur (spotlight) à droite *(uniquement les véhicules équipés)*
-- <kbd>Suppr</kbd> : Pivoter le projecteur (spotlight) à gauche *(uniquement les véhicules équipés)*
+- Projecteur (spotlight) *(uniquement les véhicules équipés)* :
+  - <kbd>L</kbd> : Activer / Désactiver le projecteur
+  - <kbd>⇟</kbd> : Descendre le projecteur
+  - <kbd>⇞</kbd> : Monter le projecteur
+  - <kbd>Fin</kbd> : Pivoter le projecteur
+  - <kbd>Suppr</kbd> : Pivoter le projecteur
 
 ## Commandes
 
@@ -102,7 +100,6 @@ Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kb
 - `fire` : Déclencher un incendie de structure
 - `carfire` : Mettre en feu le véhicule dans lequel vous êtes
 - `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
-- `e {nom de l'animation}` : Permet de jouer une animation *(voir menu animation)*
 - `PullOver` : Permet d'activer / désactiver les contrôles routier PNJ *(uniquement acessible par la police)*
 - `montant_braquage` : Récupérer le montant de tous les braquages d'un commerce PNJ de la soirée *(uniquement acessible par la police)*
 
