@@ -36,6 +36,7 @@
         * [Effets](life/dev/framework/sadoj-vehicle/effects.md "Effets")
         * [Airbags](life/dev/framework/sadoj-vehicle/airbags.md "Airbags")
         * [Divers](life/dev/framework/sadoj-vehicle/misc.md "Divers")
+        * [Autorisation des véhicule local](life/dev/framework/sadoj-vehicle/localvehiclepermission.md "Autorisation des véhicule local")
       * [sadoj-dispatch](life/dev/framework/sadoj-dispatch.md "sadoj-dispatch")
       * [Mini-jeux](life/dev/framework/minigames.md "Mini-jeux")
       * [sadoj-persistentprops](life/dev/framework/sadoj-persistentprops.md "sadoj-persistentprops")
@@ -51,6 +52,7 @@
       * [sadoj-misc](life/dev/framework/sadoj-misc.md "sadoj-misc")
       * [sadoj-particles](life/dev/framework/sadoj-particles.md "sadoj-particles")
       * [sadoj-vehiclelock](life/dev/framework/sadoj-vehiclelock.md "sadoj-vehiclelock")
+      * [sadoj-modelhide](life/dev/framework/sadoj-modelhide.md "sadoj-modelhide")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
