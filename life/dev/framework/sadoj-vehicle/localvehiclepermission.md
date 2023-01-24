@@ -1,4 +1,4 @@
-# sadoj-vehicle - Autorisation des véhicule local
+# sadoj-vehicle - Autorisation des véhicules local
 
 > Auteur de la page: Thomas.
 
@@ -36,7 +36,7 @@ local isAuthorized --[[ boolean ]] = exports["sadoj-vehicle"]:VehicleIsAuthorize
 * **Paramètres:**
   * **vehicle:** le véhicule où vous voulez savoir si il est autorisé.
 * **Retour:**
-  * **isValide:** `true` si le véhicule est autorisé, `false` sinon.
+  * **isAuthorized:** `true` si le véhicule est autorisé, `false` sinon.
 <!-- tabs:end -->
 
 {docsify-updated}
