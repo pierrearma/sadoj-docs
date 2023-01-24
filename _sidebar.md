@@ -36,7 +36,7 @@
         * [Effets](life/dev/framework/sadoj-vehicle/effects.md "Effets")
         * [Airbags](life/dev/framework/sadoj-vehicle/airbags.md "Airbags")
         * [Divers](life/dev/framework/sadoj-vehicle/misc.md "Divers")
-        * [Autorisation des véhicule local](life/dev/framework/sadoj-vehicle/localvehiclepermission.md "Autorisation des véhicule local")
+        * [Autorisation des véhicules local](life/dev/framework/sadoj-vehicle/localvehiclepermission.md "Autorisation des véhicules local")
       * [sadoj-dispatch](life/dev/framework/sadoj-dispatch.md "sadoj-dispatch")
       * [Mini-jeux](life/dev/framework/minigames.md "Mini-jeux")
       * [sadoj-persistentprops](life/dev/framework/sadoj-persistentprops.md "sadoj-persistentprops")
