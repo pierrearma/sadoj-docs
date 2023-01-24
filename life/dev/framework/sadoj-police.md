@@ -11,25 +11,6 @@
 
 ## Utilisation
 
-### Menottes
-
-Cet export vous permet de vérifier si un Ped est menotté.
-
-<!-- tabs:start -->
-
-#### **Export (client)**
-
-```lua
-local result --[[ boolean ]] = exports["sadoj-police"]:IsEntityHandCuff(ped  --[[ Ped ]])
-```
-
-* **Paramètres:**
-  * **ped:** Le Ped que vous souhaitez vérifier.
-* **Résultats:**
-  * `true` si le Ped est menotté, `false` sinon.
-
-<!-- tabs:end -->
-
 ### Escorte
 
 Cet export vous permet de vérifier si il est escorté par un joueur.
