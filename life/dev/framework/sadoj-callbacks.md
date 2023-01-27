@@ -63,7 +63,7 @@ exports["sadoj-callbacks"]:TriggerServerCallback(name --[[ string ]][, param1 --
 ### **Export (client)**
 
 ```lua
-exports["sadoj-callbacks"]:RegisterClientCallback(name --[[ string ]], function(source, param1, param2, ...)
+exports["sadoj-callbacks"]:RegisterClientCallback(name --[[ string ]], function(param1, param2, ...)
     -- votre code ici
     local result1 = "result1"
     local result2 = "result2"
