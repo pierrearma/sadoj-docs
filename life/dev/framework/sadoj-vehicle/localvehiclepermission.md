@@ -27,11 +27,11 @@ exports["sadoj-vehicle"]:RemoveLocalVehiclePermission(vehicle --[[ vehicle ]])
   * **vehicle:** le véhicule où vous voulez retirer l'autorisation.
 <!-- tabs:end -->
 
-## VehicleIsAuthorized
+## LocalVehicleIsAuthorized
 <!-- tabs:start -->
 ### **Export (client)**
 ```lua
-local isAuthorized --[[ boolean ]] = exports["sadoj-vehicle"]:VehicleIsAuthorized(vehicle --[[ vehicle ]])
+local isAuthorized --[[ boolean ]] = exports["sadoj-vehicle"]:LocalVehicleIsAuthorized(vehicle --[[ vehicle ]])
 ```
 * **Paramètres:**
   * **vehicle:** le véhicule où vous voulez savoir si il est autorisé.

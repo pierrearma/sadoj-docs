@@ -32,7 +32,7 @@
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
       * [sadoj-vehicle](life/dev/framework/sadoj-vehicle/index.md "sadoj-vehicle")
         * [Dégâts](life/dev/framework/sadoj-vehicle/damage.md "Dégâts")
-        * [Essence/Huile/Santé](life/dev/framework/sadoj-vehicle/fuel_oil_dirt.md "Essence/Huile/Santé")
+        * [Essence/Huile/Saleté](life/dev/framework/sadoj-vehicle/fuel_oil_dirt.md "Essence/Huile/Saleté")
         * [Effets](life/dev/framework/sadoj-vehicle/effects.md "Effets")
         * [Airbags](life/dev/framework/sadoj-vehicle/airbags.md "Airbags")
         * [Divers](life/dev/framework/sadoj-vehicle/misc.md "Divers")

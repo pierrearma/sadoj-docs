@@ -16,7 +16,6 @@ Chaque dégâts (visuel et mécanique) d'un véhicule est stocké sous forme de 
 * **BodyHealth** : La vie du corps du moteur (type `number`)  *(**Minimum**: `0`, **Maximum:** `1000`)*
 * **PetrolTankHealth** : La vie du réservoir de carburant (type `number`)  *(**Minimum**: `0`, **Maximum:** `1000`)*
   * **650**: Le réservoir commence à fuir
-* **NumberVehicleDeformation** : Le nombre de points de déformation sur le véhicule (type `number`)
 * **Deformations** : Tableau avec les positions et l'intensité de tout les point de déformation (type `table`)
 ```lua
   {
@@ -444,6 +443,80 @@ exports["sadoj-vehicle"]:SetVehicleEngineHealth(vehicle --[[ vehicle ]], health 
   * **vehicle:** Le véhicule dont on veut appliquer la santé du moteur.
   * **health:** La santé du moteur du véhicule.
 <!-- tabs:end -->
+
+### SetVehicleBodyHealth
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleBodyHealth(vehicle --[[ vehicle ]], health --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer la santé
+  * **health:** La santé
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleBodyHealth(vehicle --[[ vehicle ]], health --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer la santé
+  * **health:** La santé
+<!-- tabs:end -->
+
+### SetVehiclePetrolTankHealth
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehiclePetrolTankHealth(vehicle --[[ vehicle ]], health --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer la santé du réservoir de carburant.
+  * **health:** La santé du réservoir.
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehiclePetrolTankHealth(vehicle --[[ vehicle ]], health --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer la santé du réservoir de carburant.
+  * **health:** La santé du réservoir.
+<!-- tabs:end -->
+
+### SetVehicleDeformations
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleDeformations(vehicle --[[ vehicle ]], deformations --[[ table ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer les déformations.
+  * **deformations:** Tableau contenant les déformations du véhicule.
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleDeformations(vehicle --[[ vehicle ]], deformations --[[ table ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer les déformations.
+  * **deformations:** Tableau contenant les déformations du véhicule.
+<!-- tabs:end -->
+
+### SetVehicleWheelsHealth
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleWheelsHealth(vehicle --[[ vehicle ]], wheelsHealth --[[ table ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer les degats des roues.
+  * **deformations:** Tableau contenant les des degats des roues.
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleWheelsHealth(vehicle --[[ vehicle ]], wheelsHealth --[[ table ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule dont on veut appliquer les degats des roues.
+  * **deformations:** Tableau contenant les des degats des roues.
+<!-- tabs:end -->
+
+
 
 En cours...
 
