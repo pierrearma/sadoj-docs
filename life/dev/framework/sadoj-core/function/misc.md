@@ -255,4 +255,49 @@ local result --[[ string ]] = exports["sadoj-core"]:FormatNum(number --[[ number
 
 <!-- tabs:end -->
 
+
+#### GetControlOfEntity
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ string ]] = exports["sadoj-core"]:GetControlOfEntity(entity --[[ entity ]])
+```
+
+* **Paramètres:**
+  * **entity:** L'entité où vous souhaitez avoir le contrôle
+* **Retour:**
+  * **result:** `true` si vous avez le contrôle de l'entité, `false` sinon.
+
+<!-- tabs:end -->
+
+#### GetGroundAtCoords
+
+<!-- tabs:start -->
+#### **Export (client)**
+
+```lua
+local result --[[ string ]] = exports["sadoj-core"]:GetGroundAtCoords(coords --[[ vector3 ]], maxDist --[[ number ]], intersectWorld --[[ boolean ]], intersectVehicles --[[ boolean ]], intersectPeds --[[ boolean ]], intersectPedsRagdoll --[[ boolean ]], intersectObjects --[[ boolean ]], intersectPickup --[[ boolean ]], intersectGlass --[[ boolean ]], intersectRiver --[[ boolean ]], intersectFoliage --[[ boolean ]], intersectEverything --[[ boolean ]])
+```
+* **Paramètres:**
+  * **coords:** Les coordonnées où vous souhaitez obtenir le sol.
+  * **maxDist:** La distance maximale à parcourir pour trouver le sol (`50.0` par défaut).
+  * **intersectWorld:** Si vous souhaitez que la function prennent en compte le sol du le monde (`false` par défaut).
+  * **intersectVehicles:** Si vous souhaitez que la function prennent en compte les véhicules (`false` par défaut).
+  * **intersectPeds:** Si vous souhaitez que la function prennent en compte les peds (`false` par défaut).
+  * **intersectPedsRagdoll:** Si vous souhaitez que la function prennent en compte les peds ragdoll (`false` par défaut).
+  * **intersectObjects:** Si vous souhaitez que la function prennent en compte les objets (`false` par défaut).
+  * **intersectPickup:** Si vous souhaitez que la function prennent en compte les pickups (`false` par défaut).
+  * **intersectGlass:** Si vous souhaitez que la function prennent en compte les vitres (`false` par défaut).
+  * **intersectRiver:** Si vous souhaitez que la function prennent en compte les rivières (`false` par défaut).
+  * **intersectFoliage:** Si vous souhaitez que la function prennent en compte le feuillage (`false` par défaut).
+  * **intersectEverything:** Si vous souhaitez que la function prennent en compte tout (`false` par défaut).
+* **Retour:**
+  * **result:** Les coordonnées du sol (`nil` si aucun sol).
+
+
+<!-- tabs:end -->
+
+
 {docsify-updated}

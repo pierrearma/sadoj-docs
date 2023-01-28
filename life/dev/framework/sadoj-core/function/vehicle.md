@@ -75,6 +75,44 @@ local result --[[ number ]] = exports["sadoj-core"]:GetVehicleSeatPedIsUsing(ped
 
 <!-- tabs:end -->
 
+#### GetAllPedsInVehicle
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:GetAllPedsInVehicle(vehicle --[[ Vehicle ]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Véhicule à vérifier.
+* **Retour:**
+  * **result:** Tableau avec la liste des peds.
+    ```lua
+    [ 115912, 15912, 1981561, 19211, 18161, ...]
+    ```
+<!-- tabs:end -->
+
+#### GetAllPlayerInVehicle
+
+<!-- tabs:start -->
+
+#### **Export (client)**
+
+```lua
+local result --[[ number ]] = exports["sadoj-core"]:GetAllPlayerInVehicle(vehicle --[[ Vehicle ]])
+```
+
+* **Paramètres:**
+  * **vehicle:** Véhicule à vérifier.
+* **Retour:**
+  * **result:** Tableau avec la liste des joueurs.
+    ```lua
+    [ 1, 2, 3, 4, 5, ...]
+    ```
+<!-- tabs:end -->
+
 #### IsVehicleEmpty
 
 <!-- tabs:start -->
