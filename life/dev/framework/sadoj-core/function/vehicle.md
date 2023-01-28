@@ -94,14 +94,14 @@ local result --[[ number ]] = exports["sadoj-core"]:GetAllPedsInVehicle(vehicle 
     ```
 <!-- tabs:end -->
 
-#### GetAllPlayerInVehicle
+#### GetAllPlayersInVehicle
 
 <!-- tabs:start -->
 
 #### **Export (client)**
 
 ```lua
-local result --[[ number ]] = exports["sadoj-core"]:GetAllPlayerInVehicle(vehicle --[[ Vehicle ]])
+local result --[[ number ]] = exports["sadoj-core"]:GetAllPlayersInVehicle(vehicle --[[ Vehicle ]])
 ```
 
 * **Paramètres:**
