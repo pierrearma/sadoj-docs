@@ -30,6 +30,7 @@
       * [sadoj-inventory](life/dev/framework/sadoj-inventory.md "sadoj-inventory")
       * [sadoj-licenses](life/dev/framework/sadoj-licenses.md "sadoj-licenses")
       * [sadoj-keyboard](life/dev/framework/sadoj-keyboard.md "sadoj-keyboard")
+      * [sadoj-sound](life/dev/framework/sadoj-sound.md "sadoj-sound")
       * [sadoj-vehicle](life/dev/framework/sadoj-vehicle/index.md "sadoj-vehicle")
         * [Dégâts](life/dev/framework/sadoj-vehicle/damage.md "Dégâts")
         * [Essence/Huile/Saleté](life/dev/framework/sadoj-vehicle/fuel_oil_dirt.md "Essence/Huile/Saleté")
