@@ -506,20 +506,73 @@ exports["sadoj-vehicle"]:SetVehicleWheelsHealth(vehicle --[[ vehicle ]], wheelsH
 ```
 * **Paramètres:**
   * **vehicle:** Le véhicule dont on veut appliquer les degats des roues.
-  * **deformations:** Tableau contenant les des degats des roues.
+  * **wheelsHealth:** Tableau contenant les des degats des roues.
 ### **Export (serveur)**
 ```lua
 exports["sadoj-vehicle"]:SetVehicleWheelsHealth(vehicle --[[ vehicle ]], wheelsHealth --[[ table ]])
 ```
 * **Paramètres:**
   * **vehicle:** Le véhicule dont on veut appliquer les degats des roues.
-  * **deformations:** Tableau contenant les des degats des roues.
+  * **wheelsHealth:** Tableau contenant les des degats des roues.
 <!-- tabs:end -->
 
+### SetVehicleWheelHealth
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleWheelHealth(vehicle --[[ vehicle ]], wheelId --[[ number ]], wheelHealth --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule
+  * **wheelId:** L'Id de la roue
+  * **wheelHealth:** La santé de la roue
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleWheelHealth(vehicle --[[ vehicle ]], wheelId --[[ number ]], wheelHealth --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule
+  * **wheelId:** L'Id de la roue
+  * **wheelHealth:** La santé de la roue
+<!-- tabs:end -->
 
+### SetVehicleTyresHealth
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleTyresHealth(vehicle --[[ vehicle ]], tyresHealth --[[ table ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule
+  * **tyresHealth:** La santé des pneus
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleTyresHealth(vehicle --[[ vehicle ]], tyresHealth --[[ table ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule
+  * **tyresHealth:** La santé des pneus
+<!-- tabs:end -->
 
-En cours...
-
+### SetVehicleTyreHealth
+<!-- tabs:start -->
+### **Export (client)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleTyreHealth(vehicle --[[ vehicle ]], tyreId --[[ number ]], tyreHealth --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule
+  * **tyreId:** L'Id du pneu
+  * **tyreHealth:** La santé du pneu
+### **Export (serveur)**
+```lua
+exports["sadoj-vehicle"]:SetVehicleTyreHealth(vehicle --[[ vehicle ]], tyreId --[[ number ]], tyreHealth --[[ number ]])
+```
+* **Paramètres:**
+  * **vehicle:** Le véhicule
+  * **tyreId:** L'Id du pneu
+  * **tyreHealth:** La santé du pneu
+<!-- tabs:end -->
 
 
 {docsify-updated}
