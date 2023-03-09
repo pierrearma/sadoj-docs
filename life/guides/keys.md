@@ -17,7 +17,6 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 - <kbd>F7</kbd> : Menu Life
 - <kbd>F9</kbd> : Tenue
 - <kbd>F10</kbd> : Animations
-- <kbd>Maj G</kbd> + <kbd>F2</kbd> : Radio (item nécessaire)
 - Menu animal :
   - <kbd>Alt</kbd> + <kbd>↖</kbd> : Ouvrir le menu
   - <kbd>T</kbd> : Faire suivre / arrêter le chien
