@@ -47,6 +47,8 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 - `hud` : Ouvre le menu des options du HUD.
 - `dark` : Permet de savoir quelles actions illégales sont possibles.
 - `goto <code postal>` : Place un marqueur sur la carte à la position du code postal `<code postal>`.
+- `me <action>` : Affiche un message au dessus de votre tête.
 - `mdt` : Ouvre le MDT.
+- `cycleproximity` : Permet de changer la portée de sa voix.
 - `Adresse` : Copie votre adresse actuelle dans le presse-papier.
 - `ccv+` : Copie vos coordonnées actuelles et votre angle de vue dans le presse-papier *(toutes les commandes de CopyCoords sont disponibles sur le Discord Dev)*.
