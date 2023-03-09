@@ -28,7 +28,7 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 
 - `emotemenu` : Ouvre le menu des animations.
 - `e <animation>` : Déclenche l'animation `<animation>` *(voir la liste des animations disponibles dans le menu)*.
-- `emotebind <numéro>` : Permet de lier une animation à une touche `<numéro>` *(4 à 9) du pavé numérique*.
+- `emotebind <numéro> <animation>` : Permet de lier une animation à une touche `<numéro>` *(4 à 9) du pavé numérique* `<animation>` *(voir la liste des animations disponibles dans le menu)*..
 - `nearby <animation>` : Permet de faire une animation partagée avec le joueur à proximité `<animation>` *(voir la liste des animations disponibles dans le menu)*.
 
 ## Feux
