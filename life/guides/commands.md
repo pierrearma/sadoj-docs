@@ -28,6 +28,8 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 
 - `emotemenu` : Ouvre le menu des animations.
 - `e <animation>` : Déclenche l'animation `<animation>` *(voir la liste des animations disponibles dans le menu)*.
+- `emotebind <numéro>` : Permet de lier une animation à une touche `<numéro>` *(4 à 9) du pavé numérique*.
+- `nearby <animation>` : Permet de faire une animation partagée avec le joueur à proximité `<animation>` *(voir la liste des animations disponibles dans le menu)*.
 
 ## Feux
 
@@ -39,6 +41,11 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 
 - `ToggleSeatbelt` : Active/désactive la ceinture de sécurité.
 - `vhmenu` : Ouvre le menu véhicule.
+- `VehicleIndicatorSystem <Left / Right / Warnig>` : Active les clignotants du véhicule.
+- `spotlight` : Active/désactive le spotlight du véhicule *(si équiper & config)*.
+- `spotlightaim <up / down / left / right>` : Permet de diriger le spotlight du véhicule.
+- `radar_remote` : Permet d'ouvrir le menu radar *(Uniquement accessible pour la police)*.
+- `als` : Active/désactive le système anti-lag d'un véhicule *(Seulement si installer sur le véhicule)*.
 
 ## Autre
 
@@ -52,3 +59,6 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 - `cycleproximity` : Permet de changer la portée de sa voix.
 - `Adresse` : Copie votre adresse actuelle dans le presse-papier.
 - `ccv+` : Copie vos coordonnées actuelles et votre angle de vue dans le presse-papier *(toutes les commandes de CopyCoords sont disponibles sur le Discord Dev)*.
+- `twtoggle` : Active/désactive les zones d'influence des gangs sur la map.
+- `takeobjet` : Permet de prendre un objet sur le sol devant vous.
+- `saveposition` : Permet de sauvegarder votre position actuelle.
