@@ -438,7 +438,7 @@ TriggerEvent("sadoj-inventory:server:TransferItemFromInventoryToInventoryFromUui
 ### **Client**
 
 ```lua
-RegisterNetEvent("sadoj-inventory:itemAction", function(action --[[ string ]], item --[[ table ]])
+RegisterNetEvent("sadoj-inventory:itemAction", function(action --[[ string ]], item --[[ table ]], selectAll --[[ boolean ]])
   -- Votre code ici.
 end)
 ```
@@ -446,11 +446,12 @@ end)
 * **Paramètres:**
   * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
   * **item:** Item.
+  * **selectAll:** Booléen indiquant si l'action a été effectuée sur toute la quantité de l'item.
 
 ### **Serveur**
 
 ```lua
-RegisterServerEvent("sadoj-inventory:itemAction", function(action --[[ string ]], item --[[ table ]])
+RegisterServerEvent("sadoj-inventory:itemAction", function(action --[[ string ]], item --[[ table ]] --[[ selectAll --[[ boolean ]]])
   -- Votre code ici.
 end)
 ```
@@ -458,6 +459,7 @@ end)
 * **Paramètres:**
   * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
   * **item:** Item.
+  * **selectAll:** Booléen indiquant si l'action a été effectuée sur toute la quantité de l'item.
 
 <!-- tabs:end -->
 
@@ -586,12 +588,13 @@ exports["sadoj-inventory"]:UnblockInventory(token --[[ string ]])
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:server:AddItemAction", itemName --[[ string ]], action --[[ string ]], label --[[ string ]])
+TriggerEvent("sadoj-inventory:server:AddItemAction", itemName --[[ string ]], action --[[ string ]], label --[[ string ]], selectAllLabel --[[ string ]])
 ```
 
 * **Paramètres:**
   * **itemName:** Nom de l'item.
   * **action:** Action (par exemple `give`, `throw`, `use`, etc...).
-  * **label:** Label de l'action.
+  * **label:** Label de l'action (par exemple `Donner`, `Jeter`, `Utiliser`, etc...).
+  * **selectAllLabel:** Label de l'action pour tout sélectionner (par exemple `Tout donner`, `Tout jeter`, etc...).
 
 <!-- tabs:end -->
