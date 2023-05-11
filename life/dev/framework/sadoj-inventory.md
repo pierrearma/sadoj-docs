@@ -588,7 +588,7 @@ exports["sadoj-inventory"]:UnblockInventory(token --[[ string ]])
 ### **Event (serveur)**
 
 ```lua
-TriggerEvent("sadoj-inventory:server:AddItemAction", itemName --[[ string ]], action --[[ string ]][, label --[[ string ]], selectAllLabel --[[ string ]]])
+TriggerEvent("sadoj-inventory:server:AddItemAction", itemName --[[ string ]], action --[[ string ]], label --[[ string ]][, selectAllLabel --[[ string ]]])
 ```
 
 * **Paramètres:**
