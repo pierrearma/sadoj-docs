@@ -55,6 +55,7 @@
       * [sadoj-particles](life/dev/framework/sadoj-particles.md "sadoj-particles")
       * [sadoj-vehiclelock](life/dev/framework/sadoj-vehiclelock.md "sadoj-vehiclelock")
       * [sadoj-modelhide](life/dev/framework/sadoj-modelhide.md "sadoj-modelhide")
+      * [sadoj-ropes](life/dev/framework/sadoj-ropes.md "sadoj-ropes")
     * Tutoriels
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
