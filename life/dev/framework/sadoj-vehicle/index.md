@@ -13,10 +13,12 @@ Il permet de gérer les dégâts, l'essence, l'huile, les effets, les airbags et
 
 ## Modules
 
-* [Dégâts](life/dev/framework/sadoj-vehicle/damage.md "Dégâts")
+<!-- * [Dégâts](life/dev/framework/sadoj-vehicle/damage.md "Dégâts") -->
+<!-- * [Effets](life/dev/framework/sadoj-vehicle/effects.md "Effets") -->
 * [Essence/Huile/Saleté](life/dev/framework/sadoj-vehicle/fuel_oil_dirt.md "Essence/Huile/Saleté")
-* [Effets](life/dev/framework/sadoj-vehicle/effects.md "Effets")
 * [Airbags](life/dev/framework/sadoj-vehicle/airbags.md "Airbags")
+* [Kilométrage](life/dev/framework/sadoj-vehicle/mileage.md "Kilométrage")
+* [Couleur des lumières](life/dev/framework/sadoj-vehicle/lightsColor.md "Couleur des lumières")
 * [Divers](life/dev/framework/sadoj-vehicle/misc.md "Divers")
 * [Autorisation des véhicules local](life/dev/framework/sadoj-vehicle/localvehiclepermission.md "Autorisation des véhicules local")
 
