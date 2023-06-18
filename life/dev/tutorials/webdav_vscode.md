@@ -1,4 +1,4 @@
-# WebDAV avec Visual Studio Cod
+# WebDAV avec Visual Studio Code
 
 > Auteur de la page: Thomas.
 
@@ -18,7 +18,7 @@
 
 3. Recherchez "WebDAV" et installez l'extension "WebDAV Folders" de Jonpfote
 
-![step_1_2](../../../_media/tutorials/webdav_vscode/step_1_2.png)
+![step_1_3](../../../_media/tutorials/webdav_vscode/step_1_3.png)
 
 ## Étape 2 : Créez un espace de travail
 
