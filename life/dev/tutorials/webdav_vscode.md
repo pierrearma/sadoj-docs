@@ -6,7 +6,7 @@
 
 ### Informations
 
-* Auteurs de l'extansion: Jonpfote
+* Auteurs de l'extension: Jonpfote
 
 ## Étape 1 : Installation de l'extension
 
