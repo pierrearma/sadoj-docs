@@ -62,6 +62,7 @@
       * [Formattage du texte](https://wiki.rage.mp/index.php?title=Fonts_and_Colors "Formattage du texte")
       * [Whitelist](life/dev/tutorials/whitelist.md "Whitelist")
       * [Alarme anti-intrusion](life/dev/tutorials/sadoj-motiondetector.md "Alarme anti-intrusion")
+      * [WebDAV avec Visual Studio Code](life/dev/tutorials/webdav_vscode.md "WebDAV avec Visual Studio Code")
 * SADoJ Docs
   * [Installer le site localement](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
