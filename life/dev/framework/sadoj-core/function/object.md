@@ -103,6 +103,8 @@ TriggerEvent("sadoj-core:SetEntityDistanceCullingRadius", netId --[[ integer ]],
 <!-- tabs:end -->
 
 
+> [!warning]
+> Pour toute utilisation `côté client` des fonctions ci-dessous, il est nécessaire de vérifier que le joueur a bien le contrôle de l'entité. Pour cela, vous pouvez utiliser la native `NetworkHasControlOfEntity`.
 
 #### SetDisableBreaking
 
