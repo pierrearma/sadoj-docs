@@ -252,7 +252,6 @@ local result --[[ string ]] = exports["sadoj-core"]:FormatNum(number --[[ number
   * **decimals:** Le nombre de décimales à garder (0 par défaut).
 * **Retour:**
   * **result:** Le nombre formaté.
-
 <!-- tabs:end -->
 
 
@@ -295,9 +294,21 @@ local result --[[ string ]] = exports["sadoj-core"]:GetGroundAtCoords(coords --[
   * **intersectEverything:** Si vous souhaitez que la function prennent en compte tout (`false` par défaut).
 * **Retour:**
   * **result:** Les coordonnées du sol (`nil` si aucun sol).
-
-
 <!-- tabs:end -->
 
+#### GetEntityFromStateBagName
+<!-- tabs:start -->
+#### **Export (client/serveur)**
+
+```lua
+local entity --[[ entity ]] = exports["sadoj-core"]:GetEntityFromStateBagName(bagName --[[ string ]][, requestCollision --[[ boolean ]]])
+```
+
+* **Paramètres:**
+  * **bagName:** Le nom du stateBag.
+  * **requestCollision:** Si vous souhaitez que la function prennent en compte la collision (`true` par défaut).
+* **Retour:**
+  * **entity:** L'entité du stateBag (`0` si aucune entité).
+<!-- tabs:end -->
 
 {docsify-updated}
