@@ -14,7 +14,7 @@
           * [Joueur](life/dev/framework/sadoj-core/function/player.md "Joueur")
           * [Ped](life/dev/framework/sadoj-core/function/ped.md "Ped")
           * [Entité](life/dev/framework/sadoj-core/function/entity.md)
-          * [Objet](life/dev/framework/sadoj-core/function/objet.md "Objet")
+          * [Object](life/dev/framework/sadoj-core/function/object.md "Object")
           * [Streaming](life/dev/framework/sadoj-core/function/streaming.md "Streaming")
           * [Débogage](life/dev/framework/sadoj-core/function/debug.md "Débogage")
           * [Webhook](life/dev/framework/sadoj-core/function/webhook.md "Webhook")

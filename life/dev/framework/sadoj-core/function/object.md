@@ -1,4 +1,4 @@
-# sadoj-core - Fonctions - Objet
+# sadoj-core - Fonctions - Object
 
 > Auteur de la page: Pierre & Thomas.
 
@@ -100,7 +100,48 @@ TriggerEvent("sadoj-core:SetEntityDistanceCullingRadius", netId --[[ integer ]],
 * **Paramètres:**
   * **netId:** Le netId de l'entité.
   * **radius:** Le nouveau culling radius (0.0 pour réinitialiser).
-
 <!-- tabs:end -->
+
+
+
+#### SetDisableBreaking
+
+<!-- tabs:start -->
+#### **Export (client & serveur)**
+```lua
+exports["sadoj-core"]:SetDisableBreaking(object --[[ object ]], toggle --[[ boolean ]])
+```
+* **Paramètres:**
+  * **object:** L'objet à modifier.
+  * **toggle:** Si l'objet peut être cassé ou non.
+#### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-core:server:object:SetDisableBreaking", netId --[[ integer ]], toggle --[[ boolean ]])
+```
+* **Paramètres:**
+  * **netId:** Le netId de l'objet à modifier.
+  * **toggle:** Si l'objet peut être cassé ou non.
+<!-- tabs:end -->
+
+#### SetDisableFragDamage
+
+<!-- tabs:start -->
+#### **Export (client & serveur)**
+```lua
+exports["sadoj-core"]:SetDisableFragDamage(object --[[ object ]], toggle --[[ boolean ]])
+```
+* **Paramètres:**
+  * **object:** L'objet à modifier.
+  * **toggle:** Si l'objet peut être cassé en plusieurs morceaux ou non.
+#### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-core:server:object:SetDisableFragDamage", netId --[[ integer ]], toggle --[[ boolean ]])
+```
+* **Paramètres:**
+  * **netId:** Le netId de l'objet à modifier.
+  * **toggle:** Si l'objet peut être cassé en plusieurs morceaux ou non.
+<!-- tabs:end -->
+
+
 
 {docsify-updated}
