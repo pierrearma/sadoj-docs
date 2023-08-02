@@ -142,27 +142,6 @@ local Name --[[ string ]] = exports["sadoj-garages"]:GetGaragesNameByGarageId(ga
   * **garageId:** ID du garage duquel vous souhaitez récupérer le nom.
 <!-- tabs:end -->
 
-### GetVehicleIdentifier
-
-<!-- tabs:start -->
-#### **Export (client)**
-```lua
-local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(vehicle --[[ vehicle ]])
-```
-* **Paramètres:**
-  * **vehicle:** Le véhicule que vous souhaitez récupérer l'identifiant.
-* **Résultats:**
-  * **identifier:** L'identifiant du véhicule.
-
-#### **Export (serveur)**
-```lua
-local identifier --[[ string ]] = exports["sadoj-garages"]:GetVehicleIdentifier(vehicle --[[ vehicle ]])
-```
-* **Paramètres:**
-  * **vehicle:** Le véhicule que vous souhaitez récupérer l'identifiant.
-* **Résultats:**
-  * **identifier:** L'identifiant du véhicule.
-<!-- tabs:end -->
 
 ### Conditions de rangement
 
