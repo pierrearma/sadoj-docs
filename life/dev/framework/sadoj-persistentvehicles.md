@@ -51,11 +51,40 @@ TriggerEvent("sadoj-persistentvehicles:server:ForgetVehicle", identifier --[[ st
 
 ### Evénement d'écoute
 
+#### Savoir quand un véhicule est enregistré
+
 <!-- tabs:start -->
 #### **Event (client)**
 
 ```lua
-RegisterNetEvent("sadoj-persistentvehicles/VehicleSpawn", function(netId, value)
+RegisterNetEvent("sadoj-persistentvehicles:OnVehicleRegistered", function(identifier, netId)
+
+  --Mettez votre code ici
+
+end)
+```
+* **Résultats:**
+  * **identifier:** L'identifiant de l'enregistrement.
+  * **netId:** Le Network ID du véhicule enregistré.
+#### **Event (serveur)**
+```lua
+RegisterServerEvent("sadoj-persistentvehicles:OnVehicleRegistered", function(identifier, vehicle)
+
+  --Mettez votre code ici
+
+end)
+```
+* **Résultats:**
+  * **identifier:** L'identifiant de l'enregistrement.
+  * **vehicle:** Le véhicule enregistré.
+<!-- tabs:end -->
+
+#### Savoir quand un véhicule apparaît
+
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+RegisterNetEvent("sadoj-persistentvehicles:OnVehicleSpawn", function(netId, value)
 
   --Mettez votre code ici
 
@@ -64,21 +93,34 @@ end)
 * **Résultats:**
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
   * **value:** Toutes les données enregistrées par le script sous forme de tableau.
-
 #### **Event (serveur)**
-
 ```lua
-RegisterServerEvent("sadoj-persistentvehicles/server/VehicleSpawn", function(serverId, netId, value)
+RegisterServerEvent("sadoj-persistentvehicles:OnVehicleSpawn", function(serverId, netId, value)
 
   --Mettez votre code ici
 
 end)
 ```
-
 * **Résultats:**
   * **serverId:** Le server ID du joueur qui vient de déclencher l'apparition du véhicule.
   * **netId:** Le Network ID du véhicule qui vient d'apparaître.
   * **value:** Toutes les données enregistrées par le script sous forme de tableau.
+<!-- tabs:end -->
+
+#### Savoir quand un véhicule est désenregistré
+
+<!-- tabs:start -->
+#### **Event (serveur)**
+```lua
+RegisterNetEvent("sadoj-persistentvehicles:OnVehicleForgotten", function(identifier, vehicle)
+
+  --Mettez votre code ici
+
+end)
+```
+* **Résultats:**
+  * **identifier:** L'identifiant de l'enregistrement.
+  * **vehicle:** Le véhicule désenregistré.
 <!-- tabs:end -->
 
 
