@@ -36,6 +36,7 @@
       * [sadoj-vehicle](life/dev/framework/sadoj-vehicle/index.md "sadoj-vehicle")
         <!-- * [Dégâts](life/dev/framework/sadoj-vehicle/damage.md "Dégâts") -->
         <!-- * [Effets](life/dev/framework/sadoj-vehicle/effects.md "Effets") -->
+        * [Identification/Plaque](life/dev/framework/sadoj-vehicle/identification_plate.md "Identification/Plaque")
         * [Essence/Huile/Saleté](life/dev/framework/sadoj-vehicle/fuel_oil_dirt.md "Essence/Huile/Saleté")
         * [Airbags](life/dev/framework/sadoj-vehicle/airbags.md "Airbags")
         * [Kilométrage](life/dev/framework/sadoj-vehicle/mileage.md "Kilométrage")
