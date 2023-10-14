@@ -7,6 +7,10 @@
 ## Essence
 
 ### SetVehicleFuelLevel
+
+> [!warning]
+> Pour toute utilisation `côté client` de l'export ci-dessous, il est nécessaire de vérifier que le joueur a bien le contrôle du véhicule. Pour cela, vous pouvez utiliser la native `NetworkHasControlOfEntity`.
+
 <!-- tabs:start -->
 ### **Export (client)**
 ```lua
@@ -14,6 +18,13 @@ exports["sadoj-vehicle"]:SetVehicleFuelLevel(vehicle --[[ vehicle ]], fuelLevel 
 ```
 * **Paramètres:**
   * **vehicle:** le véhicule où vous voulez changer le niveau d'essence.
+  * **fuelLevel:** le niveau d'essence que vous voulez mettre.
+### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-vehicle:server:SetVehicleFuelLevel", netId --[[ integer ]], fuelLevel --[[ number ]])
+```
+* **Paramètres:**
+  * **netId:** le netId du véhicule.
   * **fuelLevel:** le niveau d'essence que vous voulez mettre.
 ### **Export (Serveur)**
 ```lua
@@ -47,6 +58,10 @@ local fuelLevel --[[ number ]] = exports["sadoj-vehicle"]:GetVehicleFuelLevel(ve
 ## Saleté
 
 ### SetVehicleDirtLevel
+
+> [!warning]
+> Pour toute utilisation `côté client` de l'export ci-dessous, il est nécessaire de vérifier que le joueur a bien le contrôle du véhicule. Pour cela, vous pouvez utiliser la native `NetworkHasControlOfEntity`.
+
 <!-- tabs:start -->
 ### **Export (client)**
 ```lua
@@ -54,6 +69,13 @@ exports["sadoj-vehicle"]:SetVehicleDirtLevel(vehicle --[[ vehicle ]], dirtLevel 
 ```
 * **Paramètres:**
   * **vehicle:** le véhicule où vous voulez changer le niveau de saleté.
+  * **dirtLevel:** le niveau de saleté du véhicule.
+### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-vehicle:server:SetVehicleDirtLevel", netId --[[ integer ]], dirtLevel --[[ number ]])
+```
+* **Paramètres:**
+  * **netId:** le netId du véhicule.
   * **dirtLevel:** le niveau de saleté du véhicule.
 ### **Export (Serveur)**
 ```lua
@@ -94,6 +116,13 @@ exports["sadoj-vehicle"]:SetVehicleOilLevel(vehicle --[[ vehicle ]], oilLevel --
 ```
 * **Paramètres:**
   * **vehicle:** le véhicule où vous voulez changer le niveau d'huile
+  * **oilLevel:** le niveau d'huile du véhicule.
+### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-vehicle:server:SetVehicleOilLevel", netId --[[ integer ]], oilLevel --[[ number ]])
+```
+* **Paramètres:**
+  * **netId:** le netId du véhicule.
   * **oilLevel:** le niveau d'huile du véhicule.
 ### **Export (Serveur)**
 ```lua

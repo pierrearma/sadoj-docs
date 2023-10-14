@@ -49,6 +49,10 @@ local plate --[[ string ]] = exports["sadoj-vehicle"]:GetVehiclePlate(vehicle --
 <!-- tabs:end -->
 
 ### Définir la plaque d'un véhicule
+
+> [!warning]
+> Pour toute utilisation `côté client` de l'export ci-dessous, il est nécessaire de vérifier que le joueur a bien le contrôle du véhicule. Pour cela, vous pouvez utiliser la native `NetworkHasControlOfEntity`.
+
 <!-- tabs:start -->
 ### **Export (client)**
 ```lua
@@ -56,6 +60,13 @@ exports["sadoj-vehicle"]:SetVehiclePlate(vehicle --[[ vehicle ]], plate --[[ str
 ```
 * **Paramètres:**
   * **vehicle:** le véhicule.
+  * **plate:** la plaque du véhicule.
+### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-vehicle:server:SetVehiclePlate", netId --[[ integer ]], plate --[[ string ]])
+```
+* **Paramètres:**
+  * **netId:** le netId du véhicule.
   * **plate:** la plaque du véhicule.
 ### **Export (serveur)**
 ```lua
