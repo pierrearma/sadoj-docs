@@ -147,25 +147,6 @@ local players --[[ table ]] = exports["sadoj-core"]:GetPlayersInRadius(coords --
 
 <!-- tabs:end -->
 
-#### GetPlayerFromPed
-
-<!-- tabs:start -->
-
-#### **Export (serveur)**
-
-```lua
-local players --[[ table ]] = exports["sadoj-core"]:GetPlayerFromPed(ped --[[ ped ]])
-```
-
-* **Paramètres:**
-  * **ped:** Le ped du joueur.
-* **Retour:**
-  * **players:** Le joueur.
-
-<!-- tabs:end -->
-
-
-
 #### Teleport
 
 <!-- tabs:start -->

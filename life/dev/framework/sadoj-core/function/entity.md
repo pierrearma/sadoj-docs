@@ -7,6 +7,17 @@
 > [!warning]
 > Pour toute utilisation `côté client` des fonctions ci-dessous, il est nécessaire de vérifier que le joueur a bien le contrôle de l'entité. Pour cela, vous pouvez utiliser la native `NetworkHasControlOfEntity`.
 
+#### DeleteEntity
+Cette fonction permet de supprimer une entité même sans en être le propriétaire.
+<!-- tabs:start -->
+#### **Export (client)**
+```lua
+exports["sadoj-core"]:DeleteEntity(entity --[[ Entity ]])
+```
+* **Paramètres:**
+  * **entity:** L'entité à supprimer.
+<!-- tabs:end -->
+
 #### SetEntityInvincible
 
 <!-- tabs:start -->
@@ -87,5 +98,23 @@ TriggerServerEvent("sadoj-core:server:entity:SetEntityCompletelyDisableCollision
   * **keepPhysics:** Si l'entité doit garder sa physique ou non.
 <!-- tabs:end -->
 
+#### SetEntityDistanceCullingRadius
+Permet de modifier le culling radius depuis un event.
+<!-- tabs:start -->
+#### **Event (client)**
+```lua
+TriggerServerEvent("sadoj-core:SetEntityDistanceCullingRadius", netId --[[ integer ]], radius --[[ number ]])
+```
+* **Paramètres:**
+  * **netId:** Le netId de l'entité.
+  * **radius:** Le nouveau culling radius (0.0 pour réinitialiser).
+#### **Event (serveur)**
+```lua
+TriggerEvent("sadoj-core:SetEntityDistanceCullingRadius", netId --[[ integer ]], radius --[[ number ]])
+```
+* **Paramètres:**
+  * **netId:** Le netId de l'entité.
+  * **radius:** Le nouveau culling radius (0.0 pour réinitialiser).
+<!-- tabs:end -->
 
 {docsify-updated}

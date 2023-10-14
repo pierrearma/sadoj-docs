@@ -207,35 +207,6 @@ local result --[[ boolean ]] = exports["sadoj-core"]:IsADevServer()
   * **result:** `true` si le serveur est un serveur de développement.
 <!-- tabs:end -->
 
-
-#### GetGroundAtCoords
-
-> [!ATTENTION]
-> Pour que cet export fonctionne correctement il faut impérativement qu'il y ait un joueur à proximité. Sinon la fonction retournera nil.
-
-<!-- tabs:start -->
-#### **Export (client)**
-
-```lua
-local coords --[[ vector3 ]] = exports["sadoj-core"]:GetGroundAtCoords(coords --[[ vector3 ]], maxDist --[[ number ]], intersectWorld --[[ boolean ]], intersectVehicles --[[ boolean ]], intersectPedsSimpleCollision --[[ boolean ]], intersectPeds --[[ boolean ]], intersectObjects --[[ boolean ]], intersectWater --[[ boolean ]], intersectFoliage --[[ boolean ]], intersectEverything --[[ boolean ]])
-```
-
-* **Paramètres:**
-  * **coords:** Les coordonnées où vous souhaitez obtenir le sol.
-  * **maxDist:** La distance maximale à parcourir pour trouver le sol (`50.0` par défaut).
-  * **intersectWorld:** Si vous souhaitez que la function prennent en compte le sol du le monde (`false` par défaut).
-  * **intersectVehicles:** Si vous souhaitez que la function prennent en compte les véhicules (`false` par défaut).
-  * **intersectPedsSimpleCollision:** Si vous souhaitez que la function prennent en compte les peds simple collision (`false` par défaut).
-  * **intersectPeds:** Si vous souhaitez que la function prennent en compte les peds (`false` par défaut).
-  * **intersectObjects:** Si vous souhaitez que la function prennent en compte les objets (`false` par défaut).
-  * **intersectWater:** Si vous souhaitez que la function prennent en compte l'eau (`false` par défaut).
-  * **intersectFoliage:** Si vous souhaitez que la function prennent en compte le feuillage (`false` par défaut).
-  * **intersectEverything:** Si vous souhaitez que la function prennent en compte tout (`false` par défaut).
-* **Retour:**
-  * **result:** Les coordonnées du sol (`nil` si aucun sol).
-
-<!-- tabs:end -->
-
 #### FormatNum
 
 Permet de formater un nombre en une chaîne de caractères. Exemple: `123456789` deviendra `$123,456,789`.
