@@ -26,6 +26,19 @@ local identifier --[[ string ]] = exports["sadoj-vehicle"]:GetVehicleIdentifier(
   * **identifier:** l'identifiant du véhicule.
 <!-- tabs:end -->
 
+### Récupérer un véhicule par son identifiant
+<!-- tabs:start -->
+### **Export (serveur)**
+```lua
+local vehicle --[[ vehicle ]] = exports["sadoj-vehicle"]:GetVehicleByIdentifier(identifier --[[ string ]])
+```
+* **Paramètres:**
+  * **identifier:** l'identifiant du véhicule.
+* **Retour:**
+  * **vehicle:** le véhicule, `0` si aucun véhicule n'a été trouvé.
+<!-- tabs:end -->
+
+
 ## Plaque
 
 ### Récupérer la plaque d'un véhicule
