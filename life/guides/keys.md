@@ -70,6 +70,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 - <kbd>!</kbd> : Préférences de l'interface
 - <kbd>?</kbd> : Gestion du véhicule (quand vous êtes dans un véhicule)
 - **MAINTENIR** <kbd>Alt</kbd> : Système de ciblage
+- **MAINTENIR** <kbd>Alt</kbd> : État des plantations de cannabis
 - <kbd>F6</kbd> : Gestion du trafic *(uniquement accessible pour les services de secours et dépanneurs en service)*
 - <kbd>F4</kbd> : Gestion des gyrophares *(uniquement accessible par la police)*
 - <kbd>Dispatch</kbd> : Menu Dispatch
