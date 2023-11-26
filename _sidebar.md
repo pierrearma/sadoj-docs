@@ -1,4 +1,7 @@
 * [Accueil](/ "Accueil")
+* Communauté
+  * Règlements
+    * [Règlement du streamer](community/rules/streamer.md "Règlement du streamer")
 * SADoJ Life US
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
