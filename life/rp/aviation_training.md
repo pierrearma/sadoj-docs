@@ -31,7 +31,7 @@ Voilà ce que tu dois avoir vérifié avant de monter dans l’appareil :
 
 Après l’extérieur, on passe à l’intérieur. L’ensemble des instruments s’appelle le tableau de bord.
 
-<img src="../../_media/life/rp/aviation_training/cockpit.png" alt="Tableau de bord" style="max-width: 600px;"/>
+<img src="../../_media/life/rp/aviation_training/cockpit.png" alt="Tableau de bord" style="max-width: 600px;" />
 
 1. **Conservateur de cap** : Bien vérifier qu’il est en accord avec la boussole, que la direction indiquée soit la même.
 2. **Horizon artificiel** : pour l’inclinaison des virages et ta position par rapport au sol.
