@@ -16,6 +16,8 @@
     * [Commandes (nerds uniquement)](life/guides/commands.md "Commandes (nerds uniquement)")
     * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
     * [Guerres de territoires](life/guides/turfwars.md "Guerres de territoires")
+  * Role-play
+    * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
 * SADoJ Docs
   * [Installer le site localement](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
