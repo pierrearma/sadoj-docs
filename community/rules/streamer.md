@@ -8,12 +8,12 @@
 
 ## Être intégré dans la communauté
 
-Il est important avant de pouvoir streamer de **s’intégrer** au sein de la **communauté**. Par **intégration** nous voulons que vous soyez connu par tous dans la communauté afin que nous sachions vous faire un maximum confiance.
+Il est important avant de pouvoir streamer de **s’intégrer** au sein de la **communauté**. Par **intégration**, nous souhaitons que vous soyez connu de tous dans la communauté pour que nous puissions vous accorder notre confiance au maximum.
 Venir juste pour streamer est très mal vu à la SADoJ et surtout par les streamers confirmés.
 
 Si vous pensez que streamer est plus important que la SADoJ, nous vous invitons à réfléchir avant de vous **engager** dans une **communauté**, ou d’en choisir une qui accepte ce genre d’attitude.
 
-Participer à la SADoJ est tout aussi important que **l’intégration**. Il est important de se demander *“Que puis-je apporter à la communauté ?”* Question qui vous a d’ailleurs été posée durant votre recrutement. Voici plusieurs exemples de **participation** à la vie communautaire :
+Participer à la SADoJ est tout aussi important que **l’intégration**. Il est important de se demander *“Que puis-je apporter à la communauté ?”* Question qui vous a d'ailleurs été posée lors de votre recrutement. Voici plusieurs exemples de **participations** à la vie communautaire :
 
 * Acte de présence
 * Entraide
@@ -37,25 +37,25 @@ Comme écrit ci-dessus, les membres et vos viewers **jugeront** votre stream. C�
 
 Nous **conseillons** aux streamers de diffuser une qualité d’image de 720p pour proposer un contenu de qualité pour votre public et aussi pour **l’image** que vous projetez. Car vous êtes en quelque sorte la **vitrine** de la SADoJ.
 
-La résolution de votre écran est tout aussi importante que la qualité d’image que vous projetez sur votre stream. Avoir une image écrasée ou Déformée n’est pas ce que nous pourrions juger comme stream de qualité. Avant chaque stream il est important de bien régler son logiciel pour ne pas avoir une diffusion saccadée. Avant chaque Stream faites des tests afin de ne pas avoir de désagréments lors du début de votre live. Si vous n’arrivez pas à régler votre stream de façon optimale, annulez votre stream. Ce n’est pas la fin du monde si vous ne streamez pas un soir…
+La résolution de votre écran est tout aussi importante que la qualité d’image que vous projetez sur votre stream. Avoir une image écrasée ou Déformée n’est pas ce que nous pourrions juger comme stream de qualité. Avant chaque stream il est important de bien régler son logiciel pour ne pas avoir une diffusion saccadée. Avant chaque Stream faites des tests afin de ne pas avoir de désagréments lors du début de votre live. Si vous ne parvenez pas à régler votre stream de manière optimale, annulez-le. Ce n’est pas la fin du monde si vous ne streamez pas un soir…
 
-Cela semble logique que quand vous streamez, les viewers puissent bien vous entendre et aussi pour montrer l’exemple aux autres que d’avoir un micro de **qualité** soit important pour les personnes avec qui vous communiquez.
+Cela semble logique que quand vous streamez, les viewers puissent bien vous entendre et aussi pour montrer l’importance d'avoir un micro de **qualité** pour les personnes avec qui vous communiquez.
 
 ## Avoir un RP correct
 
 En tant que Streamer vous êtes la vitrine de la SADoJ, avoir un RP correct est donc primordial tant pour votre stream que pour les autres joueurs sur le serveur.
 
-Avoir un streamer faisant du power gaming ou pire du metagaming est mal vu par la communauté et sera passible d’une sanction, que vous ayez 1.500 ou 2.000.000 d’abonnés.
+Avoir un streamer qui pratique le power gaming ou, pire encore, le metagaming est mal vu par la communauté et sera passible d'une sanction, peu importe que vous ayez 1 500 ou 2 000 000 d'abonnés.
 
 ## Droit de stream
 
 ### Vote
 
-Si vous souhaitez streamer, vous **devez** demander en réunion l’avis à la communauté via un vote (**vote sur une semaine : OUI ; NON ; A REVOIR**), avec pour appui un stream ou une vidéo de test, non répertoriée.
+Si vous souhaitez streamer, vous **devez** demander en réunion l’avis à la communauté via un vote (**vote sur une semaine : OUI ; NON ; A REVOIR**), "avec comme support un stream ou une vidéo de test non répertoriée.
 
 ### Révocation du droit
 
-Tout membre peut demander à revoir le mandat d’un streamer en réunion (**vote immédiat**). Problèmes récurrents de RP, qualité basse, manque d’investissement etc… sont des motifs pouvant motiver un vote. Le départ de la communauté ou un vote sanction (serveur ou communautaire) **annule le droit de stream**.
+Tout membre peut demander de revoir le mandat d'un streamer lors d'une réunion (**vote immédiat**). Problèmes récurrents de RP, qualité basse, manque d’investissement etc… sont des motifs pouvant motiver un vote. Le départ de la communauté ou un vote sanction (serveur ou communautaire) **annule le droit de stream**.
 
 ### Pour appuyer la demande
 
