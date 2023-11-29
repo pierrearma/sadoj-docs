@@ -20,6 +20,8 @@
     * Dark
       * [Guerres de territoires](life/guides/dark/turfwars.md "Guerres de territoires")
       * [Crochetage d'un véhicule](life/guides/dark/lockpicking.md "Crochetage d'un véhicule")
+      * [Carjacking](life/guides/dark/carjacking.md "Carjacking")
+      <!-- * [Revendre un véhicule](life/guides/dark/sellvehicle.md "Revendre un véhicule") -->
     * Loisir
       * [Prostituée](life/guides/Leisure/hookers.md "Prostituée")
   * Role-play
