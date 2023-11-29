@@ -3,6 +3,8 @@
   * Règlements
     * [Règlement communautaire](community/rules/community.md "Règlement communautaire")
     * [Règlement du streamer](community/rules/streamer.md "Règlement du streamer")
+  * Autres
+    * [Procédure de médiation](community/mediation_process.md "Procédure de médiation")
 * SADoJ Life US
   * Règlements
     * [Règlement serveur Life US](life/rules/life.md "Règlement serveur Life US")
