@@ -18,7 +18,8 @@
     * [Commandes (nerds uniquement)](life/guides/commands.md "Commandes (nerds uniquement)")
     * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
     * Dark
-      * [Guerres de territoires](life/guides/turfwars.md "Guerres de territoires")
+      * [Guerres de territoires](life/guides/dark/turfwars.md "Guerres de territoires")
+      * [Crochetage d'un véhicule](life/guides/dark/lockpicking.md "Crochetage d'un véhicule")
     * Loisir
       * [Prostituée](life/guides/Leisure/hookers.md "Prostituée")
   * Role-play

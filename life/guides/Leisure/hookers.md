@@ -32,3 +32,6 @@ Quand vous faites monter une prostituée dans votre véhicule, vous prenez le ri
 Le système de prostitution sur le serveur est un système quasi-identique à celui de GTA V. Ci dessous, vous trouverez une vidéo qui montre brièvement le système de prostitution.
 
 <iframe src="https://www.youtube-nocookie.com/embed/pYpnjRoCf_c?si=LwzILVPSfaJcmV06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+{docsify-updated}
