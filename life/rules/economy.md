@@ -1,1 +1,468 @@
-# AS
+# L'économie du serveur life
+
+---
+
+## Préambule
+
+Cette page reprend l’ensemble des éléments mis en place par les économistes afin d’avoir une économie la plus viable possible sur le serveur life. Prise en compte de toutes les modifications et améliorations faites depuis le début et améliorations apportées au cas par cas.
+
+Sachez qu’en matière d’économie, rien n’est fixe, donc tout est potentiellement modifiable au cours du développement du Life et des incohérence qui apparaissent dans le RP ou des points qui mettent à mal l’économie et la volontée de garder quelque chose qui se veut réaliste mais qui prend en compte aussi que nous sommes sur un jeu.
+
+De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le rôle des économistes est de réguler tout ce qui touche à l’argent afin de vous donner une expérience de RP la plus convenable possible. Pas avoir assez ou trop gâcher le plaisir du RP. C’est pour cela que le rôle d’économiste et le groupe doit avoir la confiance des membres car ils travaillent pour le bien de tous ! Les modifications seront présentées mais non soumises au vote de la communauté, vous pouvez communiquer avec les économistes afin d’apporter des améliorations sur les modifications. (Pourquoi pas de vote ? Économiste est un rôle à part car cela touche à l’argent, c’est aussi pour éviter les effets de désinformation et l’économiste bashing, les économistes travaillent pour nous tous et pour le bien de notre RP.)
+
+Il est possible de contactez les économistes par le formulaire mis à disposition.
+
+> [!ATTENTION]
+> Tout membre de la communauté est  le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.
+
+## Les salaires et revenus
+
+### Les salaires
+
+* Le salaire minimum actuel est de $2.500/semaine si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci)
+* Des primes peuvent être données en plus afin de récompenser les employés. Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle-ci.
+
+## Les prix
+
+Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
+
+### Pour l’immobilier
+
+Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes. Les prix sont libres entre joueurs au-dessus du prix du marché (doc immo) pour la revente mais dans le cas d’une revente aux PNJ le prix du marché sera appliqué.
+
+Lors d’un crédit : il est obligatoire de faire un apport lors de l’achat d’un bien immobilier : 10% particuliers et 20% entreprises.
+
+Vous devez faire des travaux dans le cas où un MLO est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes Dans le cas d’un feu une demande de prise en charge de 50% par l’assurance peut être faite auprès de la justice.
+
+Pour le numéro et adresse d'un bien : coordonnées x (sans le moins) sur la route devant l’entrée principale et le nom de la rue.
+> Exemple : 1154RueDeMaMaison
+
+> [!ATTENTION]
+> L’achat d’un bien qui n'appartient à aucun personnage ou entreprise doit passer par un intermédiaire en immobilier qui doit obtenir l’accord du gouvernement (savoir si le bien et à vendre ou pas)
+
+
+### Pour les véhicules
+
+Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
+
+### Pour les biens de consommations courantes : alimentation, vêtement …
+
+Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
+
+### Les prix PNJ
+
+Les prix PNJ sont fixés à 20% plus chers minimum et adapter selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
+
+### Les prix des PNJ placés (légal)
+
+#### PNJ dans les entreprises (3 types de PNJ)
+
+* Les client fictifs sont des PNJ de décoration et sont gratuits
+* Les employés PNJ : serveuse, dj, hôtesse d’accueil … Les entreprises doivent payer un salaire au compte PNJ. 2500$/semaine par salarié PNJ sur le compte PNJ.
+* Les gardes PNJ : prioriser les gardes d’entreprises joueurs d’une valeur supérieure à 2500$/semaine (fixé par les entreprises en fonction de la marge et des taxes) mais qui ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs. Dans le cas où les gardes proviennent d'une entreprise PNJ le prix est de 5000$/semaine.
+ * Les entreprises de sécurité doivent payer 2500$/semaine et par PNJ placé auprès du compte PNJ des banques.
+
+### Les prix des PNJ placés (illégal)
+
+#### PNJ Darkzone
+
+Les PNJ dans les darkzones sont de la décoration et n’ont aucune influence sur les flics lors de perquisition, par contre sont là pour limiter l’accès au civils et faire peur. Vu que les darkzones n’appartiennent pas réellement à des joueurs les PNJ sont « gratuit ».
+
+#### PNJ gardes dark hors darkzone
+
+* Gestion par les référents dark, 2500$/semaine par PNJ
+* Somme totale par semaine ou mois mise en commentaire dans le script et payée une fois par mois. (Prélevé par les référents dark).
+* Les PNJ ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs.
+
+### Les prix fixés par les entreprises
+
+* Les prix sont conseillés par les économistes mais restent libres. Si vous souhaitez les modifier, demandez conseil aux économistes. Certains prix sont fixés par les économistes (réparation VL, Prix VL neuf, Alarmes)
+* **Remise maximum pour les entreprises fixée à 30%** pour garder une certaine cohérence et éviter l’escalade des remises entre concurrents.
+
+### Honoraires des avocats
+
+| Type de contrat | Plafond |
+| :-------------- | :-----: |
+| Hors commision  | 20000$  |
+| En commision    | 10000$  |
+- L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder 10% de ce dernier.
+
+### Revenus des journalistes
+
+- Pas de limite d'article, de tweet, de video.
+| Type de vue  | Gains  |
+| :----------- | :----: |
+| Tweet        | 20000$ |
+| En commision | 10000$ |
+
+### Les revenus de travail ou activité PNJ
+
+Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse permettent de toucher de l’argent versé par un PNJ. Le but est de rester cohérent ici et de ne pas farmer excessivement dans le but de s’enrichir plus que la normale. Ce sont des jobs de dépannage pour se faire un peu d’argent quand on a pas d’emploi ou pour se faire un petit plus. Passer sa journée sur le serveur à faire ce genre de chose alors que personne n’est connecté et que cela n’est pas cohérent avec le RP de votre personnage n’est pas une attitude que l’on souhaite voir dans la communauté.
+
+## Limite d’emploi
+
+* Sont considérés comme emploi le fait de posséder une entreprise et/ou  d'y travailler. 
+* Il est autorisé d'avoir deux  emplois maximum  responsable ou employé ou bénévole) pour les entreprises.
+* Les associations, clubs sont  exclus et peuvent faire appel à des bénévoles.
+* Posséder des parts et être seulement actionnaire ne compte pas comme un emploi.
+* Les mandats électifs sauf “Lieutenant-Gouverneur” comptent comme un emploi.
+* La profession d'avocat peut être effectuée en plus de deux autres emplois.
+
+> [!NOTE]
+> Une exception est possible pour des tâches temporaires, voir &#8595;
+
+
+### Le travail à la tâche / temporaire
+
+Une entreprise peut décider d'employer une personne pour une tâche ou pour une mission courte cela s’apparente à de l’intérim et vous pouvez toucher une somme pour cela. Encore une fois, cela doit rester cohérent et peut tenir compte de la précarité de l’emploi. Pour une tâche qui dure la soirée, une somme de 2500$ paraît correcte. Donner beaucoup peut être considéré comme un moyen de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
+> Exemple : volontariat dans un service public
+
+## Les crédits
+
+Les banques de l’état proposent des crédits à  la consommation. Les taux sont libres sauf cas particuliers.
+Les crédits contractés se remboursent sur 52 semaines maximum (1 an IRL).
+Le taux d'endettement doit être inférieur à 80% du salaire fixe hors prime et hors loyers investissements.
+Pour un crédit supérieur à 10.000$ il est nécessaire d'avoir une adresse (justifier d’au moins 3 mois) propriétaire ou locataire.
+Pour un crédit en dessous de 10.000$ il n'y a pas d’obligation d'avoir une adresse mais limité à deux crédit simultané.
+
+### Crédit immobilier
+
+- Obligation de faire un apport lors de l’achat d’un bien immobilier : 10% particuliers et 20% - entreprises.
+- 5% d'intérêt minimum pour les particulier et pour les entreprises 10% minimum d'intérêts.
+
+### Crédit à la consommation ou auto
+
+- Le remboursement doit se faire sur 25 semaines maximum (6 mois IRL).
+- Les taux sont de 10% d'intérêt minimum.
+- Un apport de 10% minimum est obligatoire.
+
+> [!NOTE]
+> Les entreprises ont la possibilité de demander des crédits sur 78 semaines (18 mois) au lieu des 52 semaines par défaut.
+
+## Les taxes et impôts
+
+### Pour les entreprises
+
+Pour les entreprises, 10% est prélevé sur chaque facture constitué de la façon suivante :
+- 10% de taxe de consommation (TC)
+
+Une déclaration pour les impôts a lieu une fois par mois.
+- Si bénéfices du mois supérieurs à $300.000 : 20% prélevé par l’état
+
+
+### Pour les particuliers
+
+Prélèvement social et contribution solidarité par déclaration lors de la déclaration des entreprises des revenus perçu par les responsables et par les actionnaires) :
+
+### Pour les dirigeants et actionnaires
+
+Ce tableau récapitule les prélèvements faits en fonction des revenus des responsables et actionnaires d'entreprises.
+
+| Salaire et prime/ mois en $ | Taux d'imposition |
+| :--------------------: | :---: |
+|     Moins de 20000     |  0%   |
+|    De 20001 à 30000    |  5%   |
+|    De 30001 à 40000    |  10%  |
+|   De 40.001 à 60000    |  15%  |
+|     Plus de 60001      |  30%  |
+|      Plus de 200K      |  70%  |
+
+## Les entreprises / associations
+
+ > [!ATTENTION]
+ > Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.
+
+### Type d’entités possibles
+
+* Association : sur demande au gouvernement
+    - Activité à but non lucratif, pas de salaire, pas d’employés, pas de facture.
+
+* Micro-entreprise : sur demande au gouvernement
+    - Possibilité d’être soumise à accréditation de l'État pour certaines activités (journalisme, immobilier, protection… liste non exhaustive).
+    - Taxe de 10% sur le CA (directement sur les factures)
+    - Chiffre d’affaire max $15.000/semaine
+    - Compte en banque obligatoire, facture par la banque.
+    - Pas de déclaration, pas d’employés.
+
+* Entreprise : sur dossier demande au gouvernement
+    - Possibilité d’avoir des employés
+    - Taxe de 10% sur le CA (directement sur les factures)
+    - Déclaration revenus obligatoire, Soumise à l’impôt sur les entreprises
+
+Système d’aide pour les entreprises au cas par cas sans le système de coef
+
+### Création d’entreprise
+
+Le prix de l'entreprise est fixé au cas par cas par les économistes en fonction de l’activité et des addons désirés. Le prix total devra être payé à l'État.
+
+Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités sur les fonds de l’entreprise. le crédit pourra être remboursé à tout moment
+
+- Apport obligatoire de 10% du prix. (sur fonds personnel du créateur de l’entreprise et/ou actionnaires)
+- Crédit avec un taux d'intérêt minimum de 10% et maximum de 20%.
+- Fond de roulement obligatoire de 10% du prix. Afin de permettre à l’entreprise de payer les premiers salaires et les premières mensualités.
+- Le nombre maximal d’entreprises où vous pouvez être responsable est de 2.
+
+### Revenus additionnels possibles
+
+Les entreprises disposant de locaux ouverts au public en permanence et où il est possible d’acheter des produits (supérettes, boutiques, bar, nightclub) ou d’effectuer des loisirs (billard etc..) ont la possibilité de demander via le gouvernement des revenus supplémentaires.
+Ces revenus seront étudiés au cas par cas en fonction des demandes mais la marge finale sera au minimum de 2500$ (salaire minimum).
+
+En réponse à la demande, des contreparties pourront être décidées, pour animer les lieux. 
+> Pour un nightclub par exemple organiser des soirées, pour une supérette, faire des livraisons/ réapprovisionnement.
+
+Les objectifs sont d’apporter des revenus supplémentaires tout en favorisant l’interaction, une occupation des lieux qui sont bien souvent vides et pour éviter de revenir en arrière avec les investissements de bâtiments fantômes.
+
+Un commerce PNJ (supérettes, loisirs, car wash...) ne peut pas être installé chez les particuliers. Aucune demande d’ajout chez les particuliers sera acceptée.
+
+> [!WARNING]
+> Un script tel que billard, bras de fer  ne doit être accessible que dans des entreprises, clubs, lieux publics.
+>
+> Aucune demande d’ajout chez les particuliers sera acceptée. Si le lieu dispose déjà  cette possibilité il est autorisé de l’utiliser.
+
+### La valeur de l’entreprise
+
+La valeur de l'entreprise est “le capital” calculé de la façon suivante :
+Capital sera évalué par les économistes : valeur immobilière + 100% valeur des véhicules + bénéfices moyen d’un mois et il augmentera en fonction des investissements de l’entreprise.
+
+Si il y a des fonds sur les comptes et/ou coffre, la somme s’ajoute à la valeur du capital.
+
+L’actionnaire majoritaire d’une entreprise peut injecter de l’argent sans limite sur les comptes de l'entreprise.
+
+### Fermeture d’une entreprise
+
+Il y a plusieurs possibilités
+
+* Cessation d’activité simple sans revente
+Les responsables peuvent récupérer les fonds de l’entreprise mais devront payer une taxe de 60%.Clôturer les crédits, vendre les bâtiments (revente PNJ prix du marché) et véhicules. (100% de la valeur neuf)
+
+* Cessation d’activité avec revente à l'état ( si l’état souhaite racheter)
+
+Le(s) responsable(s) peuvent récupérer les fonds de l’entreprise  mais devront payer une taxe de 60% et vendre l’entreprise à l'Etat à 50% du capital.
+
+* Faillite de l’entreprise
+
+L’entreprise n’a plus de fonds et ne gagne plus d’argent et pas assez pour payer les dépenses le responsable décide de fermer et l'entreprise disparaît.
+
+* Fermeture d’une association, d’un club
+
+Lors de la fermeture d’une association ou d’un club, les fonds peuvent être reversés à d’autres associations/clubs (joueurs) ou à des associations diverses (PNJ).
+Le président du club/de l’association peut récupérer **jusqu'à 40% des fonds.**
+
+### Vente d’une entreprise
+
+Le responsable peut décider de vendre l’entreprise à une autre personne dans ce cas là :
+le(s) responsable(s) peuvent récupérer les fonds de l’entreprise  mais devront payer une taxe de 30% et vendre l’entreprise à la valeur du capital en laissant minimum 150000$
+
+A savoir que la valeur maximale du prix de vente (hors fonds) ne pourra pas être supérieure à 120% du capital. L’etat aura un droit de préemption si l’entreprise est vendu à moins de 80% de la valeur du capital
+
+Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente.
+
+Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.
+
+### Le rachat d’entreprise
+
+L’acheteur devra payer selon la situation le capital de l’entreprise (de 80% à 120% décidé par le vendeur) et si des fonds sont présents cette somme se verra ajoutée au montant précédent.
+
+
+L’acheteur peut faire un crédit au nom de sa future entreprise (comme à la création) dans les mêmes conditions.
+
+* Cas particulier rachat d’une entreprise par une entreprise :
+  - rachat d'une entreprise par une autre entreprise possible que pour fusion et 100% des parts.
+  - vente dans les mêmes conditions que la vente d'entreprise mais pas de % en moins ou en plus.
+Prix = capital + fond. 
+
+- Apport obligatoire de 10% du prix.
+
+- Crédit avec un taux minimum de 10% et maximum de 20%.
+- Fond de roulement obligatoire minimum de 10% du prix d’achat.
+
+> [!ATTENTION]
+> Le gouvernement doit valider la vente ou non. (Activités compatibles)
+
+> [!TIP]
+> Possibilité de faire un crédit personnel pour financer l'apport.
+>
+> Possibilité de faire un apport personnel de seulement 5% pour l'achat de l'entreprise (mais seulement avec l'accord des économistes, en dernier recours.
+
+### Les Actionnaires
+
+Le nombre maximum d’actionnaires est de 4 actionnaires, l’actionnaire qui a le plus de parts est considéré comme le responsable de l’entreprise, il est le seul décideur.
+
+Les revenus touchés par les actionnaires sont à l’initiative du responsable et non obligatoires et doivent être déclarés lors de la déclaration d’entreprise chaque mois. et les actionnaires devront payer le Prélèvement social et contribution solidarité (voir Taxes et impôts/ pour les particuliers)
+
+Le revenu des actionnaires ne peut dépasser 10.000$ par semaine à titre de dividendes.
+
+Lors de la vente de l'entreprise les actionnaires touchent la part qu’ils leur revient -25% et ne peuvent pas garder les parts de l’entreprise
+
+### Statut des actionnaires minoritaires
+
+Les actionnaires minoritaires d'entreprises ne pourront plus bénéficier des avantages accordés dans les fameux menus "entreprise". Nous estimons que l'utilisation de véhicules, de locaux, de caméras, etc., est inutile pour un actionnaire qui n'exerce aucune activité professionnelle.
+
+Le rôle et le but de l'actionnaire minoritaire seront donc de toucher des dividendes et d'investir dans une entreprise. Dans le cas où un actionnaire minoritaire serait également employé de l'entreprise, cela serait considéré comme un travail et donc limité.
+
+> Exemples :
+> Monsieur A possède 49% d'une entreprise, il n'aura plus le droit d'avoir le menu "entreprise" de l'entreprise.
+> Monsieur B possède 49% d'une entreprise mais est également employé par celle ci, il aura le droit d'avoir le menu "entreprise" mais ce sera compté comme un emploi (2 max).
+
+### Injecter de l’argent
+
+Un actionnaire, qu'il soit majoritaire ou minoritaire, peut injecter des capitaux de manière illimitée dans les sociétés où il possède des parts.
+
+### Les parts
+
+Les parts d’une entreprise ne peuvent pas être données, revente obligatoire à un particulier dans les mêmes conditions que la revente d’entreprise au prorata des parts.
+* Proportion de la valeur du capital (de 80% à 130% décidé par le vendeur)
+* Si il n'y a pas les fonds, le crédit est obligatoire. Il est interdit d'utiliser les fonds de l’entreprise.
+* Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente des parts.
+
+> [!WARNING] 
+> Obligation de passer par le gouvernement pour savoir la valeur de l’entreprise et déclaration obligatoire la vente de parts.
+
+### Aides gouvernementales (pour entreprises ou associations)
+
+Les aides gouvernementales seront évaluées au cas par cas, celle-ci permettra à l’entreprise dont l’activité est viable à supporter les charges. Les aides seront principalement destinées aux paiement des salaires mais pourront être également d’une nature différente.
+Les entreprises pourront chacune faire une demande d’aide par dossier au gouvernement.
+
+> [!WARNING]
+> Les entreprises pourront perdre l’aide si elle ne respecte pas la destination des fonds.
+
+### Les dons
+
+> [!ATTENTION]
+> **Les dons sont interdits avant le départ ou la mort d’un personnage**. Cela serait considéré comme contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
+
+#### Les dons interdits
+
+* Les donations en numéraire  de particuliers aux entreprises.(voir Injecter de l’argent).
+* Les donations en numéraire de la part entreprises aux  particuliers.
+* Les donations en numéraire  entre entreprises.
+
+#### Les dons autorisés
+
+* Les particuliers et les entreprises peuvent faire une donation aux assocaitions, services publics.
+  - Associations avec une limite de $50.000/mois et par personne (possibilité d'avoir un crédit d’impôt de 50%)
+  - Associations PNJ (sans limite).
+  - Partis politiques (ou candidats) de $50.000 maximum. (1 fois par élection).
+  - Etat ou services publics.
+
+####  Conditions
+
+* Les donations en numéraire  doivent se faire par virement bancaire obligatoirement.
+* Pour les particuliers, la trace du don est une écriture bancaire. Virements obligatoires, pas d'espèce.
+
+## Les testaments
+
+> [!WARNING]
+> En cas d'absence de testament, tout revient à l'État.
+
+Lorsque votre personnage meurt, il peut faire un testament. Le but ici est de liquider les biens de la personne et pas d’enrichir les copains. 
+Le principe est que tous les biens et l’argent vont à la famille PNJ du perso.
+
+- Le testament peut contenir entre 1 et 3 héritiers.
+
+- Possibilité de léguer trois véhicules maximum sans limite de valeur, la répartition est au choix.
+- 100 000 $ en argent maximum, la répartition est au choix.
+
+* Rachat prioritaire pour un proche
+  - Un seul bien immobilier  (priorité rachat) 50 % de la valeur.
+
+- Droit de succession de 40% des fonds disponibles de la personne prélevé par l'État.
+- Les biens immobiliers vont à la famille (HRP : sont remis en vente par les PNJ, même procédure que pour l’achat d’un bien immobilier).
+- Les véhicules restants vont à la famille (l’état les récupère pour simuler des saisies de véhicules et enrichir le parc de véhicules d’occasions).
+- effet rétroactif les membres de la famille déjà présent ne sont pas les héritiers principaux
+
+
+* Par principe les biens de la personne vont à sa famille et de 1 à 3 héritiers qui ne soit pas de la famille mais la personne peut aussi faire don de son argent aux organismes suivants :
+  - Associations dans l'État (dans la limite de $100.000).
+  - Association PNJ (sans limite)
+  - Etat ou services publics (sans limite)
+
+Les lègues de particuliers aux entreprises sont interdites.
+
+#### Cas particulier des entreprises
+On ne peut pas faire don de son entreprise à un particulier lors de la mort de son personnage ou du départ, l’état récupère l’entreprise et s’occupe de la revente.
+
+Les salariés ont la priorité absolue sur l’achat de l’entreprise dans les mêmes conditions que le rachat d’entreprise.
+
+Dans tous les cas le gouvernement gèrera au cas par cas après validation du gouv et des économistes.
+
+Dans le cas où la personne a des parts dans une entreprise, les associés doivent racheter les parts auprès du gouvernement.
+
+
+### Système de testament
+
+Chaque testament, pour être valide, devra être signé par un Procureur ou un Juge. Le Bureau du Procureur se charge de l'archivage des testaments et transmet les testaments après le décès de la personne.
+
+> [!WARNING]
+> Les testaments doivent contenir le Nom et prénom(s) de la personne, sa date de naissance, son adresse et la signature du dépositaire.
+
+#### Pour le dépôt de testament :
+
+* Via un avocat : les avocats peuvent transmettre les testaments aux procureurs pour être signés
+* Via les procureurs: les personnes qui le souhaitent, peuvent transmettre leur testament il un procureur directement
+* Via les juges: les personnes qui le souhaitent peuvent transmettre leur testament à un juge qui devra ensuite le transmettre à un procureur pour être archivé.
+
+> [!ATTENTION]
+> Les testaments déposés après la mort ne seront pas pris en compte
+>
+> Les testaments signés '"Allan Pehainjy"' pour les juges ou les procureurs ne seront pas pris en compte
+>
+> Le testament doit être en PDF (google docs ou autre sont interdits)
+
+> [!NOTE]
+> Lors d'un départ, d'une exclusion **définitive**, d'une mort, en l'absence de testament, l'État récupère l'argent présent sur les comptes bancaires de la même manière que les véhicules.
+> Si des dettes sont présentes, elles seront soldées en même temps.
+
+## La chasse
+
+Dépecer des animaux et récupérer viandes et peaux nécessite **au moins deux policiers en service.**
+Il a été constaté que les abus avaient lieu en matinée ou en après midi (quand le serveur est vide)
+
+La chasse doit être pratiquée avec des véhicules adaptés et des quantités raisonnables  en fonction du véhicule utilisé.
+
+Il convient de ne pas profiter des faiblesses du jeu pour augmenter ses gains.
+
+> Exemples de situations abusives :
+>
+> Chasser en supercar sur des chemins sinueux et montagneux.
+>
+> Avoir 150 viandes de cerfs dans un véhicule de sport, une berline, un SUV…
+>
+> Avoir 50 viandes de puma sur une moto.
+>
+> Attendre que les animaux respawn pour les tuer.
+
+Les économistes feront une étude au cas par cas si des signalements d'abus sont rapportés.
+Une perte totale des gains voir plus pourra être demandée.
+
+> [!NOTE]
+> Tuer des animaux est toujours possible sans policier en service, pour le plaisir d’une chasse sans gain par exemple.
+
+### Les joueurs inactifs
+
+Introduction d'une règle ou d'une procédure concernant les biens immobiliers et les véhicules "rares" appartenant à des joueurs considérés comme inactifs dans le jeu.
+Ces règles suivent les critères déjà présents dans le règlement communautaire.
+
+* Les biens immobiliers et les véhicules rares des joueurs totalement inactifs ou ne répondant pas à un avertissement de perte de biens peuvent être saisis.
+* Les joueurs sont considérés inactifs s'ils sont absents du jeu depuis au moins 3 mois.
+* Les joueurs sont avertis une fois par message sur Discord pour comprendre les raisons de leur inactivité.
+
+Si la saisie est décidée
+
+* Aucune indemnisation n'est accordée.
+* Si un crédit immobilier est en cours, il est soldé gratuitement par la banque.
+* La saisie est réalisée hors du contexte du jeu (en dehors du rôle-play).
+* Ensuite, les biens immobiliers sont  remis sur le marché immobilier, tandis que les véhicules sont vendus aux enchères.
+
+## Les paiements de produits, de services
+
+**À compter du 1er septembre 2023**
+
+Les paiements des services et/ou produits devront être effectués uniquement par FACTURE  en utilisant le système de facturation en jeu ou via les sites des banques.
+
+> [!ATTENTION]
+> Après la date butoir, tous les virements directs encore présents seront purement supprimés.
+
+
+
+{docsify-updated}
