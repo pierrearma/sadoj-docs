@@ -17,7 +17,10 @@
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
     * [Commandes (nerds uniquement)](life/guides/commands.md "Commandes (nerds uniquement)")
     * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
-    * [Guerres de territoires](life/guides/turfwars.md "Guerres de territoires")
+    * Dark
+      * [Guerres de territoires](life/guides/turfwars.md "Guerres de territoires")
+    * Loisir
+      * [Prostituée](life/guides/Leisure/hookers.md "Prostituée")
   * Role-play
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
     * [Code de Procédure Pénal](life/rp/criminal_procedure_code.md "Code de Procédure Pénal")
