@@ -27,7 +27,7 @@ Comme écrit ci-dessus, les membres et vos viewers **jugeront** votre stream. C�
 
 ### Le contenu est 100% RP ?
 
-**Pour les contenus 100% RP, il est pas nécessaire de faire une demande (vidéo promotionnelle, vlog d’un personnage etc…).**
+**Pour les contenus 100% RP, il n'est pas nécessaire de faire une demande (vidéo promotionnelle, vlog d’un personnage etc…).**
 
 ### Pas public ?
 
@@ -35,9 +35,9 @@ Comme écrit ci-dessus, les membres et vos viewers **jugeront** votre stream. C�
 
 ## Qualité requise
 
-Nous **conseillons** aux streamer de diffuser une qualité d’image de 720p pour proposer un contenu de qualité pour votre public et aussi pour **l’image** que vous projetez. Car vous êtes en quelque sorte la **vitrine** de la SADoJ.
+Nous **conseillons** aux streamers de diffuser une qualité d’image de 720p pour proposer un contenu de qualité pour votre public et aussi pour **l’image** que vous projetez. Car vous êtes en quelque sorte la **vitrine** de la SADoJ.
 
-La résolution de votre écran est tout aussi importante que la qualité d’image que vous projetez sur votre stream. Avoir une image Écrasée ou Déformée n’est pas ce que nous pourrions juger comme stream de qualité. Avant chaque stream il est important de bien régler son logiciel pour ne pas avoir une diffusion saccadée. Avant chaque Stream faites des tests afin de ne pas avoir de désagréments lors du début de votre live. Si vous n’arrivez pas à régler votre stream de façon optimale, annulez votre stream. Ce n’est pas la fin du monde si vous ne streamez pas un soir…
+La résolution de votre écran est tout aussi importante que la qualité d’image que vous projetez sur votre stream. Avoir une image écrasée ou Déformée n’est pas ce que nous pourrions juger comme stream de qualité. Avant chaque stream il est important de bien régler son logiciel pour ne pas avoir une diffusion saccadée. Avant chaque Stream faites des tests afin de ne pas avoir de désagréments lors du début de votre live. Si vous n’arrivez pas à régler votre stream de façon optimale, annulez votre stream. Ce n’est pas la fin du monde si vous ne streamez pas un soir…
 
 Cela semble logique que quand vous streamez, les viewers puissent bien vous entendre et aussi pour montrer l’exemple aux autres que d’avoir un micro de **qualité** soit important pour les personnes avec qui vous communiquez.
 
@@ -63,10 +63,10 @@ Tout membre peut demander à revoir le mandat d’un streamer en réunion (**vot
   * Sauf si:
     * Vous avez au minimum une moyenne de 25 spectateurs sur les 30 derniers jours.
     * Et vous avez diffusé en direct au minimum 10 heures sur les 30 derniers jours.
-  * Présence obligatoire en réunion
-  * Réaliser un “live test” qui sera ensuite joint à la demande
-  * Avertir la communauté que vous allez faire un “live test” en direct sur YouTube ou Twitch. La rediffusion sera également joint à la demande.
-  * La démo doit être récente (moins d’un mois).
+* Présence obligatoire en réunion
+* Réaliser un “live test” qui sera ensuite joint à la demande
+* Avertir la communauté que vous allez faire un “live test” en direct sur YouTube ou Twitch. La rediffusion sera également joint à la demande.
+* La démo doit être récente (moins d’un mois).
 
 ## Publicité
 
