@@ -3,17 +3,17 @@
 ---
 
 > [!NOTE]
-> Les règles suivantes ont pour but d’éviter bon nombres de conflits et de comportements qui ne corresponds pas à l’esprit SADoJ.
+> Les règles suivantes ont pour but d’éviter bon nombre de conflits et de comportements qui ne correspondent pas à l’esprit SADoJ.
 >
 > On peut tous faire des erreurs, nous sommes humains, mais ce qui est réellement important, c’est apprendre de ses erreurs et être capable de ne pas les reproduire à l’avenir.
 >
-> Le vote sanction doit rester une procédure exceptionnelle et pas banalisé.
+> Le vote sanction doit rester une procédure exceptionnelle non banalisée.
 
 ## Généralités
 
 * Sont interdits
   * La triche.
-  * Les insultes & moqueries dans l’unique but de blesser.
+  * Les insultes et moqueries dans le seul but de blesser.
   * Le racisme.
   * Dénigrer toute forme de sexualité (homophobie, transphobie etc..).
   * Les insultes envers une opinion politique ou religieuse (antisémitisme, islamophobie etc..).
@@ -23,31 +23,31 @@
 * Il est obligatoire de faire sa formation d’intégration lorsque l’on rejoint la communauté (exclusion automatique sous 15 jours le cas échéant).
 * Il est obligatoire d’avoir son pseudonyme identique à celui du site (sadoj-rp.fr) sur TeamSpeak 3, l’ensemble des Discord SADoJ ainsi que sur FiveM. A savoir qu’il est possible de faire changer son pseudo sur le site.
 * Il est obligatoire d’avoir une identité Rôle-Play différente du pseudonyme sur les supports (site, Discord, TeamSpeak, Steam).
-* Nous sommes tous des représentants de la SADoJ, Il est obligatoire de montrer  une bonne image aux personnes extérieures.
-* Il est obligatoire  de faire attention à vos propos en public lorsque vous parlez au nom de la communauté, ou que votre pseudonyme contient une appartenance à la communauté.
+* Il est obligatoire de montrer une bonne image aux personnes extérieures, car nous sommes tous des représentants de la SADoJ.
+* Il est obligatoire de faire attention à vos propos en public lorsque vous parlez au nom de la communauté ou que votre pseudonyme indique une appartenance à celle-ci.
 * L’abus d’un ou des privilèges donnés par un rôle est interdit (le rôle pourra être retiré selon les conditions établies).
 * [Charte du créateur de contenu (direct ou vidéo)](community/rules/streamer.md)
 * Un ancien membre partit de lui même ou étant exclu pour inactivité a la possibilité de faire une demande de retour.
-* Tout membre ayant porté atteinte à l’intégrité de la communauté, de ses serveurs (Jeux, TeamSpeak, Discord) et de ses documents ne pourra pas faire une demande de retour dans la communauté après un vote sanction ou son départ volontaire.
-* Un membre ayant une absence prolongé ne pas avoir un rôle dans la communauté (recruteur, groupe economiste, groupe justice, groupe dark, ….) et ne peut pas être PDG d’une entreprise ou tout autre rôle important en RP (gouverneur, chef d’un service public, procureur, juge, …). Si le membre ne se retire pas de sa propre initiative la communauté lui retira son rôle.
+* Tout membre ne pourra pas faire de demande de retour dans la communauté après un vote de sanction ou un départ volontaire s'il a porté atteinte à l’intégrité de la communauté, de ses serveurs (jeux, TeamSpeak, Discord) et de ses documents
+* Un membre ayant une absence prolongée ne peut pas avoir un rôle dans la communauté (recruteur, groupe économiste, groupe justice, groupe dark, …) et ne peut pas être PDG d’une entreprise ou occuper tout autre rôle important en RP (gouverneur, chef d’un service public, procureur, juge, …). Si le membre ne se retire pas de sa propre initiative, la communauté lui retirera son rôle.
 * Tout membre qui quitte la communauté alors qu’une procédure de médiation ou une procédure de sanction est en cours ne pourra pas réintégrer la communauté (prend effet dès la réception du message d’un médiateur).
-* Tous les 4 mois, à la première réunion du mois concerné, la communauté doit voter les nouveaux membres faisant partie de la médiation (les membres déjà dans le groupe peuvent postuler). Le sujet doit être créer à la réunion précédente et la récolte des volontaires se fait sur la semaine précédent le vote.
+* Tous les 4 mois, lors de la première réunion du mois concerné, la communauté doit voter pour les nouveaux membres faisant partie de la médiation (les membres déjà dans le groupe peuvent postuler). Le sujet doit être créé lors de la réunion précédente et la collecte des volontaires se fait la semaine précédant le vote.
 
 ## Réunion
 
 La réunion permet d’échanger, d’avoir des réflexions tous ensemble en vocal, sur différents sujets, de proposer des votes et de les acter. La réunion permet aussi de régler les problèmes quand le dialogue est rompu ou impossible, et d’essayer de trouver des solutions. C’est aussi en réunion que l’on peut sanctionner un ou plusieurs membres s’ils se sont comporté mal quand une sanction est demandé et validé par les médiateurs.
 
-* Réunion tous les dimanches soir à 21 heure (heure française) sur Discord (sauf exception majeure).
+* Réunion tous les dimanches soir à 21 heures (heure française) sur Discord (sauf exception majeure).
 * Tout le monde peut déposer un sujet (à l’exception d’une demande de sanction, qui doit être validé par les médiateurs).
 * Il est interdit de déposer un sujet de réunion anonymement ou au nom d’un groupe. Il est toutefois autorisé de déposer un sujet à plusieurs mais l’ensemble des pseudonymes doivent être écrit.
 * Tout le monde a droit à la parole (il faut lever la main dans le chat).
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
-* Il n’est pas obligatoire d’assister au réunion mais toutefois conseillé afin d’être au mieux informé des nouveautés.
+* Il n’est pas obligatoire d’assister aux réunions, mais c’est toutefois conseillé afin d’être au mieux informé des nouveautés.
 * Tout sujet de réunion contenant un vote devra être soumis à un support d’explication / d’argumentation (support au choix: directement dans le sujet, vidéo, texte, diaporama, etc…) accessible à tous les membres **dès son dépôt**.
   * Il est cependant **conseillé** de soumettre un support d’explication / d’argumentation pour tout sujet.
 * Tout sujet contenant un vote devra être déposé au maximum 24 heures avant la réunion. Dans le cas contraire, le sujet est reporté.
 * Il est possible de modifier ou supprimer son sujet de réunion en passant par un animateur de réunion.
-* l est possible d’ajouter une remarque, un avis concernant un sujet de réunion en passant par un formulaire *(par exemple si vous souhaitez donner un avis sur un sujet alors que vous serez absent de la réunion)*.
+* Il est possible d’ajouter une remarque, un avis concernant un sujet de réunion en passant par un formulaire *(par exemple si vous souhaitez donner un avis sur un sujet alors que vous serez absent de la réunion)*.
 * Un animateur de réunion à la possibilité de déplacer / exclure du channel les membres ne respectant pas les règles de bonne conduite lors des réunions *(coupure de paroles, bruits intempestifs, insultes, mauvais comportement, etc…)*.
 * Les votes en réunion durent 1 semaine et se clôture au moment de l’ouverture de la prochaine réunion (le dimanche prochain à 21H). Les votes suivants se clôturent avant la fin de la réunion:
   * Vote sanction
@@ -65,7 +65,7 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 ### Généralités
 
 * Le spam, peu importe sa nature, est interdit.
-* Les contenus pornographiques explicites sont interdit.
+* Les contenus pornographiques explicites sont interdits.
 * Discuter, tenir des propos RP en dehors des salons RP est interdit.
 * Il est interdit d’enregistrer les conversations.
 * L’utilité des différents canaux doit être respecté.
@@ -92,7 +92,7 @@ Le vote sanction est une décision de la communauté de punir un membre qui aura
     * Plus d’accès serveurs **DE L’ENSEMBLE DES SERVEURS DE JEU**, les serveurs **DEV** ne sont pas compris dedans.
   * Faute communautaire (règlement communautaire)
     * Plus d’accès au TS, discord, serveurs, site
-* En cas de vote sanction déposé par la médiation, une demande de déwhiteliste temporaire jusqu’au vote final, est possible par un vote exceptionnel.
+* En cas de vote de sanction déposé par la médiation, une demande de déwhitelist temporaire jusqu’au vote final est possible par un vote exceptionnel.
 
 ### Demande de vote
 
@@ -135,7 +135,7 @@ Le vote sanction est une décision de la communauté de punir un membre qui aura
 * 7 jours
 * NSPP
 
-*Si un vote dans la durée de la sanction temporaire est supérieur à 50 % ce sera donc ce choix qui sera appliquée.*
+*Si un vote dans la durée de la sanction temporaire est supérieur à 50 % ce sera donc ce choix qui sera appliqué.*
 *Mais si aucun vote dans la durée de la sanction temporaire n’est supérieur à 50 %, la durée de la sanction se calcule à l’aide d’une moyenne pondérée de tous les autres votes.*
 
 ### Effets et exécution
@@ -145,23 +145,23 @@ Le vote sanction est une décision de la communauté de punir un membre qui aura
 * Aucune grâce ne sera accordée.
 * Aucune révision ne pourra être demandée.
 * Réhabilitation du membre après la sanction.
-* Si sanction communautaire, perte du rôle SADoJ sur Discord, sur TeamSpeak et compte désactivé sur le site pour la durée de la sanction.
-* Si sanction serveur et/ou communautaire, interaction RP interdite pour la durée de l’exclusion (serveurs, réseaux sociaux, Discord RP, Sites RP, etc…).
+* En cas de sanction communautaire, perte du rôle SADoJ sur Discord, sur TeamSpeak et compte désactivé sur le site pour la durée de la sanction.
+* En cas de sanction serveur et/ou communautaire, interaction RP interdite pour la durée de l’exclusion (serveurs, réseaux sociaux, Discord RP, Sites RP, etc…).
 
 ## Inactivité
 
-Il est possible de demander en réunion l’exclusion d’un membre inactif avec possibilité de revenir.
+Il est possible de demander en réunion l’exclusion d’un membre inactif avec la possibilité de revenir.
 
 Un de ces trois critères est valide :
 * Aucun message posté sur Discord depuis plus de 3 mois.
 * Aucune connexion sur le TeamSpeak depuis plus de 3 mois.
 * Aucune connexion sur le site (sadoj-rp.fr) depuis plus de 3 mois
 
-Si la personne à eu l’amabilité de prévenir de son absence, il convient de l’exclure de la procédure.
+Si la personne a eu l’amabilité de prévenir de son absence, il convient de l’exclure de la procédure.
 
 Dans le document “suivi des formations” le suivi est effectué.
 
-Les personnes concernées par la procédure sont prévenus une semaine avant le vote en réunion.
+Les personnes concernées par la procédure sont prévenues une semaine avant le vote en réunion.
 
 Elles peuvent demander un retour à tout moment par un simple vote, **ce n’est pas une sanction**.
 
