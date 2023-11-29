@@ -13,7 +13,7 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 Il est possible de contactez les économistes par le formulaire mis à disposition.
 
 > [!ATTENTION]
-> Tout membre de la communauté est  le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.
+> **Tout membre de la communauté est  le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.**
 
 ## Les salaires et revenus
 
@@ -38,7 +38,7 @@ Pour le numéro et adresse d'un bien : coordonnées x (sans le moins) sur la rou
 > Exemple : 1154RueDeMaMaison
 
 > [!ATTENTION]
-> L’achat d’un bien qui n'appartient à aucun personnage ou entreprise doit passer par un intermédiaire en immobilier qui doit obtenir l’accord du gouvernement (savoir si le bien et à vendre ou pas)
+> **L’achat d’un bien qui n'appartient à aucun personnage ou entreprise doit passer par un intermédiaire en immobilier qui doit obtenir l’accord du gouvernement (savoir si le bien et à vendre ou pas).**
 
 
 ### Pour les véhicules
@@ -83,17 +83,33 @@ Les PNJ dans les darkzones sont de la décoration et n’ont aucune influence su
 
 | Type de contrat | Plafond |
 | :-------------- | :-----: |
-| Hors commision  | 20000$  |
-| En commision    | 10000$  |
+| Hors commision d'office | 20000$  |
+| En commision d'office    | 10000$  |
 - L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder 10% de ce dernier.
 
 ### Revenus des journalistes
 
 - Pas de limite d'article, de tweet, de video.
-| Type de vue  | Gains  |
-| :----------- | :----: |
-| Tweet        | 20000$ |
-| En commision | 10000$ |
+- Revenu minimum pour les articles abusifs ou vidéo en contenu (par exemple deux lignes, image tirée du jeu avec le HUD etc...)
+- Le groupe des économistes peut également décider de ne donner aucun revenu en cas de tromperie, de sujets qui n'ont aucun rapport avec le serveur.
+
+#### Revenus normaux
+
+| Type             | Revenu par Vue       |
+|:-----------------------:|:--------------------:|
+|   Tweet article         |       $30/vue        |
+|   Tweet du jour         |        $3/vue        |
+| Articles site / vidéo   | $120/vue (tiktok / 2)|
+
+#### Revenus considérés comme abusif
+
+| Type (abusif)    | Revenu minimum par Vue |
+|:-----------------------:|:----------------------:|
+|   Tweet article         |       $10/vue          |
+|   Tweet du jour         |        $1/vue          |
+| Articles site / vidéo   | $40/vue (tiktok / 2)   |
+
+
 
 ### Les revenus de travail ou activité PNJ
 
@@ -109,7 +125,7 @@ Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse per
 * La profession d'avocat peut être effectuée en plus de deux autres emplois.
 
 > [!NOTE]
-> Une exception est possible pour des tâches temporaires, voir &#8595;
+> Une exception est possible pour des tâches temporaires, [voir](#le-travail-à-la-tâche-temporaire)
 
 
 ### Le travail à la tâche / temporaire
@@ -152,7 +168,7 @@ Une déclaration pour les impôts a lieu une fois par mois.
 
 ### Pour les particuliers
 
-Prélèvement social et contribution solidarité par déclaration lors de la déclaration des entreprises des revenus perçu par les responsables et par les actionnaires) :
+Prélèvement social et contribution solidarité par déclaration lors de la déclaration des entreprises des revenus perçu par les responsables et par les actionnaires.
 
 ### Pour les dirigeants et actionnaires
 
@@ -170,26 +186,20 @@ Ce tableau récapitule les prélèvements faits en fonction des revenus des resp
 ## Les entreprises / associations
 
  > [!ATTENTION]
- > Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.
+ > **Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.**
 
 ### Type d’entités possibles
 
-* Association : sur demande au gouvernement
-    - Activité à but non lucratif, pas de salaire, pas d’employés, pas de facture.
+> [!ATTENTION]
+> **Toute création d'association ou d'entreprise doit être validée par le gouvernement.**
 
-* Micro-entreprise : sur demande au gouvernement
-    - Possibilité d’être soumise à accréditation de l'État pour certaines activités (journalisme, immobilier, protection… liste non exhaustive).
-    - Taxe de 10% sur le CA (directement sur les factures)
-    - Chiffre d’affaire max $15.000/semaine
-    - Compte en banque obligatoire, facture par la banque.
-    - Pas de déclaration, pas d’employés.
+| Type d'entité       | Caractéristiques principales                                      |
+|---------------------|------------------------------------------------------------------|
+| <div style="text-align:center">Association</div>         | - Activité à but non lucratif<br>- Pas de salaire, employés ou factures |
+| <div style="text-align:center">Micro-entreprise</div>    | - Possibilité d'accréditation pour certaines activités spécifiques<br>- Taxe de 10% sur le chiffre d'affaires<br>- Chiffre d’affaires max : $15,000/semaine<br>- Compte en banque obligatoire, facture par la banque<br>- Pas de déclaration ni d'employés |
+| <div style="text-align:center">Entreprise</div>          | - Possibilité d'avoir des employés<br>- Taxe de 10% sur le chiffre d'affaires<br>- Déclaration revenus obligatoire<br>- Soumise à l'impôt sur les entreprises |
 
-* Entreprise : sur dossier demande au gouvernement
-    - Possibilité d’avoir des employés
-    - Taxe de 10% sur le CA (directement sur les factures)
-    - Déclaration revenus obligatoire, Soumise à l’impôt sur les entreprises
-
-Système d’aide pour les entreprises au cas par cas sans le système de coef
+Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
 ### Création d’entreprise
 
@@ -207,7 +217,7 @@ Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités
 Les entreprises disposant de locaux ouverts au public en permanence et où il est possible d’acheter des produits (supérettes, boutiques, bar, nightclub) ou d’effectuer des loisirs (billard etc..) ont la possibilité de demander via le gouvernement des revenus supplémentaires.
 Ces revenus seront étudiés au cas par cas en fonction des demandes mais la marge finale sera au minimum de 2500$ (salaire minimum).
 
-En réponse à la demande, des contreparties pourront être décidées, pour animer les lieux. 
+En réponse à la demande, des contreparties pourront être décidées, pour animer les lieux.
 > Pour un nightclub par exemple organiser des soirées, pour une supérette, faire des livraisons/ réapprovisionnement.
 
 Les objectifs sont d’apporter des revenus supplémentaires tout en favorisant l’interaction, une occupation des lieux qui sont bien souvent vides et pour éviter de revenir en arrière avec les investissements de bâtiments fantômes.
@@ -221,32 +231,24 @@ Un commerce PNJ (supérettes, loisirs, car wash...) ne peut pas être installé 
 
 ### La valeur de l’entreprise
 
-La valeur de l'entreprise est “le capital” calculé de la façon suivante :
-Capital sera évalué par les économistes : valeur immobilière + 100% valeur des véhicules + bénéfices moyen d’un mois et il augmentera en fonction des investissements de l’entreprise.
+La valeur de l'entreprise est calculée à l'aide d'une feuille de calcul et de formules prenant en compte plusieurs éléments :
+* Valeur des véhicules entreprises (50%)
+* Pour les concessions, valeur des véhicules en vente (25%)
+* Valeur de l'immobilier
+* CA moyen sur un mois
+* Fonds sur les comptes en banque, dans les coffres
 
-Si il y a des fonds sur les comptes et/ou coffre, la somme s’ajoute à la valeur du capital.
-
-L’actionnaire majoritaire d’une entreprise peut injecter de l’argent sans limite sur les comptes de l'entreprise.
+>[!NOTE]
+>L’actionnaire majoritaire d’une entreprise peut injecter de l’argent sans limite sur les comptes de l'entreprise.
 
 ### Fermeture d’une entreprise
 
-Il y a plusieurs possibilités
-
-* Cessation d’activité simple sans revente
-Les responsables peuvent récupérer les fonds de l’entreprise mais devront payer une taxe de 60%.Clôturer les crédits, vendre les bâtiments (revente PNJ prix du marché) et véhicules. (100% de la valeur neuf)
-
-* Cessation d’activité avec revente à l'état ( si l’état souhaite racheter)
-
-Le(s) responsable(s) peuvent récupérer les fonds de l’entreprise  mais devront payer une taxe de 60% et vendre l’entreprise à l'Etat à 50% du capital.
-
-* Faillite de l’entreprise
-
-L’entreprise n’a plus de fonds et ne gagne plus d’argent et pas assez pour payer les dépenses le responsable décide de fermer et l'entreprise disparaît.
-
-* Fermeture d’une association, d’un club
-
-Lors de la fermeture d’une association ou d’un club, les fonds peuvent être reversés à d’autres associations/clubs (joueurs) ou à des associations diverses (PNJ).
-Le président du club/de l’association peut récupérer **jusqu'à 40% des fonds.**
+| Type de Fermeture                    | Procédure                                          | Récupération des Fonds                                      |
+|:--------------------------------------:|----------------------------------------------------|-------------------------------------------------------------|
+| Cessation d'activité simple sans revente  | - Clôture des crédits <br>- Vente des bâtiments et véhicules | Les responsables peuvent récupérer les fonds, mais **taxe de 60%** |
+| Cessation d'activité avec revente à l'État | - Vente à l'État à 50% du capital <br>- **Taxe de 60%**        | Les responsables récupèrent une partie des fonds, **taxe de 60%** |
+| Faillite de l’entreprise             | L'entreprise ferme sans fonds et disparaît            | Aucune récupération de fonds                                  |
+| Fermeture d’une association/club     | Fonds reversés à d'autres associations/clubs ou à des associations diverses | Le président peut récupérer **jusqu'à 40% des fonds**            |
 
 ### Vente d’une entreprise
 
@@ -257,7 +259,8 @@ A savoir que la valeur maximale du prix de vente (hors fonds) ne pourra pas êtr
 
 Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente.
 
-Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.
+>[!ATTENTION]
+>**Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.**
 
 ### Le rachat d’entreprise
 
@@ -269,7 +272,7 @@ L’acheteur peut faire un crédit au nom de sa future entreprise (comme à la c
 * Cas particulier rachat d’une entreprise par une entreprise :
   - rachat d'une entreprise par une autre entreprise possible que pour fusion et 100% des parts.
   - vente dans les mêmes conditions que la vente d'entreprise mais pas de % en moins ou en plus.
-Prix = capital + fond. 
+Prix = capital + fond.
 
 - Apport obligatoire de 10% du prix.
 
@@ -277,12 +280,12 @@ Prix = capital + fond.
 - Fond de roulement obligatoire minimum de 10% du prix d’achat.
 
 > [!ATTENTION]
-> Le gouvernement doit valider la vente ou non. (Activités compatibles)
+> **Le gouvernement doit valider la vente ou non. (Activités compatibles)**
 
 > [!TIP]
 > Possibilité de faire un crédit personnel pour financer l'apport.
 >
-> Possibilité de faire un apport personnel de seulement 5% pour l'achat de l'entreprise (mais seulement avec l'accord des économistes, en dernier recours.
+> Possibilité de faire un apport personnel de seulement 5% pour l'achat de l'entreprise mais seulement avec l'accord des économistes, en dernier recours.
 
 ### Les Actionnaires
 
@@ -302,7 +305,8 @@ Le rôle et le but de l'actionnaire minoritaire seront donc de toucher des divid
 
 > Exemples :
 > Monsieur A possède 49% d'une entreprise, il n'aura plus le droit d'avoir le menu "entreprise" de l'entreprise.
-> Monsieur B possède 49% d'une entreprise mais est également employé par celle ci, il aura le droit d'avoir le menu "entreprise" mais ce sera compté comme un emploi (2 max).
+>
+> Monsieur B possède 49% d'une entreprise mais est également employé par celle ci, il aura le droit d'avoir le menu "entreprise" mais ce sera compté comme un emploi **(2 max).**
 
 ### Injecter de l’argent
 
@@ -315,16 +319,16 @@ Les parts d’une entreprise ne peuvent pas être données, revente obligatoire 
 * Si il n'y a pas les fonds, le crédit est obligatoire. Il est interdit d'utiliser les fonds de l’entreprise.
 * Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente des parts.
 
-> [!WARNING] 
-> Obligation de passer par le gouvernement pour savoir la valeur de l’entreprise et déclaration obligatoire la vente de parts.
+> [!ATTENTION]
+> **Obligation de passer par le gouvernement pour savoir la valeur de l’entreprise et déclaration obligatoire la vente de parts.**
 
 ### Aides gouvernementales (pour entreprises ou associations)
 
 Les aides gouvernementales seront évaluées au cas par cas, celle-ci permettra à l’entreprise dont l’activité est viable à supporter les charges. Les aides seront principalement destinées aux paiement des salaires mais pourront être également d’une nature différente.
 Les entreprises pourront chacune faire une demande d’aide par dossier au gouvernement.
 
-> [!WARNING]
-> Les entreprises pourront perdre l’aide si elle ne respecte pas la destination des fonds.
+> [!ATTENTION]
+> **Les entreprises pourront perdre l’aide si elle ne respecte pas la destination des fonds.**
 
 ### Les dons
 
@@ -355,6 +359,58 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 > [!WARNING]
 > En cas d'absence de testament, tout revient à l'État.
 
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Conditions Testamentaires</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Léguer à la famille PNJ</td>
+      <td>Tous les biens et l'argent vont à la famille PNJ du personnage.</td>
+    </tr>
+    <tr>
+      <td>Héritiers possibles</td>
+      <td>De 1 à 3 héritiers maximum peuvent être désignés.</td>
+    </tr>
+    <tr>
+      <td>Léguer des véhicules</td>
+      <td>Jusqu'à trois véhicules peuvent être légués sans limite de valeur, répartition au choix.</td>
+    </tr>
+    <tr>
+      <td>Léguer de l'argent</td>
+      <td>Jusqu'à 100 000 $ en argent maximum peuvent être légués, répartition au choix.</td>
+    </tr>
+    <tr>
+      <td>Rachat prioritaire pour un proche</td>
+      <td>Un seul bien immobilier peut être racheté avec priorité pour un proche à 50% de sa valeur.</td>
+    </tr>
+    <tr>
+      <td>Droit de succession</td>
+      <td>40% des fonds disponibles sont prélevés par l'État en droit de succession.</td>
+    </tr>
+    <tr>
+      <td>Biens immobiliers</td>
+      <td>Vont à la famille PNJ et sont remis en vente par les PNJ.</td>
+    </tr>
+    <tr>
+      <td>Véhicules restants</td>
+      <td>Les véhicules restants vont à la famille ou sont récupérés par l'État pour enrichir le parc de véhicules d’occasions.</td>
+    </tr>
+    <tr>
+      <td>Léguer à des organismes</td>
+      <td>Possibilité de léguer de l'argent aux associations de l'État (jusqu'à 100 000 $), aux associations PNJ (sans limite), ou à l'État ou aux services publics (sans limite).</td>
+    </tr>
+    <tr>
+      <td>Léguer aux entreprises</td>
+      <td>Les legs de particuliers aux entreprises sont interdits.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 Lorsque votre personnage meurt, il peut faire un testament. Le but ici est de liquider les biens de la personne et pas d’enrichir les copains. 
 Le principe est que tous les biens et l’argent vont à la famille PNJ du perso.
 
@@ -380,6 +436,7 @@ Le principe est que tous les biens et l’argent vont à la famille PNJ du perso
 Les lègues de particuliers aux entreprises sont interdites.
 
 #### Cas particulier des entreprises
+
 On ne peut pas faire don de son entreprise à un particulier lors de la mort de son personnage ou du départ, l’état récupère l’entreprise et s’occupe de la revente.
 
 Les salariés ont la priorité absolue sur l’achat de l’entreprise dans les mêmes conditions que le rachat d’entreprise.
@@ -403,7 +460,7 @@ Chaque testament, pour être valide, devra être signé par un Procureur ou un J
 * Via les juges: les personnes qui le souhaitent peuvent transmettre leur testament à un juge qui devra ensuite le transmettre à un procureur pour être archivé.
 
 > [!ATTENTION]
-> Les testaments déposés après la mort ne seront pas pris en compte
+> **Les testaments déposés après la mort ne seront pas pris en compte.**
 >
 > Les testaments signés '"Allan Pehainjy"' pour les juges ou les procureurs ne seront pas pris en compte
 >
@@ -461,8 +518,7 @@ Si la saisie est décidée
 Les paiements des services et/ou produits devront être effectués uniquement par FACTURE  en utilisant le système de facturation en jeu ou via les sites des banques.
 
 > [!ATTENTION]
-> Après la date butoir, tous les virements directs encore présents seront purement supprimés.
-
+> **Après la date butoir, tous les virements directs encore présents seront purement supprimés.**
 
 
 {docsify-updated}
