@@ -20,6 +20,7 @@
     * [Guerres de territoires](life/guides/turfwars.md "Guerres de territoires")
   * Role-play
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
+    * [Code de Procédure Pénal](life/rp/criminal_procedure_code.md "Code de Procédure Pénal")
 * SADoJ Docs
   * [Installer le site localement](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
