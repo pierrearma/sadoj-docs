@@ -54,26 +54,74 @@ Les prix sont fixés proche de la réalité selon les entreprises qui proposent 
 
 Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
 
-### Les prix des PNJ placés (légal)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prix des PNJ placés</title>
+  <style>
+    table {
+      font-family: Arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
 
-#### PNJ dans les entreprises (3 types de PNJ)
+    th, td {
+      text-align: left;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
 
-* Les client fictifs sont des PNJ de décoration et sont gratuits
-* Les employés PNJ : serveuse, dj, hôtesse d’accueil … Les entreprises doivent payer un salaire au compte PNJ. **2500$/semaine par salarié PNJ** sur le compte PNJ.
-* Les gardes PNJ : prioriser les gardes d’entreprises joueurs d’une valeur supérieure à **2500$/semaine** *(fixé par les entreprises en fonction de la marge et des taxes)* mais qui ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs. Dans le cas où les gardes proviennent d'une entreprise PNJ le prix est de **5000$/semaine.**
- * Les entreprises de sécurité doivent payer **2500$/semaine** et par PNJ placé auprès du compte PNJ des banques.
+<h2>Prix des PNJ placés</h2>
 
-### Les prix des PNJ placés (illégal)
+<table>
+  <tr>
+    <th>Type de PNJ</th>
+    <th>Emplacement</th>
+    <th>Coût</th>
+    <th>Responsabilité</th>
+    <th>Impact sur le RP</th>
+  </tr>
+  <tr>
+    <td>Client fictif</td>
+    <td>Tout emplacement sauf Darkzone</td>
+    <td>Gratuit</td>
+    <td>Décoration</td>
+    <td>Faible impact, purement décoratif</td>
+  </tr>
+  <tr>
+    <td>Employés PNJ</td>
+    <td>Tout emplacement sauf Darkzone</td>
+    <td>2500$/semaine par PNJ</td>
+    <td>Salaires pris en charge par l'entreprise</td>
+    <td>Décoratif, participe à l'immersion des joueurs dans les lieux</td>
+  </tr>
+  <tr>
+    <td>Gardes PNJ</td>
+    <td>Tout emplacement sauf Darkzone</td>
+    <td>Variable (2500$-5000$/semaine)</td>
+    <td>Sécurité des entreprises ou des zones spécifiques</td>
+    <td>Influence significative sur la sécurité</td>
+  </tr>
+  <tr>
+    <td>PNJ Darkzone</td>
+    <td>Darkzones</td>
+    <td>Gratuit</td>
+    <td>Limitation d'accès, effet dissuasif</td>
+    <td>Aucun impact sur les interactions avec la police</td>
+  </tr>
+  <tr>
+    <td>Gardes dark hors darkzone</td>
+    <td>Tout emplacement sauf Darkzone</td>
+    <td>2500$/semaine par PNJ</td>
+    <td>Géré par les référents dark</td>
+    <td>Important dans le RP, pris en compte par les joueurs</td>
+  </tr>
+</table>
 
-#### PNJ Darkzone
-
-Les PNJ dans les darkzones sont de la décoration et n’ont aucune influence sur les flics lors de perquisition, par contre sont là pour limiter l’accès au civils et faire peur. Vu que les darkzones n’appartiennent pas réellement à des joueurs les PNJ sont « gratuit ».
-
-#### PNJ gardes dark hors darkzone
-
-* Gestion par les référents dark, **2500$/semaine par PNJ**
-* Somme totale par semaine ou mois mise en commentaire dans le script et payée **une fois par mois.** *(Prélevé par les référents dark).*
-* Les PNJ ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs.
+</body>
+</html>
 
 ### Les prix fixés par les entreprises
 
