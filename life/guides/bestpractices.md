@@ -20,6 +20,6 @@ Attention ! Ce guide n’est pas un règlement, il ne contient pas des “articl
 * Avoir un pseudonyme identique (mettre un 2 pour les seconds perso) sur les Discord SADoJ, le Teamspeak, ainsi que sur FiveM (soit par Steam, ou dans les paramètres FiveM). Ceci, dans un but de vous identifier clairement en cas de problème et ainsi faire gagner du temps aux personnes qui ont autres choses à faire que de rechercher qui est qui pendant quelques minutes.
 * Si le véhicule ne possède pas de lecteur de plaque et/ou de radar visuellement visible et/ou que le véhicule n’a pas visuellement de plaque alors les informations données par le script de peuvent pas être utilisées.
 * Ne pas tirer systématiquement sur la police ou du moins pas dans l’optique de neutraliser la personne, privilégiez d’autres méthodes.
-* Privilégier au maximum les courses poursuites et Pitt en dernier recours si danger pour la population. (tir, accident, trottoir…) Avoir ici une conduite RP est important. (ne pas oubliez de semer les forces de l’ordre avant le retour en dark-zone)
+* Privilégier au maximum les courses poursuites et Pit en dernier recours si danger pour la population. (tir, accident, trottoir…) Avoir ici une conduite RP est important. (ne pas oubliez de semer les forces de l’ordre avant le retour en dark-zone)
 
 {docsify-updated}
