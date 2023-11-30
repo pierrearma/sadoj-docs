@@ -54,26 +54,7 @@ Les prix sont fixés proche de la réalité selon les entreprises qui proposent 
 
 Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Prix des PNJ placés</title>
-  <style>
-    table {
-      font-family: Arial, sans-serif;
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      text-align: left;
-      padding: 8px;
-    }
-  </style>
-</head>
-<body>
-
-<h2>Prix des PNJ placés</h2>
+### Prix des PNJ placés
 
 <table>
   <tr>
