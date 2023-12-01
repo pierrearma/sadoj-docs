@@ -13,6 +13,7 @@
     * [Perpétuité justice (mort RP justice)](life/rules/perpetuity.md "Perpétuité justice (mort RP justice)")
     * [Rôle-play médical](life/rules/medical.md "Rôle-play médical")
     * [Termes RolePlay](life/rules/terms.md "Termes RolePlay")
+    * [L'économie du serveur life](life/rules/economy.md "L'économie du serveur life")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")

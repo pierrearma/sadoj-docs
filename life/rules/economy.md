@@ -4,17 +4,17 @@
 
 ## Préambule
 
-Cette page reprend l’ensemble des éléments mis en place par les économistes afin d’avoir une économie la plus viable possible sur le serveur life. Prise en compte de toutes les modifications et améliorations faites depuis le début et améliorations apportées au cas par cas.
+Cette page reprend l’ensemble des éléments mis en place par les économistes afin d’avoir une économie la plus viable possible sur le serveur life.
 
-Sachez qu’en matière d’économie, rien n’est fixe, donc tout est potentiellement modifiable au cours du développement du Life et des incohérence qui apparaissent dans le RP ou des points qui mettent à mal l’économie et la volontée de garder quelque chose qui se veut réaliste mais qui prend en compte aussi que nous sommes sur un jeu.
+Sachez qu’en matière d’économie, rien n’est fixe, donc tout est potentiellement modifiable au cours du développement du Life et des incohérences qui apparaissent dans le RP ou des points qui mettent à mal l’économie et la volontée de garder quelque chose qui se veut réaliste mais qui prend en compte aussi que nous sommes sur un jeu.
 
-De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le rôle des économistes est de réguler tout ce qui touche à l’argent afin de vous donner une expérience de RP la plus convenable possible. Pas avoir assez ou trop gâcher le plaisir du RP. C’est pour cela que le rôle d’économiste et le groupe doit avoir la confiance des membres car ils travaillent pour le bien de tous ! Les modifications seront présentées mais non soumises au vote de la communauté, vous pouvez communiquer avec les économistes afin d’apporter des améliorations sur les modifications. (Pourquoi pas de vote ? Économiste est un rôle à part car cela touche à l’argent, c’est aussi pour éviter les effets de désinformation et l’économiste bashing, les économistes travaillent pour nous tous et pour le bien de notre RP.)
+De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le rôle des économistes est de réguler tout ce qui touche à l’argent afin de vous donner une expérience de RP la plus convenable possible. Ne pas avoir assez ou trop gâcher le plaisir du RP, c’est pour cela que le rôle d’économiste et le groupe doit avoir la confiance des membres car ils travaillent pour le bien de tous ! Les modifications seront présentées mais non soumises au vote de la communauté, vous pouvez communiquer avec les économistes afin d’apporter des améliorations sur les modifications. (Pourquoi pas de vote ? Économiste est un rôle à part car cela touche à l’argent, c’est aussi pour éviter les effets de désinformation et l’économiste bashing, les économistes travaillent pour nous tous et pour le bien de notre RP.)
 
 > [!TIP]
-> Il est possible de contactez les économistes par le formulaire mis à disposition.
+> Il est possible de contactez les économistes par le formulaire mis à disposition, il est accessible depuis le site principal (seulement par les membres).
 
 > [!ATTENTION]
-> **Tout membre de la communauté est  le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.**
+> **Tout membre de la communauté est le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.**
 
 ## Les salaires et revenus
 
@@ -65,7 +65,7 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
     <th>Impact sur le RP</th>
   </tr>
   <tr>
-    <td>Client fictif</td>
+    <td>Clients fictifs</td>
     <td>Tout emplacement sauf Darkzone</td>
     <td>Gratuit</td>
     <td>Décoration</td>
