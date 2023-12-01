@@ -59,7 +59,7 @@
       <td style="text-align: center;">7</td>
       <td style="text-align: center;">Guillaume</td>
       <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, Sulivan, Esteban</td>
-      <td style="text-align: center;">Vote des membres du rôle <br><strong> 3 mois d'ancienneté dans la communauté</td>
+      <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>
       <td style="text-align: center;">Paypal</td>
@@ -181,7 +181,7 @@
       <td style="text-align: center;">9</td>
       <td style="text-align: center;">Pierre</td>
       <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Armand, Elkas, Doryann, Kentinsly, Dylan51</td>
-      <td style="text-align: center;">Tout le monde après formation de Pierre. Retrait possible en cas d'inactivité ou de mauvaise manipulation, réintégration après nouvelle formation.</td>
+      <td style="text-align: center;">Tout le monde après formation de Pierre <br> <br> Retrait possible en cas d'inactivité ou de mauvaise manipulation, réintégration après nouvelle formation.</td>
     </tr>
   <tr>
       <td style="text-align: center;">Formateur</td>
@@ -273,7 +273,7 @@
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
       <td style="text-align: center;"> Guillaume, Kuro, Back Draft, Esteban, Dylan51, Armand, Antonin</td>
-      <td style="text-align: center;">Vote des membres de la commu <br><strong>3 mois d'ancienneté dans la communauté</td>
+      <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
       <td>
@@ -290,7 +290,7 @@
       <td style="text-align: center;">Toxi</td>
       <td style="text-align: center;"> Police : Back_draftt, Swarex <br> Dark : Azzox, Toxi, Taykay, Doryann <br> Référents RP/HRP: ToxiCorpTV et Swarex </li>
       </td>
-      <td style="text-align: center;"> Vote des membres de la commu <br> Doit être composé à moitié/moité de joueurs dark et police <br><strong> 3 mois d'ancienneté dans la communauté
+      <td style="text-align: center;"> Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police <br><br><strong> 3 mois d'ancienneté dans la communauté
       </td>
     </tr>
     <tr>
@@ -341,16 +341,12 @@
       <td style="text-align: center;">Volontaire</td>
     </tr>
     <td style="text-align: center;">Streamer Vidéaste(Life)</td>
-      <td> Référent Militaire pour le life
-      <ul>
-          <li>Répond aux interrogations des joueurs </li>
-        </ul>
-      </td>
+      <td> Membres ayant obtenu leur autorisation de stream</td>
       <td style="text-align: center;">∞</td>
       <td style="text-align: center;">Aucun</td>
       <td style="text-align: center;"><a href="https://discord.com/channels/428563562701783051/836845975694868510">Voir</a>
 </td>
-      <td style="text-align: center;">Vote des membres de la commu <br><a href="https://docs.sadoj-rp.fr/#/community/rules/streamer">Voir règlement spécifique</a>
+      <td style="text-align: center;">Vote des membres de la commu <br><br><a href="https://docs.sadoj-rp.fr/#/community/rules/streamer">Voir règlement spécifique</a>
       </td>
     </tr>
 <td style="text-align: center;">Médiateurs</td>
@@ -363,7 +359,7 @@
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
       <td style="text-align: center;">Snake, Backdraft, Thomas, Taykay, Odin, Dylan51, Mac</td>
-      <td style="text-align: center;">Vote des membres de la commu <br><strong> Il ne faut jamais avoir eu de sanctions</td>
+      <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
       <td>
