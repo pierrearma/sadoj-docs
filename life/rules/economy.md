@@ -534,5 +534,5 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 
 > [!ATTENTION]
 > **Après la date butoir, tous les virements directs encore présents seront purement supprimés.**
-S
+
 {docsify-updated}
