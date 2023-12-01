@@ -450,7 +450,7 @@
       </td>
       <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
       <td style="text-align: center;">Roni</td>
-      <td style="text-align: center;">Roni, _Thomas_ (police), Armand, Thracios, Ludovic </td>
+      <td style="text-align: center;">Roni, _Thomas_ (police), Armand, Ludovic </td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
