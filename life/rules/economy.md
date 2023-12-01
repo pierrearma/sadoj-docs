@@ -29,7 +29,19 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ### Pour l’immobilier
 
-* Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes. Les prix sont libres entre joueurs au-dessus du prix du marché *(doc immo)* pour la revente mais dans le cas d’une revente aux PNJ le prix du marché sera appliqué.
+* Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes.
+
+* Les prix sont libres entre joueurs mais **entre 80% mini et 120% max** (comme pour la vente d'une entreprise)  pour la revente.
+ * Dans le cas d’une revente aux PNJ la valeur du doc immo sera appliquée.
+  
+>[!NOTE]
+> Un taux minimum pour éviter les reventes aux potes à un prix dérisoire.
+> 
+> Un taux maximum pour éviter d'avoir des biens qui se vendent x fois plus cher.
+> 
+> Cela s'applique aussi aux entreprises.
+
+> Exemple : une maison ayant une valeur de 200 000 sur le doc immo pourra être revendue entre 160 000 et  240 000. 
 
 * Lors d’un crédit : il est obligatoire de faire un apport lors de l’achat d’un bien immobilier : **10% particuliers** et **20% entreprises.**
 
