@@ -4,9 +4,9 @@
 
 ## Un rôle c'est quoi ? Et ça sert à quoi ?
 
-* Les rôles ont pour but de simplifier la gestion de la communauté par la communauté car il est plus facile de gérer certains points en petit groupe qu'avec l'ensemble de la commuanuté.
+* Les rôles ont pour but de simplifier la gestion de la communauté par la communauté car il est plus facile de gérer certains points en petit groupe qu'avec l'ensemble de la communauté.
 * Un rôle dans la communauté c'est le fait de gérer un point bien préci de la communauté et celle ci "fait confiance" aux membres du rôle dans leur gestion et leurs décisions.
-* Certains rôles sont les garants de la continuité et de la sécurisation de la commuanuté et doivent être géré par des membres de confiance et d'expérience (clés serveur, paypal)
+* Certains rôles sont les garants de la continuité et de la sécurisation de la communauté et doivent être géré par des membres de confiance et d'expérience (clés du serveur, paypal)
 * Les membres du rôle peuvent demander l'avis de la communauté pour certains points qui ont un impact sur l'ensemble de la communauté.
 * Tout membre peut demander des précisions ou des explications en réunion et le porte parole du rôle et les membres du rôle pourront expliciter leurs décisions.
 * Les groupes de rôle se doivent de communiquer le plus possible sur leur décisions en réunion ou la communauté peut donner son avis qui sera forcément pris en compte.
@@ -37,7 +37,7 @@
           <li>Traiter les nouvelles candidatures</li>
           <li>Sélectionner les candidats (vote recruteur)</li>
           <li>Faire passer les entretiens vocaux</li>
-          <li>Accepter nouveaux membres</li>
+          <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
@@ -53,12 +53,12 @@
           <li>Fixe et aide à fixer les prix</li>
           <li>Fixe le salaire minimum</li>
           <li>Fixe les coefs et leur évolution</li>
-          <li>Fixe le prix d'achat des packs entreprises</li>
+          <li>Fixe le prix des créations entreprises</li>
         </ul>
       </td>
       <td style="text-align: center;">7</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, Sulivan, Esteban</td>
+      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, Sulivan, Esteban, Ato</td>
       <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@
         </ul>
       </td>
       <td style="text-align: center;">Voir discord dev</td>
-      <td style="text-align: center;">Groupe clés serveur</td>
+      <td style="text-align: center;">Groupe clés du serveur</td>
       <td style="text-align: center;">Voir discord dev</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
@@ -218,7 +218,7 @@
       <td>
         Gestion de la carte des membres
         <ul>
-          <li>Creer les liens pour les nouveaux membres qui demandent</li>
+          <li>Créer les liens pour les nouveaux membres qui demandent</li>
         </ul>
       </td>
       <td style="text-align: center;">1 (1 max)</td>
@@ -272,7 +272,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;"> Guillaume, Kuro, Back Draft, Esteban, Dylan51, Armand, Antonin</td>
+      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Armand, Antonin</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -288,7 +288,7 @@
       </td>
       <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Toxi</td>
-      <td style="text-align: center;"> Police : Back_draftt, Swarex <br> Dark : Azzox, Toxi, Taykay, Doryann <br> Référents RP/HRP: ToxiCorpTV et Swarex </li>
+      <td style="text-align: center;"> Police : <br> Backdraft, Swarex <br><br> Dark : <br>Azzox, Toxi, Taykay, Doryann <br><br> Référents RP/HRP :<br>ToxiCorpTV et Swarex </li>
       </td>
       <td style="text-align: center;"> Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police <br><br><strong> 3 mois d'ancienneté dans la communauté
       </td>
@@ -340,7 +340,7 @@
       <td style="text-align: center;">Heishi</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
-    <td style="text-align: center;">Streamer Vidéaste(Life)</td>
+    <td style="text-align: center;">Streamer <br>Vidéaste</td>
       <td> Membres ayant obtenu leur autorisation de stream</td>
       <td style="text-align: center;">∞</td>
       <td style="text-align: center;">Aucun</td>
@@ -391,7 +391,7 @@
       <ul>
           <li>Gérer les demandes de parole </li>
           <li>Gérer le déroulement de la réunion en fonction de la priorité des sujets</li>
-          <li>Travailler en collaborations avec les éditeurs du site pour la création du vote</li>
+          <li>Travailler en collaboration avec les éditeurs du site pour la création du vote</li>
           <li>Ramener à l’objectif (éviter que le sujet change ou que cela divague)</li>
           <li>Rendre les réunions efficaces, éviter les pertes de temps</li>
         </ul>
@@ -406,7 +406,7 @@
       <ul>
       <li>Se rendre disponible si un membre souhaite ajouter une information à un sujets ou si un auteur souhaite supprimer / modifier son sujet </li>
       </td>
-      <td style="text-align: center;">4</td>
+      <td style="text-align: center;">8</td>
       <td style="text-align: center;">Aucun</td>
       <td style="text-align: center;">Pierre, Roni, Elkas, Doryann, Dylan51, Bragon, Valdum, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
@@ -448,17 +448,12 @@
           <li> Gestion du service FAA</li>
         </ul>
       </td>
-      <td style="text-align: center;">4 (4 souhaité)</td>
-      <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Dylan51, Doryann, Mac, Guillaume</td>
+      <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
+      <td style="text-align: center;">Roni</td>
+      <td style="text-align: center;">Roni, _Thomas_ (police), Armand, Thracios, Ludovic </td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
 </table>
-
-
-
-
-
 
 {docsify-updated}

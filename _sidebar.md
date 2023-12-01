@@ -5,6 +5,7 @@
     * [Règlement du streamer](community/rules/streamer.md "Règlement du streamer")
   * Autres
     * [Procédure de médiation](community/mediation_process.md "Procédure de médiation")
+    * [Rôles dans la communauté SADoJ](community/roles.md "Rôles dans la communauté SADoJ")
 * SADoJ Life US
   * Règlements
     * [Règlement serveur Life US](life/rules/life.md "Règlement serveur Life US")
