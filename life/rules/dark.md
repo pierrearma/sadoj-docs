@@ -3,11 +3,11 @@
 ---
 
 > [!NOTE]
-> Les règles suivantes ont pour but d’éviter bon nombres de conflits et de comportements qui ne corresponds pas à l’esprit SADoJ.
+> Les règles suivantes ont pour but d’éviter bon nombre de conflits et de comportements qui ne correspondent pas à l’esprit SADoJ.
 >
 > On peut tous faire des erreurs, nous sommes humains, mais ce qui est réellement important, c’est apprendre de ses erreurs et être capable de ne pas les reproduire à l’avenir.
 >
-> Le vote sanction doit rester une procédure exceptionnelle et pas banalisé.
+> Le vote sanction doit rester une procédure exceptionnelle non banalisée.
 
 > [!TIP]
 > **Pour toute question concernant le dark, veuillez-vous adressez à l’un des référents, ToxiCorpTv ou Swarex.**
