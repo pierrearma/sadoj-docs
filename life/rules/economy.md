@@ -33,12 +33,12 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 * Les prix sont libres entre joueurs mais **entre 80% mini et 120% max** (comme pour la vente d'une entreprise)  pour la revente.
  * Dans le cas d’une revente aux PNJ la valeur du doc immo sera appliquée.
-  
+
 >[!NOTE]
 > Un taux minimum pour éviter les reventes aux potes à un prix dérisoire.
-> 
+>
 > Un taux maximum pour éviter d'avoir des biens qui se vendent x fois plus cher.
-> 
+>
 > Cela s'applique aussi aux entreprises.
 
 > Exemple : une maison ayant une valeur de 200 000 sur le doc immo pourra être revendue entre 160 000 et  240 000. 
