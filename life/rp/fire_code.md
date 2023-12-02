@@ -118,3 +118,5 @@ En cas de non-conformité (Système défectueux - éteint ou périmé), l’entr
 > [!WARNING]
 
 > **Les Articles 2.2 à 2.4 ne sont pas applicables aux Mapping dont les fichiers sont lock ou qui nécessitent de modifier un fichier de base du jeu qui n'est pas déjà modifié.**
+
+{docsify-updated}

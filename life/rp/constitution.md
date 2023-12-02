@@ -70,3 +70,6 @@ Pour des raisons de nature historique, le fondement de ce droit repose sur ce r�
 La conception de la « Common Law » imprègne toujours très fortement le système judiciaire. Il en résulte une grande absence de certitude pour ceux qui ont affaire à la justice américaine, et l’impression de se trouver face à un droit incompréhensible.
 
 Toute nouvelle décision concernant le droit commun sera inscrite dans ce document et fera jurisprudence pour les nouveaux jugements.
+
+{docsify-updated}
+
