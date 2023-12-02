@@ -31,22 +31,42 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 * Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes.
 
-* Les prix sont libres entre joueurs mais **entre 80% mini et 120% max** (comme pour la vente d'une entreprise)  pour la revente.
- * Dans le cas d’une revente aux PNJ la valeur du doc immo sera appliquée.
+#### Encadrement du marché
+
+<table>
+  <tr>
+    <th style="text-align: center;">Type d'opération</th>
+    <th>Conditions</th>
+    <th>Exemples</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Achat/Vente</td>
+    <td>Les prix libres entre joueurs, <strong>entre 80% et 120% </strong> pour la revente. <br>Pour une revente aux PNJ, le taux est 100%.</td>
+    <td>Un bien d'une valeur de 200 000 dollars peut être revendu entre 160 000 et 240 000 dollars.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Location</td>
+    <td><strong>Loyer maximum fixé à 1.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
+    <td>Un bien d'une valeur de 200 000 dollars peut être loué jusqu'à 3 000 dollars maximum.</td>
+  </tr>
+</table>
 
 >[!NOTE]
+> Pour les achats/ ventes :
+>
 > Un taux minimum pour éviter les reventes aux potes à un prix dérisoire.
 >
 > Un taux maximum pour éviter d'avoir des biens qui se vendent x fois plus cher.
 >
 > Cela s'applique aussi aux entreprises.
 
-> Exemple : une maison ayant une valeur de 200 000 sur le doc immo pourra être revendue entre 160 000 et  240 000. 
-
 * Lors d’un crédit : il est obligatoire de faire un apport lors de l’achat d’un bien immobilier : **10% particuliers** et **20% entreprises.**
+
+#### Ajout d'un MLO/ travaux/ Destruction
 
 * Vous devez faire des travaux dans le cas où un MLO est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes Dans le cas d’un feu une demande de **prise en charge de 50%** par l’assurance peut être faite auprès de la justice.
 
+#### Adressage
 * Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la route devant l’entrée principale et le nom de la rue.
   > Exemple : 1154RueDeMaMaison
 
