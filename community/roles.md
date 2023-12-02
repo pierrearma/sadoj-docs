@@ -85,7 +85,7 @@
           <li>Lancer ou relancer les serveurs</li>
           <li>Transfert de fichiers</li>
           <li>Gestion des WL (WhiteList)</li>
-          <li>Gestion des accès FTP Filezilla</li>
+          <li>Gestion des accès</li>
         </ul>
       </td>
       <td style="text-align: center;">4</td>
