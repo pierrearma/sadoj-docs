@@ -125,7 +125,7 @@
       <td style="text-align: center;">L'ensemble des membres</td>
       <td style="text-align: center;">Aucun</td>
       <td style="text-align: center;">Tous les membres</td>
-      <td style="text-align: center;">Vote des membres de la commu</td>
+      <td style="text-align: center;">N/A</td>
     </tr>
     <tr>
       <td style="text-align: center;">Propriétaire des Discord</td>
