@@ -140,7 +140,11 @@ Dans le cas où le casier judiciaire et/ou le profil psychologique/judiciaire du
 
 **3.2.2** Dans le cadre d'une enquête de flagrance les agents de police sont habilités à rechercher des preuves sur le suspect, à perquisitionner son véhicule et son domicile. Les agents de police sont également habilités à pouvoir rentrer dans un lieu privé pour mettre en état d'arrestation le suspect. Les perquisitions et saisies se font dans un délai raisonnable après le début de l'enquête de flagrance.
 
-**3.2.3** Dans le cadre d'une enquête, le procureur général de San Andreas ou tout agent de police peut, dans un écrit motivé, demander à la Cour de San Andreas des mandats ordonnant aux polices l'arrestation, la perquisition et la saisie, le placement en détention provisoire, et d’autres mesures coercitives ou violant la vie privée d'une personne, notamment la mise sur écoute ou la géolocalisation, justifiées par les circonstances et à la lumière d’une suspicion raisonnable pour toutes les personnes présumées innocentes.
+**3.2.3** Dans le cadre d'une enquête :
+
+1. Le procureur général de San Andreas, les procureurs  ou tout agent de police peut, dans un écrit motivé, demander à la Cour de San Andreas des mandats ordonnant aux polices l'arrestation, la perquisition, des  saisies, et d’autres mesures coercitives ou violant la vie privée d'une personne, notamment la mise sur écoute ou la géolocalisation, justifiées par les circonstances et à la lumière d’une suspicion raisonnable pour toutes les personnes présumées innocentes.
+
+2. Le procureur général de San Andreas, les procureurs peuvent demander une détention provisoire auprès de la cour de San Andreas. Cependant, la police peut recommander au procureur de demander une détention provisoire en fournissant des informations sur l'affaire, les preuves recueillies et toute autre raison justifiant la nécessité de la détention provisoire.
 
 **3.2.4** Si l’enquête dure plus d’un mois, l’affaire est classée sans suite. Ce délai ne fonctionne que pour les procureurs, les policiers et les juges. Si un avocat ne répond à aucune demande de la part de la justice, ce délai ne démarre pas.
 
