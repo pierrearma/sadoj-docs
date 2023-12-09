@@ -78,6 +78,39 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
 
+#### Les délais de livraisons
+
+<!DOCTYPE html>
+<html>
+<body>
+<table>
+  <tr>
+    <th>Type de véhicule</th>
+    <th>Délais</th>
+  </tr>
+  <tr>
+    <td>Véhicules rares</td>
+    <td>Deux semaines</td>
+  </tr>
+  <tr>
+    <td>Bateau, aéronefs</td>
+    <td>Une semaine</td>
+  </tr>
+  <tr>
+    <td>Le reste</td>
+    <td>24 heures</td>
+  </tr>
+</table>
+
+#### Procédure véhicules rares
+
+* Les véhicules rares sont répartis de **manière équitable** entre les concessions.
+* En cas d'exemplaire unique (1), **un tirage au sort** est effectué pour déterminer quelle concession l'aura.
+  * Le tirage au sort n'est pas effectué par les concessions.
+* Concernant la vente au client, elle se fera normalement : les premiers arrivés seront les premiers servis.
+  * Une fois le stock de véhicules écoulé, **aucun exemplaire supplémentaire** ne sera injecté sur le marché.
+
+
 ### Pour les biens de consommations courantes : alimentation, vêtement …
 
 Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
@@ -566,5 +599,7 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 
 > [!ATTENTION]
 > **Après la date butoir, tous les virements directs encore présents seront purement supprimés.**
+
+
 
 {docsify-updated}
