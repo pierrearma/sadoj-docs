@@ -64,7 +64,9 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 #### Ajout d'un MLO/ travaux/ Destruction
 
-* Vous devez faire des travaux dans le cas où un MLO est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes Dans le cas d’un feu une demande de **prise en charge de 50%** par l’assurance peut être faite auprès de la justice.
+* Vous devez faire des travaux dans le cas où un MLO est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes.
+
+* En cas d’incendie d’un bien immobilier, l'État peut indemniser le sinistré, se renseigner directement en RP.
 
 #### Adressage
 * Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la route devant l’entrée principale et le nom de la rue.
@@ -76,7 +78,9 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ### Pour les véhicules
 
-Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
+- Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
+
+- En cas de vol ou de destruction d'un véhicule, l'État peut indemniser le sinistré, se renseigner directement en RP.
 
 #### Les délais de livraisons
 
