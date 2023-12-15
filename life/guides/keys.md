@@ -79,6 +79,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 #### Personnage
 
 - <kbd>Alt</kbd> : Parler à la radio (si elle est allumée) *(il est suggéré de changer cette touche par <kbd>²</kbd> par exemple)*
+- <kbd>E</kbd> : Ouvrir une porte
 
 #### Véhicule
 

@@ -58,7 +58,7 @@
       </td>
       <td style="text-align: center;">7</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, Sulivan, Esteban, Ato</td>
+      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, Sulivan, Esteban, </td>
       <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>
@@ -382,7 +382,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Azzox, Swarex, Elkas, Cobraz, Doryann, Max82</td>
+      <td style="text-align: center;">Guillaume, Azzox, Swarex, Elkas, Taykay, Doryann, Max82</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
