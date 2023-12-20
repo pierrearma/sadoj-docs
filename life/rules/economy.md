@@ -112,6 +112,8 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 * En cas d'exemplaire unique (1), **un tirage au sort** est effectué pour déterminer quelle concession l'aura.
   * Le tirage au sort n'est pas effectué par les concessions.
 * Concernant la vente au client, elle se fera normalement : les premiers arrivés seront les premiers servis.
+  * Un vendeur doit vous autoriser à commander le véhicule
+  * Le vendeur est tenu de s'assurer que le modèle est disponible
   * Une fois le stock de véhicules écoulé, **aucun exemplaire supplémentaire** ne sera injecté sur le marché.
 
 
