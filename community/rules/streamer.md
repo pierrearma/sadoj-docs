@@ -25,6 +25,8 @@ Participer à la SADoJ est tout aussi important que **l’intégration**. Il est
 
 Comme écrit ci-dessus, les membres et vos viewers **jugeront** votre stream. C’est quelque chose qui se fait naturellement. Et si nous ou vos viewers estiment que vous faites “de la merde”. Posez vous la bonne question “Suis-je apte à streamer ?”
 
+Il est a savoir qu'il est **interdit** de diffuser du contenu pornographique.
+
 ### Le contenu est 100% RP ?
 
 **Pour les contenus 100% RP, il n'est pas nécessaire de faire une demande (vidéo promotionnelle, vlog d’un personnage etc…).**

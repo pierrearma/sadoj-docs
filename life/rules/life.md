@@ -13,8 +13,10 @@
 
 * Toute triche, utilisation, exploitation de bug est interdite.
 * Il est obligatoire d’être connecté sur le TeamSpeak dans un des canaux “**Serveur Life**” lorsque vous êtes sur le serveur **Life**. *Il est conseillé d’être connecté sur le TeamSpeak lorsque vous êtes connecté sur un des serveurs.*
+* Il est interdit d'être en communication vocale hors de TeamSpeak lorsque vous êtes en jeu.
+* Il est interdit de partager son écran lorsque vous êtes en jeu.
 * Il est interdit de parler **H**ors-**R**ôle-**P**lay lorsque vous êtes en jeu.
-* L’usage d’informations vues sur un Stream/hors de l’immersion roleplay est interdit, même en utilisant le terme “J’ai regardé ta GoPro”. De même qu’il est formellement interdit de regarder un live étant en jeu (streamstalk).
+* L’usage d’informations vues sur un stream/hors de l’immersion roleplay est interdit, même en utilisant le terme “J’ai regardé ta GoPro”. De même qu’il est formellement interdit de regarder un live étant en jeu (streamstalk).
 * Il est interdit d’écouter une conversation si vous n’en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
 * Il est interdit d’écouter et d’utiliser l’audio entendu via les caméras de surveillance.
 * Il est strictement interdit de se déconnecter ou quitter le jeu afin d’éviter une interaction.
@@ -29,7 +31,6 @@
 * Obligation de porter une Bodycam lors d’une action pour qu’elle soit considérée comme présente (et être utilisée) Exception technique : Non obligatoire pour les tenues SWAT qui nécessite une cagoule.
 * Une limite d’item vêtement sur soi a été fixée à **60**. Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
 * [Termes RolePlay](life/rules/terms.md)
-* Il est interdit de diffuser du contenue Pornographique sur les streams.
 * Il est interdit d’effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti.
 * Le sexe classique est autorisé si les personnes sont consentantes.
 * Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le formulaire.
@@ -87,7 +88,6 @@
 
 ## Immobilier
 
-* Seul les personnes ayant les clefs, les services de secours (force la porte), les personnes dont on a ouvert la porte ou si on a acheté un kit de crochetage peuvent accéder aux propriétés (appart, maison, etc.…)
 * Un personnage ou une entreprise ne peut pas vivre dans plus de deux logements avec intérieur, les autres biens possédés devront être mis en location ou mis à disposition.
 * Il est obligatoire de pouvoir retrouver les biens en location ou en vente avec intérieur dans le canal Discord “immo-dispo-rp”. Les propriétés sans intérieur sont exclu de ce système sauf si inclus dans un document externe au canal.
 
@@ -124,14 +124,12 @@
 * L’île possède un lore bien défini. Vous pouvez le consulter [ici](life/guides/cayoperico.md).
 * Il est interdit d’acheter une propriété sur l’île.
 * La location immobilière pour une durée de + de 24H est interdite.
-* Aucun évènement public ne peut être organisé sans l’accord préalable du gouvernement.
 * Aucun véhicules personnels ne sont admis.
 
 ## Autre
 
 * Pour toute modification sur le serveur Life qui a des conséquences sur tous les joueurs, il est obligatoire de faire voter cette modification par la communauté sauf exception propre à un groupe, et d’inscrire le changement dans le canal #change_log.
 * Interdit de modifier des questions une fois la réponse donnée (sinon vice procédure) dans le Labo Police et interdit de mentir dans les réponses L’usage de toutes vidéos, stream peu importe son origine et qui permettrait de répondre de manière précise, véritable est autorisée.
-* Passage de tous les véhicules en vanilla (moins lourd) Exception : VL n’existant pas en vanilla.
 * Les services de secours ont l’obligation de transmettre également sur les scanner presse sur TeamSpeak. Exception pour les canaux sécurisés.
 * L’utilisation des notifications en jeux est interdit dans les conditions suivantes:
   * Message publicitaire ou propagande sauf presse.

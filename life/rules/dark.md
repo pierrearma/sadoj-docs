@@ -82,7 +82,6 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Vol de véhicule: 1 policier en service
   * Braquage de convoi de fonds: 2 policiers en service
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
-* La justice ne peut consulter les SMS ou les utiliser comme pièce à conviction en raison de l’absence d’un système d’échange anonyme en jeu.
 * En cas d’intrusion, si des PNJ sont présents et qu’aucun joueur témoin n’est à proximité, l’appel police anonyme est obligatoire.
 
 ## Armes & tirs
