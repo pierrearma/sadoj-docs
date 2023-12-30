@@ -87,7 +87,7 @@ Ils sont soumis, dans l'exercice de leurs fonctions d'enquête, à l'autorité d
 
 ## TITRE 2. CAUTION
 
-**2.1** Le système de caution permet à un prévenu d'être libéré de sa rétention ou détention provisoire. La liberté sous caution peut-être seulement appliquée à la demande du procureur et est accordée par un membre de la Cour de San Andreas. La personne doit avoir suivi toutes les procédures de son arrestation et doit risquer une peine inférieure à vingt minimum maximum. La somme de la caution s'élève à deux fois la peine maximale financière encourue avec un plafond total à 25 000$.
+**2.1** Le système de caution permet à un prévenu d'être libéré de sa rétention ou détention provisoire. La liberté sous caution peut-être seulement appliquée à la demande du procureur et est accordée par un membre de la Cour de San Andreas. La personne doit avoir suivi toutes les procédures de son arrestation et doit risquer une peine inférieure à vingt minimum maximum. La somme de la caution s'élève à deux fois la peine maximale financière encourue **avec un plafond total à 1 000 000$.**
 
 > [!NOTE]
 > La liberté sous caution ne permet pas d'abandonner les charges retenues contre l'accusé et ne l’autorise pas à ne pas se présenter à son procès à la date indiquée par la Cour de San Andreas.
