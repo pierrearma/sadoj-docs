@@ -40,14 +40,14 @@ elle sera accessible au public normalement. Des événements pourront évidemmen
 
 ## Chapitre 2 (2023 et après)
 
-Au fil des mois suivant le démantèlement des installation s paramilitaires sur Cayo Perico , une série de débats politiques émerge au sein de l’état de San Andreas quant à l'avenir de l'île; Certain citoyens et politiciens locaux commencent à remettre en question l’appartenance de Cayo perico à l’etat de San Andreas, arguant que cette île désormais sous le contrôle des autorité fédérales pourrait bénéficier d’un statut distinct.
+Au fil des mois suivant le démantèlement des installations paramilitaires sur Cayo Perico, une série de débats politiques émerge au sein de l'État de San Andreas quant à l'avenir de l'île. Certains citoyens et politiciens locaux commencent à remettre en question l'appartenance de Cayo Perico à l'État de San Andreas, arguant que cette île désormais sous le contrôle des autorités fédérales pourrait bénéficier d'un statut distinct.
 
-En réponse à cette pression, des discussions formelles sont engagées entre les représentants du l'État de San Andreas et les autorités fédérales. Après des négociations approfondies, un accord est finalement conclu en janvier 2023. Selon cet accord, Cayo Perico sera officiellement dissocié de l'État de San Andreas pour devenir une zone autonome.
+En réponse à cette pression, des discussions formelles sont engagées entre les représentants de l'État de San Andreas et les autorités fédérales. Après des négociations approfondies, un accord est finalement conclu en janvier 2023. Selon cet accord, Cayo Perico sera officiellement dissocié de l'État de San Andreas pour devenir une zone autonome.
 
 La transition vers cette nouvelle entité autonome commence rapidement.
 
-Fin septembre 2023, la dissociation est officiellement actée, marquant la naissance d’un nouvel État insulaire indépendant, avec son propre drapeau et son gouvernement local.
+Fin septembre 2023, la dissociation est officiellement actée, marquant la naissance d'un nouvel État insulaire indépendant, avec son propre drapeau et son gouvernement local.
 
-Cayo Perico devient ainsi un territoire autonome, distinct de l'état de San Andreas tout en continuant à développer son économie , son tourisme et sa culture uniques, offrant une nouvelle perspective aux habitant de l'île et aux visiteur venus du monde entier.
+Cayo Perico devient ainsi un territoire autonome, distinct de l'État de San Andreas, tout en continuant à développer son économie, son tourisme et sa culture uniques, offrant une nouvelle perspective aux habitants de l'île et aux visiteurs venus du monde entier.
 
 {docsify-updated}
