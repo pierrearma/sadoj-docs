@@ -43,9 +43,34 @@
 
 ## V - Convoi de fonds
 
-- Inscriptions obligatoires à l'arrière droit du véhicule.
+- Les véhicules servant à des convois de fonds doivent avoir inscrit sur l’arrière droit du véhicule (Droite ou gauche, peu importe du moment que c’est écrit et visible) :
+>*“DRIVER HAS NO ACCESS TO CARGO”*
+>
+>*“NOM DE L’ENTREPRISE* STAFF ARE ARMED AND AUTHORIZED TO USE DEADLY FORCE FOR ANY REASON”*
+
 - Autorisation d'utiliser des sirènes uniquement en cas d’attaque.
-- Un convoi doit comporter au minimum un chauffeur et un convoyeur.
+- Un convoi de fonds doit strictement se limiter à un seul véhicule et ne peut comporter que trois personnes, un chauffeur et deux convoyeurs. Cependant, dans le cas où un invité spécial est présent, une exception est autorisée, permettant d'augmenter le nombre total de personnes à quatre, incluant cet invité. Il est crucial et non négociable que l'invité spécial soit sans armes.
+
+<table>
+  <tr>
+    <th align="center">Convoi</th>
+    <th align="center">Nombre de Personnes max</th>
+    <th align="center">Composition</th>
+  </tr>
+  <tr>
+    <td align="center">Standard</td>
+    <td align="center">3</td>
+    <td align="center">Conducteur + Convoyeurs</td>
+  </tr>
+  <tr>
+    <td align="center">Avec Invité Spécial</td>
+    <td align="center">4</td>
+    <td align="center">Conducteur + Convoyeurs + Invité (non armé)</td>
+  </tr>
+</table>
+
+
+
 
 ## VI - Armement
 
