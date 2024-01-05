@@ -16,9 +16,9 @@
   * Role-play
     * [Code de la route](life/rp/traffic_regulations.md "Code de la route")
     * [Code de Procédure Pénal](life/rp/criminal_procedure_code.md "Code de Procédure Pénal")
-    * [Amendements et Droit commun](life\rp\constitution.md "Amendements et Droit commun")
-    * [Code de prévention des incendies](life\rp\fire_code.md "Code de prévention des incendies")
-    * [Code sociétés de sécurité privée](life\rp\private_security.md "Code sociétés de sécurité privée")
+    * [Amendements et Droit commun](life/rp/constitution.md "Amendements et Droit commun")
+    * [Code de prévention des incendies](life/rp/fire_code.md "Code de prévention des incendies")
+    * [Code sociétés de sécurité privée](life/rp/private_security.md "Code sociétés de sécurité privée")
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
