@@ -5,19 +5,21 @@
 
 ## I - Tenue d’un agent
 
-- La tenue ne doit pas être confondue avec celle d’un agent des forces de l’ordre.
-- Port obligatoire d'un écusson sur l’une des épaules.
-- Obligation de porter un badge de manière visible.
-- Interdiction d'utiliser un pattern de camouflage.
-- Le patch doit contenir le nom complet de l’entreprise.
-- L'insigne de couvre-chef n'est pas obligatoire mais doit comporter le logo complet ou simplifié de l’entreprise.
-- Les inscriptions sur le badge doivent être lisibles à une distance raisonnable.
-- Interdiction d'utiliser le “great seal of the state of San Andreas” sur le badge.
-- Le badge doit comporter:
-  - Le nom de l’entreprise.
-  - La mention “Private Security” ou “Security”.
-- Interdiction d'avoir un badge en forme d’étoile à 6 ou 7 branches ou d'un bouclier.
-- Si le badge utilise le drapeau américain, aucune inscription ni dessin ne doit être sur le drapeau.
+- La tenue ne doit pas être confondue avec celle d’un agent des forces de l’ordre fédéral, gouvernementale de comté, local ou de l’armée.
+- La port d'un écusson situé sur l’une des épaules est obligatoire.
+- Le port d'un badge est obligatoire de manière visible,
+- La tenue ne doit pas être composée d’un pattern de camouflage,
+- Le patch est composé du nom complet de l’entreprise,
+- L'insigne de couvre-chef n'est pas obligatoire,
+- Le insigne couvre-chef est composé du logo complet ou simplifié de l’entreprise.
+- Les inscriptions inscrites sur le badge doivent être lisibles à une distance raisonnable.
+- Aucun badge, patch, ou insignes de couvre-chef ne peut utiliser le “great seal of the state of San Andreas”.
+- Le badge doit comporter les mentions:
+  - Le nom de l’entreprise,
+  - La mention “Private Security”ou “Security”,
+  - Le badge ne peut être sous la forme d’une étoile à 6 ou 7 branche ou d'un bouclier, 
+  - Si un badge utilise le drapeaux américain aucune inscription, ou dessins ne doivent se trouver sur le drapeaux.
+
 
 ## II - Tenue d’un agent de sécurité rapproché
 
@@ -29,17 +31,21 @@
 
 ## III - Véhicule de patrouille et d’intervention
 
-- Les véhicules assignés peuvent être équipés de systèmes d’avertissement lumineux visibles depuis toutes les directions.
-- Inscription obligatoire de “PRIVATE SECURITY”, “SECURITY PATROL” ou “SECURITY” sur chaque côté et à l’arrière de chaque véhicule.
-- Interdiction d'utiliser les systèmes d’avertissement lumineux sur les autoroutes et voies rapides.
-- L'officier de police peut ordonner le retrait immédiat des systèmes non conformes.
-- Il est interdit de remettre un système non conforme sans autorisation écrite de la San Andreas Highway Patrol.
+- Les véhicules assigné sont autorisés à être équipé de système d’avertissement lumineux visible depuis l’avant les côtés et l’arrière du véhicule,
+- L'inscription “PRIVATE SECURITY”,  “SECURITY PATROL” ou “SECURITY” doit être marqué sur chaque côté et à l’arrière de chaque véhicule de sécurité et doit être visible d’une distance minimum de 50 pieds, Exception donnée au véhicules 2 roues seul une inscription sur chaque coté est nécessaire,
+- Les systèmes d’avertissement lumineux tels que décrit dans l’article III - 1 ne peuvent pas être utilisés lorsque le véhicule circule sur une Highway et une Freeway.
+- Un officier de police peut constater et lancer une procédure de retrait immédiat des systèmes d’avertissement lumineux dans les locaux de l’entreprise ou dans un garage dans le cas où le véhicule ne convient pas aux exigences des articles III - 1 à III - 3,
+- Il est interdit de remettre un système d’avertissement lumineux sur un véhicule ayant été contrôlé en infraction au présent code, à moins qu’une autorisation écrite du responsable ou de l’adjoint au responsable de la San Andreas Highway Patrol ne soit présentée.
+- L'utilisation d'un hélicoptère est interdite.
+
+
 
 ## IV - Véhicule de sécurité rapprochée
 
-- Les véhicules assignés peuvent avoir des vitres teintées à 100%.
-- Utilisation autorisée d'hélicoptères uniquement pour le transport de personnes protégées sans caméra.
-- Interdiction d'installer des gyrophares ou sirènes sur les véhicules assignés.
+- Les véhicules assigné sont autorisés à être équipé de vitre teinté à 100%,
+- L'utilisation d'un hélicoptère est autorisée pour les entreprises de sécurité uniquement pour le transport de personnes protégées avec hélicoptère sans caméra,
+- Il est interdit d’apposer des système d’avertisseur lumineux (gyrophares) ou sonore (sirène) sur les véhicules assignés.
+
 
 ## V - Convoi de fonds
 
@@ -74,19 +80,48 @@
 
 ## VI - Armement
 
-- Port d'armes autorisé et visible pour les agents en patrouille.
-- Types d'armes autorisées : pistolets automatiques, semi-automatiques, revolvers.
-- Usage des armes autorisé en cas de menace imminente pour la sécurité.
+- Les effectifs clairement identifiables comme étant des membres d’une entreprise de sécurité en service de patrouille ont 
+  l’autorisation de porter de manière visible leurs armes de service.
+  L’armement autorisé pour les employés de société de sécurité sont:
+    - les pistolet automatiques,
+    - les pistolet semi automatiques,
+    - Les revolvers.
+- Les effectifs clairement identifiables comme étant des membres d’une entreprise de sécurité ont l’autorisation de porter     de manière visible en cas de menace pouvant mettre en danger l'employé de sécurité ou les personnes alentours leurs 
+  armes de services.
+  L’armement autorisé dans ce genres de situations sont:
+    - les pistolet automatiques,
+    - les pistolet semi automatiques,
+    - Les revolvers,
+    - Les carabines,
+    - Les fusils à pompe.
+- Les agents de sécurité ne doivent pas utiliser leurs armes de service afin d’intimider une personne n’ayant commis aucun 
+  crime ou délit.
+
 
 ## VII - Propriété des fichiers de vidéosurveillance
 
-- Les fichiers de vidéosurveillance doivent être stockés dans les locaux de la société.
-- Ils sont la propriété du client et peuvent être remis à la police sur autorisation du propriétaire ou mandat de perquisition.
+- Les fichiers de vidéosurveillances doivent être stockés dans les locaux de la société de télésurveillances.
+- Les fichiers de vidéosurveillances sont la propriété du client de la société de télésurveillances.
+- Les fichiers de vidéosurveillances peuvent être présentés aux services de polices:
+    - Sur autorisation écrites du propriétaire des fichiers de vidéosurveillances,
+    - Sur présentation d'un mandat de perquisition valide.
+
 
 ## VIII - Priorité Partielle
 
-- Les entreprises avec autorisation de priorité partielle peuvent utiliser des sirènes sur leurs véhicules.
-- Des règles spécifiques s'appliquent, notamment une limitation de vitesse et le franchissement contrôlé de certains signaux.
+- Une autorisation est donnée à toute entreprise ayant une autorisation de priorité partiel, d’installer un avertisseur 
+  sonore (sirène) sur les véhicules de son société.
+- Une priorité partielle offres et incombe les règles suivantes :
+  Une limitation de vitesse exceptionnelle en agglomération peut être accordée par le gouvernement. Elle ne peut pas 
+  excéder les 20 MPH au-dessus de la réglementation en vigueur.
+- Franchissement des feux de circulation au rouge à vitesse réduite.
+- Franchissement des panneaux d'indication STOP sans arrêt, à vitesse réduite.
+- Franchissement d’une double doubles ligne jaune.
+- Une justification de la destination est obligatoire en cas de contrôle.
+- Le signalement par avertisseur lumineux et sonore est obligatoire.
+- Valable uniquement dans le cadre d’interventions
+- Le responsable de l’entreprise, du service est garant de ses employés.
+
 
 ## IX - Règles d’intervention
 
