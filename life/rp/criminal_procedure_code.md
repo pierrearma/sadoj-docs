@@ -354,4 +354,24 @@ Dans le cas où l’arrêt rendu ne satisfaisait pas les Appelants, un recours �
 
 **7.2** Le délai de prescription peut être suspendu dans les cas où l'accusé est en fuite ou en cas de force majeure empêchant l'avancement de la procédure pénale.
 
+## TITRE 8. PROCUREURS SPECIAUX
+
+**8.1** Nomination du procureur spécial
+</br>
+Parmi les avocats de l'Etat de San Andreas, le procureur spécial est nommé par le Procureur Général de San Andreas pour une durée déterminée. Le Procureur Général de San Andreas peut également mettre fin aux fonctions du procureur spécial à tout moment pour des raisons justifiées.
+
+**8.2** Missions du procureur spécial
+</br>
+Le procureur spécial a pour mission d'enquêter sur des affaires spécifiques qui peuvent être considérées comme ayant un conflit d'intérêts avec les procureurs locaux ou qui nécessitent une expertise particulière. Le procureur spécial  lui-même décide quand une enquête se terminera, avec ou sans poursuites formelles.
+</br>
+À la conclusion des travaux du procureur spécial, il doit fournir au Procureur général un rapport confidentiel expliquant les décisions de poursuite ou de déclin prises par le procureur spécial.
+
+**8.3** Pouvoirs du procureur spécial
+</br>
+Le procureur spécial dispose des mêmes pouvoirs que les procureurs locaux pour mener à bien ses enquêtes. Il peut également demander l'assistance de toute autorité compétente ou expert pour mener à bien ses missions.
+
+
+
+
+
 {docsify-updated}
