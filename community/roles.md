@@ -40,9 +40,9 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">5 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Theo4800, Cobraz, Mathys, Guillaume, Dylan51, Antonin</td>
+      <td style="text-align: center;">Pierre, Theo4800, Guillaume, Dylan51, Antonin</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
