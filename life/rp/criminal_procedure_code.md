@@ -77,6 +77,17 @@ Ils sont soumis, dans l'exercice de leurs fonctions d'enquête, à l'autorité d
 
 **1.3.5** Le fonctionnement, les attributions et la fonction de la Cour d’Appel sont détaillés au [Titre 5](#titre-5-motivation-des-dÉcisions-de-justice).
 
+**1.3.6** La Cour suprême de  San Andreas est la plus haute cour de l'État de San Andreas. Elle a le dernier mot dans les affaires judiciaires concernant les lois de l'État de San Andreas. Le Procureur Général de San Andreas, d'autre part, est le principal avocat et officier chargé de l'application de la loi pour l'État. Bien que le procureur général ait une position élevée et influente, ses décisions et actions peuvent être sujettes à révision ou à annulation par la Cour suprême de San Andreas, surtout en matière de questions juridiques ou constitutionnelles.
+
+**1.3.7** Les décisions prises par les procureurs au cours de procès pénaux peuvent être soumises à un examen par la Cour suprême de San Andreas, notamment si ces décisions sont contestées en appel. Cela inclut des questions telles que la légalité de la procédure du procureur, l'admissibilité des preuves, et l'interprétation des lois pénales.
+
+**1.3.8** La Cour suprême de San Andreas est la cour d'appel finale pour les affaires judiciaires dans l'État. Elle examine les décisions prises par les cours d'appel inférieures de San Andreas, et ses jugements sont définitifs. Elle a le pouvoir de décider quels cas elle souhaite examiner.
+
+**1.3.9** La Cour suprême de  San Andreas est chargée d'interpréter les lois de l'État de San Andreas. Elle peut déterminer la constitutionnalité des lois et des règlements et a le pouvoir de trancher sur des questions de droit qui affectent de manière significative l'administration de la justice dans l'État.
+La Cour suprême de San Andreas a le pouvoir de revoir et de juger la constitutionnalité des actions et des décisions prises par le gouverneur. Cela inclut des actes tels que la signature de lois, l'émission de décrets, et d'autres actions administratives.
+
+**1.3.10** La Cour suprême de San Andreas est composée de sept juges.
+
 ### Chapitre 4. Le Barreau de San Andreas
 
 **1.4.1** Le Barreau de San Andreas est une instance judiciaire chargée d’enregistrer l’ensemble des avocats professionnels exerçant dans l’État et leur délivrer leurs licences. Seule une inscription officielle, c’est-à-dire entérinée par le Gouverneur, valide l’intégration au Barreau du candidat.
@@ -99,9 +110,15 @@ Ils sont soumis, dans l'exercice de leurs fonctions d'enquête, à l'autorité d
 **3.1.1** Les agents de police peuvent prononcer la mise en état d'arrestation d'un individu dès lors qu'il existe une suspicion raisonnable que le suspect commet, est sur le point de commettre ou a commis une infraction pénale. La suspicion raisonnable est fondée sur des éléments rationnels, elle ne peut pas découler de la race de l'individu, son sexe, son orientation sexuelle, ses antécédents judiciaires, sa religion, ses opinions ou sa situation sociale vraie ou supposée.
 La mise en état d'arrestation se fait dans un délai raisonnable après la naissance de la suspicion raisonnable, passé ce délai il est nécessaire qu’une mise en accusation soit lancée puis qu’un mandat d’arrêt soit délivré.
 
-**3.1.2** Le suspect est informé, dans les plus brefs délais — et avant sa mise en cellule — après sa mise en état d'arrestation, des faits qui lui sont reprochés et de son droit à garder le silence, de son droit à savoir que tout ce qu’il dira ou fera pourra être retenu contre lui, de son droit à une visite médicale et de son droit à avoir un avocat de son choix ou commis d'office. Ces droits doivent être cités avant toute fouille ou interrogatoire au sein du poste. Les droits doivent être cités une deuxième fois si le suspect ne les a pas compris.
-</br>
-Le suspect dispose également du droit à faire prévenir un membre de sa famille ou son employeur par téléphone, le suspect à le droit d'être assisté par son avocat pendant les interrogatoires. Dans les affaires relatives au trafic de stupéfiant ou au trafic d'armes, dans l'intérêt de l'enquête, l'agent de police peut refuser de faire prévenir un membre de la famille ou l'employeur de l'accusé.
+**3.1.2** Tout personne mise en état d'arrestation :
+
+- Elle doit être informée des accusations qui pèsent contre elle.
+- Elle doit être avertie de ses droits conformément à l'avertissement Miranda.
+- Elle doit être informée de son droit à une consultation médicale.
+- Elle doit être informée de son droit de contacter un membre de sa famille ou son employeur par téléphone.
+  - Cependant, dans des affaires liées au trafic de stupéfiants ou au trafic d'armes, la police peut décider de ne pas informer un membre de la famille ou l'employeur du suspect dans l'intérêt de l'enquête.
+ - Tous ces droits doivent lui être expliqués avant toute fouille approfondie ou interrogatoire au poste de police.
+ - Si la personne ne comprend pas ses droits, ils doivent lui être réexpliqués une fois.
 
 **3.1.3** Les droits mentionnés aux articles 3.1.1 et 3.1.2 sont d’application immédiate si le suspect s'en prévaut. L'avocat du suspect a 45 minutes pour se présenter au poste de police, passé ce délai le suspect pourra être interrogé en dépit de l'absence de son avocat.
 
