@@ -286,9 +286,9 @@
           <li>Encadrer les référents dark (gestion blackmarket, vente immobilière dark, vente d’informations, etc .. via leur personnage fictif)</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Toxi</td>
-      <td style="text-align: center;"> Police : <br> Backdraft, Swarex <br><br> Dark : <br>Azzox, Toxi, Taykay, Doryann <br><br> Référents RP/HRP :<br>ToxiCorpTV et Swarex </li>
+      <td style="text-align: center;"> Police : <br> Backdraft, Swarex, Mac <br><br> Dark : <br>Azzox, Toxi, Taykay, Doryann <br><br> Référents RP/HRP :<br>ToxiCorpTV et Swarex </li>
       </td>
       <td style="text-align: center;"> Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police <br><br><strong> 3 mois d'ancienneté dans la communauté
       </td>
