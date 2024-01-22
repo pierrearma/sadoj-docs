@@ -277,7 +277,6 @@
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
       <td>
-        Groupe Dark
         <ul>
           <li>Répondre aux interrogations des joueurs</li>
           <li>Régir du règlement dark</li>
