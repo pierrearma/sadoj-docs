@@ -109,14 +109,20 @@ L’informateur est inclus dans le prix de création de l’organisation.
 ## Trafic de drogue
 
 * N’importe qui a la possibilité de vendre de la drogue s’il a l’item dans son inventaire.
+* Les organisations / gangs sont libre de vendre à qui elles veulent leur marchandise.
 * Seuls les organisations et les gangs en lien avec le trafic de drogue ont la possibilité de se fournir auprès d’un PNJ.
   * Chaque organisation / gang à un quota d’achat maximum par semaine.
-* L’attribution des différents type de drogue se fait par bon sens:
-  * Weed: Families & Ballas
-  * Cocaïne: Vagos, Marabunta & Cartels
-  * Meth: Redneck
-  * Ecstasy: Lost
-* Les organisations / gangs sont libre de vendre à qui elles veulent leur marchandise.
+  * L’attribution des différents type de drogue se fait par bon sens:
+    * Weed: Families & Ballas
+    * Cocaïne: Vagos, Marabunta & Cartels
+    * Meth: Redneck
+    * Ecstasy: Lost
+* Plantations de cannabis
+  * Vous avez la possibilité en jeu de faire votre propre plantation et production de cannabis.
+  * Concernant la plantation, vous trouverez tout ce dont vous avez besoin dans différents magasins en ville (Smoke and the Water, magasin de bricolage et superette).
+  * Deux possibilités s'offrent à vous pour planter
+    * Plantation en intérieur, plus discrète, mais plus longue à pousser par manque de lumière naturelle.
+    * Plantation en extérieur, plus risquée, mais plus rapide à pousser.
 
 ## Trafic d’arme
 
