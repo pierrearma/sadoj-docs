@@ -62,4 +62,3 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 - `ccv+` : Copie vos coordonnées actuelles et votre angle de vue dans le presse-papier *(toutes les commandes de CopyCoords sont disponibles sur le Discord Dev)*.
 - `twtoggle` : Active/désactive les zones d'influence des gangs sur la map.
 - `takeobjet` : Permet de prendre un objet sur le sol devant vous.
-- `saveposition` : Permet de sauvegarder votre position actuelle.
