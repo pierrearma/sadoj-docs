@@ -23,6 +23,7 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 - `inventory_rapid_slots` : Ouvre le menu des emplacements rapides de l'inventaire.
 - `inventory_rapid_slot_<numero>` : Déclenche l'action de l'emplacement rapide `<numero>` *(1 à 9)*.
 - `vehiclesafe` : Ouvre le coffre du véhicule proche.
+- `safename` : Affiche en console le nom du coffre le plus proche.
 
 ## Animations
 
