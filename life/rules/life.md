@@ -48,7 +48,7 @@
 
 ## La mort Rôle-Play / départ du personnage
 
-* **Situation 1:** Chaque joueur peut demander le départ éternel ou la mort de son personnage si son personnage possède une ancienneté (création) **d’au moins 3 mois**. Ceci est validé ou non par un vote de la communauté (en réunion le dimanche).
+* **Situation 1:** Chaque joueur peut demander le départ ou la mort de son personnage si son personnage possède une ancienneté (création) **d’au moins 3 mois**. Ceci est validé ou non par un vote de la communauté (en réunion le dimanche).
 * **Situation 2:** Les situations accidentelles (indépendantes de la volonté du joueur) pouvant entraîner la mort d’un personnage.
   * Le joueur a deux choix:
     * soit son accident conduit à des blessures et il va à l’hôpital.
