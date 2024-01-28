@@ -197,7 +197,7 @@ Toutes les propriétés de gang ou d’organisations ne sont pas forcément des 
 * La mort RP Dark se déroule en 3 étapes
   * Première étape : avertissement, enlèvement ou torture (dans la limite des règles)
   * Deuxième étape : Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage. Si dossier accepté, la personne visée sera averti HRP.
-  * Dernière étape : enlèvement puis échappatoire ou mort RP Dark. Ici, la personne visée par la mort RP Dark doit toujours avoir une dernière échappatoire (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela. (ici malgré le dossier, la personne peut choisir la mort ou non de son personnage grâce à l’échappatoire, mais doit jouer les répercussions de la scène).
+  * Dernière étape : La personne déposant le dossier de mort RP a le choix entre infliger la mort RP à la personne visée ou lui accorder une échappatoire. Si le dépositaire choisit l'échappatoire le concernée aura plusieurs possibilité  (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela.
     * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
 
 ## Hôpitaux et médecins dark
