@@ -152,15 +152,15 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 * Un civil sans liens dans le dark (*n’ayant pas des relations rp dans le dark*) donnant des informations dont il a juste été témoin n’est pas concerné par cette règle (*mais peut evidemment etre toujours sujet à un dossier mort dark si coup de pression et qu’il réitère*).
 * Un informateur est caractérisé par l’exception de son don d’informations, il le fait de sa volonté mais ce n’est pas son 1er but.
-  * Exemple: un interrogatoire pour sauver sa peau d’une peine, ect…
-* Un indic est caractérisé par sa volonté d’avoir des infos et de les re-distribué, il a pour but de renverser une orga, de les intégrer, de faire tomber des réseaux ect. ( Obligatoirement sous dossier ) et dans le cas d’un policier infiltré, il est considéré comme un indic.
+  * Exemple: Un interrogatoire pour sauver sa peau d’une peine, ect…
+* Un indic est caractérisé par sa volonté d’avoir des infos et de les re-distribuer, il a pour but de renverser une organisation, de les intégrer, de faire tomber des réseaux ect. ( Obligatoirement sous dossier ) et dans le cas d’un policier infiltré, il est considéré comme un indic.
 
-#### 2. La mort RP accélérée
+### 2. La mort RP accélérée
 
 Donner des informations à la police ou une autre organisation vous exposent à de possibles représailles. Le principe est que, balancer une organisation est très risqué, donc par rapport à la mort dark classique, les informateurs peuvent être bien plus exposé à une mort rapide, en fonction des informations qu’ils ont donné et que l’organisation a identifié. Cependant, si vous donnez juste une seule information même légère, une organisation peut demander une mort dark normal s'ils trouvent des preuves.
 
-* informateurs: Mort Dark Accéléré possible après 2 don d’informations.
-* indic: Mort Dark Accéléré possible dès la validation du dossier.
+* Informateurs: Mort Dark Accéléré possible après 2 don d’informations.
+* Indic: Mort Dark Accéléré possible dès la validation du dossier.
 
 ### 3. Informations pour d'autres organisations
 
