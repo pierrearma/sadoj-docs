@@ -146,33 +146,31 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Les tunnels ne doivent être utilisés qu’en dernier recours qu’après plusieurs minutes de poursuite.
 * Les herses ne peuvent être utilisées qu’après 2 minutes minimum.
 
-### Informateur pour la police ou organisation.
+## Informateur pour la police ou organisation
 
-#### 1. Indic ou informateurs
+### 1. Indic ou informateur
 
-* Un civil sans liens dans le dark ( n’ayant pas des relations rp dans le dark ) donnant des informations dont il a juste été témoin n’est pas concerné par cette règle 
-(mais peut evidemment etre toujours sujet à un dossier mort dark si coup de pression et qu’il réitère).
+* Un civil sans liens dans le dark (*n’ayant pas des relations rp dans le dark*) donnant des informations dont il a juste été témoin n’est pas concerné par cette règle (*mais peut evidemment etre toujours sujet à un dossier mort dark si coup de pression et qu’il réitère*).
 * Un informateur est caractérisé par l’exception de son don d’informations, il le fait de sa volonté mais ce n’est pas son 1er but.
-exemple : un interrogatoire pour sauver sa peau d’une peine, ect…
+  * Exemple: un interrogatoire pour sauver sa peau d’une peine, ect…
 * Un indic est caractérisé par sa volonté d’avoir des infos et de les re-distribué, il a pour but de renverser une orga, de les intégrer, de faire tomber des réseaux ect. ( Obligatoirement sous dossier ) et dans le cas d’un policier infiltré, il est considéré comme un indic.
 
-#### 2. La mort RP accélérée. 
+#### 2. La mort RP accélérée
 
-Donner des informations à la police ou une autre organisation vous exposent à de possibles représailles. Le principe est que, balancer une organisation est très risqué, donc par rapport à la mort dark classique, les informateurs peuvent être bien plus exposé à une mort rapide, en fonction des informations qu’ils ont donné et que l’organisation a identifié. Cependant, si vous donnez juste une seule information même légère, une organisation peut demander une mort dark normal s' ils trouvent des preuves.
+Donner des informations à la police ou une autre organisation vous exposent à de possibles représailles. Le principe est que, balancer une organisation est très risqué, donc par rapport à la mort dark classique, les informateurs peuvent être bien plus exposé à une mort rapide, en fonction des informations qu’ils ont donné et que l’organisation a identifié. Cependant, si vous donnez juste une seule information même légère, une organisation peut demander une mort dark normal s'ils trouvent des preuves.
 
 * informateurs: Mort Dark Accéléré possible après 2 don d’informations.
 * indic: Mort Dark Accéléré possible dès la validation du dossier.
 
-#### 3. Informations pour d'autres organisations.
+### 3. Informations pour d'autres organisations
 
 Ces règles ne s’appliquent pas uniquement pour des informations données à la police, elles s’appliquent aussi pour les autres organisations concurrentes.
 
-Le même principe qu'au-dessus, Un informateur ou un indic pour une orga peut amener à une mort dark accéléré. Un dossier doit être fait pour devenir une taupe d’une organisation précise.
+Le même principe qu'au-dessus, un informateur ou un indic pour une orga peut amener à une mort dark accéléré. Un dossier doit être fait pour devenir un indic d’une organisation précise.
 
-#### 4. Preuves.
+### 4. Preuves
 
-Pour chaque demande auprès du Groupe dark, la mort dark RP 
-(accéléré ou non) doit être motivé par des faits prouvés en RP. Dans la même logique que des preuves dans une enquetes ( photos, messages, aveux, ect )
+Pour chaque demande auprès du Groupe dark, la mort dark RP (accéléré ou non) doit être motivé par des faits prouvés en RP. Dans la même logique que des preuves dans une enquetes (photos, messages, aveux, ect)
 
 ## Les services où l’illégal est interdit
 
