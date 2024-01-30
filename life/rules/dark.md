@@ -151,7 +151,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 ### 1. Indic ou informateur
 
 * Un civil sans liens dans le dark (*n’ayant pas des relations rp dans le dark*) donnant des informations dont il a juste été témoin n’est pas concerné par cette règle (*mais peut evidemment etre toujours sujet à un dossier mort dark si coup de pression et qu’il réitère*).
-* Un informateur est caractérisé par l’exception de son don d’informations, il le fait de sa volonté mais ce n’est pas son 1er but.
+* Un informateur est caractérisé par l’exception de son don d’informations, il le fait de sa volonté mais ce n’est pas son premier but.
   * Exemple: Un interrogatoire pour sauver sa peau d’une peine, ect…
 * Un indic est caractérisé par sa volonté d’avoir des infos et de les re-distribuer, il a pour but de renverser une organisation, de les intégrer, de faire tomber des réseaux ect. ( Obligatoirement sous dossier ) et dans le cas d’un policier infiltré, il est considéré comme un indic.
 
