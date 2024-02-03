@@ -34,7 +34,7 @@
 * Il est interdit d’effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti.
 * Le sexe classique est autorisé si les personnes sont consentantes.
 * Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le formulaire.
-* Seul les informations des comptes X (Twitter) suivi par le compte de la communauté peuvent être prises en compte en RP.
+* Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
 
 ## La vie / la mort
 
