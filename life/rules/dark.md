@@ -159,9 +159,6 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 Donner des informations à la police ou une autre organisation vous exposent à de possibles représailles. Il est important de noter qu'il n'est pas nécessaire d'obtenir l'autorisation du groupe dark pour divulguer des informations compromettantes (* sauf indic apres validation du dossier*). Le principe est que, balancer une organisation est très risqué, donc par rapport à la mort dark classique, les informateurs peuvent être bien plus exposé à une mort rapide, en fonction des informations qu’ils ont donné et que l’organisation a identifié. Cependant, si vous donnez juste une seule information même légère, une organisation peut demander une mort dark normal s'ils trouvent des preuves.
 
-* Informateurs: Mort Dark accéléré possible après 2 don d’informations dès la validation du dossier.
-* Indic: Mort Dark accéléré possible dès la validation du dossier.
-
 ### 3. Informations pour d'autres organisations
 
 Ces règles ne s’appliquent pas uniquement pour des informations données à la police, elles s’appliquent aussi pour les autres organisations concurrentes.
@@ -220,11 +217,20 @@ Toutes les propriétés de gang ou d’organisations ne sont pas forcément des 
 * La demande de **mort RP Dark** sera forcément accompagnée par un dossier et n’est pas une chose anodine à faire sur un coup de tête.
 * Les personnes (HRP du groupe dark) de la même organisation n’ont pas leur mot à dire lors du vote.
 * Le dossier de **mort RP Dark** est accepté ou non par le groupe dark.
-* La mort RP Dark se déroule en 3 étapes
+* * La mort RP Dark se déroule en 3 étapes
   * Première étape : avertissement, enlèvement ou torture (dans la limite des règles)
   * Deuxième étape : Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage. Si dossier accepté, la personne visée sera averti HRP.
   * Dernière étape : La personne déposant le dossier de mort RP a le choix entre infliger la mort RP à la personne visée ou lui accorder une échappatoire. Si le dépositaire choisit l'échappatoire le concernée aura plusieurs possibilités  (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela.
     * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
+
+ ## La mort RP accélérée
+
+* La mort RP dark accékerée. Sont éligibles:
+  * Les dénonciateurs et indicateurs d’activités dark.
+
+  * Informateurs: Mort Dark accéléré possible après 2 don d’informations dès la validation du dossier.
+  * Indic: Mort Dark accéléré possible dès la validation du dossier.
+ 
 
 ## Hôpitaux et médecins dark
 
