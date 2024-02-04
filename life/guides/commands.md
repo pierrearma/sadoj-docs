@@ -40,6 +40,10 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 
 ## Véhicules
 
+- `VehicleEngineStartStop` : Allumer / Eteindre le moteur du véhicule.
+- `VehicleOpenWindows` : Ouvrir / Fermer les fenêtres du véhicule `<numero>` *(0 à 7)*.
+- `VehicleOpenDoor` : Ouvrir / Fermer une porte du véhicule `<numero>` *(0 à 5)*.
+- `VehicleToggleHeliStabilization` : Activer / Désactiver la stabilisation d'un hélicoptère.
 - `ToggleSeatbelt` : Active/désactive la ceinture de sécurité.
 - `vhmenu` : Ouvre le menu véhicule.
 - `VehicleIndicatorSystem <Left / Right / Warnig>` : Active les clignotants du véhicule.
