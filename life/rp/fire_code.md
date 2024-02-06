@@ -25,10 +25,6 @@ Un rendez-vous peut être pris afin de procéder au contrôle. Cependant, un con
 
 Lors d’un contrôle incendie, l’ensemble des pièces composant l'entreprise/service doit être inspecté.
 
-#### Article 1.4.1
-
-Les services de secours doivent pouvoir ouvrir l'entièreté des portes menant à chacune des pièces de l’entreprise/service.
-
 ### Article 1.5
 
 Un compte-rendu du contrôle sera envoyé au responsable présent lors de celui-ci afin de consigner la conformité ou non de l’entreprise/service à recevoir du public.
