@@ -83,7 +83,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Braquage de convoi de fonds: 2 policiers en service
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
 * En cas d’intrusion, si des PNJ sont présents et qu’aucun joueur témoin n’est à proximité, l’appel police anonyme est obligatoire.
-* Si vous souhaitez dénoncer ou fournir des informations aux forces de l’ordre ou à la justice dans l'objectif de nuire à l'intégrité d'une organisation en particulier, vous devez obligatoirement obtenir l’accord du groupe dark. Cet demande à pour objectif de vérifier la cohérence et la légitimité de l'action.
+* Si vous souhaitez dénoncer ou fournir des informations aux forces de l’ordre ou à la justice dans l'objectif de nuire à l'intégrité d'une organisation en particulier, vous devez obligatoirement obtenir l’accord du groupe dark. Cette demande à pour objectif de vérifier la cohérence et la légitimité de l'action.
   * Dans le cas où vous vous trouvez sous contrainte (*sous menaces, en échange de réduction de peine, etc...*), vous n’avez pas besoin de l’accord de celui-ci.
   * Les membres du groupe dark présentant des conflits d’intérêts ne peuvent pas être impliqué dans la décision.
 
