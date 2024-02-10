@@ -73,8 +73,9 @@
 * Toute interaction entre vos personnages est interdite (physique, matériel, correspondance, pécuniaire) si elle vise à avantager un des deux personnages (partage d’une information, don d’argent etc.)
 * Le second personnage a le droit de louer, acheter et vendre un bien immobilier sur le plan professionnel ou personnel.
 * L’avatar à le droit de prétendre à tous les emplois présent sur le serveur.
-  * Exception : Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
-  * Il est autorisé d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc..) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
+  * Exceptions :
+    * Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
+    * Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans la police.
 
 ## Déplacements / Véhicules
 
