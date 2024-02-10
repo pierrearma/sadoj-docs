@@ -83,6 +83,9 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Braquage de convoi de fonds: 2 policiers en service
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
 * En cas d’intrusion, si des PNJ sont présents et qu’aucun joueur témoin n’est à proximité, l’appel police anonyme est obligatoire.
+* Si vous souhaitez dénoncer ou fournir des informations aux forces de l’ordre ou à la justice dans l'objectif de nuire à l'intégrité d'une organisation en particulier, vous devez obligatoirement obtenir l’accord du groupe dark. Cet demande à pour objectif de vérifier la cohérence et la légitimité de l'action.
+  * Dans le cas où vous vous trouvez sous contrainte (*sous menaces, en échange de réduction de peine, etc...*), vous n’avez pas besoin de l’accord de celui-ci.
+  * Les membres du groupe dark présentant des conflits d’intérêts ne peuvent pas être impliqué dans la décision.
 
 ## Armes & tirs
 
@@ -195,9 +198,10 @@ Toutes les propriétés de gang ou d’organisations ne sont pas forcément des 
 * Les personnes (HRP du groupe dark) de la même organisation n’ont pas leur mot à dire lors du vote.
 * Le dossier de **mort RP Dark** est accepté ou non par le groupe dark.
 * La mort RP Dark se déroule en 3 étapes
-  * Première étape : avertissement, enlèvement ou torture (dans la limite des règles)
-  * Deuxième étape : Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage. Si dossier accepté, la personne visée sera averti HRP.
-  * Dernière étape : La personne déposant le dossier de mort RP a le choix entre infliger la mort RP à la personne visée ou lui accorder une échappatoire. Si le dépositaire choisit l'échappatoire le concernée aura plusieurs possibilités  (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela.
+  * **Première étape :** avertissement, enlèvement ou torture (dans la limite des règles)
+    * Cette première étape est facultative si le personnage visé a déjà communiqué deux ou plusieurs informations à la police permettant de nuire au demandeur ou à son organisation.
+  * **Deuxième étape :** Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage. Si dossier accepté, la personne visée sera averti par le groupe dark.
+  * **Dernière étape :** La personne déposant le dossier de mort RP a le choix entre infliger la mort RP à la personne visée ou lui accorder une échappatoire. Si le dépositaire choisit l'échappatoire le concernée aura plusieurs possibilités  (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela.
     * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
 
 ## Hôpitaux et médecins dark
