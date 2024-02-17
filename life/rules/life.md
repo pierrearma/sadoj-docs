@@ -27,13 +27,14 @@
 * Un personnage ne peut pas être reconnu par sa voix ou son accent ou si son visage est dissimulé : Exemples : foulard, cagoule, casque, barbe épaisse et la combinaison lunettes et chapeau, casquette, bonnet, casque. Une casquette seule et une paire de lunettes seule ne suffisent pas. De même, la féminité et la masculinité du corps ou de la voix peuvent être supposées (à tort ou à raison, et toujours sans permettre d’identifier UNE personne en particulier).
 * Un membre qui souhaite faire revenir son personnage commencera de zéro (argent, biens, etc…) (dont les membres ayant quitté la communauté).
 * Toute suppression non souhaité de documents RP, sites RP, réseaux sociaux RP, Discord RP, etc… est interdite.
-* Seul les PNJ physiquement présents sont à prendre en compte en RP (on n’imagine pas ni invente des PNJ). Si ils vous voient faire un acte illégal, ils est conseillé de prévenir les services de secours(à vous de faire un appel anonyme).
+* Seul les PNJ physiquement présents sont à prendre en compte en RP (on n’imagine pas ni invente des PNJ). Si ils vous voient faire un acte illégal, ils est conseillé de prévenir les services de secours (à vous de faire un appel anonyme).
 * Obligation de porter une Bodycam lors d’une action pour qu’elle soit considérée comme présente (et être utilisée) Exception technique : Non obligatoire pour les tenues SWAT qui nécessite une cagoule.
 * Une limite d’item vêtement sur soi a été fixée à **60**. Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
 * [Termes RolePlay](life/rules/terms.md)
 * Il est interdit d’effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti.
 * Le sexe classique est autorisé si les personnes sont consentantes.
 * Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le formulaire.
+* Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
 
 ## La vie / la mort
 
@@ -48,7 +49,7 @@
 
 ## La mort Rôle-Play / départ du personnage
 
-* **Situation 1:** Chaque joueur peut demander le départ éternel ou la mort de son personnage si son personnage possède une ancienneté (création) **d’au moins 3 mois**. Ceci est validé ou non par un vote de la communauté (en réunion le dimanche).
+* **Situation 1:** Chaque joueur peut demander le départ ou la mort de son personnage si son personnage possède une ancienneté (création) **d’au moins 3 mois**. Ceci est validé ou non par un vote de la communauté (en réunion le dimanche).
 * **Situation 2:** Les situations accidentelles (indépendantes de la volonté du joueur) pouvant entraîner la mort d’un personnage.
   * Le joueur a deux choix:
     * soit son accident conduit à des blessures et il va à l’hôpital.
@@ -72,8 +73,9 @@
 * Toute interaction entre vos personnages est interdite (physique, matériel, correspondance, pécuniaire) si elle vise à avantager un des deux personnages (partage d’une information, don d’argent etc.)
 * Le second personnage a le droit de louer, acheter et vendre un bien immobilier sur le plan professionnel ou personnel.
 * L’avatar à le droit de prétendre à tous les emplois présent sur le serveur.
-  * Exception : Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
-  * Il est autorisé d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc..) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
+  * Exceptions :
+    * Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
+    * Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans la police.
 
 ## Déplacements / Véhicules
 

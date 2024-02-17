@@ -42,7 +42,7 @@
       </td>
       <td style="text-align: center;">5 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Theo4800, Guillaume, Dylan51, Antonin</td>
+      <td style="text-align: center;">Pierre, Theo4800, Guillaume, Dylan51, Antonin, Valdum, SEBEDIA</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
@@ -324,8 +324,8 @@
         </ul>
       </td>
       <td style="text-align: center;">1</td>
-      <td style="text-align: center;">Maxtise</td>
-      <td style="text-align: center;">Maxtise</td>
+      <td style="text-align: center;">Doudou_571</td>
+      <td style="text-align: center;">Doudou_571</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Militaire (Life)</td>

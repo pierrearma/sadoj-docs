@@ -609,6 +609,11 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 > [!ATTENTION]
 > **Après la date butoir, tous les virements directs encore présents seront purement supprimés.**
 
+## Divers
+### Stockage d'argent
+* Il est interdit de stocker plus de 5000 unités d'argent liquide ou de valeur équivalente en jetons de casino dans des véhicules stockés dans des garages.
+> [!NOTE]
+> Cette règle vise à empêcher toute accumulation excessive d'argent inaccessible.
 
 
 {docsify-updated}
