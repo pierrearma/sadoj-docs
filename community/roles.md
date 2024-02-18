@@ -58,7 +58,7 @@
       </td>
       <td style="text-align: center;">7</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, Sulivan, Esteban, </td>
+      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, wrc, Esteban, </td>
       <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>
@@ -313,8 +313,8 @@
         </ul>
       </td>
       <td style="text-align: center;">2</td>
-      <td style="text-align: center;">Max82 BCFD <br> Antonin LSFD</td>
-      <td style="text-align: center;">Max82 BCFD <br> Antonin LSFD</td>
+      <td style="text-align: center;">Max82 (SanFire)</td>
+      <td style="text-align: center;">Max82 (SanFire)</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Medical (Life)</td>
@@ -357,7 +357,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Snake, Backdraft, Thomas, Taykay, Odin, Dylan51, Mac</td>
+      <td style="text-align: center;">Snake, Backdraft, Thomas, Taykay, Odin, Clem0233 , Mac</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
@@ -449,7 +449,7 @@
       </td>
       <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
       <td style="text-align: center;">Roni</td>
-      <td style="text-align: center;">Roni, _Thomas_ (police), Armand, Ludovic </td>
+      <td style="text-align: center;">Roni, Mac (police), Armand, Ludovic, Remigdv </td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
