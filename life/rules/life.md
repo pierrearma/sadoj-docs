@@ -140,7 +140,7 @@
   * Message de prévention (alerte trafic, sensibilisation, …).
   * Annonce d’évènement (audience, course, soirée publique, …).
 * Il est interdit d’acheter un véhicule destiné à une société si vous ne faites pas partie de la société et/ou si le patron n’a pas donné son accord. De même, il est interdit d’acheter un véhicule destiné au service public (police, médecins, pompiers, etc.) si vous ne faites pas partie du service et/ou si le chef n’a pas donné son accord.
-* La communauté ne possède pas le pouvoir de modifier le code pénal (document RP). Le groupe justice reste dans son droit de demander l’avis à la communauté pour une modification lourde.
+* La communauté n'a pas le pouvoir de modifier le code pénal (document RP). Seul le groupe justice peut y apporter des modifications. Le groupe justice conserve le droit de solliciter l'avis de la communauté pour une modification importante.
 
 > Le règlement de la communauté pour et par la communauté.
 
