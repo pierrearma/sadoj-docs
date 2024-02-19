@@ -79,7 +79,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Il est interdit de rentrer dans un garage script tout type de véhicule (voiture, moto, camion, bateau, hélicoptère, etc.) durant les 48h suivants une action dark (braquage, courses-poursuite, vol, etc.). Vous pouvez cependant tenter de cacher le véhicule *(exemple: dans un garage qui a une porte qui s’ouvre)*.
 * Des actions nécessites un certain nombre de policiers en services. En jeux, vous retrouvez dans le menu radial un bouton vous indiquant la possibilité ou non de faire une action. Voici quelques chiffres (non exhaustif):
   * Grosses actions (prises d’otage, etc…): 4 policiers en service
-  * Vol de véhicule: 1 policier en service
+  * Vol de véhicule: 2 policiers en service
   * Braquage de convoi de fonds: 2 policiers en service
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
 * En cas d’intrusion, si des PNJ sont présents et qu’aucun joueur témoin n’est à proximité, l’appel police anonyme est obligatoire.
