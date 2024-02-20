@@ -185,6 +185,8 @@ En cas d’intervention dans ces zones, les policiers doivent avoir un comportem
 
 Toutes les propriétés de gang ou d’organisations ne sont pas forcément des Dark Zones, la liste est disponible [ici](https://map.sadoj-rp.fr/).
 
+Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers seront tenus de passer par le groupe Dark pour valider ou non l'achat.
+
 * Il est interdit de rejoindre ou de se réfugier une Dark Zone sans avoir semé la police.
 
 ## Mort RP Dark
