@@ -25,9 +25,18 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ## Les prix
 
-* Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
+> [!NOTE]
+> Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
+* Le coût d'un transport de fonds doit être compris entre 3 et 7 % de la valeur transportée.
 
 ### Pour l’immobilier
+
+#### Achat de bien, de terrain
+* L'achat d'un bien qui n'appartient à aucun particulier ou entreprise doit passer par un intermédiaire en immobilier, qui doit obtenir l'accord du gouvernement. Dans ce cas précis, **le gouvernement représente le PNJ (personnage non joueur) qui vendrait le terrain ou les biens ou qui refuserait.**
+* Les demandes des agences immobilières sont **anonymes** mais peuvent faire l'objet de demandes de justification (projet, etc).
+* Afin d'avoir une vue sur les différentes demandes et pouvoir réagir en conséquence, **les économistes ont accès aux demandes.**
+
+### Calcul de la valeur
 
 * Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes.
 
@@ -71,9 +80,6 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 #### Adressage
 * Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la route devant l’entrée principale et le nom de la rue.
   > Exemple : 1154RueDeMaMaison
-
-> [!ATTENTION]
-> **L’achat d’un bien qui n'appartient à aucun personnage ou entreprise doit passer par un intermédiaire en immobilier qui doit obtenir l’accord du gouvernement *(savoir si le bien et à vendre ou pas)*.**
 
 
 ### Pour les véhicules
@@ -202,8 +208,9 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 | Type             | Revenu par Vue       |
 |:-----------------------:|:--------------------:|
 |   Tweet article         |       $30/vue        |
-|   Tweet du jour         |        $3/vue        |
 | Articles site / vidéo   | $120/vue (tiktok / 2)|
+|   Tweet du jour         |        $3/vue        |
+| Tweet enrichi (petite vidéo)   | $15/impression|
 
 #### Revenus considérés comme abusif
 
@@ -212,6 +219,7 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 |   Tweet article         |       $10/vue          |
 |   Tweet du jour         |        $1/vue          |
 | Articles site / vidéo   | $40/vue (tiktok / 2)   |
+
 
 ### Les revenus de travail ou activité PNJ
 
