@@ -27,7 +27,7 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 > [!NOTE]
 > Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
-* Le coût d'un transport de fonds doit être compris entre 3 et 7 % de la valeur transportée.
+* Le coût d'un transport de fonds doit être compris **entre 3 et 7 % de la valeur transportée.**
 
 ### Pour l’immobilier
 
