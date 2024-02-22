@@ -54,10 +54,15 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
     <td>Un bien d'une valeur de 200 000 dollars peut être revendu entre 160 000 et 240 000 dollars.</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Location</td>
+    <td style="text-align: center;">Location d'une maison, d'un appartement</td>
     <td><strong>Loyer maximum fixé à 1.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
-    <td>Un bien d'une valeur de 200 000 dollars peut être loué jusqu'à 3 000 dollars maximum.</td>
+    <td>Une maison ou un appartement d'une valeur de 200 000 dollars peut être loué jusqu'à 3 000 dollars maximum.</td>
   </tr>
+<tr>
+    <td style="text-align: center;">Location pour les autres biens</td>
+    <td><strong>Loyer maximum fixé à 2.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
+    <td>Un entrepôt ou un bureau d'une valeur de 200 000 dollars peut être loué jusqu'à 5 000 dollars maximum.<br>Un garage loué à un particulier d'une valeur de 300 000 dollars pourra être loué jusqu'à 7 500 dollars.</td>
+</tr>
 </table>
 
 >[!NOTE]
