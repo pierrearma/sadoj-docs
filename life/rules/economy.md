@@ -205,20 +205,30 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 
 #### Revenus normaux
 
-| Type             | Revenu par Vue       |
+
+| Type             | Revenu     |
 |:-----------------------:|:--------------------:|
-|   Tweet article         |       $30/vue        |
-| Articles site / vidéo   | $120/vue (tiktok / 2)|
-|   Tweet du jour         |        $3/vue        |
-| Tweet enrichi (petite vidéo)   | $15/impression|
+|   Tweet article         |       $30/ impression       |
+|   Tweet du jour         |        $3/ impression        |
+|   Video twitter        |       $120/ impression      |
+| Tweet enrichi (petite vidéo)   | $15/ impression|
+| Vidéo youtube    | $120/vue|
+| Vidéo tiktok (>1000 vues)    | $60/ vue|
+| Vidéo tiktok (<1000 vues)    | $120/ vue|
+| Articles site / vidéo   | $120/ vue|
 
 #### Revenus considérés comme abusif
 
-| Type (abusif)    | Revenu minimum par Vue |
-|:-----------------------:|:----------------------:|
-|   Tweet article         |       $10/vue          |
-|   Tweet du jour         |        $1/vue          |
-| Articles site / vidéo   | $40/vue (tiktok / 2)   |
+| Type             | Revenu     |
+|:-----------------------:|:--------------------:|
+|   Tweet article         |       $10/ impression       |
+|   Tweet du jour         |        $1/ impression        |
+|   Video twitter        |       $40/ impression      |
+| Tweet enrichi (petite vidéo)   | $5/ impression|
+| Vidéo youtube    | $40/vue|
+| Vidéo tiktok (>1000 vues)    | $20/ vue|
+| Vidéo tiktok (<1000 vues)    | $40/ vue|
+| Articles site / vidéo   | $40/ vue|
 
 
 ### Les revenus de travail ou activité PNJ
