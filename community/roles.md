@@ -369,7 +369,7 @@
       </td>
       <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Swarex, Kuro, Azzox, Thomas, Ludo</td>
+      <td style="text-align: center;">Théo, TRGrey, Kuro, Azzox, Thomas, Ludo</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Validation Véhicules</td>
@@ -381,7 +381,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Azzox, Swarex, Elkas, Taykay, Doryann, Max82</td>
+      <td style="text-align: center;">Guillaume, Azzox, Elkas, Taykay, Doryann, Max82</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
