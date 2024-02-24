@@ -149,7 +149,7 @@ Dans le cas où le casier judiciaire et/ou le profil psychologique/judiciaire du
 
 **3.1.12** Le prévenu peut demander un avocat à tout moment, jusqu’au commencement du procès.
 
-**3.1.13** Toute peine inférieure à 10 minutes de prison ne nécessite pas l’ingérence du procureur.
+**3.1.13** Toute peine inférieure à 10 unités carcérales de prison ne nécessite pas l’ingérence du procureur.
 
 ### Chapitre 2. L'enquête
 
@@ -325,7 +325,7 @@ S'il n'y a pas d'autorisation et si le défendeur ne se présente pas en personn
 
 **4.1** Est qualifiée d'infraction flagrante l'infraction qui se commet actuellement, ou qui vient de se commettre. Il y a aussi infraction flagrante lorsque, dans un temps très voisin de l'action, la personne soupçonnée est trouvée en possession d'objets, ou présente des traces ou indices, laissant penser qu'elle a participé à l'infraction.
 
-**4.2** En cas d'infraction flagrante, si l'emprisonnement prévu par la loi est d'une durée n'excédant pas quinze minutes, le procureur, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire le prévenu sur-le-champ devant le tribunal.
+**4.2** En cas d'infraction flagrante, si l'emprisonnement prévu par la loi est d'une durée n'excédant pas 15 unités carcérales, le procureur, s'il estime que les éléments de l'espèce justifient une comparution immédiate, peut traduire le prévenu sur-le-champ devant le tribunal.
 </br>
 Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu dans les 72 heures ; il est conduit sous escorte devant le tribunal.
 
