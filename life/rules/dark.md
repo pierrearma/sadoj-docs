@@ -225,7 +225,7 @@ Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers ser
 
 ## Création d’organisation
 
-La création d’organisation dark se fait sur dossier afin d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
+La création d’organisation dark se fait sur dossier, il vous sera demandé d'être minimum 3 afin de faire une demande. Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
 
 Cette étape permet de garder une certaine cohérence, permet d’avoir des projets de qualité et permet d’éviter une multiplication inutile des organisations et permet de garder une certaine cohérence et proportion entre le légal et l’illégal.
 
@@ -238,7 +238,7 @@ Les parties qui doivent figurer dans le dossier : (dossier à présenter sur goo
 
 La créations de l’organisation à un coup : le prix de l’organisation + couts spécifiques + bâtiment.
 
-Le prix de l’organisation est fixé à : 50k$ en liquide hors couts spécifiques et bâtiment.
+Le prix de l’organisation est fixé à : 30k$ en liquide hors couts spécifiques et bâtiment.
 
 Les organisations doivent acheter les bâtiments dark en immo dark.
 
