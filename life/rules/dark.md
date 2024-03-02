@@ -58,6 +58,7 @@ Les cartels sont des organisations créées par des joueurs. Ils ont accès à p
 
 Il existe un Discord marché noir géré par les référents dark. Celui-ci permet aux acteurs du dark de proposer leurs service de manière anonyme, d’acheter des informations, d’acheter un véhicule, d’échanger, etc…
 Pour rejoindre la plateforme, rapprochez-vous d’un référent.
+La police est interdite de rejoindre le Black Market. Seuls les policiers sous dossier Dark y sont autorisés.
 
 ### Informateurs PNJ
 
