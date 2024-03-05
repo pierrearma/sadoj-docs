@@ -76,6 +76,7 @@
   * Exceptions :
     * Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
     * Il est interdit d’avoir un personnage dans le domaine illégal (gangster, membre d’une organisation, etc …) et un autre dans la police.
+    * Note : Il est autorisé d'avoir un personnage dans le domaine du dark (sans être dans une organisation) et un autre dans la police, cependant le second ne peut mener des investigations et enquêtes.
 
 ## Déplacements / Véhicules
 
