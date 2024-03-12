@@ -205,35 +205,60 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 ### Revenus des journalistes
 
 - Pas de limite d'article, de tweet, de video.
-- Revenu minimum pour les articles abusifs ou vidéo en contenu *(par exemple deux lignes, image tirée du jeu avec le HUD etc...)*
 - Le groupe des économistes peut également décider de ne donner aucun revenu en cas de tromperie, de sujets qui n'ont aucun rapport avec le serveur.
 
-#### Revenus normaux
-
-
-| Type             | Revenu     |
-|:-----------------------:|:--------------------:|
-|   Tweet article         |       $30/ impression       |
-|   Tweet du jour         |        $3/ impression        |
-|   Video twitter        |       $120/ impression      |
-| Tweet enrichi (petite vidéo)   | $15/ impression|
-| Vidéo youtube    | $120/vue|
-| Vidéo tiktok (>1000 vues)    | $60/ vue|
-| Vidéo tiktok (<1000 vues)    | $120/ vue|
-| Articles site / vidéo   | $120/ vue|
-
-#### Revenus considérés comme abusif
-
-| Type             | Revenu     |
-|:-----------------------:|:--------------------:|
-|   Tweet article         |       $10/ impression       |
-|   Tweet du jour         |        $1/ impression        |
-|   Video twitter        |       $40/ impression      |
-| Tweet enrichi (petite vidéo)   | $5/ impression|
-| Vidéo youtube    | $40/vue|
-| Vidéo tiktok (>1000 vues)    | $20/ vue|
-| Vidéo tiktok (<1000 vues)    | $40/ vue|
-| Articles site / vidéo   | $40/ vue|
+<div style="display: flex; justify-content: center;">
+  <table style="border: 0;">
+    <tr>
+      <th>Type</th>
+      <th>Revenu</th>
+    </tr>
+    <tr>
+      <td>Tweet du jour</td>
+      <td>5$/impression</td>
+    </tr>
+    <tr>
+      <td>Tweet enrichi <i>(petite vidéo sans travail journalistique)<i></td>
+      <td>20$/impression</td>
+    </tr>
+    <tr>
+      <td>Tweet article <i>(travaillé)<i></td>
+      <td>100$/impression</td>
+    </tr>
+    <tr>
+      <td>Article site <i>(travaillé)<i></td>
+      <td>120$/vue</td>
+    </tr>
+    <tr>
+      <td>Vidéo discours <i>(captation d’images)<i></td>
+      <td>100$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Vidéos Méteo</td>
+      <td>100$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Vidéo conférence de presse</td>
+      <td>120$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Vidéo interview <i>(travail journalistique)<i></td>
+      <td>150$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Vidéo évènement <i>(travail journalistique)<i></td>
+      <td>150$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Vidéo divers évènements avec montage <i>(travail journalistique)<i></td>
+      <td>170$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Vidéo reportage avec enquête journalistique</td>
+      <td>200$/vue ou impression</td>
+    </tr>
+  </table>
+</div>
 
 
 ### Les revenus de travail ou activité PNJ
