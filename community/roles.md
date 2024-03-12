@@ -40,7 +40,7 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">7</td>
       <td style="text-align: center;">Pierre</td>
       <td style="text-align: center;">Pierre, Doryann, Guillaume, Dylan51, Antonin, Valdum, SEBEDIA</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Azzox, Elkas, Taykay, Doryann, Max82</td>
+      <td style="text-align: center;">Guillaume, Azzox, Elkas, Taykay, Doryann, Max82, thracios</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
@@ -448,8 +448,8 @@
         </ul>
       </td>
       <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
-      <td style="text-align: center;">Roni</td>
-      <td style="text-align: center;">Roni, Mac (police), Armand, Remigdv </td>
+      <td style="text-align: center;">Vacant</td>
+      <td style="text-align: center;">Back_draftt, Mac (police), Armand, Remigdv, thracios</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
