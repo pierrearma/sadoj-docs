@@ -448,7 +448,7 @@
         </ul>
       </td>
       <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
-      <td style="text-align: center;">Vacant</td>
+      <td style="text-align: center;">Armand</td>
       <td style="text-align: center;">Back_draftt, Mac (police), Armand, Remigdv, thracios</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
