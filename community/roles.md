@@ -40,9 +40,9 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">7</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Doryann, Guillaume, Dylan51, Antonin, Valdum, SEBEDIA</td>
+      <td style="text-align: center;">Pierre, Guillaume, Dylan51, Antonin, Valdum, SEBEDIA</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
