@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Azzox, Elkas, Taykay, Doryann, Max82, thracios</td>
+      <td style="text-align: center;">Guillaume, Azzox, Elkas, Taykay, Doryann, thracios</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
@@ -405,9 +405,9 @@
       <ul>
       <li>Se rendre disponible si un membre souhaite ajouter une information à un sujets ou si un auteur souhaite supprimer / modifier son sujet </li>
       </td>
-      <td style="text-align: center;">8</td>
+      <td style="text-align: center;">7</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Roni, Elkas, Doryann, Dylan51, Bragon, Valdum, Spen82</td>
+      <td style="text-align: center;">Pierre, Roni, Elkas, Dylan51, Bragon, Valdum, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Gestionnaire VPS</td>
