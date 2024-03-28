@@ -16,6 +16,7 @@
 - Les remplacements sont interdits, sauf en cas de nécessité absolue.
 - La suppression d'entités sur des YMAP qui possèdent des "parents" ou des "enfants" est interdite (si vraiment nécessaire, les mettre sous la map).
 - Les ajouts d'entités doivent impérativement se faire sur un YMAP à part.
+- La validation doit être effectuée en toute impartialité et n'est pas soumise aux contraintes RP.
 
 ### Les textures
 

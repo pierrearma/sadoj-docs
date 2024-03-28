@@ -3,6 +3,7 @@
   * Règlements
     * [Règlement communautaire](community/rules/community.md "Règlement communautaire")
     * [Règlement du streamer](community/rules/streamer.md "Règlement du streamer")
+    * [Règles internes des groupes de validation](community/rules/validation_rules.md "Règles internes des groupes de validation")
   * [Procédure de médiation](community/mediation_process.md "Procédure de médiation")
   * [Rôles dans la communauté SADoJ](community/roles.md "Rôles dans la communauté SADoJ")
 * SADoJ Life US
