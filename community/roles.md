@@ -178,9 +178,9 @@
           <li>Création de pages</li>
         </ul>
       </td>
-      <td style="text-align: center;">9</td>
+      <td style="text-align: center;">8</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Armand, Elkas, Doryann, Kentinsly, Dylan51</td>
+      <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Elkas, Doryann, Kentinsly, Dylan51</td>
       <td style="text-align: center;">Tout le monde après formation de Pierre <br> <br> Retrait possible en cas d'inactivité ou de mauvaise manipulation, réintégration après nouvelle formation.</td>
     </tr>
   <tr>
@@ -270,9 +270,9 @@
           <li>Traitement des situations juridiques particulières</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Armand, Antonin</td>
+      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Antonin</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -447,9 +447,9 @@
           <li> Gestion du service FAA</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
-      <td style="text-align: center;">Armand</td>
-      <td style="text-align: center;">Back_draftt, Mac (police), Armand, Remigdv, thracios</td>
+      <td style="text-align: center;">4 (5 souhaité) dont 1 policier</td>
+      <td style="text-align: center;">?</td>
+      <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
