@@ -93,6 +93,8 @@
 
 * Un personnage ou une entreprise ne peut pas vivre dans plus de deux logements avec intérieur, les autres biens possédés devront être mis en location ou mis à disposition.
 * Il est obligatoire de pouvoir retrouver les biens en location ou en vente avec intérieur dans le canal Discord “immo-dispo-rp”. Les propriétés sans intérieur sont exclu de ce système sauf si inclus dans un document externe au canal.
+* L'accord d'un économiste suffit pour approuver l'achat d'un bien PNJ.
+* L’usage d’un bien immobilier avec intérieur non duplicable se doit d’être justifié à la demande des économistes afin d’éviter tout blocage d’un bien dans lequel du rôle play pourrait se developper. Dans le cas ou l’usage n’est pas justifié (*vote interne des économistes après réception des éléments*), le bien doit être remis sur le marché de la vente ou de la location. Le joueur locataire ou propriétaire (*celui qui l’utilise*) ou gérant de l’entreprise (*dans le cas d’un bien occupé par une entreprise*) possède un droit de recours avec un vote communautaire.
 
 ## Entreprises
 
