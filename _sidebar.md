@@ -40,3 +40,4 @@
   * [Installer le site localement](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
   * [Racourcis StreamDeck](sadoj-docs/streamdeck.md)
+
