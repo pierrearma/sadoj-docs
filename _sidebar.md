@@ -22,6 +22,7 @@
     * [Code sociétés de sécurité privée](life/rp/private_security.md "Code sociétés de sécurité privée")
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
     * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
+    * [Code pénal](life/rp/penal_code.md "Code pénal")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
