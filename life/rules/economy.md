@@ -495,6 +495,11 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
     <td>Interdit</td>
   </tr>
   <tr>
+    <td>Particuliers</td>
+    <td>Particuliers</td>
+    <td>Limite de $50.000 par personne et par mois</td>
+  </tr>
+  <tr>
     <td>Entreprises</td>
     <td>Particuliers</td>
     <td>Interdit</td>
