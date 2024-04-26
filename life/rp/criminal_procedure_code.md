@@ -26,7 +26,7 @@ Ce document n’ajoute aucune réglementation RP mais uniquement des principes H
 
 **1.1.3** Le Procureur général nomme des procureurs avec l’accord de deux juges impartiaux. Il peut également les révoquer aux mêmes conditions.
 
-**1.1.4** Le Procureur Général peut être révoqué sur ordre du Gouverneur avec l’accord de deux juges impartiaux. Il peut également être soumis à une procédure de Recall, laquelle se déroule dans les mêmes conditions que dans le cas d’un gouverneur. En cas de destitution ou de démission, le Gouverneur, en accord avec deux juges et la Cour Suprême de San Andreas, nomme un Procureur général par intérim en exercice jusqu’aux élections, qui doivent se tenir le deuxième dimanche suivant l’acte de vacance du poste.
+**1.1.4** Le Procureur Général peut être révoqué sur ordre du Gouverneur avec l’accord de la cour suprème de San Andreas. Il peut également être soumis à une procédure de Recall, laquelle se déroule dans les mêmes conditions que dans le cas d’un gouverneur. En cas de destitution ou de démission, le Gouverneur, en accord avec deux juges et la Cour Suprême de San Andreas, nomme un Procureur général par intérim en exercice jusqu’aux élections, qui doivent se tenir le deuxième dimanche suivant l’acte de vacance du poste.
 
 **1.1.5** Le procureur général de San Andreas émet des directives qui doivent être suivies par les services de police.
 
