@@ -111,6 +111,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Il est interdit d’utiliser l’option dans le F7 d’entreprise pour crocheter des véhicules volés. Utilisez les outils de crochetage vendu en magasin de bricolage.
 * Si une entreprise ou un particulier subit plus de 1 vol de véhicule dans la semaine le véhicule sera restitué sans contrepartie et l’argent sera retiré au voleur **que dans le cas où** il était l’auteur du vol précédent (lui ou un membre de son organisation).
   * Il y a une **exception pour les concessionnaires** pour qui la limite est de 2 véhicules par semaine dans les mêmes conditions.
+* Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau. 
 
 ## Trafic de drogue
 
