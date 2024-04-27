@@ -88,6 +88,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Si vous souhaitez dénoncer ou fournir des informations aux forces de l’ordre ou à la justice dans l'objectif de nuire à l'intégrité d'une organisation en particulier, vous devez obligatoirement obtenir l’accord du groupe dark. Cette demande à pour objectif de vérifier la cohérence et la légitimité de l'action.
   * Dans le cas où vous vous trouvez sous contrainte (*sous menaces, en échange de réduction de peine, etc...*), vous n’avez pas besoin de l’accord de celui-ci.
   * Les membres du groupe dark présentant des conflits d’intérêts ne peuvent pas être impliqué dans la décision.
+* Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau.
 
 ## Armes & tirs
 
