@@ -23,6 +23,7 @@
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
     * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
     * [Code pénal](life/rp/penal_code.md "Code pénal")
+    * [Code executif ](life/rp/executive_code.md "Code executif")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
