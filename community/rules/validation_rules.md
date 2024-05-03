@@ -16,6 +16,7 @@
 - Les remplacements sont interdits, sauf en cas de nécessité absolue.
 - La suppression d'entités sur des YMAP qui possèdent des "parents" ou des "enfants" est interdite (si vraiment nécessaire, les mettre sous la map).
 - Les ajouts d'entités doivent impérativement se faire sur un YMAP à part.
+- Le stream de fichier scénario (replace et addon) doivent impérativement se faire dans la ressource "sadoj-scenario-stream".
 - La validation doit être effectuée en toute impartialité et n'est pas soumise aux contraintes RP.
 
 ### Les textures
