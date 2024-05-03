@@ -30,6 +30,33 @@ Le dark est le fait d’organiser ses actes illégaux dans le but d’en tirer u
 * Avoir des armes illégales (où le numéro de série n’est pas inscrit)
 * Se frotter volontairement et régulièrement à des organisations ou des gangs
 
+### Le Référent Dark
+
+Le référent dark joue un rôle central dans l'univers du Dark, incluant:
+
+* Gestion de l'immobilier dark, y compris les ventes et les achats.
+* Organisation des transactions de drogue (Points de vente pnj).
+* Gestion des ventes d'armes et des rachats associés.
+* Organisation de missions Dark telles que le vol de véhicules, les kidnappings, les intimidations, etc.
+* Résolution des conflits entre les membres Dark.
+* Configuration des portes, changement de serrures pour les coffres et les portes en jeu.
+* Participation en tant que joueur lors d'événements nécessitant sa présence comme les descentes de police ou les rendez vous a la demande des organisation ou  en tant que loueur de bien immobilier.
+* Organisation d'évènements Dark tels que des ventes aux enchères, des courses de rue, etc.
+* La vente d'information
+* L'achats et la vente de Véhicule volé
+* Fournir de l'armement spécial (Grenade, bombe collante) sous demande des joueurs au près du groupe Dark.
+* Il est le gérant du Black Market.
+
+Ce qu'il ne peut pas faire :
+
+* Participé à des braquage.
+* Voler de véhicule.
+* Braquer des joueur.
+* Vendre de drogue à des pnj ou à des joueur.
+* Voter lors des différentes élections.
+* Interféré entre la police et les organisation ( Apporté sont aide lors de descente de police ou autre .
+* Divulgué d'information a la police si il est arrêté.
+
 ### L’illégal
 
 Un acte illégal n’est pas forcément un acte dark. La justice peut condamner la personne sans que ce soit considérer comme un acte dark.
