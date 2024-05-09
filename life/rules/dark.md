@@ -251,12 +251,12 @@ Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers ser
 * Le système est grossièrement le même système que le légal sauf que:
   * Les propriétés sont enregistrées sous un faux nom.
   * Les propriétés personnelles sont limitées à une par personne.
-  * Les propriétés communes sont limitées à deux par organisation.
+  * Les propriétés communes sont limitées à deux par organisation et 4 pour le cartel.
   * Le prix est supérieur au légal de +20% pour bénéficier de ce faux nom.
   * Un garage, un coffre et un vestiaire est inclus dans le prix.
 * Pour acquérir une propriété, cela se passe sur le Blackmarket.
 * La saisie des biens immobiliers dark:
-  * Ni la police ni la justice ne pourront en aucun cas saisir ces biens. Cependant, ils auront la possibilité, s'ils le souhaitent, de faire une demande auprès du groupe Dark pour rendre les biens inaccessibles pendant une période pouvant aller jusqu'à un mois maximum (pour des enquêtes, des démantèlements, etc.).
+  * La police ou la justice pourront saisir un bien immobilier pour une période maximale d'un mois (enquêtes, démantèlement, etc.). Dans ce cas, elles devront alors solliciter le référent dark afin qu'il bloque le bien et évite toute remise en vente directe.
 
 ## Fausses identités 
 
