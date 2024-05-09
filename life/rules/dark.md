@@ -70,7 +70,7 @@ Les organisations sont des structures permettant l’accès au monde du dark et 
 
 Les gangs sont des organisations par défaut qui ont été créées par le groupe dark.
 Vous pouvez retrouver la liste ainsi que leur lore juste ici. **TODO PAGE WIKI**
-Il existe deux méthode pour les rejoindre. S’il y a des joueurs déjà dedans, tout doit se faire en RP. Si le gang est vide, vous devez motiver votre demande auprès du groupe dark (document avec le background de votre personnage ainsi que votre motivation).
+Il existe deux méthode pour les rejoindre. S’il y a des joueurs déjà dedans, tout doit se faire en RP. Si le gang est vacant, vous devez justifier votre demande auprès du groupe dark en fournissant un document comprenant le background de votre personnage ainsi que vos motivations. Un minimum de trois personnes est requis, sans limite maximum.
 Il n’existe pas de chef dans les gangs, du moins, sur le papier. Les membres sont libres de s’organiser comme ils veulent entre eux.
 Si vous rejoignez un gang vide, vous retrouverez votre QG ainsi qu’un coffre avec 1 pisolet et 15k$.
 
@@ -250,13 +250,26 @@ Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers ser
 
 * Le système est grossièrement le même système que le légal sauf que:
   * Les propriétés sont enregistrées sous un faux nom.
+  * Les propriétés personnelles sont limitées à une par personne.
+  * Les propriétés communes sont limitées à deux par organisation.
   * Le prix est supérieur au légal de +20% pour bénéficier de ce faux nom.
   * Un garage, un coffre et un vestiaire est inclus dans le prix.
 * Pour acquérir une propriété, cela se passe sur le Blackmarket.
+* La saisie des biens immobiliers dark:
+  * Ni la police ni la justice ne pourront en aucun cas saisir ces biens. Cependant, ils auront la possibilité, s'ils le souhaitent, de faire une demande auprès du groupe Dark pour rendre les biens inaccessibles pendant une période pouvant aller jusqu'à un mois maximum (pour des enquêtes, des démantèlements, etc.).
+
+## Fausse identités 
+
+Les organisations auront désormais la possibilité d'avoir jusqu'à trois faux noms lors de la création de leur entité ou de leur gang.
 
 ## Création d’organisation
 
-La création d’organisation dark se fait sur dossier, il vous sera demandé d'être minimum 3 afin de faire une demande. Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
+La création d’organisation dark se fait sur dossier,avec deux types disponibles :
+
+* Les organisations dites classiques nécessitent un minimum de cinq personnes et un maximum de dix. 
+* Les organisations dites Cartels, elles doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins huit joueurs actifs et soumettre une demande détaillée au groupe Dark.
+
+Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
 
 Cette étape permet de garder une certaine cohérence, permet d’avoir des projets de qualité et permet d’éviter une multiplication inutile des organisations et permet de garder une certaine cohérence et proportion entre le légal et l’illégal.
 
