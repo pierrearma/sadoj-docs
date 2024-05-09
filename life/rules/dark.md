@@ -258,13 +258,13 @@ Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers ser
 * La saisie des biens immobiliers dark:
   * Ni la police ni la justice ne pourront en aucun cas saisir ces biens. Cependant, ils auront la possibilité, s'ils le souhaitent, de faire une demande auprès du groupe Dark pour rendre les biens inaccessibles pendant une période pouvant aller jusqu'à un mois maximum (pour des enquêtes, des démantèlements, etc.).
 
-## Fausse identités 
+## Fausses identités 
 
 Les organisations auront désormais la possibilité d'avoir jusqu'à trois faux noms lors de la création de leur entité ou de leur gang.
 
 ## Création d’organisation
 
-La création d’organisation dark se fait sur dossier,avec deux types disponibles :
+La création d’organisation dark se fait sur dossier, avec deux types disponibles :
 
 * Les organisations dites classiques nécessitent un minimum de cinq personnes et un maximum de dix. 
 * Les organisations dites Cartels, elles doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins huit joueurs actifs et soumettre une demande détaillée au groupe Dark.
