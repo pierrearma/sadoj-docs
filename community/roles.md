@@ -449,7 +449,7 @@
       </td>
       <td style="text-align: center;">4 (5 souhaité) dont 1 policier</td>
       <td style="text-align: center;">Mac</td>
-      <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios</td>
+      <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios, FlyHight</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
