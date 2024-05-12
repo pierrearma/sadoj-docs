@@ -270,9 +270,9 @@
           <li>Traitement des situations juridiques particulières</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Antonin</td>
+      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Antonin, UrdomT</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -287,7 +287,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Toxi</td>
-      <td style="text-align: center;"> Police : <br> Backdraft, Swarex, Mac <br><br> Dark : <br>Azzox, Toxi, Taykay, Doryann <br><br> Référents RP/HRP :<br>ToxiCorpTV</li>
+      <td style="text-align: center;"> Police : <br> Backdraft, Swarex, Mac <br><br> Dark : <br>Azzox, Toxi, Taykay, Doryann <br><br> Référents RP/HRP :<br>ToxiCorpTV et Swarex </li>
       </td>
       <td style="text-align: center;"> Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police <br><br><strong> 3 mois d'ancienneté dans la communauté
       </td>
@@ -447,7 +447,7 @@
           <li> Gestion du service FAA</li>
         </ul>
       </td>
-      <td style="text-align: center;">4 (5 souhaité) dont 1 policier</td>
+      <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
       <td style="text-align: center;">Mac</td>
       <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
