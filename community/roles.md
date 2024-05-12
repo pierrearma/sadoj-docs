@@ -270,9 +270,9 @@
           <li>Traitement des situations juridiques particulières</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Antonin</td>
+      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Antonin, UrtomT</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -447,7 +447,7 @@
           <li> Gestion du service FAA</li>
         </ul>
       </td>
-      <td style="text-align: center;">4 (5 souhaité) dont 1 policier</td>
+      <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
       <td style="text-align: center;">Mac</td>
       <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios, FlyHight</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
