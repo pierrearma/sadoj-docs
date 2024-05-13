@@ -127,7 +127,7 @@ La mise en état d'arrestation se fait dans un délai raisonnable après la nais
 **3.1.4** Si les droits mentionnés aux articles 3.1.1 et 3.1.2 n’ont pas été cités lors de l’arrestation, toutes les paroles et tous les éléments recueillis ne pourront pas être utilisés. L’usage de toute élément recueilli en-dehors de la procédure indiquée ci-avant constitue un vice de procédure.
 
 **3.1.5** En l’absence de procureur ; en cas de crime, le suspect mis en état d'arrestation peut être retenu au poste de police pour une durée maximale de 24h. En cas de délit, le suspect ne peut être retenu qu’une heure.
-Dans le cas où aucun procureur ou juge ne serait disponible, le suspect doit être remis en liberté avec le suspect doit être remis en liberté **avec paiement d'une caution** et une obligation de se présenter au poste de police lorsqu’un procureur sera disponible (le suspect sera averti par les autorités). En cas de manquement à la convocation, un mandat d’arrêt pourra être demandé. La police informera sur place le prévenu de la décision du procureur (engagement de poursuites ou renonciation).
+Dans le cas où aucun procureur ou juge ne serait disponible, le suspect doit être remis en liberté **avec paiement d'une caution** et une obligation de se présenter au poste de police lorsqu’un procureur sera disponible (le suspect sera averti par les autorités). En cas de manquement à la convocation, un mandat d’arrêt pourra être demandé. La police informera sur place le prévenu de la décision du procureur (engagement de poursuites ou renonciation).
 
 Pour le montant de la caution est elle est fixée par défaut à **deux fois la peine financière encourue.**
 
