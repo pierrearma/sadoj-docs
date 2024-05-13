@@ -62,7 +62,7 @@ Ils sont soumis, dans l'exercice de leurs fonctions d'enquête, à l'autorité d
 
 ### Chapitre 3. Le pouvoir judiciaire
 
-**1.3.1** La Cour de district de Los Santos est la juridiction de première instance qui connaît des affaires pénales et des demandes de mandat.
+**1.3.1** La Cour supérieure de San Andreas est la juridiction de première instance qui connaît des affaires pénales et des demandes de mandat.
 
 **1.3.2** Un juge est nommé sur décret du Gouverneur, qui doit avoir obtenu l’aval de deux autres juges impartiaux.
 
@@ -127,7 +127,9 @@ La mise en état d'arrestation se fait dans un délai raisonnable après la nais
 **3.1.4** Si les droits mentionnés aux articles 3.1.1 et 3.1.2 n’ont pas été cités lors de l’arrestation, toutes les paroles et tous les éléments recueillis ne pourront pas être utilisés. L’usage de toute élément recueilli en-dehors de la procédure indiquée ci-avant constitue un vice de procédure.
 
 **3.1.5** En l’absence de procureur ; en cas de crime, le suspect mis en état d'arrestation peut être retenu au poste de police pour une durée maximale de 24h. En cas de délit, le suspect ne peut être retenu qu’une heure.
-Dans le cas où aucun procureur ou juge ne serait disponible, le suspect doit être remis en liberté avec un bracelet électronique et une obligation de se présenter au poste de police lorsqu’un procureur sera disponible (le suspect sera averti par les autorités). En cas de manquement à la convocation, un mandat d’arrêt pourra être demandé. La police informera sur place le prévenu de la décision du procureur (engagement de poursuites ou renonciation).
+Dans le cas où aucun procureur ou juge ne serait disponible, le suspect doit être remis en liberté avec le suspect doit être remis en liberté **avec paiement d'une caution** et une obligation de se présenter au poste de police lorsqu’un procureur sera disponible (le suspect sera averti par les autorités). En cas de manquement à la convocation, un mandat d’arrêt pourra être demandé. La police informera sur place le prévenu de la décision du procureur (engagement de poursuites ou renonciation).
+
+Pour le montant de la caution est elle est fixée par défaut à **deux fois la peine financière encourue.**
 
 **3.1.6** Les polices, sous l'autorité du procureur, enquêtent durant la détention provisoire ou la rlib. Le Procureur Général de San Andreas détermine s’il engage des poursuites contre le suspect au terme de la mise aux arrêts (garde à vue) ; il peut demander à un juge un mandat de mise en détention provisoire compte-tenu de la gravité des faits qui sont reprochés au suspect ou du risque d'évasion.
 

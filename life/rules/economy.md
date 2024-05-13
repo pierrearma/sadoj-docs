@@ -8,9 +8,11 @@ Cette page reprend l’ensemble des éléments mis en place par les économistes
 
 Sachez qu’en matière d’économie, rien n’est fixe, donc tout est potentiellement modifiable au cours du développement du Life et des incohérences qui apparaissent dans le RP ou des points qui mettent à mal l’économie et la volontée de garder quelque chose qui se veut réaliste mais qui prend en compte aussi que nous sommes sur un jeu.
 
-De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le rôle des économistes est de réguler tout ce qui touche à l’argent afin de vous donner une expérience de RP la plus convenable possible. Ne pas avoir assez ou trop gâcher le plaisir du RP, c’est pour cela que le rôle d’économiste et le groupe doit avoir la confiance des membres car ils travaillent pour le bien de tous ! Les modifications seront présentées mais non soumises au vote de la communauté, vous pouvez communiquer avec les économistes afin d’apporter des améliorations sur les modifications. (Pourquoi pas de vote ? Économiste est un rôle à part car cela touche à l’argent, c’est aussi pour éviter les effets de désinformation et l’économiste bashing, les économistes travaillent pour nous tous et pour le bien de notre RP.)
+De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le rôle des économistes est de réguler tout ce qui touche à l’argent afin de vous donner une expérience de RP la plus convenable possible. Ne pas avoir assez ou trop gâcher le plaisir du RP, c’est pour cela que le rôle d’économiste et le groupe doit avoir la confiance des membres car ils travaillent pour le bien de tous !
 
-> [!TIP]
+> [!ATTENTION]
+> Les modifications seront présentées en réunion mais non soumises au vote de la communauté **sauf si elles impactent immédiatement l'ensemble de la communauté et ne découlent pas d'une décision RP ET/OU ne concernent pas exclusivement la définition d'un prix ou d'une valeur précise ET/OU ne sont pas un correctif à un problème urgent.**
+
 > Il est possible de contactez les économistes par le formulaire mis à disposition, il est accessible depuis le site principal (seulement par les membres).
 
 > [!ATTENTION]
