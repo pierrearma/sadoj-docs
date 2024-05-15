@@ -161,15 +161,15 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
   <tr>
     <td>Employés PNJ</td>
     <td>Tout emplacement sauf Darkzone</td>
-    <td>2500$/semaine par PNJ</td>
-    <td>Salaires pris en charge par l'entreprise</td>
-    <td>Décoratif, participe à l'immersion des joueurs dans les lieux</td>
+    <td>Gratuit</td>
+    <td>Décoration</td>
+    <td>Décoratif, participe à l'immersion des joueurs dans les lieux (entreprises de sécurité incluses)</td>
   </tr>
   <tr>
     <td>Gardes PNJ</td>
     <td>Tout emplacement sauf Darkzone</td>
     <td>Variable (2500$-5000$/semaine)</td>
-    <td>Sécurité des entreprises ou des zones spécifiques</td>
+    <td>Sécurité directe des entreprises ou des zones spécifiques</td>
     <td>Influence significative sur la sécurité</td>
   </tr>
   <tr>
@@ -273,7 +273,8 @@ Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse per
 * Il est autorisé d'avoir deux  emplois maximum  responsable ou employé ou bénévole pour les entreprises.
 * Les associations, clubs sont  exclus et peuvent faire appel à des bénévoles.
 * Posséder des parts et être seulement actionnaire ne compte pas comme un emploi.
-* Les mandats électifs sauf “Lieutenant-Gouverneur” comptent comme un emploi.
+* Les mandats électifs (Gouverneur, Lieutenant Gouverneur, Procureur Général) comptent comme un emploi.
+  - Durant leur mandat, ils ne peuvent pas exercer d'autres activités professionnelles et doivent se mettre en retrait de leurs éventuels emplois ou entreprises pendant toute la durée de leur mandat.
 * La profession d'avocat peut être effectuée en plus de deux autres emplois.
 
 > [!NOTE]
@@ -547,7 +548,9 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 
 ### Système de testament
 
-Chaque testament, pour être valide, devra être signé par un Procureur ou un Juge. Le Bureau du Procureur se charge de l'archivage des testaments et transmet les testaments après le décès de la personne.
+Le Bureau du Procureur se charge de l'archivage des testaments et transmet les testaments après le décès de la personne à l'executeur testamentaire.
+
+**L'archivage vaut validation.**
 
 <table>
   <tr>
@@ -669,6 +672,11 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 * Il est interdit de stocker plus de 5000 unités d'argent liquide ou de valeur équivalente en jetons de casino dans des véhicules stockés dans des garages.
 > [!NOTE]
 > Cette règle vise à empêcher toute accumulation excessive d'argent inaccessible.
+
+### Bancs de puissance
+* L'installation d'un banc de puissance coute **25 000$ par unité**, la somme est à reverser au compte PNJ.
+* L'installation de bancs est réservée uniquement aux garages mécaniques, aux entreprises de préparation automobile et aux clubs ou associations liés aux véhicules.
+
 
 
 {docsify-updated}
