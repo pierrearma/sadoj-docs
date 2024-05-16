@@ -267,7 +267,7 @@ Les organisations auront désormais la possibilité d'avoir jusqu'à trois faux 
 La création d’organisation dark se fait sur dossier, avec deux types disponibles :
 
 * Les organisations dites classiques nécessitent un minimum de cinq personnes et un maximum de dix. 
-* Les organisations dites Cartels, elles doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins huit joueurs actifs et soumettre une demande détaillée au groupe Dark.
+* Les organisations appelées Cartels doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins huit joueurs actifs et au maximum de dix, et soumettre une demande détaillée au groupe Dark.
 
 Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
 
