@@ -85,7 +85,7 @@
 * Il est interdit de se déplacer constamment en sprintant, pareil en vélo.
 * Le carkill, qui consiste à écraser volontairement quelqu’un sans raison valable, est strictement interdit.
 * Le Numéro VIN du véhicule ce trouve en haut du tableau de bord coté conducteur (facilement visible par le pare-brise).
-* La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d’important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute).
+* La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d’important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute) y compris les voies ferrées.
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
 * Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
 
