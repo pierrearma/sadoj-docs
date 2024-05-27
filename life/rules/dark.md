@@ -285,6 +285,20 @@ Le prix de l’organisation est fixé à : 30k$ en liquide hors couts spécifiqu
 
 Les organisations doivent acheter les bâtiments dark en immo dark.
 
+## Les spécialisations
+
+Les spécialisations sont là pour ajouter du gameplay entre les différentes organisations et gangs, dans le but de favoriser les interactions entre joueurs et de ne pas laisser le contrôle à une seule et même organisation ou gang.
+Chaque organisation ou gang a la possibilité de choisir une spécialisation si celle-ci est libre.
+Plusieurs spécialisations seront disponibles en jeu :
+
+* Spécialisation pour le recel de véhicules : permet de revendre les véhicules avec une majoration de 35 % sur leur prix de vente et réduit le délai de revente.
+* Spécialisation pour la vente d'armes lourdes : offre une réduction de 50 % sur le prix d'achat des armes lourdes (réservée uniquement au cartel).
+* Spécialisation pour la vente d'armes classiques : réduit de 50 % le prix des armes classiques (réservée uniquement aux gangs ou organisations).
+* Spécialisation pour la vente de drogue par le cartel : permet d'acheter deux drogues avec une réduction de 20 % et augmente les quotas d’achats (100 pour la weed, 75 pour la meth, 50 pour l’ecstasy et 50 pour la cocaïne).
+* Spécialisation pour la vente de drogue : permet d'acheter la drogue avec une réduction de 10 % et augmente les quotas d’achats (100 pour la weed, 75 pour la meth, 50 pour l’ecstasy, et 50 pour la cocaïne).
+* Spécialisation pour la fabrication de faux papiers : accès au magasin PNJ pour la confection des faux papiers.
+* Spécialisation pour les braquages : accès au magasin PNJ avec l'ensemble des objets liés aux braquages à -50 %.
+
 > **Rédigé par le groupe dark pour la communauté.**
 >
 > Le groupe dark peut modifier librement ce règlement, mais la communauté peut imposer son désaccord par un vote communautaire.
