@@ -16,7 +16,8 @@
 
 ### Le dark
 
-Le dark est le fait d’organiser ses actes illégaux dans le but d’en tirer un bénéfice. Soit du pouvoir ou alors de l’argent de façon récurrente.
+Le dark est le fait d’organiser des actes illégaux dans le but d’en tirer un bénéfice ou non. Soit du pouvoir ou alors de l’argent de façon récurrente.
+En effectuant une des actions de cette liste non exhaustive, vous êtes considéré comme faisant du dark.
 
 * Vol de véhicule (que ce soit pour de la revente ou pour le garder)
 * Vol de carburant, trafic de carburant
