@@ -303,6 +303,9 @@ Dans tous les cas, le juge doit motiver sa décision au regard des éléments in
 
 **3.5.8.2** Le juge ne manquera pas, après l’annonce du verdict, de rappeler qu’une interjection est possible auprès de la Cour d’Appel ([Titre 5](#titre-5-motivation-des-dÉcisions-de-justice))
 
+**3.5.8.3**  Si une personne est condamnée à de la prison ferme, elle doit être transportée au pénitencier, même si elle a déjà purgé le temps en détention. Néanmoins, cela ne signifie pas qu'elle doit refaire sa peine complète.
+Au pénitencier, un délai administratif et logistique (5 UC minimum) est requis avant que la personne ne soit effectivement totalement libre.
+
 #### IX. Procès in absentia (par contumace)
 
 **3.5.9.1** Sauf disposition contraire du présent article, le défendeur dans une affaire de crime doit être personnellement présent au procès.
