@@ -259,7 +259,7 @@
       </td>
       <td style="text-align: center;">5</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Elkas, Azzox, Swarex, Spatial, TayKay</td>
+      <td style="text-align: center;">Elkas, Azzox, Spatial, TayKay</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
      <td style="text-align: center;">Groupe Justice (Life)</td>
@@ -285,11 +285,11 @@
           <li>Encadrer les référents dark (gestion blackmarket, vente immobilière dark, vente d’informations, etc .. via leur personnage fictif)</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Toxi</td>
-      <td style="text-align: center;"> Police : <br> Backdraft, Swarex, Mac <br><br> Dark : <br>Azzox, Toxi, Taykay, Doryann <br><br> Référents RP/HRP :<br>ToxiCorpTV</li>
+      <td style="text-align: center;">Police :<br>Dylan51, Thomas<br><br>Dark : <br>ToxiCorpTv, Taykay<br><br>Référents RP/HRP :<br>ToxiCorpTV</li>
       </td>
-      <td style="text-align: center;"> Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police <br><br><strong> 3 mois d'ancienneté dans la communauté
+      <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
     </tr>
     <tr>
@@ -369,7 +369,7 @@
       </td>
       <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Kuro, Azzox, Thomas</td>
+      <td style="text-align: center;">Théo, Kuro, Thomas, Mr.nunus</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Validation Véhicules</td>
@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Azzox, Taykay, Doryann, thracios</td>
+      <td style="text-align: center;">Mr.nunus, Mathys, Thracios, Taykay, Doryann, Guillaume</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
