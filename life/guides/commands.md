@@ -49,8 +49,9 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 - `VehicleIndicatorSystem <Left / Right / Warnig>` : Active les clignotants du véhicule.
 - `spotlight` : Active/désactive le spotlight du véhicule *(si équiper & config)*.
 - `spotlightaim <up / down / left / right>` : Permet de diriger le spotlight du véhicule.
-- `radar_remote` : Permet d'ouvrir le menu radar *(Uniquement accessible pour la police)*.
 - `als` : Active/désactive le système anti-lag d'un véhicule *(Seulement si installer sur le véhicule)*.
+- `radar_remote` : Permet d'ouvrir le menu radar *(Uniquement véhicule équipé)*.
+- `radar_bk_set_lock_speed` : Permet de régler la vitesse de verrouillage du radar `<numero>` *(multiple de 5)*.
 
 ## Autre
 
