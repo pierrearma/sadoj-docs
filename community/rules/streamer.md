@@ -53,7 +53,7 @@ Avoir un streamer qui pratique le power gaming ou, pire encore, le metagaming es
 
 ### Vote
 
-Si vous souhaitez streamer, vous **devez** demander en réunion l’avis à la communauté via un vote (**vote sur une semaine : OUI ; NON ; A REVOIR**), "avec comme support un stream ou une vidéo de test non répertoriée.
+Si vous souhaitez streamer, vous devez demander en réunion l’avis à la communauté via un vote (vote sur une semaine : OUI ; NON ; A REVOIR), avec comme support un stream ou une vidéo de test du serveur life US en non répertoriée.
 
 ### Révocation du droit
 
