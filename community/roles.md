@@ -221,9 +221,9 @@
           <li>Créer les liens pour les nouveaux membres qui demandent</li>
         </ul>
       </td>
-      <td style="text-align: center;">0 (1 max)</td>
-      <td style="text-align: center;">?</td>
-      <td style="text-align: center;">?</td>
+      <td style="text-align: center;">1 (1 max)</td>
+      <td style="text-align: center;">Romno</td>
+      <td style="text-align: center;">Romno</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
     <td style="text-align: center;">X (Twitter)</td>
