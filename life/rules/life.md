@@ -71,10 +71,13 @@
 * Le départ ou la mort d’un personnage se doit de respecter le règlement en vigueur. *(voir La mort Rôle Play- départ du personnage).*
 * Le changement de personnage est autorisé en cours d’une session de jeu.
 * Toute interaction entre vos personnages est interdite (physique, matériel, correspondance, pécuniaire) si elle vise à avantager un des deux personnages (partage d’une information, don d’argent etc.)
+  * Les sénateurs ne doivent pas influencer les votes seulement pour favoriser leur autre personnage. Ils peuvent voter blanc pour éviter de gros conflits d’intérêt entre leurs personnages.
 * Le second personnage a le droit de louer, acheter et vendre un bien immobilier sur le plan professionnel ou personnel.
 * L’avatar à le droit de prétendre à tous les emplois présent sur le serveur.
   * Exceptions :
     * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
+    * Il est interdit d'avoir deux personnages sénateurs.
+    * Il est interdit d'avoir un personnage sénateur et un autre gouverneur ou lieutenant-gouverneur.
     * Il est interdit d’avoir un personnage dans une organisation et un autre dans la police (tous services confondus).
     * Note: Il est autorisé d’avoir un personnage dans le domaine du dark (sans être dans une organisation) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
 
@@ -144,6 +147,7 @@
   * Annonce d’évènement (audience, course, soirée publique, …).
 * Il est interdit d’acheter un véhicule destiné à une société si vous ne faites pas partie de la société et/ou si le patron n’a pas donné son accord. De même, il est interdit d’acheter un véhicule destiné au service public (police, médecins, pompiers, etc.) si vous ne faites pas partie du service et/ou si le chef n’a pas donné son accord.
 * La communauté n'a pas le pouvoir de modifier le code pénal (document RP). Seul le groupe justice peut y apporter des modifications. Le groupe justice conserve le droit de solliciter l'avis de la communauté pour une modification importante.
+* Une ancienneté de 1 mois est nécessaire dans la communauté pour être sénateur.
 
 > Le règlement de la communauté pour et par la communauté.
 
