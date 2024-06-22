@@ -54,15 +54,15 @@ Cependant, cet interrogatoire peut-être réalisé sans la présence du procureu
 
 À la suite de l’entretien préliminaire, tu te retrouves à la croisée des chemins, avec trois choix qui s’offrent à toi. C’est un peu comme être à l’orée d’une forêt dense, avec chaque sentier promettant son lot d’aventures et de défis. Voici tes options : proposer un accord, ouvrir une enquête et aller au procès, ou, si les éléments initiaux sont peu probants, annuler l’affaire et la classer sans suite.
 
-1. #### Proposer un accord
+#### 1. Proposer un accord
 
 Si tu choisis cette voie, tu endosses le rôle du négociateur habile. L’avantage ici, surtout si le suspect reconnaît les faits, est la rapidité du processus : une soirée de discussions et l’affaire est pliée, comme un tour de magie bien exécuté. C’est un peu comme conclure une partie de poker avec une main gagnante dès le premier tour. Tout le monde gagne du temps, et la justice est rendue efficacement.
 
-2. #### Ouvrir une enquête et aller au procès
+#### 2. Ouvrir une enquête et aller au procès
 
 Si le suspect ne reconnaît pas les faits ou si les faits sont graves, ouvrir une enquête et aller au procès devient la meilleure option. C’est ici que tu te transformes en un intrépide détective, explorant chaque recoin sombre de l’affaire. Le procès est mieux vu dans ces cas, offrant une scène épique où la vérité doit triompher. Cette voie est un marathon judiciaire, où chaque détail compte, chaque témoignage est crucial.
 
-3. #### Annuler l’affaire et la classer sans suite
+#### 3. Annuler l’affaire et la classer sans suite
 
 Cependant, si les éléments initiaux sont peu probants, tu as toujours la possibilité d’annuler l’affaire et de la classer sans suite. C’est comme décider de plier le jeu avant même de commencer une partie qui semble perdue d’avance. Parfois, la sagesse réside dans la reconnaissance qu’il n’y a pas assez de cartes pour continuer.
 
