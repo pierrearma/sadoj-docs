@@ -423,7 +423,7 @@
       <td style="text-align: center;">Roni</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
-    <td style="text-align: center;">Validation des backgrounds</td>
+    <td style="text-align: center;">Validation des backgrounds</td> 
       <td>
       <ul>
          <li> Valider la cohérence d'un background pour les nouveaux personnages (anciens et nouveaux membres) </li>
@@ -432,9 +432,9 @@
          <li>  Garder une trace des backgrounds des joueurs</li>
         </ul>
       </td>
-      <td style="text-align: center;">3 (4 souhaité)</td>
+      <td style="text-align: center;">4 (4 souhaité)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Dylan51, Doryann, Mac</td>
+      <td style="text-align: center;">Dylan51, Doryann, Mac, Valdum</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Groupe Aviation (life)</td>
