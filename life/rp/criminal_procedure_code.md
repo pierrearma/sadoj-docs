@@ -126,8 +126,10 @@ La mise en état d'arrestation se fait dans un délai raisonnable après la nais
 
 **3.1.4** Si les droits mentionnés aux articles 3.1.1 et 3.1.2 n’ont pas été cités lors de l’arrestation, toutes les paroles et tous les éléments recueillis ne pourront pas être utilisés. L’usage de toute élément recueilli en-dehors de la procédure indiquée ci-avant constitue un vice de procédure.
 
-**3.1.5** En l’absence de procureur ; en cas de crime, le suspect mis en état d'arrestation peut être retenu au poste de police pour une durée maximale de 24h. En cas de délit, le suspect ne peut être retenu qu’une heure.
-Dans le cas où aucun procureur ou juge ne serait disponible, le suspect doit être remis en liberté **avec paiement d'une caution** et une obligation de se présenter au poste de police lorsqu’un procureur sera disponible (le suspect sera averti par les autorités). En cas de manquement à la convocation, un mandat d’arrêt pourra être demandé. La police informera sur place le prévenu de la décision du procureur (engagement de poursuites ou renonciation).
+**3.1.5** En cas de crime, le suspect mis en état d'arrestation peut être retenu au poste de police pour une **durée maximale de 24 heures**. En cas de délit, le suspect ne peut être retenu **qu’une heure**. Le suspect doit être remis en liberté avec paiement d'une caution et une obligation de se présenter aux convocations. En cas de manquement à la convocation, un mandat d’arrêt pourra être demandé.
+
+Si la personne **refuse la caution**, le procureur peut demander une mise sous bracelet électronique pour **une durée maximale d'une semaine**.
+Le prolongement du port du bracelet doit être validée par une cour de justice. La signature d'un accord, un jugement entraine le retrait du bracelet électronique, la restauration de la caution.
 
 Pour le montant de la caution est elle est fixée par défaut à **deux fois la peine financière encourue.**
 
