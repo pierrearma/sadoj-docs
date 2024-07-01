@@ -90,7 +90,7 @@ La Cour suprême de San Andreas a le pouvoir de revoir et de juger la constituti
 
 ### Chapitre 4. Le Barreau de San Andreas
 
-**1.4.1** Le Barreau de San Andreas est une instance judiciaire chargée d’enregistrer l’ensemble des avocats professionnels exerçant dans l’État et leur délivrer leurs licences. Seule une inscription officielle, c’est-à-dire entérinée par le Gouverneur, valide l’intégration au Barreau du candidat.
+**1.4.1** Le Barreau de San Andreas est une instance judiciaire chargée d’enregistrer l’ensemble des avocats professionnels exerçant dans l’État et leur délivrer leurs licences. Seule une inscription officielle valide l’intégration au Barreau du candidat.
 
 **1.4.2** L’avocat, dès lors qu’il est lié à un client par contrat, s’engage à défendre celui-ci en prouvant son innocence au regard des faits annoncés par le Ministère Public ; ou, dans le cas où le prévenu plaiderait coupable, l’avocat a pour objectif la disculpation de son client de tout autre infraction qui pourrait être ajoutée à la peine pour laquelle le prévenu se serait déclaré non coupable.
 
