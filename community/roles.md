@@ -367,9 +367,9 @@
           <li>Personnes touchant au mapping</li>
         </ul>
       </td>
-      <td style="text-align: center;">4 (7 voulu)</td>
+      <td style="text-align: center;">5 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Kuro, Thomas, Mr.nunus</td>
+      <td style="text-align: center;">Théo, Kuro, Thomas, Mr.nunus, Wrc</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Validation Véhicules</td>
