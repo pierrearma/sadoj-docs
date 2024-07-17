@@ -33,10 +33,129 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ### Pour l’immobilier
 
-#### Achat de bien, de terrain
-* L'achat d'un bien qui n'appartient à aucun particulier ou entreprise doit passer par un intermédiaire en immobilier, qui doit obtenir l'accord du gouvernement. Dans ce cas précis, **le gouvernement représente le PNJ (personnage non joueur) qui vendrait le terrain ou les biens ou qui refuserait.**
-* Les demandes des agences immobilières sont **anonymes** mais peuvent faire l'objet de demandes de justification (projet, etc).
-* Afin d'avoir une vue sur les différentes demandes et pouvoir réagir en conséquence, **les économistes ont accès aux demandes.**
+#### Notaire PNJ
+
+Il est constitué des économistes, son rôle consiste à :
+- Donner la valeur d’un bien sur le marché
+- Vérifier la disponibilité d’un bien sur le marché
+- Saisir des biens abandonnés ou inutilisés
+- Prend les déclarations de locataire
+- Prend les déclarations de changement de propriétaire
+- Faire le changement de propriétaire pour une vente directe
+- Traite les demandes de justice concernant l’immobilier
+
+
+#### Pour les investisseurs
+Il n'y a pas de limite de bien d’investissement. Mais le notaire sera attentif à l’utilisation des biens
+Voici la règle :
+
+L’usage d’un bien immobilier avec intérieur non duplicable se doit d’être justifié à la demande des économistes afin d’éviter tout blocage d’un bien dans lequel du rôle play pourrait se développer. Dans le cas où l'usage n’est pas justifié (vote interne des économistes après réception des éléments), le bien doit être remis sur le marché de la vente ou de la location. Le joueur locataire ou propriétaire (celui qui l’utilise) ou gérant de l’entreprise (dans le cas d’un bien occupé par une entreprise) possède un droit de recours avec un vote communautaire
+
+#### Agences immobilières
+Limité à deux entreprises maximum
+Les frais d’agence sont des frais minimum, elles peuvent prendre des commissions plus importantes selon les biens. Pas de réduction possible sur les frais minimums.
+
+
+#### Achat, location de bien, de terrain
+Un bien peut être vendu de 80% à 130% de sa valeur de base **SAUF pour les enchères.**
+Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Données de Vente et Location Immobilière</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #d3d3d3;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Type de Transaction</th>
+                <th>Description</th>
+                <th>Frais/Commissions</th>
+                <th>Remarques</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Vente de bien entre joueurs (particuliers)</td>
+                <td>Passer par le notaire pour déclarer le changement de propriétaire</td>
+                <td>25% du prix de vente à la charge de l’acheteur</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Vente de bien entre joueurs (particuliers)</td>
+                <td>Passer par une agence immo pour le changement de propriétaire (travail administratif de l’agence)</td>
+                <td>10% du prix de vente à la charge de l’acheteur facturé par l’agence</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Vente d’un bien en passant par l’agence (obligatoire pour entreprises ou banques)</td>
+                <td>Gestion de la vente, visites, négociation de l’agence</td>
+                <td>Commission de 15% frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Achat d’un bien PNJ</td>
+                <td>Obligation de passer par une agence, gestion de la vente, visites, négociation de l’agence</td>
+                <td>Commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+                <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce)</td>
+            </tr>
+            <tr>
+                <td>Vente d’un bien au PNJ</td>
+                <td>Obligation de passer par une agence, gestion de la vente auprès du notaire</td>
+                <td>Revente du bien à 115% de sa valeur de base sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Location de biens (particuliers)</td>
+                <td>Les particuliers peuvent louer leur bien eux-mêmes mais doivent faire une déclaration obligatoire auprès du notaire</td>
+                <td>Frais de dossier 5000$</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Location de biens par l’agence (obligatoire pour entreprises ou banques)</td>
+                <td>Gestion de la location, commission de l’agence</td>
+                <td>Commission de 20% du prix de la location (loyer +20%) à la charge du locataire, frais de notaire inclus</td>
+                <td>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
+            </tr>
+            <tr>
+                <td>Location avec option d’achat immo (LOA Immobilier)</td>
+                <td>Réservé agence immo, bien appartenant à une agence immo qui gère la LOA</td>
+                <td>Apport de 10% du prix de vente versé à l’agence propriétaire, loyer de base calculé sur le prix de vente - l’apport</td>
+                <td>Le client peut acheter le bien à partir de 3 mois (12 semaines de location), au prix de vente - les loyers versés, durée de la LOA : 1 an maximum (52 semaines), indemnité de compensation 5% du prix de vente si non achat</td>
+            </tr>
+            <tr>
+                <td>Vente aux enchères immobilières (PNJ)</td>
+                <td>Biens saisis par le notaire, obligation de passer par une agence immobilière</td>
+                <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+                <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce), seules les entreprises et les banques peuvent participer aux enchères, pas de limite de prix de vente</td>
+            </tr>
+            <tr>
+                <td>Vente aux enchères immobilières (non PNJ)</td>
+                <td>Obligation de passer par une agence immobilière</td>
+                <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+                <td>Prix de vente payé au propriétaire, pas de limite de prix de vente</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 ### Calcul de la valeur
 
@@ -52,7 +171,7 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
   </tr>
   <tr>
     <td style="text-align: center;">Achat/Vente</td>
-    <td>Les prix libres entre joueurs, <strong>entre 80% et 120% </strong> pour la revente. <br>Pour une revente aux PNJ, le taux est 100%.</td>
+    <td>Les prix libres entre joueurs, <strong>entre 80% et 120% </strong> pour la revente. <br>Pour une revente aux PNJ, le taux est 100%.<br> Ne concerne pas les enchères</td>
     <td>Un bien d'une valeur de 200 000 dollars peut être revendu entre 160 000 et 240 000 dollars.</td>
   </tr>
   <tr>
