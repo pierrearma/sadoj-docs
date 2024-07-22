@@ -452,6 +452,17 @@
       <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios, FlyHight</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
+         <td style="text-align: center;">Groupe Politique</td>
+      <td>
+      <ul>
+          <li> Gérer le RP politique </li>
+          <li> Veiller au bon fonctionnement des systèmes politiques RP (gouvernement, Sénat…)</li>
+        </ul>
+      </td>
+      <td style="text-align: center;">Variable</td>
+      <td style="text-align: center;">A définir</td>
+      <td style="text-align: center;">Estéban, Guillaume, wrc, Théo, Urdom, Thomyboy + 1 membre à élire en interne après</td>
+      <td style="text-align: center;">Gouverneur, Lieutnant Gouverneur en fonction, anciens gouverneurs volontaires (sous forme de conseiller PNJ), 1 membre extérieur élu par les autres membres du groupe</td>
   </tbody>
 </table>
 
