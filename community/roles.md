@@ -312,9 +312,9 @@
           <li>Répond aux interrogations des joueurs </li>
         </ul>
       </td>
-      <td style="text-align: center;">2</td>
-      <td style="text-align: center;">Max82 (SanFire)</td>
-      <td style="text-align: center;">Max82 (SanFire)</td>
+      <td style="text-align: center;">1</td>
+      <td style="text-align: center;">Clem0233 (SanFire)</td>
+      <td style="text-align: center;">Clem0233 (SanFire)</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Medical (Life)</td>
