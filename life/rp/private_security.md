@@ -98,13 +98,14 @@
   crime ou délit.
 
 
-## VII - Propriété des fichiers de vidéosurveillance
+## VII - Vidéosurveillance
 
 - Les fichiers de vidéosurveillances doivent être stockés dans les locaux de la société de télésurveillances.
 - Les fichiers de vidéosurveillances sont la propriété du client de la société de télésurveillances.
 - Les fichiers de vidéosurveillances peuvent être présentés aux services de polices:
     - Sur autorisation écrites du propriétaire des fichiers de vidéosurveillances,
     - Sur présentation d'un mandat de perquisition valide.
+- La durée de conservation des fichiers est de 6 semaines pour des raisons techniques.
 
 
 ## VIII - Priorité Partielle
