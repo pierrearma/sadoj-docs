@@ -43,8 +43,11 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
 * Tout le monde a droit à la parole (il faut lever la main dans le chat).
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
 * Il n’est pas obligatoire d’assister aux réunions, mais c’est toutefois conseillé afin d’être au mieux informé des nouveautés.
-* Tout sujet peut être traité sans son auteur à la condition qu'une mention ***"peut être traité en mon absence"*** soit ajoutée. Exception est faite pour les sujets suivants ou les auteurs devront être obligatoirement présent : Retour dans la communauté, vote sanction, droit de stream.
-Un sujet, s'il est trop complexe pour être traité en l'absence de l'auteur (trop de questions, sujet peu clair malgré des explications écrite) peut être reporté après un sondage durant la réunion à la demande d'un membre ou à l'initiative d'un animateur de réunion.
+* Tout sujet peut être traité sans son auteur à la condition qu'une mention ***"peut être traité en mon absence"*** soit ajoutée. Exceptions:
+  *  Retour dans la communauté.
+  *  Demande de sanction.
+  *  Demande de droit de stream.
+* Un sujet, s'il est trop complexe pour être traité en l'absence de l'auteur (trop de questions, sujet peu clair malgré des explications écrite) peut être reporté après un sondage durant la réunion à la demande d'un membre ou à l'initiative d'un animateur de réunion.
 * Tout sujet de réunion contenant un vote devra être soumis à un support d’explication / d’argumentation (support au choix: directement dans le sujet, vidéo, texte, diaporama, etc…) accessible à tous les membres **dès son dépôt**.
   * Il est cependant **conseillé** de soumettre un support d’explication / d’argumentation pour tout sujet.
 * Tout sujet contenant un vote devra être déposé au maximum 24 heures avant la réunion. Dans le cas contraire, le sujet est reporté.
