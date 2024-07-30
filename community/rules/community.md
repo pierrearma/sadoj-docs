@@ -43,8 +43,9 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
 * Tout le monde a droit à la parole (il faut lever la main dans le chat).
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
 * Il n’est pas obligatoire d’assister aux réunions, mais c’est toutefois conseillé afin d’être au mieux informé des nouveautés.
-* Tout sujet de réunion contenant un vote devra être soumis à un support d’explication / d’argumentation (support au choix: directement dans le sujet, vidéo, texte, diaporama, etc…) accessible à tous les membres **dès son dépôt**. En réunion, tout sujet n'ayant pas été assez travaillé et nécessitant une revue par la personne ayant déposée le sujet peut être suspendu par l'animateur en charge de la réunion après concertation avec la personne ayant déposée le sujet. Ce sujet pourra être redébattu et voté ultérieurement pendant la réunion ou à la réunion suivante.
+* Tout sujet de réunion contenant un vote devra être soumis à un support d’explication / d’argumentation (support au choix: directement dans le sujet, vidéo, texte, diaporama, etc…) accessible à tous les membres **dès son dépôt**.
   * Il est cependant **conseillé** de soumettre un support d’explication / d’argumentation pour tout sujet.
+* Tout sujet n'ayant pas été assez travaillé et nécessitant une revue par la personne ayant déposée le sujet peut être suspendu par l'animateur en charge de la réunion après concertation avec la personne ayant déposée le sujet. Ce sujet pourra être redébattu et voté ultérieurement pendant la réunion ou à la réunion suivante.
 * Tout sujet contenant un vote devra être déposé au maximum 24 heures avant la réunion. Dans le cas contraire, le sujet est reporté.
 * Il est possible de modifier ou supprimer son sujet de réunion en passant par un animateur de réunion.
 * Il est possible d’ajouter une remarque, un avis concernant un sujet de réunion en passant par un formulaire *(par exemple si vous souhaitez donner un avis sur un sujet alors que vous serez absent de la réunion)*.
