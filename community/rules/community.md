@@ -32,6 +32,7 @@
 * Un membre ayant une absence prolongée ne peut pas avoir un rôle dans la communauté (recruteur, groupe économiste, groupe justice, groupe dark, …) et ne peut pas être PDG d’une entreprise ou occuper tout autre rôle important en RP (gouverneur, chef d’un service public, procureur, juge, …). Si le membre ne se retire pas de sa propre initiative, la communauté lui retirera son rôle.
 * Tout membre qui quitte la communauté alors qu’une procédure de médiation ou une procédure de sanction est en cours ne pourra pas réintégrer la communauté (prend effet dès la réception du message d’un médiateur).
 * Tous les 4 mois, lors de la première réunion du mois concerné, la communauté doit voter pour les nouveaux membres faisant partie de la médiation (les membres déjà dans le groupe peuvent postuler). Le sujet doit être créé lors de la réunion précédente et la collecte des volontaires se fait la semaine précédant le vote.
+* Toute règle, même votée, ne peut être mise en application si elle n’est pas publiée dans l'un des règlements.
 
 ## Réunion
 
