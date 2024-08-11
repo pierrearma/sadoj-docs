@@ -245,9 +245,9 @@
           <li>Community manager</li>
         </ul>
       </td>
-      <td style="text-align: center;">3</td>
-      <td style="text-align: center;">Raxcet</td>
-      <td style="text-align: center;">Raxcet, Taykay, Klugos</td>
+      <td style="text-align: center;">2</td>
+      <td style="text-align: center;">Aucun</td>
+      <td style="text-align: center;">Taykay, Klugos</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Instagram</td>
@@ -257,9 +257,9 @@
           <li>Community manager</li>
         </ul>
       </td>
-      <td style="text-align: center;">5</td>
+      <td style="text-align: center;">2</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Elkas, Azzox, Spatial, TayKay</td>
+      <td style="text-align: center;">TayKay, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
      <td style="text-align: center;">Groupe Justice (Life)</td>
