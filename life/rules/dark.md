@@ -137,6 +137,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Le receleur achète à prix cassé les véhicules PNJ qui n’ont pas été crocheté. Jouez le jeux et crochetez les véhicules que vous volez.
 * Si vous êtes dans une organisation ou un gang, vous avez la possibilité de mettre un véhicule au faux nom de votre organisation pour que l’ensemble des membre de l’organisation puisse avoir les clés. Pour ce faire, le véhicule doit vous appartenir.
 * Le vol de véhicule joueur doit se faire obligatoirement avec un témoin, qu’il soit à proximité ou non tant qu’une personne hors du groupe de voleurs peut voir le vol. Les vols de véhicules joueurs sans personne autour sont interdits. Dans le cas où cela se produit, le véhicule sera restitué au joueur et si le véhicule a été vendu, l’argent sera retiré au voleur.
+*  Il est possible de voler un véhicule à la suite du cambriolage de la propriété.
 * Le vol de contenu d'un véhicule joueur peut se faire sans interaction.
 * Il est interdit d’utiliser l’option dans le F7 d’entreprise pour crocheter des véhicules volés. Utilisez les outils de crochetage vendu en magasin de bricolage.
 * Si une entreprise ou un particulier subit plus de 1 vol de véhicule dans la semaine le véhicule sera restitué sans contrepartie et l’argent sera retiré au voleur **que dans le cas où** il était l’auteur du vol précédent (lui ou un membre de son organisation).
