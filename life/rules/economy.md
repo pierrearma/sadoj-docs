@@ -335,15 +335,19 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
       <th>Revenu</th>
     </tr>
     <tr>
-      <td>Tweet du jour</td>
-      <td>5$/impression</td>
+      <td>Post Birdy</td>
+      <td>500$/post (maximum 10 posts rémunérés sur une semaine)</td>
     </tr>
     <tr>
-      <td>Tweet enrichi <i>(petite vidéo sans travail journalistique)<i></td>
+      <td>Tweet sur X</td>
+      <td>15$/impression</td>
+    </tr>
+    <tr>
+      <td>Tweet sur X enrichi <i>(petite vidéo sans travail journalistique)<i></td>
       <td>20$/impression</td>
     </tr>
     <tr>
-      <td>Tweet article <i>(travaillé)<i></td>
+      <td>Tweet avec article sur X <i>(travaillé)<i></td>
       <td>100$/impression</td>
     </tr>
     <tr>
