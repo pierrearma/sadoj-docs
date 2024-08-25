@@ -49,18 +49,37 @@
 
 ## La mort Rôle-Play / départ du personnage
 
-* **Situation 1:** Chaque joueur peut demander le départ ou la mort de son personnage si son personnage possède une ancienneté (création) **d’au moins 3 mois**. Ceci est validé ou non par un vote de la communauté (en réunion le dimanche).
-* **Situation 2:** Les situations accidentelles (indépendantes de la volonté du joueur) pouvant entraîner la mort d’un personnage.
-  * Le joueur a deux choix:
-    * soit son accident conduit à des blessures et il va à l’hôpital.
-    * soit il demande sa mort **R**ôle-**P**lay à la communauté.
-  * Un vote (le jour même ou lendemain afin de ne pas pénaliser le membre) sera effectué par la communauté pour décider de la mort **R**ôle-**P**lay du personnage.
-    * En cas de vote négatif, le joueur sort de l’hôpital et continue sa vie.
-    * En cas de vote positif, le joueur refait un personnage.
-* **Situation 3:** [La mort RP Dark](life/rules/dark.md?id=mort-rp-dark).
-* **Situation 4:** [La mort RP Justice](life/rules/perpetuity.md).
+### Situation 1 : Départ ou mort volontaire
+
+**Chaque joueur peut demander le départ ou la mort de son personnage à la communauté à n'importe quel moment.**
+
+La procédure est la suivante :
+1. **Le joueur rédige ses motivations RP et HRP.** Il explique notamment pourquoi il souhaite la mort ou le départ de son personnage. La communication d'informations RP doit être réduite au strict minimum et se limiter à l'explication des motivations.
+2. **Le joueur contacte un animateur de réunion en lui fournissant ses motivations.** Si le demandeur est un animateur de réunion, il ne peut pas traiter lui-même sa demande.
+3. L'animateur est en charge de collecter les informations suivantes :
+   1. **Une procédure de mort "dark" est-elle en cours de traitement ?** Si oui, l'avis du groupe "Dark" doit obligatoirement y figurer (favorable / défavorable / sans avis).
+   2. **Une procédure de mort "justice" est-elle en cours de traitement ?** Si oui, l'avis du groupe "Justice" doit obligatoirement y figurer (favorable / défavorable / sans avis).
+   3. **Une procédure judiciaire est-elle en cours ?** Si oui, l'avis du groupe "Justice" doit obligatoirement y figurer (favorable / défavorable / sans avis).
+   4. **Une enquête de police est-elle en cours ?** Si oui, les joueurs concernés peuvent, sur la base du volontariat, donner leur avis.
+4. **L'animateur crée le vote** et diffuse, sur la même page, les motivations et les informations collectées. Il y inscrit également la date de création du personnage. **Le vote doit durer 24h00** à compter de la publication de l'annonce de l'étape suivante.
+5. **L'animateur prévient la communauté** de la création du vote dans #messages_membres en mentionnant @everyone.
+
+Dans le cas où la mort ou le départ est accepté, **le joueur dispose d'un délai de 30 jours à compter de la clôture du vote pour faire valoir sa demande**. Si le joueur continue à jouer avec son personnage au-delà de ce délai, la demande devient caduque (hors évènement de son propre enterrement).
+
+**L'animateur de réunion est dans le devoir de s'assurer du mieux possible que toute demande respecte le règlement**, notamment en ce qui concerne des situations telles que les morts utilisées pour fuir des scènes RP, les morts incohérentes avec le RP, ou le non-respect du fair-play. Si, après vérification, il estime que la demande ne respecte pas ces critères ou d'autres aspects du règlement, **il doit obligatoirement la soumettre à un traitement en réunion**. Une fois cette procédure enclenchée, les autres animateurs de réunion ne peuvent évidemment pas traiter la demande.
+
+### Situation 2 : Mort Rôle-Play Dark
+
+Voir [ce document](life/rules/dark.md?id=mort-rp-dark).
+
+### Situation 3 : Mort Rôle-Play Justice
+
+Voir [ce document](life/rules/perpetuity.md).
+
+### Autre
+
 * Cas des joueurs en stream : pour suivre une “logique” dans leur perso et respecter le vote de la communauté, ces personnes devront figer l’action et ne pas déclarer eux-mêmes une mort **R**ôle-**P**lay.
-* Autre situation : Si quelqu’un veut se suicider, sa mort **R**ôle-**P**lay devra être votée par la communauté. **(Situation 1)**
+* Si quelqu’un veut suicider son personnage, sa mort **R**ôle-**P**lay devra être votée par la communauté. **(Situation 1)**
 * Imposer sa mort **R**ôle-**P**lay au ne pas respecter les nouvelles règles aboutira à un vote sanction pour respecter le vote de la communauté et le **R**ôle-**P**lay des autres joueurs.
 * Il faut faire attention de ne pas annoncer une mort de manière prématurée (en attente du résultat du vote par exemple). Les termes d’état très inquiétant, mort cérébrale sont possibles afin de faire comprendre les différents acteurs.
 
