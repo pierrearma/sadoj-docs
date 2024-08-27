@@ -302,7 +302,7 @@
       </td>
       <td style="text-align: center;">3</td>
       <td style="text-align: center;">Guillaume SAHP <br> Dylan51 LSPDS <br> Parale BCSO</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Dylan51 LSPDS <br>Parale BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Dylan51 LSPDS <br> Parale BCSO</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Pompier (Life)</td>
@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Mr.nunus, Mathys, Thracios, Taykay, Doryann, Guillaume</td>
+      <td style="text-align: center;">Mr.nunus, Mathys, Thracios, Doryann, Guillaume, lhomme1515, FlyHight</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
