@@ -801,6 +801,8 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 * L'installation d'un banc de puissance coute **25 000$ par unité**, la somme est à reverser au compte PNJ.
 * L'installation de bancs est réservée uniquement aux garages mécaniques, aux entreprises de préparation automobile et aux clubs ou associations liés aux véhicules.
 
+### Retrait volontaire de tatouage
+* Le retrait de un ou plusieurs tatouages est facturé 2000 dollars par tatouage (voté en 2020).
 
 
 {docsify-updated}
