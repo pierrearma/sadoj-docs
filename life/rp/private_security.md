@@ -80,13 +80,13 @@
 
 ## VI - Armement
 
-- Les effectifs clairement identifiables comme étant des membres d’une entreprise de sécurité en service de patrouille ont 
+- Les effectifs clairement identifiables comme étant des membres d’une entreprise de sécurité en service de patrouille ont
   l’autorisation de porter de manière visible leurs armes de service.
   L’armement autorisé pour les employés de société de sécurité sont:
     - les pistolet automatiques,
     - les pistolet semi automatiques,
     - Les revolvers.
-- Les effectifs clairement identifiables comme étant des membres d’une entreprise de sécurité ont l’autorisation de porter     de manière visible en cas de menace pouvant mettre en danger l'employé de sécurité ou les personnes alentours leurs 
+- Les effectifs clairement identifiables comme étant des membres d’une entreprise de sécurité ont l’autorisation de porter de manière visible lors d’opérations de transport de fonds, en cas de menace pouvant mettre en danger l'employé de sécurité ou les personnes alentours leurs
   armes de services.
   L’armement autorisé dans ce genres de situations sont:
     - les pistolet automatiques,
@@ -94,7 +94,7 @@
     - Les revolvers,
     - Les carabines,
     - Les fusils à pompe.
-- Les agents de sécurité ne doivent pas utiliser leurs armes de service afin d’intimider une personne n’ayant commis aucun 
+- Les agents de sécurité ne doivent pas utiliser leurs armes de service afin d’intimider une personne n’ayant commis aucun
   crime ou délit.
 
 
@@ -110,18 +110,19 @@
 
 ## VIII - Priorité Partielle
 
-- Une autorisation est donnée à toute entreprise ayant une autorisation de priorité partiel, d’installer un avertisseur 
-  sonore (sirène) sur les véhicules de son société.
-- Une priorité partielle offres et incombe les règles suivantes :
-  Une limitation de vitesse exceptionnelle en agglomération peut être accordée par le gouvernement. Elle ne peut pas 
-  excéder les 20 MPH au-dessus de la réglementation en vigueur.
-- Franchissement des feux de circulation au rouge à vitesse réduite.
-- Franchissement des panneaux d'indication STOP sans arrêt, à vitesse réduite.
-- Franchissement d’une double doubles ligne jaune.
+- Une entreprise disposant d'une autorisation de priorité partielle est habilitée à équiper ses véhicules d'avertisseurs sonores (sirènes) et lumineux (gyrophares). Cette autorisation de priorité partielle comporte les règles suivantes :
+- Une limitation de vitesse exceptionnelle peut être accordée par le gouvernement, ne pouvant excéder 20 MPH au-dessus de la réglementation en vigueur.
+- Les manœuvres de facilitation de passage sont permises à condition d'utiliser les avertisseurs sonores et lumineux. Sont entendues comme de telles manœuvres :
+ - La circulation sur les bandes d'arrêt d'urgence autoroutières, à condition de garder une allure adaptée. 
+ - Le dépassement par la gauche de tout véhicule stationné à un feu de circulation au rouge, à condition que le trafic en sens opposé le permette.
+- Le franchissement des feux de circulation au rouge est autorisé à vitesse réduite.
+- Le franchissement des panneaux STOP est permis sans arrêt, à vitesse réduite.
+- Le franchissement d'une double ligne jaune est autorisé, à vitesse réduite.
 - Une justification de la destination est obligatoire en cas de contrôle.
-- Le signalement par avertisseur lumineux et sonore est obligatoire.
-- Valable uniquement dans le cadre d’interventions
-- Le responsable de l’entreprise, du service est garant de ses employés.
+- Cette autorisation est valable uniquement dans le cadre d'interventions (alarmes, situations dangereuses).
+- Le responsable de l’entreprise ou du service est garant des actions de ses employés.
+- Toute infraction contraire au règles susmentionnées est passible d’une suspension de l’autorisation de priorité partielle de toute l’entreprise et des amendes déjà prévues pour chaque infraction.
+
 
 
 ## IX - Règles d’intervention
