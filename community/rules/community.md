@@ -66,6 +66,7 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
   * Suppression du droit de stream
 * A une même réunion, il ne peut avoir plusieurs votes sanctions d’un même type de sanction d’un même membre. S’il y a plusieurs demandes du même type de sanction envers un membre, chaque sujet doit être discuté séparément mais la communauté décide de la sanction des multiples sujets sur un seul et même vote par type de sanction.
 * Les groupes de la communauté doivent faire un compte-rendu hebdomadaire.
+* Afin de lui permettre de faire des résumés de réunion, Weazley est autorisé à enregistrer l'intégralité des réunions.
 
 ## TeamSpeak & Discord
 
