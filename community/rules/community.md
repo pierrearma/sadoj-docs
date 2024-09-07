@@ -60,7 +60,6 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
 * Un animateur de réunion à la possibilité de déplacer / exclure du channel les membres ne respectant pas les règles de bonne conduite lors des réunions *(coupure de paroles, bruits intempestifs, insultes, mauvais comportement, etc…)*.
 * Les votes en réunion durent 1 semaine et se clôture au moment de l’ouverture de la prochaine réunion (le dimanche prochain à 21H). Les votes suivants se clôturent avant la fin de la réunion:
   * Vote sanction
-  * Mort RP
   * Demande de second personnage
   * Demande de retour dans la communauté
   * Suppression du droit de stream
