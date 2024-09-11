@@ -793,7 +793,7 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 
 ## Divers
 ### Stockage d'argent
-* Il est interdit de stocker plus de 5000 unités d'argent liquide ou de valeur équivalente en jetons de casino dans des véhicules stockés dans des garages.
+* Il est interdit de stocker plus de 5000 unités d'argent liquide ou de valeur équivalente en jetons de casino dans des véhicules stockés dans des garages et plus de 50000 unités d'argent liquide ou de valeur équivalente en jetons de casino  sur sa personne sur plus de deux  sessions de jeu.
 > [!NOTE]
 > Cette règle vise à empêcher toute accumulation excessive d'argent inaccessible.
 
@@ -804,5 +804,11 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 ### Retrait volontaire de tatouage
 * Le retrait de un ou plusieurs tatouages est facturé 2000 dollars par tatouage (voté en 2020).
 
+### Magasin joueur
+- Les entreprises, associations, clubs, bars,  sont tenues d'installer des magasins pour remplacer les magasins PNJ. Le point de vente devra être situé dans un intérieur.
+- Le coffre du magasin, où sera stocké l'argent, doit être accessible (tout en pouvant être sécurisé conformément aux règles en vigueur concernant la sécurité) et placé dans un local appartenant à l'entreprise ou à l'association, clubs, ou bar.
+- Le prix maximum d'un item est plafonné à 30 000 $.
+- Sont exclus la vente d'arme, le custom d'arme, de licence.
+- Le délai de mise en conformité est fixé à un mois à partir du 11/09/24
 
-{docsify-updated}
+{docsify-updated} 
