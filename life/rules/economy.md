@@ -214,6 +214,8 @@ Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
 
 - En cas de vol ou de destruction d'un véhicule, l'État peut indemniser le sinistré, se renseigner directement en RP.
 
+- Les camping car sont désormais disponible à l'achat dans toutes les concessions.
+
 #### Les délais de livraisons
 
 <!DOCTYPE html>
@@ -768,11 +770,10 @@ Une perte totale des gains voir plus pourra être demandée.
 
 ### Les joueurs inactifs
 
-Introduction d'une règle ou d'une procédure concernant les biens immobiliers et les véhicules "rares" appartenant à des joueurs considérés comme inactifs dans le jeu.
-Ces règles suivent les critères déjà présents dans le règlement communautaire.
+Introduction d'une règle ou d'une procédure concernant les biens immobiliers, les véhicules rares et les entreprises appartenant à des joueurs considérés comme inactifs dans le jeu. Ces règles suivent les critères déjà présents dans le règlement communautaire.
 
-* **Les biens immobiliers et les véhicules rares** des joueurs totalement inactifs ou ne répondant pas à un avertissement de perte de biens peuvent être saisis.
-* Les joueurs sont considérés inactifs s'ils sont absents du jeu depuis **au moins 3 mois.**
+* Les biens immobiliers, les véhicules rares et les entreprises des joueurs totalement inactifs ou ne répondant pas à un avertissement de perte de biens peuvent être saisis.
+* Les joueurs sont considérés inactifs s'ils sont absents du jeu depuis au moins 3 mois.
 * Les joueurs sont avertis une fois par message sur Discord pour comprendre les raisons de leur inactivité.
 
 Si la saisie est décidée
@@ -780,7 +781,7 @@ Si la saisie est décidée
 * Aucune indemnisation n'est accordée.
 * Si un crédit immobilier est en cours, il est soldé gratuitement par la banque.
 * La saisie est réalisée hors du contexte du jeu (en dehors du rôle-play).
-* Ensuite, les biens immobiliers sont  remis sur le marché immobilier, tandis que les véhicules sont vendus aux enchères.
+* Ensuite, les biens immobiliers sont remis sur le marché immobilier, les véhicules sont vendus aux enchères, et les entreprises sont également mises en vente ou attribuées à de nouveaux propriétaires.
 
 ## Les paiements de produits, de services
 
