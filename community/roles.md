@@ -233,9 +233,9 @@
           <li>Community manager</li>
         </ul>
       </td>
-      <td style="text-align: center;">2</td>
+      <td style="text-align: center;">1 (2 souhaité)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Guillaume</td>
+      <td style="text-align: center;">Pierre</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">TikTok</td>
