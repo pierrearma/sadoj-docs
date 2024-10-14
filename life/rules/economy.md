@@ -539,6 +539,9 @@ Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vent
 >[!ATTENTION]
 >**Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.**
 
+>[!ATTENTION]
+>**Les économistes peuvent forcer la fermeture d'une entreprise lors d'une mise en vente ou d'une mise en inactivité. Cela s'applique, mais sans s'y limiter, par exemple, si le secteur concerné devient trop saturé ou si l'entreprise est jugée inutile pour le serveur.**
+
 ### Le rachat d’entreprise
 
 L’acheteur devra payer selon la situation le capital de l’entreprise *(de 80% à 120% décidé par le vendeur)* et si des fonds sont présents cette somme se verra ajoutée au montant précédent.
