@@ -405,9 +405,9 @@
       <ul>
       <li>Se rendre disponible si un membre souhaite ajouter une information à un sujets ou si un auteur souhaite supprimer / modifier son sujet </li>
       </td>
-      <td style="text-align: center;">7</td>
+      <td style="text-align: center;">9</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Roni, Elkas, Dylan51, Bragon, Valdum, Spen82</td>
+      <td style="text-align: center;">Pierre, Roni, Elkas, Dylan51, Bragon, Valdum, Spen82, Weazley, Estéban</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Gestionnaire VPS</td>
