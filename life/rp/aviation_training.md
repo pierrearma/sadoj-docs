@@ -93,6 +93,15 @@ Voici un petit listing d’expressions et mots qui pourront t’être utile dans
 * **NÉGATIF**
 * **ROGER** : Souvent entendu dans les films aussi, cela signifie que tu as reçu le message, que tu l’as compris et que tu exécutes.
 
+## Différentes règles de vol
+
+L’aéronautique est un domaine très contrôlé, surtout avec la présence d’une tour de contrôle (deux pour être exacte : une à LS qui s’occupe de la réglementation sur l'île principale et une autre sur Cayo Perico!). La séparation du territoire au niveau du flanc maritime droit de San Andréas qui vous permet de changer de fréquence. 
+
+* **Pour l’altitude de survol hors agglomération** : 500ft au dessus de la mer minimum
+* **Pour l’altitude de survol en agglomération** : 1500ft minimum avec un espacement de 500ft supplémentaire en cas de rencontre avec un obstacle (immeuble, relief par exemple)
+* **Pour l’altitude de survol en agglomération** des journalistes: 800ft minimum avec un espacement de 500ft supplémentaire en cas de rencontre avec un obstacle (immeuble, relief par exemple)
+* **Pour l’altitude de survol en agglomération** des forces de l’ordres en patrouille ainsi que les services de secours en intervention: 500ft minimum avec un espacement de 200ft supplémentaire en cas de rencontre avec un obstacle (immeuble, relief par exemple)
+
 ## Zones régulées et zones interdites de survol
 
 Certaines zones sont interdites complètement de survol, pour des raisons de sécurité ou même de confidentialité. C’est le cas de la Base Militaire de Zancudo par exemple.
