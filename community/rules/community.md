@@ -50,9 +50,10 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
   *  Retour dans la communauté.
   *  Demande de sanction.
   *  Demande de droit de stream.
-* Un sujet, s'il est trop complexe pour être traité en l'absence de l'auteur (trop de questions, sujet peu clair malgré des explications écrite) peut être reporté après un sondage durant la réunion à la demande d'un membre ou à l'initiative d'un animateur de réunion.
+* Un sujet, s'il est trop complexe pour être traité en l'absence de réponses de l'auteur (trop de questions, sujet peu clair malgré des explications écrite) peut être reporté après un sondage durant la réunion à la demande d'un membre ou à l'initiative d'un animateur de réunion.
 * Tout sujet de réunion contenant un vote devra être soumis à un support d’explication / d’argumentation (support au choix: directement dans le sujet, vidéo, texte, diaporama, etc…) accessible à tous les membres **dès son dépôt**.
   * Il est cependant **conseillé** de soumettre un support d’explication / d’argumentation pour tout sujet.
+  * Le support d'explication / d'argumentation doit être joint sur la page du vote.
 * Tout sujet n'ayant pas été assez travaillé et nécessitant une revue par la personne ayant déposée le sujet peut être suspendu par l'animateur en charge de la réunion après concertation avec la personne ayant déposée le sujet. Ce sujet pourra être redébattu et voté ultérieurement pendant la réunion ou à la réunion suivante.
 * Tout sujet contenant un vote devra être déposé au maximum 24 heures avant la réunion. Dans le cas contraire, le sujet est reporté.
 * Il est possible de modifier ou supprimer son sujet de réunion en passant par un animateur de réunion.
