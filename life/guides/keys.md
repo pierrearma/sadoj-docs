@@ -98,9 +98,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kbd> pour ouvrir et fermer la console)*.
 
-- `fire` : Déclencher un incendie de structure
-- `carfire` : Mettre en feu le véhicule dans lequel vous êtes
-- `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
+- `StopClosestFire` : Permet d'éteindre le feu le plus proche *(uniquement accessible par les services de secours)*
 - `PullOver` : Permet d'activer / désactiver les contrôles routier PNJ *(uniquement acessible par la police)*
 - `montant_braquage` : Récupérer le montant de tous les braquages d'un commerce PNJ de la soirée *(uniquement acessible par la police)*
 
