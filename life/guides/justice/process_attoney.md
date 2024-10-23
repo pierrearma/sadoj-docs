@@ -44,7 +44,7 @@ En réalité, tu dois jongler entre plusieurs rôles : tu es à la fois le procu
 
 Bref, pour toi, l'interrogatoire préliminaire, c'est comme être sur scène dans un thriller psychologique, avec une seule mission : découvrir la vérité, une question à la fois.
 
-Comme tu l’as compris, cet interrogatoire est important, je te conseille de l'enregistrer et/ou de rédiger un rapport d’interrogatoire. ([Cf. exemple de rapport d'interrogatoire](https://docs.google.com/document/d/e/2PACX-1vTUAg5nhl0QiG4P5avJxSCiq3HfYYoq-_IAsu2nfqTSaNuY1qrDRcABROh0OHGjdVKqpVY--cdNoA02/pub)). Je te conseille de le faire à chaque interrogatoire ou au moins sur les grosses affaires.
+Comme tu l’as compris, cet interrogatoire est important, je te conseille de l'enregistrer et/ou de rédiger un rapport d’interrogatoire. ([Cf. exemple de rapport d'interrogatoire](https://docs.google.com/document/d/e/2PACX-1vQoff-AyLWoZP70jnQQMJzGq5XMZOukZHssp_BIKqEwlXc0KKXg_2_oHHuVl0y7SmgYTOCPWjMW9yCG/pub)). Je te conseille de le faire à chaque interrogatoire ou au moins sur les grosses affaires.
 
 Cependant, cet interrogatoire peut-être réalisé sans la présence du procureur par les agents des forces de l’ordre.
 
@@ -80,7 +80,7 @@ Quelle que soit la voie judiciaire que tu choisis, un certain nombre de document
 
   --- 
 
-### L’acte d'accusation ([Cf. exemple d’acte d’accusation](https://docs.google.com/document/d/e/2PACX-1vQE1VKI7Mbx77EfAkNCK8_BXPKHNiE3SrZ1uotnh_pJbA0cRdAA__FhqHbRO8muVCDifDoKjVvOHPt4/pub))
+### L’acte d'accusation ([Cf. exemple d’acte d’accusation](https://docs.google.com/document/d/e/2PACX-1vT7irMXBNRDGSPuo_cDCFnxzLkV0k0375WdtlacYeDKq49MYCkfJGEnk9TraowVt-FTE4jt5ltKgdLB/pub))
 
 L’acte d’accusation, c’est un peu comme la feuille de route de toute procédure judiciaire. Tu dois le rédiger après l’interrogatoire préliminaire ou lorsque les preuves sont aussi solides qu'un roc. Ce document résume les chefs d'accusation contre le suspect, et, comme un bon livre de cuisine, il peut être ajusté plusieurs fois pendant l’enquête.
 
@@ -88,7 +88,7 @@ Maintenant, tu te demandes peut-être : "Comment je fais pour déterminer les ch
 
 N’oublie que les actes d’accusations doivent obligatoirement être envoyés aux **juges**, au **suspect**, aux **forces de l’ordre** ainsi qu’à l’**avocat** le cas échéant. Il doit être envoyé dans les **48h suivant l’arrestation du suspect**.
 
-  #### Proposition d'un accord ([Cf. template d’accord](https://docs.google.com/document/d/e/2PACX-1vReUhl6eeZEChsjlDXWBogJKZ2OmsIOyo-4zoPG4t3uUFUD42Hg3XRyi4Kws7Dy7oQCdQGjhmP-VSNH/pub))
+  #### Proposition d'un accord ([Cf. template d’accord](https://docs.google.com/document/d/e/2PACX-1vTZviRMdEhLzZ5eU1-YmiKzEY3r3qNV-NZHtt0B_rKHJhZmpuoMtzCT2BerYAK0AcMJyxt0o778WF7q/pub))
 
 Tu as choisi de concocter un accord parfait. L'accord, comme on l'a vu, c’est le fast-food de la procédure judiciaire : rapide, efficace, et une fois signé par les parties, l’affaire est close. Pas de retour en arrière, sauf si l’une des parties décide de jouer les mauvais élèves en ne respectant pas ses engagements.
 
@@ -122,7 +122,7 @@ Bref, tu vas être occupé ! Mais c’est pour ça qu’on est là, non ? Pour f
 
 Tu as récolté assez d'éléments ou, au contraire, tu n’as pas assez de preuves contre le suspect ? Il est temps de décider de la fin de l’enquête. Deux choix s’offrent à toi : classer l’affaire sans suite si les éléments à charge sont insuffisants ou préparer le dossier pour l’audience.
 
-#### Le dossier d’audience ([Cf. exemple dossier d’audience](https://docs.google.com/document/d/e/2PACX-1vR3BQgpwN5BLOJ7OcKAS-mFqBS4ZmAqpZjkwtaBqYh44M8eCcANJ89Gtn8g9LLTth_Bel8R_dFTmEjh/pub))
+#### Le dossier d’audience ([Cf. exemple dossier d’audience](https://docs.google.com/document/d/e/2PACX-1vTU-WXiM07o-ZXEfBCrpRyYkupSjXu3YIq_rC1bbLU7Tz9pamOusqMgQN4nQ3LLH1VW3P85WT5kA6Ai/pub))
 
 Le dossier d’audience, c’est un peu comme le portfolio de ton enquête. Il regroupe tous les éléments que tu as pu collecter : état civil, casier judiciaire du suspect, tous les rapports, toutes les preuves à charge, les chefs d’accusation. C’est le teaser de ta prestation au procès. Plus tu as d’éléments, plus ton procès a des chances de bien se passer. En gros, c’est ton kit de survie judiciaire.
 
