@@ -402,6 +402,8 @@ Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse per
   - Durant leur mandat, ils ne peuvent pas exercer d'autres activités professionnelles et doivent se mettre en retrait de leurs éventuels emplois ou entreprises pendant toute la durée de leur mandat.
 * La profession d'avocat peut être effectuée en plus de deux autres emplois.
 * Etre sénateur est considéré comme un emploi.
+* Tout nouveau joueur arrivant est interdit de cumuler plusieurs emplois pendant une période de 1 mois à compter de sa première apparition avec son personnage sur le serveur life, sont exclus le travail à la tâche, le bénévolat.
+
 
 > [!NOTE]
 > Une exception est possible pour des tâches temporaires, [voir](#le-travail-à-la-tâche-temporaire)
