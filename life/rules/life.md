@@ -35,6 +35,7 @@
 * Le sexe classique est autorisé si les personnes sont consentantes.
 * Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le formulaire.
 * Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
+* Pour garantir l’immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L’impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l’oral dans un cadre roleplay.
 
 ## La vie / la mort
 
