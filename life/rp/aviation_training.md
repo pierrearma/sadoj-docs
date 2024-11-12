@@ -80,7 +80,7 @@ La communication radio est dans un sens déclaratif. Aucune réponse ou autorisa
 Il est toutefois possible qu’un autre pilote vous réponde pour vous indiquer qu’il est déjà présent sur la piste ou autre.
 
 Vous voici à votre première communication radio! N’oubliez jamais une chose, le plus important est de se faire comprendre de tous!
-Pour vous annoncer sur les ondes cela trois zones, la zone de Los Santos,celle de Blaine et vous avez Cayo Périco en dehors de notre état. Puis à la fin vous ajouterez un trafic pour informer les autres pilotes que vous parlez bien à eux.
+Pour vous annoncer sur les ondes il y a trois zones, la zone de Los Santos, celle de Blaine et vous avez Cayo Perico en dehors de notre état. Puis à la fin vous ajouterez un trafic pour informer les autres pilotes que vous parlez bien à eux.
 
 >* Blaine County Traffic Bonjour
 >* Los Santos Traffic Bonjour
@@ -94,14 +94,14 @@ Le changement entre Blaine County Traffic et Los Santos Traffic s'effectue au fr
 
 Le changement entre Los Santos Traffic / Blaine County Traffic et Cayo Perico est quand l'île deviens en vue et quand elle disparait de votre vue
 
-### Le roulage/ La Translation : 
+### Le roulage/ La Translation
 Le roulage/translation est la phase ou l’aéronef roule au sol pour rejoindre soit la piste de décollage ou le hangar. Dans le cas d’un hélicoptère on parle d’une **translation**. C’est le fait de voler à quelques mètres du sol pour faire la même chose qu’un avion que ce soit rejoindre la piste de décollage, l'héli pad ou le hangar. Le principe de la communication reste le même sur l’unicom, vous annoncez vos intentions et ne demandez pas d’autorisations. La seule raison pour laquelle vous ne pourriez pas faire ce que vous aviez l’intention de faire c’est si un autre pilote vous informe qu’il est déjà en train de faire ce que vous souhaitez faire ou est déjà entrepris dans une manœuvre sur le même axe que vous. Par courtoisie et par sécurité, vous attendez donc qu’il ait fini son mouvement avant de faire le vôtre. 	<ins>**Cela s’applique à n’importe quelle phase de vol**</ins>.
 
 >Exemple:
 >* Avion: Blaine County Traffic, N752PX roule pour la piste 13.
 >* Hélicoptère: Blaine County Traffic, N752PX translate pour la piste 13.
 
-### Le décollage / L'atterrissage :
+### Le décollage / L'atterrissage
 
 Dans ce cas, les informations dites dans la partie précédente s'appliquent tout autant. Ici nous informons nôtre intention de décoller ou d’atterrir. A informer en général 30 secondes avant d’accomplir l’acte.
 
