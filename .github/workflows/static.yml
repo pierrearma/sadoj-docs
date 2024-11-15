@@ -24,13 +24,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch tout l'historique pour récupérer correctement les dates de modification
+          fetch-depth: 0  # Récupère tout l'historique pour extraire les dates
 
-      - name: Restore file timestamps based on Git
+      - name: Inject last modified date into files
         run: |
-          git ls-tree -r --name-only HEAD | while read filename; do
-            # Récupère la dernière date de modification pour chaque fichier et la restaure
-            touch -d "$(git log -1 --format=%ci -- "$filename")" "$filename"
+          for file in $(find . -type f -name '*.md'); do
+            # Récupérer la dernière date de modification de chaque fichier
+            last_modified=$(git log -1 --format=%ci -- "$file")
+            # Ajouter la date en haut du fichier Markdown
+            sed -i "1s/^/<!-- Last modified: $last_modified -->\n/" "$file"
           done
 
       - name: Setup Pages
@@ -40,7 +42,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: '.'
-          preserveTimestamps: true  # Conserve les timestamps restaurés
+          preserveTimestamps: true  # Conserver les timestamps
 
       - name: Deploy to GitHub Pages
         id: deployment
