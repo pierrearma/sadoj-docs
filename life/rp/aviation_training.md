@@ -43,7 +43,6 @@ La partie la plus redoutée de tous les élèves pilotes existants, les communic
 
 **Le plus important est de vous faire comprendre.**
 
-
 ### L’alphabet de l’OTAN
 
 Déjà, en aéro, on utilise un seul et unique alphabet : celui de l’OTAN.
@@ -56,7 +55,7 @@ Déjà, en aéro, on utilise un seul et unique alphabet : celui de l’OTAN.
 
 *000* correspond au 3 derniers chiffre de l'immatriculation de l'aéronef (immatriculation donné par le jeu)
 LETTRES/Catégorie correspond à la liste suivante. 2 lettres (prononcé avec l'alphabet de l'Otan) correspondant à un service lié.
-L'objectif est d'identifier l'appartenance plus rapidement des engins liés aux services et à l'immatriculation d'origine, lors des communications radio. 
+L'objectif est d'identifier l'appartenance plus rapidement des engins liés aux services et à l'immatriculation d'origine, lors des communications radio.
 
 **Lettre/Catégorie**
 * HP 	- SAHP
@@ -90,12 +89,13 @@ Suite à cela vous ajoutez votre callsign comme vu en partie B de ce chapitre, v
 
 >*Exemple: Blaine County Traffic Bonjour, N752PX, un Buckhingam Vestra au départ de Sandy Shores pour un tour de piste.*
 
-Le changement entre Blaine County Traffic et Los Santos Traffic s'effectue au franchissement de la route 68. 
+Le changement entre Blaine County Traffic et Los Santos Traffic s'effectue au franchissement de la route 68.
 
 Le changement entre Los Santos Traffic / Blaine County Traffic et Cayo Perico est quand l'île deviens en vue et quand elle disparait de votre vue
 
 ### Le roulage/ La Translation
-Le roulage/translation est la phase ou l’aéronef roule au sol pour rejoindre soit la piste de décollage ou le hangar. Dans le cas d’un hélicoptère on parle d’une **translation**. C’est le fait de voler à quelques mètres du sol pour faire la même chose qu’un avion que ce soit rejoindre la piste de décollage, l'héli pad ou le hangar. Le principe de la communication reste le même sur l’unicom, vous annoncez vos intentions et ne demandez pas d’autorisations. La seule raison pour laquelle vous ne pourriez pas faire ce que vous aviez l’intention de faire c’est si un autre pilote vous informe qu’il est déjà en train de faire ce que vous souhaitez faire ou est déjà entrepris dans une manœuvre sur le même axe que vous. Par courtoisie et par sécurité, vous attendez donc qu’il ait fini son mouvement avant de faire le vôtre. 	<ins>**Cela s’applique à n’importe quelle phase de vol**</ins>.
+
+Le roulage/translation est la phase ou l’aéronef roule au sol pour rejoindre soit la piste de décollage ou le hangar. Dans le cas d’un hélicoptère on parle d’une **translation**. C’est le fait de voler à quelques mètres du sol pour faire la même chose qu’un avion que ce soit rejoindre la piste de décollage, l'héli pad ou le hangar. Le principe de la communication reste le même sur l’unicom, vous annoncez vos intentions et ne demandez pas d’autorisations. La seule raison pour laquelle vous ne pourriez pas faire ce que vous aviez l’intention de faire c’est si un autre pilote vous informe qu’il est déjà en train de faire ce que vous souhaitez faire ou est déjà entrepris dans une manœuvre sur le même axe que vous. Par courtoisie et par sécurité, vous attendez donc qu’il ait fini son mouvement avant de faire le vôtre. <ins>**Cela s’applique à n’importe quelle phase de vol**</ins>.
 
 >Exemple:
 >* Avion: Blaine County Traffic, N752PX roule pour la piste 13.
@@ -113,9 +113,6 @@ Une fois décollé ou atterri il ne faut pas oublier de signaler aux autres pilo
 
 >Exemple: Blaine County traffic, N752PX a libéré la piste 13
 
-
-
-
 ### Un peu de vocabulaire spécifique à l’aéro
 
 Voici un petit listing d’expressions et mots qui pourront t’être utile dans certaines situations :
@@ -130,24 +127,24 @@ Voici un petit listing d’expressions et mots qui pourront t’être utile dans
 >Si d’autres aéronefs sont dans la zone, ils feront attention à ne pas gêner N752PX dans ses manœuvres.
 
 ## Les altitudes de survol des différents territoires
+
 * Agglomération : L’altitude minimum au-dessus d’une agglomération est fixée à 1500ft (+ 500ft en cas d’obstacle).
 * Hors agglomération : L’altitude de survol minimum au niveau de la mer est de 800ft (+ 200ft en cas d’obstacle).
 * Mer : L’altitude maximum est fixée à 800ft.
-### Exceptions par profession en agglomération et en mer :
+
+### Exceptions par profession en agglomération et en mer
+
 * Les journalistes sont autorisés à descendre jusqu’à 800ft minimum (+500ft en cas d’obstacle).
 * La police est autorisée lors d’une patrouille à descendre à 500ft minimum (+300ft en cas d’obstacle).
 * Tous les services publics sont autorisés lors d’une intervention à descendre à 500ft minimum (+ 300ft en cas d’obstacle).
 * Tous vols lors de fortes intempéries ou orages sont strictement interdits.
 * Les Fly-by ou Low pass sont strictement interdits, sauf dérogation approuvé par le Gouvernement et la FAA (l’article 8.4.1 n’est pas applicable si cette dérogation est approuvée)
 
-
-
 ## Zones régulées et zones interdites de survol
 
-Certaines zones sont interdites complètement de survol comme précisé dans l’article 8.1 du code pénal, pour des raisons de sécurité ou même de confidentialité. C’est le cas de la Base Militaire de Zancudo par exemple. 
+Certaines zones sont interdites complètement de survol comme précisé dans l’article 8.1 du code pénal, pour des raisons de sécurité ou même de confidentialité. C’est le cas de la Base Militaire de Zancudo par exemple.
 
 D’autres zones sont elles régulées, c’est à dire qu’elles sont interdites de survol, sauf dérogation spéciale de la part du gouvernement, c’est le cas par exemple pour le champs d’éoliennes de Sandy Shores, ou du centre ville de Los Santos, plus communément, les aéroports et aérodromes sont des zones régulées, on va éviter de les survoler à basse altitude dans le cas ou un appareil serait en phase d’approche ou en phase de décollage, sauf acceptation de la tour de contrôle.
-
 
 <img src="../../_media/life/rp/aviation_training/airspace.png" alt="Espace aérien" style="max-width: 600px;"/>
 
