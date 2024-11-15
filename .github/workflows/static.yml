@@ -1,56 +1,69 @@
-name: Deploy Docsify to GitHub Pages
+name: Deploy static content to Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
+  # Single deploy job since we're just deploying
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
 
     steps:
-      # Étape 1 : Récupérer le code source
-      - name: Checkout code
+      # Step 1: Checkout code
+      - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for all branches and tags
 
-      # Étape 2 : Injecter la date de dernière modification dans les fichiers Markdown
-      - name: Inject lastUpdated metadata
+      # Step 2: Inject lastUpdated metadata in Markdown files
+      - name: Inject lastUpdated timestamp
         run: |
+          # Inject or update the `lastUpdated` field with the current timestamp
           for file in $(find . -type f -name '*.md'); do
+            # Get the latest commit date for each file
             last_modified=$(git log -1 --format=%ci -- "$file")
+            # Check if the file already has a lastUpdated field
             if ! grep -q "^lastUpdated:" "$file"; then
-              # Ajouter si absent
-              sed -i'' -e "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
+              # Add the `lastUpdated` field if it doesn't exist
+              sed -i "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
             else
-              # Mettre à jour si existant
-              sed -i'' -e "s/^lastUpdated:.*/lastUpdated: $last_modified/" "$file"
+              # Update the `lastUpdated` field if it already exists
+              sed -i "s/^lastUpdated:.*/lastUpdated: $last_modified/" "$file"
             fi
           done
 
-      # Étape 3 : Installer Docsify CLI
-      - name: Install Docsify
-        run: |
-          npm install -g docsify-cli
-
-      # Étape 4 : Construire le site Docsify dans le répertoire `_site`
-      - name: Build Docsify site
-        run: docsify build
-
-      # Étape 5 : Préparer pour GitHub Pages
+      # Step 3: Setup Pages for deployment
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
-      # Étape 6 : Déployer sur GitHub Pages
+      # Step 4: Upload the entire repository to GitHub Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'  # Upload the whole repository
+          preserveTimestamps: true  # Ensure timestamps are preserved
+
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
