@@ -1,28 +1,20 @@
-# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
   deploy:
     environment:
       name: github-pages
@@ -32,15 +24,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch all history for all branches and tags
+          fetch-depth: 0  # Fetch tout l'historique pour récupérer correctement les dates de modification
+
+      - name: Restore file timestamps based on Git
+        run: |
+          git ls-tree -r --name-only HEAD | while read filename; do
+            # Récupère la dernière date de modification pour chaque fichier et la restaure
+            touch -d "$(git log -1 --format=%ci -- "$filename")" "$filename"
+          done
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          # Upload entire repository
           path: '.'
-          preserveTimestamps: true  # Preserve file timestamps
+          preserveTimestamps: true  # Conserve les timestamps restaurés
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
