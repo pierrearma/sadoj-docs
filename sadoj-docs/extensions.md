@@ -52,6 +52,7 @@
 * [docsify-footer](https://github.com/erickjx/docsify-footer-enh): Permet d'ajouter un footer.
 * [docsify-progress](https://github.com/HerbertHe/docsify-progress)
 * [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title)
+* [docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme)
 
 [Retrouve ici la liste des extensions listées sur Docsify.](https://docsify.js.org/#/awesome?id=plugins)
 
