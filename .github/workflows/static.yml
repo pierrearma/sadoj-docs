@@ -24,15 +24,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Récupère tout l'historique pour extraire les dates
+          fetch-depth: 0  # Récupère tout l'historique Git
 
-      - name: Inject last modified date into files
+      - name: Inject lastUpdated metadata into Markdown files
         run: |
           for file in $(find . -type f -name '*.md'); do
-            # Récupérer la dernière date de modification de chaque fichier
+            # Récupère la dernière date de modification du fichier
             last_modified=$(git log -1 --format=%ci -- "$file")
-            # Ajouter la date en haut du fichier Markdown
-            sed -i "1s/^/<!-- Last modified: $last_modified -->\n/" "$file"
+            # Vérifie si le fichier a déjà une métadonnée lastUpdated
+            if grep -q "^lastUpdated:" "$file"; then
+              # Mets à jour la métadonnée existante
+              sed -i "s/^lastUpdated: .*/lastUpdated: $last_modified/" "$file"
+            else
+              # Ajoute la métadonnée en haut du fichier
+              sed -i "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
+            fi
           done
 
       - name: Setup Pages
@@ -42,7 +48,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: '.'
-          preserveTimestamps: true  # Conserver les timestamps
+          preserveTimestamps: true  # Conserve les timestamps pour cohérence
 
       - name: Deploy to GitHub Pages
         id: deployment
