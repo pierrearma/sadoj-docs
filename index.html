@@ -101,12 +101,6 @@
         suffix: 'SADoJ Docs',
       },
       plugins: [
-        function footerPlugin(hook) {
-          hook.afterEach(function (html, next) {
-            const footer = '<hr><p style="text-align: right;">Dernière mise à jour : {{file.lastUpdated}}</p>';
-            next(html + footer);
-          });
-        },
         EditOnGithubPlugin.create("https://github.com/pierrearma/sadoj-docs/blob/main/", null, "Éditer sur github")
       ]
     }

@@ -1,3 +1,4 @@
+# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
@@ -27,43 +28,19 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout code
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch all history for all branches and tags
-
-      # Step 2: Inject lastUpdated metadata in Markdown files
-      - name: Inject lastUpdated timestamp
-        run: |
-          # Inject or update the `lastUpdated` field with the current timestamp
-          for file in $(find . -type f -name '*.md'); do
-            # Get the latest commit date for each file
-            last_modified=$(git log -1 --format=%ci -- "$file")
-            # Check if the file already has a lastUpdated field
-            if ! grep -q "^lastUpdated:" "$file"; then
-              # Add the `lastUpdated` field if it doesn't exist
-              sed -i "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
-            else
-              # Update the `lastUpdated` field if it already exists
-              sed -i "s/^lastUpdated:.*/lastUpdated: $last_modified/" "$file"
-            fi
-          done
-
-      # Step 3: Setup Pages for deployment
       - name: Setup Pages
         uses: actions/configure-pages@v3
-
-      # Step 4: Upload the entire repository to GitHub Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: '.'  # Upload the whole repository
-          preserveTimestamps: true  # Ensure timestamps are preserved
-
-      # Step 5: Deploy to GitHub Pages
+          # Upload entire repository
+          path: '.'
+          preserveTimestamps: true  # Preserve file timestamps
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
