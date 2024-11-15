@@ -71,7 +71,7 @@ Sélectionnez votre fork.
 
 Puis appuyez sur **Create Pull Request**.
 
-16. Fini! Vous avez modifié le site! Attendez qu'un responsable valide le tout!.
+16. Fini! Vous avez modifié le site! Attendez qu'un responsable valide le tout!
 
 
 
