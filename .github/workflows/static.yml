@@ -30,18 +30,27 @@ jobs:
             last_modified=$(git log -1 --format=%ci -- "$file")
             if ! grep -q "^lastUpdated:" "$file"; then
               # Ajouter si absent
-              sed -i "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
+              sed -i'' -e "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
             else
               # Mettre à jour si existant
-              sed -i "s/^lastUpdated:.*/lastUpdated: $last_modified/" "$file"
+              sed -i'' -e "s/^lastUpdated:.*/lastUpdated: $last_modified/" "$file"
             fi
           done
 
-      # Étape 3 : Préparer pour GitHub Pages
+      # Étape 3 : Installer Docsify CLI
+      - name: Install Docsify
+        run: |
+          npm install -g docsify-cli
+
+      # Étape 4 : Construire le site Docsify dans le répertoire `_site`
+      - name: Build Docsify site
+        run: docsify build
+
+      # Étape 5 : Préparer pour GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
-      # Étape 4 : Publier sur GitHub Pages
+      # Étape 6 : Déployer sur GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
