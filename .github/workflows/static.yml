@@ -1,4 +1,4 @@
-name: Deploy static content to Pages
+name: Deploy Docsify to GitHub Pages
 
 on:
   push:
@@ -16,40 +16,40 @@ concurrency:
 
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Récupère tout l'historique Git
 
-      - name: Inject lastUpdated metadata into Markdown files
+    steps:
+      # Étape 1 : Récupérer le code source
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Étape 2 : Injecter la date de dernière modification dans les fichiers Markdown
+      - name: Inject lastUpdated metadata
         run: |
           for file in $(find . -type f -name '*.md'); do
-            # Récupère la dernière date de modification du fichier
             last_modified=$(git log -1 --format=%ci -- "$file")
-            # Vérifie si le fichier a déjà une métadonnée lastUpdated
-            if grep -q "^lastUpdated:" "$file"; then
-              # Mets à jour la métadonnée existante
-              sed -i "s/^lastUpdated: .*/lastUpdated: $last_modified/" "$file"
-            else
-              # Ajoute la métadonnée en haut du fichier
+            if ! grep -q "^lastUpdated:" "$file"; then
+              # Ajouter si absent
               sed -i "1s/^/---\nlastUpdated: $last_modified\n---\n/" "$file"
+            else
+              # Mettre à jour si existant
+              sed -i "s/^lastUpdated:.*/lastUpdated: $last_modified/" "$file"
             fi
           done
 
+      # Étape 3 : Configurer et installer Docsify
+      - name: Install Docsify CLI
+        run: npm install -g docsify-cli
+
+      # Étape 4 : Vérifier que le site se génère correctement
+      - name: Build the site
+        run: docsify serve .
+
+      # Étape 5 : Préparer pour GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: '.'
-          preserveTimestamps: true  # Conserve les timestamps pour cohérence
-
+      # Étape 6 : Publier sur GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
