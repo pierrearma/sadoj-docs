@@ -37,19 +37,11 @@ jobs:
             fi
           done
 
-      # Étape 3 : Configurer et installer Docsify
-      - name: Install Docsify CLI
-        run: npm install -g docsify-cli
-
-      # Étape 4 : Vérifier que le site se génère correctement
-      - name: Build the site
-        run: docsify serve .
-
-      # Étape 5 : Préparer pour GitHub Pages
+      # Étape 3 : Préparer pour GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
-      # Étape 6 : Publier sur GitHub Pages
+      # Étape 4 : Publier sur GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
