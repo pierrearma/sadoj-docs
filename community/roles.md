@@ -443,13 +443,12 @@
           <li> Gestion de la réglementation aérienne </li>
           <li> Répond aux interrogations des joueurs</li>
           <li> Mise en place sur le serveur</li>
-          <li> Gestion de la tour de contrôle</li>
-          <li> Gestion du service FAA</li>
+          <li> Gestion du service SASAA</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
-      <td style="text-align: center;">Mac</td>
-      <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios, FlyHight</td>
+      <td style="text-align: center;">4 (5 souhaité) dont 1 policier</td>
+      <td style="text-align: center;">Remigdv</td>
+      <td style="text-align: center;"> Remigdv, thracios (police), FlyHight, salvatormauro</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
         <td style="text-align: center;">Groupe Politique</td>
