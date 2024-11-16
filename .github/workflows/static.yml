@@ -29,7 +29,7 @@ jobs:
       - name: Update file timestamps based on last commit
         run: |
           git ls-files | while read file; do
-            touch -d $(git log -1 --format="@%ct" "$file") "$file"
+            GIT_COMMITTER_DATE=$(git log -1 --format="%cI" "$file") git commit --amend --no-edit --date "$GIT_COMMITTER_DATE" -- "$file"
           done
 
       - name: Setup Pages
