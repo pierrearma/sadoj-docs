@@ -69,17 +69,29 @@
       themeColor: '#FF0000',
       lastUpdated: true,
       formatUpdated: 'Dernière mise à jour de cette page le {DD}/{MM}/{YYYY} à {HH}:{mm}.',
-      updatedHook: function (filePath, dom) {
+      doneEach: function () {
+        const currentPath = window.location.pathname.split('/').pop() || 'README.md';
         fetch('./last-updated.json')
           .then(response => response.json())
           .then(data => {
-            const lastUpdated = data[filePath];
+            const lastUpdated = data[currentPath];
             if (lastUpdated) {
-              const options = { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
-              const date = new Date(lastUpdated).toLocaleDateString('fr-FR', options);
-              dom.innerText = `Dernière mise à jour de cette page le ${date}`;
+              const date = new Date(lastUpdated);
+              const formattedDate = date.toLocaleDateString('fr-FR', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+              });
+
+              // Remplacer les balises {docsify-updated}
+              document.querySelectorAll('span[data-updated]').forEach(el => {
+                el.innerText = `Dernière mise à jour de cette page le ${formattedDate}`;
+              });
             }
-          });
+          })
+          .catch(err => console.error('Erreur lors du chargement des données de mise à jour:', err));
       },
       search: {
         placeholder: 'Tapez pour rechercher',
