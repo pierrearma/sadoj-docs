@@ -67,17 +67,33 @@ Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Données de Vente et Location Immobilière</title>
     <style>
+        body {
+            background-color: #1e1e1e;
+            color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
         table {
             width: 100%;
             border-collapse: collapse;
+            background-color: #2c2c2c;
+            color: #f0f0f0;
         }
         th, td {
-            border: 1px solid black;
+            border: 1px solid #444;
             padding: 10px;
             text-align: left;
         }
         th {
-            background-color: #d3d3d3;
+            background-color: #3a3a3a;
+        }
+        tr:nth-child(even) {
+            background-color: #2a2a2a;
+        }
+        tr:nth-child(odd) {
+            background-color: #1f1f1f;
+        }
+        tr:hover {
+            background-color: #444;
         }
     </style>
 </head>
@@ -156,6 +172,7 @@ Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
     </table>
 </body>
 </html>
+
 
 ### Calcul de la valeur
 
