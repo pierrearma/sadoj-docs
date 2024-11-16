@@ -70,7 +70,7 @@
       lastUpdated: true,
       formatUpdated: 'Dernière mise à jour de cette page le {DD}/{MM}/{YYYY} à {HH}:{mm}.',
       updatedHook: function (filePath, dom) {
-        fetch('./docs/last-updated.json')
+        fetch('./last-updated.json')
           .then(response => response.json())
           .then(data => {
             const lastUpdated = data[filePath];

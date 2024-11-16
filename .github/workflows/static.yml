@@ -39,7 +39,7 @@ jobs:
           # Supprimer la dernière virgule et fermer l'objet JSON
           sed -i '$ s/,$//' metadata/last-updated.json
           echo "}" >> metadata/last-updated.json
-          cp metadata/last-updated.json docs/last-updated.json
+          mv metadata/last-updated.json ./last-updated.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
