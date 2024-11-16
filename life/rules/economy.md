@@ -350,11 +350,11 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
     </tr>
     <tr>
       <td>Tweet avec article sur X <i>(travaillé)<i></td>
-      <td>100$/impression</td>
+      <td>150$/impression</td>
     </tr>
     <tr>
       <td>Article site <i>(travaillé)<i></td>
-      <td>120$/vue</td>
+      <td>150$/vue</td>
     </tr>
     <tr>
       <td>Vidéo discours <i>(captation d’images)<i></td>
@@ -383,6 +383,10 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
     <tr>
       <td>Vidéo reportage avec enquête journalistique</td>
       <td>200$/vue ou impression</td>
+    </tr>
+    <tr>
+      <td>Radio</td>
+      <td>20$/ auditeur</td>
     </tr>
   </table>
 </div>
