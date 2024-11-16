@@ -177,4 +177,4 @@ Elles peuvent demander un retour à tout moment par un simple vote, **ce n’est
 
 > Le règlement de la communauté pour et par la communauté.
 
-{docsify-updated}
+

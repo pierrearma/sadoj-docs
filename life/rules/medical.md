@@ -105,4 +105,3 @@ Avec la balle dans le ventre, le soignant peut réaliser un arrêt de travail te
 * drogue : comme pour l’alcool, mort possible si overdose, effets selon la drogue prise.
 * malaise : petite perte de connaissance.
 
-{docsify-updated}

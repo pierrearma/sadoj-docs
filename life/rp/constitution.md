@@ -71,5 +71,5 @@ La conception de la « Common Law » imprègne toujours très fortement le syst�
 
 Toute nouvelle décision concernant le droit commun sera inscrite dans ce document et fera jurisprudence pour les nouveaux jugements.
 
-{docsify-updated}
+
 

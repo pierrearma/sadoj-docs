@@ -305,4 +305,4 @@ Plusieurs spécialisations seront disponibles en jeu :
 >
 > Le groupe dark peut modifier librement ce règlement, mais la communauté peut imposer son désaccord par un vote communautaire.
 
-{docsify-updated}
+

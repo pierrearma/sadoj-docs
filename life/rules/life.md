@@ -171,4 +171,4 @@ Voir [ce document](life/rules/perpetuity.md).
 
 > Le règlement de la communauté pour et par la communauté.
 
-{docsify-updated}
+

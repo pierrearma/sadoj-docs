@@ -50,4 +50,3 @@ Fin septembre 2023, la dissociation est officiellement actée, marquant la naiss
 
 Cayo Perico devient ainsi un territoire autonome, distinct de l'État de San Andreas, tout en continuant à développer son économie, son tourisme et sa culture uniques, offrant une nouvelle perspective aux habitants de l'île et aux visiteurs venus du monde entier.
 
-{docsify-updated}

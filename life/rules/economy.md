@@ -817,4 +817,4 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 - Sont exclus la vente d'arme, le custom d'arme, de licence.
 - Le délai de mise en conformité est fixé à un mois à partir du 11/09/24
 
-{docsify-updated} 
+ 

@@ -48,4 +48,3 @@ Si la demande est faite par un médiateur, celui-ci sera considéré comme un me
 
 Les sujets de vote sanction seront donc au nom du déposeur et non au nom de la médiation sauf si la médiation lance une procédure.
 
-{docsify-updated}

@@ -46,4 +46,3 @@ Une fois l'explosion terminée, la porte sera ouverte et cassée.
 
 
 
-{docsify-updated}

@@ -39,4 +39,3 @@ Soon
 
 Soon
 
-{docsify-updated}

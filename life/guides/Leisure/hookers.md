@@ -34,4 +34,3 @@ Le système de prostitution sur le serveur est un système quasi-identique à ce
 <iframe src="https://www.youtube-nocookie.com/embed/pYpnjRoCf_c?si=LwzILVPSfaJcmV06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-{docsify-updated}

@@ -77,4 +77,4 @@ Afin de promouvoir son contenu dans le salon Discord [#stream-sadojien](https://
 * Le créateur de contenu doit avoir son droit de stream.
 * Le contenu ne doit promouvoir un autre serveur GTA RP.
 
-{docsify-updated}
+

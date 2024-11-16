@@ -56,4 +56,3 @@
 
 [Retrouve ici la liste des extensions listées sur Docsify.](https://docsify.js.org/#/awesome?id=plugins)
 
-{docsify-updated}

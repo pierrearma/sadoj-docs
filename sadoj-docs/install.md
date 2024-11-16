@@ -75,4 +75,3 @@ Puis appuyez sur **Create Pull Request**.
 
 
 
-{docsify-updated}

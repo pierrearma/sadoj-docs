@@ -26,4 +26,3 @@ Liste des crimes qui nécéssaire lors d’une perpétuité justice:
 * 4.1 - Incendie volontaire avec victime
 * 7.7 - Possession de dispositifs explosifs avec l'intention de les vendre
 
-{docsify-updated}

@@ -148,4 +148,4 @@ D’autres zones sont elles régulées, c’est à dire qu’elles sont interdit
 
 <img src="../../_media/life/rp/aviation_training/airspace.png" alt="Espace aérien" style="max-width: 600px;"/>
 
-{docsify-updated}
+

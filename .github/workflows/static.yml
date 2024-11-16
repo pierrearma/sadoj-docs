@@ -1,20 +1,28 @@
+# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
+  # Single deploy job since we're just deploying
   deploy:
     environment:
       name: github-pages
@@ -24,32 +32,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-
-      - name: Update file timestamps and generate metadata
-        run: |
-          echo "Génération des métadonnées pour {docsify-updated}..."
-          mkdir -p metadata
-          echo "{" > metadata/last-updated.json
-          git ls-files | while read file; do
-            LAST_COMMIT_DATE=$(git log -1 --format="%cI" "$file")
-            echo "  \"$file\": \"$LAST_COMMIT_DATE\"," >> metadata/last-updated.json
-            touch -d "$LAST_COMMIT_DATE" "$file"
-          done
-          # Supprimer la dernière virgule et fermer l'objet JSON
-          sed -i '$ s/,$//' metadata/last-updated.json
-          echo "}" >> metadata/last-updated.json
-          mv metadata/last-updated.json ./last-updated.json
-
+          fetch-depth: 0  # Fetch all history for all branches and tags
       - name: Setup Pages
         uses: actions/configure-pages@v3
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
+          # Upload entire repository
           path: '.'
-          preserveTimestamps: true
-
+          preserveTimestamps: true  # Preserve file timestamps
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2

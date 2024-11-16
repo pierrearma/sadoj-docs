@@ -67,32 +67,7 @@
         '/.*/_sidebar.md': '/_sidebar.md'
       },
       themeColor: '#FF0000',
-      lastUpdated: true,
       formatUpdated: 'Dernière mise à jour de cette page le {DD}/{MM}/{YYYY} à {HH}:{mm}.',
-      doneEach: function () {
-        const currentPath = window.location.pathname.split('/').pop() || 'README.md';
-        fetch('./last-updated.json')
-          .then(response => response.json())
-          .then(data => {
-            const lastUpdated = data[currentPath];
-            if (lastUpdated) {
-              const date = new Date(lastUpdated);
-              const formattedDate = date.toLocaleDateString('fr-FR', {
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit',
-                hour: '2-digit',
-                minute: '2-digit',
-              });
-
-              // Remplacer les balises {docsify-updated}
-              document.querySelectorAll('span[data-updated]').forEach(el => {
-                el.innerText = `Dernière mise à jour de cette page le ${formattedDate}`;
-              });
-            }
-          })
-          .catch(err => console.error('Erreur lors du chargement des données de mise à jour:', err));
-      },
       search: {
         placeholder: 'Tapez pour rechercher',
         noData: 'Aucun résultat !'
@@ -189,6 +164,8 @@
 
   <!-- docsify-darklight-theme -->
   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
+
+  <script src="lastmodified.js"></script>
 </body>
 
 </html>

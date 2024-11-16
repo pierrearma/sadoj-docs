@@ -5,4 +5,3 @@
 
 L'objectif de ce site est de fournir un support pour mettre en ligne de la documentation de manière simple concernant à la fois la communauté & les serveurs de jeux.
 
-{docsify-updated}

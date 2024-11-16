@@ -22,4 +22,4 @@ Attention ! Ce guide n’est pas un règlement, il ne contient pas des “articl
 * Ne pas tirer systématiquement sur la police ou du moins pas dans l’optique de neutraliser la personne, privilégiez d’autres méthodes.
 * Privilégier au maximum les courses poursuites et PIT en dernier recours si danger pour la population. (tir, accident, trottoir…) Avoir ici une conduite RP est important. (ne pas oubliez de semer les forces de l’ordre avant le retour en dark-zone)
 
-{docsify-updated}
+

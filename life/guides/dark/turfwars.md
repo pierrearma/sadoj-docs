@@ -68,4 +68,3 @@ Le système est en constante évolution, l'objectif est d'accroître le nombre d
 
 Vous pouvez apporter vos idées au système à l'aide des formulaires de développement.
 
-{docsify-updated}

@@ -145,4 +145,4 @@
 - Appel au 911 + sécurisation de la balise (empêcher la présence de civils).
 
 
-{docsify-updated}
+

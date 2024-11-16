@@ -102,4 +102,3 @@ Pour utiliser ces commandes, écrivez les dans la console de FiveM *(<kbd>F8</kb
 - `PullOver` : Permet d'activer / désactiver les contrôles routier PNJ *(uniquement acessible par la police)*
 - `montant_braquage` : Récupérer le montant de tous les braquages d'un commerce PNJ de la soirée *(uniquement acessible par la police)*
 
-{docsify-updated}

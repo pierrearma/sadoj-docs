@@ -86,4 +86,3 @@ Participer à des scénarios ou des interactions RP inappropriées, allant à l'
 
 *Exemple: Engager dans des actes RP inappropriés, des scénarios de violence extrême non autorisée ou l'utilisation de langage offensant, enfreignant les règles du serveur.*
 
-{docsify-updated}
