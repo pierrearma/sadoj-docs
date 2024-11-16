@@ -26,12 +26,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update file timestamps based on last commit
+      - name: Update file timestamps and generate metadata
         run: |
+          echo "Génération des métadonnées pour {docsify-updated}..."
+          mkdir -p metadata
+          echo "{" > metadata/last-updated.json
           git ls-files | while read file; do
             LAST_COMMIT_DATE=$(git log -1 --format="%cI" "$file")
+            echo "  \"$file\": \"$LAST_COMMIT_DATE\"," >> metadata/last-updated.json
             touch -d "$LAST_COMMIT_DATE" "$file"
           done
+          # Supprimer la dernière virgule et fermer l'objet JSON
+          sed -i '$ s/,$//' metadata/last-updated.json
+          echo "}" >> metadata/last-updated.json
+          cp metadata/last-updated.json docs/last-updated.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
