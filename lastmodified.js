@@ -1,10 +1,22 @@
 // Docsify plugin pour ajouter la dernière date de modification
 window.$docsify.plugins = [
     function(hook, vm) {
+        // Obtenir les options de configuration depuis $docsify
+        const config = vm.config || {};
+        const repoUrl = config.repo || ''; // URL du dépôt
+        const formatUpdated = config.formatUpdated || 'Dernière mise à jour de cette page le {DD}/{MM}/{YYYY} à {HH}:{mm}.'; // Format du texte
+
+        // Extraire les informations du repo depuis l'URL
+        const repoMatch = repoUrl.match(/github\.com\/([^/]+)\/([^/]+)/);
+        if (!repoMatch) {
+            console.error('Le format de repo est invalide. Exemple attendu : https://github.com/utilisateur/repo');
+            return;
+        }
+
+        const [_, repoOwner, repoName] = repoMatch; // Extraire le propriétaire et le nom du repo
+
         // Utiliser l'API GitHub pour récupérer la date de dernière modification d'un fichier
-        hook.afterEach(function (html, next) {
-            const repoOwner = 'pierrearma'; // Remplace par le nom d'utilisateur du repo GitHub
-            const repoName = 'sadoj-docs'; // Remplace par le nom de ton repo GitHub
+        hook.afterEach(function(html, next) {
             const filePath = vm.route.file; // Récupérer le nom du fichier actuel directement via Docsify
 
             // Effectuer une requête pour obtenir les informations des commits depuis l'API GitHub
@@ -16,17 +28,25 @@ window.$docsify.plugins = [
                     return response.json();
                 })
                 .then(data => {
-                    if (data && data[0] && data[0].committer) {
+                    if (data && data[0] && data[0].commit && data[0].commit.committer) {
                         const lastModifiedDate = new Date(data[0].commit.committer.date); // Date de la dernière modification
 
-                        const formattedDate = lastModifiedDate.toLocaleString('fr-FR', {
-                            day: '2-digit',
-                            month: '2-digit',
-                            year: 'numeric'
-                        });
+                        // Formater la date selon les besoins
+                        const replacements = {
+                            '{DD}': lastModifiedDate.toLocaleDateString('fr-FR', { day: '2-digit' }),
+                            '{MM}': lastModifiedDate.toLocaleDateString('fr-FR', { month: '2-digit' }),
+                            '{YYYY}': lastModifiedDate.toLocaleDateString('fr-FR', { year: 'numeric' }),
+                            '{HH}': lastModifiedDate.getHours().toString().padStart(2, '0'),
+                            '{mm}': lastModifiedDate.getMinutes().toString().padStart(2, '0')
+                        };
 
-                        // Ajouter la date à la fin de la page avec "à" avant l'heure
-                        const footer = `<p>Dernière mise à jour de cette page le ${formattedDate} à ${lastModifiedDate.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}.</p>`;
+                        let formattedText = formatUpdated;
+                        for (const key in replacements) {
+                            formattedText = formattedText.replace(key, replacements[key]);
+                        }
+
+                        // Ajouter la date à la fin de la page
+                        const footer = `<p>${formattedText}</p>`;
                         html += footer; // Ajouter le texte à la fin de la page
 
                         next(html); // Passer le contenu modifié au prochain hook
@@ -40,5 +60,5 @@ window.$docsify.plugins = [
                 });
         });
     },
-    ...(window.$docsify.plugins || []) // Assurer que le plugin Docsify existant reste intact
+    ...(window.$docsify.plugins || []) // Assurer que les autres plugins Docsify restent intacts
 ];
