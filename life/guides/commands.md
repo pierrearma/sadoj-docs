@@ -1,6 +1,6 @@
 # Commandes (nerds uniquement)
 
-> Auteur de la page: Pierre.
+> Auteur de la page: Pierre & Thomas.
 
 ---
 
@@ -29,14 +29,11 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 
 - `emotemenu` : Ouvre le menu des animations.
 - `e <animation>` : Déclenche l'animation `<animation>` *(voir la liste des animations disponibles dans le menu)*.
-- `emotebind <numéro> <animation>` : Permet de lier une animation à une touche `<numéro>` *(4 à 9) du pavé numérique* `<animation>` *(voir la liste des animations disponibles dans le menu)*..
-- `nearby <animation>` : Permet de faire une animation partagée avec le joueur à proximité `<animation>` *(voir la liste des animations disponibles dans le menu)*.
+- `w <animation>` : Permet de changer le style de marche du personnage `<animation>` *(voir la liste des animations disponibles dans le menu)*.
 
 ## Feux
 
-- `fire` : Déclencher un incendie de structure
-- `carfire` : Mettre en feu le véhicule dans lequel vous êtes
-- `stopfire` : Permet d'éteindre tous les feux en cours *(uniquement accessible par les services de secours)*
+- `StopClosestFire` : Permet d'éteindre le feu le plus proche de vous (dans un rayon de 100m) *(uniquement accessible par les services de secours)*
 
 ## Véhicules
 
@@ -61,9 +58,7 @@ L'utilisation de ces commandes est utile pour quelques raisons:
 - `dark` : Permet de savoir quelles actions illégales sont possibles.
 - `goto <code postal>` : Place un marqueur sur la carte à la position du code postal `<code postal>`.
 - `me <action>` : Affiche un message au dessus de votre tête.
-- `mdt` : Ouvre le MDT.
 - `cycleproximity` : Permet de changer la portée de sa voix.
-- `Adresse` : Copie votre adresse actuelle dans le presse-papier.
 - `ccv+` : Copie vos coordonnées actuelles et votre angle de vue dans le presse-papier *(toutes les commandes de CopyCoords sont disponibles sur le Discord Dev)*.
 - `twtoggle` : Active/désactive les zones d'influence des gangs sur la map.
 - `takeobjet` : Permet de prendre un objet sur le sol devant vous.
