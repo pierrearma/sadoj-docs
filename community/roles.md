@@ -194,8 +194,8 @@
           <li>Donner les "règles" de base sur le RP</li>
         </ul>
       </td>
-      <td style="text-align: center;">9</td>
-      <td style="text-align: center;">Doryann</td>
+      <td style="text-align: center;">8</td>
+      <td style="text-align: center;">IamBlue</td>
       <td style="text-align: center;">Voir le discord Formation</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
