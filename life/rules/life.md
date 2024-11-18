@@ -12,7 +12,6 @@
 ## Généralités
 
 * Toute triche, utilisation, exploitation de bug est interdite.
-* Il est obligatoire d’être connecté sur le TeamSpeak dans un des canaux “**Serveur Life**” lorsque vous êtes sur le serveur **Life**. *Il est conseillé d’être connecté sur le TeamSpeak lorsque vous êtes connecté sur un des serveurs.*
 * Il est interdit d'être en communication vocale hors de TeamSpeak lorsque vous êtes en jeu.
 * Il est interdit de partager son écran lorsque vous êtes en jeu.
 * Il est interdit de parler **H**ors-**R**ôle-**P**lay lorsque vous êtes en jeu.
