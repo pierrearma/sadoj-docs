@@ -859,7 +859,7 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
       </td>
     </tr>
     <tr>
-      <td><strong>Smoke</strong></td>
+      <td><strong>Smoke On The Water</strong></td>
       <td>
         - 0,08$/km<br>
         <strong>Moyenne : 160$/livraison</strong>
@@ -875,10 +875,104 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
     <tr>
       <td colspan="4" style="text-align: left;">
         - <strong>50 000$</strong> max de revenu pour les entreprises par semaine<br>
-        - <strong>8 000$</strong> max de revenu farm par semaine pour les joueurs (tous farms confondus)
+        - <strong>10 000$</strong> max de revenu farm par semaine pour les joueurs (tous jobs PNJ confondus)
       </td>
     </tr>
   </tfoot>
+</table>
+
+### Pour le métier de bucheron
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Destination</th>
+            <th>Temps</th>
+            <th>Prix Min ($)</th>
+            <th>Prix Max ($)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Planches -->
+        <tr>
+            <td rowspan="4">Planches</td>
+            <td>Chantier Paleto</td>
+            <td>20 min</td>
+            <td>800</td>
+            <td>1,200</td>
+        </tr>
+        <tr>
+            <td>Terrain de cross Sandy Shores</td>
+            <td>30 min</td>
+            <td>1,500</td>
+            <td>1,900</td>
+        </tr>
+        <tr>
+            <td>Los Santos</td>
+            <td>40 min</td>
+            <td>1,900</td>
+            <td>2,300</td>
+        </tr>
+        <tr>
+            <td>Port de Los Santos</td>
+            <td>50 min</td>
+            <td>2,300</td>
+            <td>2,700</td>
+        </tr>
+        <!-- Copeaux -->
+        <tr>
+            <td rowspan="4">Copeaux</td>
+            <td>Ferme à Paleto Bay</td>
+            <td>20 min</td>
+            <td>800</td>
+            <td>1,200</td>
+        </tr>
+        <tr>
+            <td>Ferme Oneil à Grapeseed</td>
+            <td>30 min</td>
+            <td>1,552</td>
+            <td>1,940</td>
+        </tr>
+        <tr>
+            <td>Hippodrome à Los Santos</td>
+            <td>40 min</td>
+            <td>1,940</td>
+            <td>2,328</td>
+        </tr>
+        <tr>
+            <td>Port de Los Santos</td>
+            <td>50 min</td>
+            <td>2,328</td>
+            <td>2,716</td>
+        </tr>
+        <!-- Grumes -->
+        <tr>
+            <td rowspan="4">Grumes</td>
+            <td>Jetée à Paleto Bay</td>
+            <td>15 min</td>
+            <td>640</td>
+            <td>800</td>
+        </tr>
+        <tr>
+            <td>Sandy Shores</td>
+            <td>20 min</td>
+            <td>1,120</td>
+            <td>1,440</td>
+        </tr>
+        <tr>
+            <td>Ranch</td>
+            <td>30 min</td>
+            <td>1,440</td>
+            <td>1,824</td>
+        </tr>
+        <tr>
+            <td>Port de Los Santos</td>
+            <td>40 min</td>
+            <td>1,824</td>
+            <td>2,208</td>
+        </tr>
+    </tbody>
 </table>
 
 
