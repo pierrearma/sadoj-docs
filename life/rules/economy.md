@@ -135,7 +135,7 @@ Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
             <tr>
                 <td>Vente d’un bien au PNJ</td>
                 <td>Obligation de passer par une agence, gestion de la vente auprès du notaire</td>
-                <td>Revente du bien à 115% de sa valeur de base sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+                <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
                 <td></td>
             </tr>
             <tr>
@@ -151,28 +151,20 @@ Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
                 <td>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
             </tr>
             <tr>
-                <td>Location avec option d’achat immo (LOA Immobilier)</td>
-                <td>Réservé agence immo, bien appartenant à une agence immo qui gère la LOA</td>
-                <td>Apport de 10% du prix de vente versé à l’agence propriétaire, loyer de base calculé sur le prix de vente - l’apport</td>
-                <td>Le client peut acheter le bien à partir de 3 mois (12 semaines de location), au prix de vente - les loyers versés, durée de la LOA : 1 an maximum (52 semaines), indemnité de compensation 5% du prix de vente si non achat</td>
-            </tr>
-            <tr>
-                <td>Vente aux enchères immobilières (PNJ)</td>
-                <td>Biens saisis par le notaire, obligation de passer par une agence immobilière</td>
+                <td>Vente aux enchères immobilières (Etat)</td>
+                <td>Biens appartenant à l'état ou biens saisis, obligation de passer par une agence immobilière</td>
                 <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-                <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce), seules les entreprises et les banques peuvent participer aux enchères, pas de limite de prix de vente</td>
-            </tr>
-            <tr>
-                <td>Vente aux enchères immobilières (non PNJ)</td>
-                <td>Obligation de passer par une agence immobilière</td>
-                <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-                <td>Prix de vente payé au propriétaire, pas de limite de prix de vente</td>
+                <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce), seules les agences immobilières peuvent participer aux enchères, pas de limite de prix de vente</td>
             </tr>
         </tbody>
     </table>
 </body>
 </html>
 
+>[!NOTE]
+> Les agences ne payent pas les frais de changement de propriétaire.
+>
+> Pour des achat ou des ventes hors enchères, l'état doit tirer au sort l'agence avec laquelle il va passer.
 
 ### Calcul de la valeur
 
@@ -771,8 +763,6 @@ Le Bureau du Procureur se charge de l'archivage des testaments et transmet les t
 
 ## La chasse
 
-Dépecer des animaux et récupérer viandes et peaux nécessite **au moins deux policiers en service.**
-Il a été constaté que les abus avaient lieu en matinée ou en après midi (quand le serveur est vide)
 
 La chasse doit être pratiquée avec des véhicules adaptés et des quantités raisonnables  en fonction du véhicule utilisé.
 
@@ -817,6 +807,156 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 
 > [!ATTENTION]
 > **Après la date butoir, tous les virements directs encore présents seront purement supprimés.**
+
+## Les quotas
+
+Des quotas maximums ont été mis en place pour les métiers PNJ et dans d'autres secteurs afin de ne plus avoir d'abus.
+
+Les entreprises qui ont des missions PNJ (Smoke ou transportify) ont un CA maximum par semaine.
+Les joueurs ont un quota maximum par semaine sur l'ensemble des missions PNJ (smoke, taxi, transportify)
+
+Ce quota permet tout de même de gagner de l'argent mais évite juste les abus et nous permet de ne pas vérifier régulièrement.
+
+> [!NOTE]
+>
+>Les quotas ne brident pas le jeu, si le quota est atteint cela n'empêche pas de faire les missions mais vous ne toucherez pas l'argent. Utile parfois pour le RP.
+
+### Pour les métiers
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Type de mission</th>
+      <th>Revenus joueur</th>
+      <th>Revenus entreprise</th>
+      <th>Détails</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Taxi PNJ</strong></td>
+      <td>
+        - 0,10$/km<br>
+        - Pourboire : 25$ à 50$<br>
+        <strong>Moyenne : 200$/course</strong>
+      </td>
+      <td>Non spécifié</td>
+      <td>Pourboire variable (25$ à 50$)</td>
+    </tr>
+    <tr>
+      <td><strong>Taxi Transportify</strong></td>
+      <td>
+        - 0,20$/km<br>
+        - Pourboire : 150$ à 200$<br>
+        - Prime entreprise : 50$<br>
+        <strong>Moyenne : 225$/course</strong>
+      </td>
+      <td>
+        - 500$/course
+      </td>
+      <td>
+        Inclut une prime fixe de 50$ pour le joueur
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Smoke</strong></td>
+      <td>
+        - 0,08$/km<br>
+        <strong>Moyenne : 160$/livraison</strong>
+      </td>
+      <td>
+        - 340$/livraison<br>
+        (160$ pris dans le coffre)
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4" style="text-align: left;">
+        - <strong>50 000$</strong> max de revenu pour les entreprises par semaine<br>
+        - <strong>8 000$</strong> max de revenu farm par semaine pour les joueurs (tous farms confondus)
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+
+### Pour la chasse 
+
+<table>
+  <thead>
+    <tr>
+      <th>Animal</th>
+      <th>Limite par semaine</th>
+      <th>Statut</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sanglier</td>
+      <td>20</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Coyote</td>
+      <td>20</td>
+      <td>Illégal</td>
+    </tr>
+    <tr>
+      <td>Biche/Cerf</td>
+      <td>25</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Puma</td>
+      <td>20</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Lapin</td>
+      <td>45</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Faucon</td>
+      <td>30</td>
+      <td>Illégal</td>
+    </tr>
+    <tr>
+      <td>Cormoran</td>
+      <td>50</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Corbeau</td>
+      <td>50</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Mouette</td>
+      <td>35</td>
+      <td>Légal</td>
+    </tr>
+    <tr>
+      <td>Pigeon</td>
+      <td>50</td>
+      <td>Légal</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3"><strong>Revenu maximum pour espèces protégées : 10 400$ (si 50 animaux dépecés)</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Revenu maximum pour espèces non protégées : 8 400$ (si 50 animaux dépecés)</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Quota maximum d'animaux dépecés par semaine : 50</strong></td>
+    </tr>
+  </tfoot>
+</table>
+
 
 ## Divers
 ### Stockage d'argent
