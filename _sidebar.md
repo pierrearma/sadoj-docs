@@ -35,6 +35,7 @@
       * [Carjacking](life/guides/dark/carjacking.md "Carjacking")
       * [Receleur de véhicule](life/guides/dark/vehicleresale.md "Receleur de véhicule")
       * [Les portes](life/guides/dark/doors.md "Les portes")
+      * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
