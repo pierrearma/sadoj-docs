@@ -23,7 +23,7 @@ Les organisations y ont accès pour des raisons évidentes, cependant la Justice
 
 Il apparaît ainsi sur la carte, la couleur de l'organisation ou du gang qui contrôle un territoire. S'il n'y a rien, aucun groupe ne contrôle la zone.
 
-![Exemple](../../_media/framework/turfwars.jpg)
+![Exemple](../../../_media/framework/turfwars.jpg)
 
 ## Comment cela fonctionne ?
 
