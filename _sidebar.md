@@ -40,7 +40,7 @@
     * Loisirs
       * [Prostituées](life/guides/Leisure/hookers.md "Prostituées")
 * SADoJ Docs
-  * [Installer le site localement](sadoj-docs/install.md)
+  * [Contribuer à SADoJ Docs](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
   * [Racourcis StreamDeck](sadoj-docs/streamdeck.md)
 
