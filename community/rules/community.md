@@ -42,7 +42,7 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
 * Toute réunion ayant lieu un dimanche férié (dans le calendrier français) sera annulée et les sujets reportés le dimanche suivant. Les votes lancés la semaine d'avant seront arrêtés afin de garantir l'égalité des sujets et les résultats annoncé dans un message membre.
 * Un sujet peut être reporté 4 fois au maximum.
 * Tout le monde peut déposer un sujet (à l’exception d’une demande de sanction, qui doit être validé par les médiateurs).
-* Il est interdit de déposer un sujet de réunion anonymement ou au nom d’un groupe, à l'exception des cas d'ajout de membres dans un groupe suite à un départ ou une exclusion. Toutefois, il est autorisé de déposer un sujet à plusieurs, mais l'ensemble des pseudonymes doivent être écrits. 
+* Il est interdit de déposer un sujet de réunion anonymement ou au nom d’un groupe, à l'exception des cas d'ajout de membres dans un groupe suite à un départ ou une exclusion. Toutefois, il est autorisé de déposer un sujet à plusieurs, mais l'ensemble des pseudonymes doivent être écrits.
 * Tout le monde a droit à la parole (il faut lever la main dans le chat).
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
 * Il n’est pas obligatoire d’assister aux réunions, mais c’est toutefois conseillé afin d’être au mieux informé des nouveautés.
@@ -77,6 +77,7 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 * Le spam, peu importe sa nature, est interdit.
 * Les contenus pornographiques explicites sont interdits.
 * Discuter, tenir des propos RP en dehors des salons RP est interdit.
+  * Pour les salons textuels Discord, il existe une commande de modération communautaire pour supprimer un message: en réponse à un message, écrire `-hrp` pour le supprimer.
 * Il est interdit d’enregistrer les conversations.
 * L’utilité des différents canaux doit être respecté.
 * Il est interdit de déplacer une personne sans avoir eu l’autorisation de cette dernière (sauf cas d’urgence, bruit, problème sur le serveur).
@@ -88,6 +89,8 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 * Mentionner tout le monde quand ce n’est pas nécessaire est interdit.
 * Discuter, débattre dans des salons non prévus à cet effet est interdit et entraînera la suppression des messages *(salons prévu pour les discussions, tous sauf Message Membres et les salons RP)*.
 * Seules les images et les vidéos sont autorisée dans le salon public #galerie.
+* Dans les salons dédiés aux débats, les messages hors sujet ou "troll" sont interdits.
+  * Il existe une commande de modération communautaire pour supprimer un message: en réponse à un message, écrire `-hs` pour le supprimer.
 
 ### TeamSpeak
 
