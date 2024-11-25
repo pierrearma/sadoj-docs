@@ -87,6 +87,7 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 * Quitter le Discord SADoJ volontairement est assimilé à un départ de la communauté.
 * Mentionner tout le monde quand ce n’est pas nécessaire est interdit.
 * Discuter, débattre dans des salons non prévus à cet effet est interdit et entraînera la suppression des messages *(salons prévu pour les discussions, tous sauf Message Membres et les salons RP)*.
+* Seules les images et les vidéos sont autorisée dans le salon public #galerie.
 
 ### TeamSpeak
 
