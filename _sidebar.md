@@ -40,6 +40,8 @@
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
       * [Prostituées](life/guides/Leisure/hookers.md "Prostituées")
+    * Véhicules
+      * [Carburant](life/guides/vehicles/fuel.md "Carburant")
 * SADoJ Docs
   * [Contribuer à SADoJ Docs](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
