@@ -36,6 +36,8 @@
       * [Receleur de véhicule](life/guides/dark/vehicleresale.md "Receleur de véhicule")
       * [Les portes](life/guides/dark/doors.md "Les portes")
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
+      * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
+      
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
