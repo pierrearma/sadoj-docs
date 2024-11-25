@@ -14,7 +14,7 @@ Pour pouvoir percer un coffre, il faut avoir au minimum une "perceuse" dans son 
 ## Procédure
 > [!ATTENTION] Avant toute chose, assurez-vous d'avoir bien le bon nombre de policier en service `Via radial menu`.
 
-Pour perçer un coffre, il faut se placer devant celui-ci et appuyer sur `E`. Une fois l'outil utilisé, un "mini-jeu" va apparaître.
+Pour perçer un coffre, il faut se placer devant celui-ci et appuyer sur `E`, et sélectionner l'action `percer le coffre` un "mini-jeu" va apparaître.
 
 ![Percage](../../../_media/life/guides/dark/safedrilling/safedrilling1.png)
 

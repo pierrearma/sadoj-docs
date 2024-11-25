@@ -37,6 +37,7 @@
       * [Les portes](life/guides/dark/doors.md "Les portes")
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
+      * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
       
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
