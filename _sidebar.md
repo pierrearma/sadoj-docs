@@ -42,6 +42,7 @@
       * [Prostituées](life/guides/Leisure/hookers.md "Prostituées")
     * Véhicules
       * [Carburant](life/guides/vehicles/fuel.md "Carburant")
+      * [Persistance des véhicules](life/guides/vehicles/persistence.md "Persistance des véhicules")
 * SADoJ Docs
   * [Contribuer à SADoJ Docs](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
