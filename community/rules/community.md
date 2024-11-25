@@ -80,7 +80,7 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 * Il est interdit d’enregistrer les conversations.
 * L’utilité des différents canaux doit être respecté.
 * Il est interdit de déplacer une personne sans avoir eu l’autorisation de cette dernière (sauf cas d’urgence, bruit, problème sur le serveur).
-* Il est interdit de débattre en public (public = dans les canaux membres par exemple) sauf dans le **canal textuel Discord « #débats »**, dans le **canal Teamspeak « Débats »** et en **réunion**.
+* Les débats sont autorisés uniquement dans les espaces prévus à cet effet : le **canal textuel Discord « #débats »**, le **canal Teamspeak « Débats »**, le **salon conférence Débats sur Discord**, ou lors des **réunions**.
 
 ### Discord
 
