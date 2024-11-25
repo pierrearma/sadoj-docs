@@ -14,6 +14,7 @@
     * [Rôle-play médical](life/rules/medical.md "Rôle-play médical")
     * [Termes RolePlay](life/rules/terms.md "Termes RolePlay")
     * [L'économie du serveur life](life/rules/economy.md "L'économie du serveur life")
+    * [Le sénat (règles)](life/rules/senate_rules.md "Le sénat (règles)")
   * Role-play
     * [Code de la route](life/rp/traffic_regulations.md "Code de la route")
     * [Code de Procédure Pénal](life/rp/criminal_procedure_code.md "Code de Procédure Pénal")
@@ -24,6 +25,7 @@
     * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
     * [Code pénal](life/rp/penal_code.md "Code pénal")
     * [Code executif ](life/rp/executive_code.md "Code executif")
+    * [Sénat (loi organique) ](life/rp/senate.md "Sénat (loi organique)")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
