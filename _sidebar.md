@@ -43,6 +43,7 @@
     * Véhicules
       * [Carburant](life/guides/vehicles/fuel.md "Carburant")
       * [Persistance des véhicules](life/guides/vehicles/persistence.md "Persistance des véhicules")
+      * [Ancre](life/guides/vehicles/anchor.md "Ancre")
 * SADoJ Docs
   * [Contribuer à SADoJ Docs](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
