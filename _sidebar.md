@@ -14,6 +14,7 @@
     * [Rôle-play médical](life/rules/medical.md "Rôle-play médical")
     * [Termes RolePlay](life/rules/terms.md "Termes RolePlay")
     * [L'économie du serveur life](life/rules/economy.md "L'économie du serveur life")
+    * [Le sénat (règles)](life/rules/senate_rules.md "Le sénat (règles)")
   * Role-play
     * [Code de la route](life/rp/traffic_regulations.md "Code de la route")
     * [Code de Procédure Pénal](life/rp/criminal_procedure_code.md "Code de Procédure Pénal")
@@ -24,6 +25,7 @@
     * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
     * [Code pénal](life/rp/penal_code.md "Code pénal")
     * [Code executif ](life/rp/executive_code.md "Code executif")
+    * [Sénat (loi organique) ](life/rp/senate.md "Sénat (loi organique)")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
@@ -35,6 +37,7 @@
       * [Carjacking](life/guides/dark/carjacking.md "Carjacking")
       * [Receleur de véhicule](life/guides/dark/vehicleresale.md "Receleur de véhicule")
       * [Les portes](life/guides/dark/doors.md "Les portes")
+      * [Les incendies](life/guides/dark/fire.md "Les incendies")
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
@@ -49,6 +52,10 @@
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
       * [Prostituées](life/guides/Leisure/hookers.md "Prostituées")
+    * Véhicules
+      * [Carburant](life/guides/vehicles/fuel.md "Carburant")
+      * [Persistance des véhicules](life/guides/vehicles/persistence.md "Persistance des véhicules")
+      * [Ancre](life/guides/vehicles/anchor.md "Ancre")
 * SADoJ Docs
   * [Contribuer à SADoJ Docs](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
