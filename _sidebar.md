@@ -41,13 +41,13 @@
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
-      * [Installation de balise GPS](life/guides/dark/trackerinstallation.md "Installation de balise GPS")
     * General
       * [Inventaire](life/guides/general/inventory.md "Inventaires")
       * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
       * [Animation](life/guides/general/animation.md "Animation")
       * [Vêtements](life/guides/general/clothes.md "Vêtements")
       * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
+      * [Installation de balise GPS](life/guides/dark/trackerinstallation.md "Installation de balise GPS")
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
