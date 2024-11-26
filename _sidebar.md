@@ -38,7 +38,6 @@
       * [Receleur de véhicule](life/guides/dark/vehicleresale.md "Receleur de véhicule")
       * [Les portes](life/guides/dark/doors.md "Les portes")
       * [Les incendies](life/guides/dark/fire.md "Les incendies")
-      * [Les incendies](life/guides/dark/fire.md "Les incendies")
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
