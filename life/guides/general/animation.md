@@ -27,7 +27,7 @@ Le menu `Animation` vous permet de réaliser de multiples actions avec votre per
 
 ## Les 4 catégories d’Emotes
 
-    Ces 4 catégories regroupent toutes les émotes selon le thème de celle-ci, il y a la danse, les props, les sports et enfin la nourriture et les boissons.
+Ces 4 catégories regroupent toutes les émotes selon le thème de celle-ci, il y a la danse, les props, les sports et enfin la        nourriture et les boissons.
 
 - Emote Partagées
     * Vous retrouverez ici toutes les émotes que vous pouvez utiliser avec/sur les autres joueurs, aussi bien des émotes de danse que des actions telles qu’un câlin.

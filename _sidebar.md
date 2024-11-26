@@ -44,7 +44,7 @@
       * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
       * [Animation](life/guides/general/animation.md "Animation")
       * [Vêtements](life/guides/general/clothes.md "Vêtements")
-      * [Centrales d'appels](life/guides/general/calcenter.md "Centrales d'appels")
+      * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
