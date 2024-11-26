@@ -6,6 +6,8 @@
 
 Cette page vous explique comment contribuer à faire des modifications sur SADoJ Docs.
 
+Ce tuto est fait seulement pour ***WINDOWS***. Si quelqu'un a un mac et veux bien regarder ensemble pour faire une version Mac de ce tuto veuillez contacter Flyhight.
+
 1. Installer [Visual Studio code](https://code.visualstudio.com/Download).
 
 2. Installer [Github Desktop](https://desktop.github.com/download/).
