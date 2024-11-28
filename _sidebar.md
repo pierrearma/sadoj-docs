@@ -38,6 +38,16 @@
       * [Receleur de véhicule](life/guides/dark/vehicleresale.md "Receleur de véhicule")
       * [Les portes](life/guides/dark/doors.md "Les portes")
       * [Les incendies](life/guides/dark/fire.md "Les incendies")
+      * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
+      * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
+      * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
+    * General
+      * [Inventaire](life/guides/general/inventory.md "Inventaires")
+      * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
+      * [Animation](life/guides/general/animation.md "Animation")
+      * [Vêtements](life/guides/general/clothes.md "Vêtements")
+      * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
+      * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
