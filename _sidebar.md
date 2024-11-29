@@ -41,6 +41,7 @@
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
+      * [Achat armes non enregistrées](life/guides/dark/purchaseofunregisteredweapons.md "Achat armes non enregistrées")
     * General
       * [Inventaire](life/guides/general/inventory.md "Inventaires")
       * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
