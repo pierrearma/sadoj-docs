@@ -49,6 +49,7 @@
       * [Vêtements](life/guides/general/clothes.md "Vêtements")
       * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
       * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
+      * [Production de Cannabis](life/guides/general/cannabisproduction.md "Production de Cannabis")
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
