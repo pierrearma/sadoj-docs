@@ -17,7 +17,6 @@ Grâce à l'onglet `utiliser` dans votre inventaire `F2`, ainsi  qu'à l'aide de
 
 Une fois cela fait, vous pourrez le remplir de terreau via la touche `alt` de votre clavier. Toujours grâce au `alt`, vous pourrez planter une `graine de cannabis`. 
 
-![cannabisproduction](../../../_media/life/guides/general/cannabisproduction/cannabisproduction1.jpg)
 ![cannabisproduction](../../../_media/life/guides/general/cannabisproduction/cannabisproduction2.jpg)
 ![cannabisproduction](../../../_media/life/guides/general/cannabisproduction/cannabisproduction3.jpg)
 ![cannabisproduction](../../../_media/life/guides/general/cannabisproduction/cannabisproduction4.jpg)
