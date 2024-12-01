@@ -50,11 +50,12 @@
       * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
       * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
       * [Production de Cannabis](life/guides/general/cannabisproduction.md "Production de Cannabis")
-      * [Chasse et Braconnage](life/guides/general/huntingandpoaching.md "Chasse et Braconnage")
+     
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
       * [Prostituées](life/guides/Leisure/hookers.md "Prostituées")
+      * [Chasse et Braconnage](life/guides/general/huntingandpoaching.md "Chasse et Braconnage")
     * Véhicules
       * [Carburant](life/guides/vehicles/fuel.md "Carburant")
       * [Persistance des véhicules](life/guides/vehicles/persistence.md "Persistance des véhicules")
