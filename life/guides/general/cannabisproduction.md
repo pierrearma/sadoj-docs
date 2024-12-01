@@ -50,6 +50,7 @@ Une fois celui-ci installé à l’endroit choisi, vous pourrez accrocher dessus
 > [!NOTE] Regardez bien le pied de l’étendoir avec votre `alt`. 
 
 Sec, vous pourrez les récupérer en les regardant avec `alt`. 
+En les décrochant, vous récupérerez plusieurs `fleurs de cannabis`. 
 
 
 ## Mise en sachet
