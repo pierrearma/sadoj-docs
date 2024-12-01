@@ -31,6 +31,14 @@
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
     * [Commandes (nerds uniquement)](life/guides/commands.md "Commandes (nerds uniquement)")
     * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
+    * General
+      * [Inventaire](life/guides/general/inventory.md "Inventaires")
+      * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
+      * [Animation](life/guides/general/animation.md "Animation")
+      * [Vêtements](life/guides/general/clothes.md "Vêtements")
+      * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
+      * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
+      * [Production de Cannabis](life/guides/general/cannabisproduction.md "Production de Cannabis")
     * Dark
       * [Guerres de territoires](life/guides/dark/turfwars.md "Guerres de territoires")
       * [Crochetage d'un véhicule](life/guides/dark/lockpicking.md "Crochetage d'un véhicule")
@@ -42,15 +50,7 @@
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
       * [Achat armes non enregistrées](life/guides/dark/purchaseofunregisteredweapons.md "Achat armes non enregistrées")
-    * General
-      * [Inventaire](life/guides/general/inventory.md "Inventaires")
-      * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
-      * [Animation](life/guides/general/animation.md "Animation")
-      * [Vêtements](life/guides/general/clothes.md "Vêtements")
-      * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
-      * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
-      * [Production de Cannabis](life/guides/general/cannabisproduction.md "Production de Cannabis")
-     
+   
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs

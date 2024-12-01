@@ -16,9 +16,9 @@ Il vous est possible de chasser, le fonctionnement est plutôt simple.
 Il vous suffira de tirer sur différents animaux. Une fois l’animal abattu, vous pourrez, en regardant l’animal via `alt`, le dépecer. 
 Une fois l’animal disparu, vous pourrez regarder dans votre inventaire `F2` la quantité de peau et de viande récupérées. 
 
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching1.png)
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching2.png)
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching3.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching1.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching2.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching3.png)
 
 
 ## Taxidermiste 
@@ -27,8 +27,8 @@ Vous trouverez une boutique taxidermiste où il vous sera possible de vendre la 
 Une fois sur place, il vous suffira de suivre les informations suivantes, `E` pour ouvrir le menu de la boutique, `vendre`, sélectionner le type de peau que vous souhaitez vendre (ex: `peau de cerf`) et enfin, sélectionner la quantité (ex: `6`). 
 Vous recevrez votre argent en liquide. 
 
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching4.png)
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching5.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching4.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching5.png)
 
 
 ## Boucherie on the bones
@@ -38,5 +38,5 @@ Une fois sur place, il vous suffira de suivre les informations suivantes, `E` po
 (ex: `12`). 
 Vous recevrez votre argent en liquide. 
 
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching6.png)
-![Huntingandpoaching](../../../_media/life/guides/general/huntingandpoaching/huntingandpoaching7.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching6.png)
+![Huntingandpoaching](../../../_media/life/guides/leisure/huntingandpoaching/huntingandpoaching7.png)
