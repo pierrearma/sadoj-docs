@@ -31,6 +31,110 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 > Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
 * Le coût d'un transport de fonds doit être compris **entre 3 et 7 % de la valeur transportée.**
 
+### Les prix des véhicules, du custom
+* Les prix des véhicules sont calculés sur la base des prix des prix réels. Voir le tableau suivant:
+  
+<table border="1">
+    <tr>
+        <th>Tranches des prix réels</th>
+        <th>Réduction appliquée</th>
+        <th>Prix après réduction</th>
+    </tr>
+    <tr>
+        <td>≤ 100 000</td>
+        <td>Aucune</td>
+        <td>Prix réel</td>
+    </tr>
+    <tr>
+        <td>100 001 - 200 000</td>
+        <td>10 %</td>
+        <td>Prix réel * 0.9</td>
+    </tr>
+    <tr>
+        <td>200 001 - 300 000</td>
+        <td>15 %</td>
+        <td>Prix réel * 0.85</td>
+    </tr>
+    <tr>
+        <td>300 001 - 400 000</td>
+        <td>20 %</td>
+        <td>Prix réel * 0.8</td>
+    </tr>
+    <tr>
+        <td>400 001 - 500 000</td>
+        <td>30 %</td>
+        <td>Prix réel * 0.7</td>
+    </tr>
+    <tr>
+        <td>500 001 - 600 000</td>
+        <td>35 %</td>
+        <td>Prix réel * 0.65</td>
+    </tr>
+    <tr>
+        <td>600 001 - 700 000</td>
+        <td>40 %</td>
+        <td>Prix réel * 0.6</td>
+    </tr>
+    <tr>
+        <td>700 001 - 800 000</td>
+        <td>50 %</td>
+        <td>Prix réel * 0.5</td>
+    </tr>
+    <tr>
+        <td>800 001 - 1 000 000</td>
+        <td>55 %</td>
+        <td>Prix réel * 0.45</td>
+    </tr>
+    <tr>
+        <td>1 000 001 - 2 000 000</td>
+        <td>60 %</td>
+        <td>Prix réel * 0.4</td>
+    </tr>
+    <tr>
+        <td>2 000 001 - 3 000 000</td>
+        <td>70 %</td>
+        <td>Prix réel * 0.3</td>
+    </tr>
+    <tr>
+        <td>3 000 001 - 5 000 000</td>
+        <td>75 %</td>
+        <td>Prix réel * 0.25</td>
+    </tr>
+    <tr>
+        <td>> 5 000 000</td>
+        <td>85 %</td>
+        <td>Prix réel * 0.15</td>
+    </tr>
+</table>
+
+* Le prix des custom des véhicules est calculé selon le prix d'achat  neuf du véhicule.
+  
+#### Répartition lors de l'achat d'un véhicule, de custom
+  
+  <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>Répartition</th>
+            <th>Taux</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Part de l'entreprise</b></td>
+            <td>60 %</td>
+        </tr>
+        <tr>
+            <td><b>Taxe versée à l'État</b></td>
+            <td>10 %</td>
+        </tr>
+        <tr>
+            <td><b>Part du PNJ</b></td>
+            <td>30 %</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### Pour l’immobilier
 
 #### Notaire PNJ
@@ -975,6 +1079,59 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
     </tbody>
 </table>
 
+### Pour le métier d'éboueur
+
+<table border="1" style="border-collapse: collapse; width: 100%; margin-bottom: 20px; text-align: left;">
+    <thead>
+        <tr style="background-color: #e6f7ff;">
+            <th>Élément</th>
+            <th>Détail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Remplissage</b></td>
+            <td>1 % de remplissage = 1 poubelle</td>
+        </tr>
+        <tr>
+            <td><b>Prix par poubelle</b></td>
+            <td>20 $</td>
+        </tr>
+        <tr>
+            <td><b>Revenu maximum</b></td>
+            <td>100 % remplissage = 2000 $</td>
+        </tr>
+        <tr>
+            <td><b>Temps estimé</b></td>
+            <td>40 minutes</td>
+        </tr>
+    </tbody>
+</table>
+
+### Pour le métier de constructeur
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+    <thead>
+        <tr style="background-color: #ffebe6;">
+            <th>Élément</th>
+            <th>Détail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Temps estimé</b></td>
+            <td>25-30 minutes</td>
+        </tr>
+        <tr>
+            <td><b>Gain de base</b></td>
+            <td>1500 $</td>
+        </tr>
+        <tr>
+            <td><b>Coefficient</b></td>
+            <td>Ajusté selon distance (moins loin, plus loin)</td>
+        </tr>
+    </tbody>
+</table>
 
 ### Pour la chasse 
 
