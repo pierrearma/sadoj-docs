@@ -7,6 +7,8 @@
 
 Le menu `Animation` vous permet de réaliser de multiples actions avec votre personnage. Pour ouvrir le menu d’animation, il faut appuyer sur votre touche `F10`, on y retrouve ensuite 5 catégories.
 
+> [!NOTE] Vous pourrez visualiser vos animations, démarches et émotes à droite de votre écran. 
+
 ![Animation](../../../_media/life/guides/general/animation/animation1.png)
 
 # Je retrouve quoi ?

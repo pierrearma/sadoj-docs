@@ -27,4 +27,5 @@ Il vous suffira de vous approcher des passants afin de leur proposer un sachet. 
 
 ## Risques
 
-Il est possible que certains passants refusent, et face un appel à la police.
+Il est possible que certains passants refusent, et face un appel à la police. 
+De plus, la police peut interroger les passants pour récupérer des informations sur vous. 
