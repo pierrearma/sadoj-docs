@@ -38,7 +38,6 @@
       * [Vêtements](life/guides/general/clothes.md "Vêtements")
       * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
       * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
-      * [Production de Cannabis](life/guides/general/cannabisproduction.md "Production de Cannabis")
     * Dark
       * [Guerres de territoires](life/guides/dark/turfwars.md "Guerres de territoires")
       * [Crochetage d'un véhicule](life/guides/dark/lockpicking.md "Crochetage d'un véhicule")
@@ -50,12 +49,12 @@
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
       * [Achat armes non enregistrées](life/guides/dark/purchaseofunregisteredweapons.md "Achat armes non enregistrées")
-   
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
     * Loisirs
       * [Prostituées](life/guides/Leisure/hookers.md "Prostituées")
-      * [Chasse et Braconnage](life/guides/general/huntingandpoaching.md "Chasse et Braconnage")
+      * [Chasse et Braconnage](life/guides/Leisure/huntingandpoaching.md "Chasse et Braconnage")
+      * [Production de Cannabis](life/guides/Leisure/cannabisproduction.md "Production de Cannabis")
     * Véhicules
       * [Carburant](life/guides/vehicles/fuel.md "Carburant")
       * [Persistance des véhicules](life/guides/vehicles/persistence.md "Persistance des véhicules")
