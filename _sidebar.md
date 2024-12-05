@@ -39,6 +39,7 @@
       * [Vêtements](life/guides/general/clothes.md "Vêtements")
       * [Centrales d'appels](life/guides/general/callcenter.md "Centrales d'appels")
       * [Installation de balise GPS](life/guides/general/trackerinstallation.md "Installation de balise GPS")
+      * [Menottes](life/guides/general/handcuffs.md "Menottes")
     * Dark
       * [Guerres de territoires](life/guides/dark/turfwars.md "Guerres de territoires")
       * [Crochetage d'un véhicule](life/guides/dark/lockpicking.md "Crochetage d'un véhicule")

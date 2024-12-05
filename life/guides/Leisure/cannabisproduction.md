@@ -45,12 +45,12 @@ Une fois celui-ci installé à l’endroit choisi, vous pourrez accrocher dessus
 ![cannabisproduction](../../../_media/life/guides/leisure/cannabisproduction/cannabisproduction10.jpg)
 ![cannabisproduction](../../../_media/life/guides/leisure/cannabisproduction/cannabisproduction11.jpg)
 
-
-
 > [!NOTE] Regardez bien le pied de l’étendoir avec votre `alt`. 
 
 Sec, vous pourrez les récupérer en les regardant avec `alt`. 
 En les décrochant, vous récupérerez plusieurs `fleurs de cannabis`. 
+
+![cannabisproduction](../../../_media/life/guides/leisure/cannabisproduction/cannabisproduction20.jpg)
 
 
 ## Mise en sachet
