@@ -115,16 +115,12 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
 * En cas d’intrusion, si des PNJ sont présents et qu’aucun joueur témoin n’est à proximité, l’appel police anonyme est obligatoire.
 * Dans le cadre de l'installation de systèmes d'alarme dans le jeu, il est strictement interdit d'avoir plus d'une alarme installée pour sécuriser une même salle. Chaque salle ne peut disposer que d'une seule alarme. Cette règle vise à maintenir l'équilibre du jeu et à empêcher les joueurs d'accumuler trop de sécurité pour un même endroit, ce qui pourrait altérer l'expérience de jeu pour les autres participants.
-* Si vous souhaitez dénoncer ou fournir des informations aux forces de l’ordre ou à la justice dans l'objectif de nuire à l'intégrité d'une organisation en particulier, vous devez obligatoirement obtenir l’accord du groupe dark. Cette demande à pour objectif de vérifier la cohérence et la légitimité de l'action.
-  * Dans le cas où vous vous trouvez sous contrainte (*sous menaces, en échange de réduction de peine, etc...*), vous n’avez pas besoin de l’accord de celui-ci.
-  * Les membres du groupe dark présentant des conflits d’intérêts ne peuvent pas être impliqué dans la décision.
 * Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau.
 
 ## Armes & tirs
 
 * Il est strictement interdit de descendre quelqu’un par pur plaisir (freekill) et il doit y avoir un passif cohérent.
 * Les tirs de neutralisation sont interdit (tir dans la tête pour être tranquille).
-* Le tir à partir d’un couvert ou les tirs depuis un véhicule doit être effectué en Rôle-Play, donc non précis.
 * Il est possible sur demande au groupe dark d’obtenir exceptionnellement des armes lourdes ou des explosifs (notamment des bombes artisanales). La demande doit être justifié.
 * Les explosifs peuvent être posées sur un véhicule mais ne peuvent être activées que si il n’y a personne dans le véhicule (afin d’éviter d’imposer une mort Rôle-Play). Seules les grenades peuvent être lancées, les bombes doivent être posées à proximité ou sur la cible.
 * Il est interdit de tirer directement sur une personne avec un lanceur pyrotechnique.
@@ -133,14 +129,14 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 * Il n’est pas nécessaire d’être dans une organisation ou dans un gang pour voler un véhicule.
 * Lorsqu’il y a assez de policiers en services pour voler un véhicule, il devient possible de carjacker les véhicules PNJ.
-* Il est possible de revendre des véhicules à des receleurs PNJ, seuls les membres de gang ou d’organisation ont la possibilité de faire affaire avec eux. La police peut également les démanteler.
+* Il est possible de revendre des véhicules à des receleurs PNJ, l'ensemble des joueurs ont la possibilité de faire affaire avec eux. Les organisation et les gangs sont les seules à pouvoir récupérer l’info. La police peut également les démanteler.
   * Le receleur achète à prix cassé les véhicules PNJ qui n’ont pas été crocheté. Jouez le jeux et crochetez les véhicules que vous volez.
 * Si vous êtes dans une organisation ou un gang, vous avez la possibilité de mettre un véhicule au faux nom de votre organisation pour que l’ensemble des membre de l’organisation puisse avoir les clés. Pour ce faire, le véhicule doit vous appartenir.
 * Le vol de véhicule joueur doit se faire obligatoirement avec un témoin, qu’il soit à proximité ou non tant qu’une personne hors du groupe de voleurs peut voir le vol. Les vols de véhicules joueurs sans personne autour sont interdits. Dans le cas où cela se produit, le véhicule sera restitué au joueur et si le véhicule a été vendu, l’argent sera retiré au voleur.
 * Le vol de contenu d'un véhicule joueur peut se faire sans interaction.
 * Il est interdit d’utiliser l’option dans le F7 d’entreprise pour crocheter des véhicules volés. Utilisez les outils de crochetage vendu en magasin de bricolage.
-* Si une entreprise ou un particulier subit plus de 1 vol de véhicule dans la semaine le véhicule sera restitué sans contrepartie et l’argent sera retiré au voleur **que dans le cas où** il était l’auteur du vol précédent (lui ou un membre de son organisation).
-  * Il y a une **exception pour les concessionnaires** pour qui la limite est de 2 véhicules par semaine dans les mêmes conditions.
+* Si une entreprise ou un particulier subit plus de 2 vols de véhicule dans la semaine, le véhicule sera restitué sans contrepartie et l’argent sera retiré au voleur **que dans le cas où** il était l’auteur du vol précédent (lui ou un membre de son organisation).
+  * Il y a une **exception pour les concessionnaires** pour qui la limite est de 5 véhicules par semaine dans les mêmes conditions.
 
 ## Trafic de drogue
 
@@ -168,7 +164,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 ## Les braquages
 
 * La négociation est toujours à privilégier.
-* Il est possible de braquer une personne pour le contenu de son compte en banque pour un montant maximal de **10 000$** par semaine. Dans le cas où une victime subit plus de 1 braquage avec retrait d’argent dans la semaine de plus de 10.000$ l’argent sera restitué sans contrepartie et l’argent sera retiré au voleur que dans le cas où il était l’auteur du vol précédent (lui ou un membre de son organisation).
+* Il est possible de braquer une personne pour le contenu de son compte en banque pour un montant maximal de **30 000$** par semaine. Dans le cas où une victime subit plus de 1 braquage avec retrait d’argent dans la semaine de plus de 30.000$ l’argent sera restitué sans contrepartie et l’argent sera retiré au voleur que dans le cas où il était l’auteur du vol précédent (lui ou un membre de son organisation).
 * La totalité de la valeur transportée lors de convois de fonds peut être volée.
 * Il existe actuellement 3 types de braquages PNJ, l’interaction est possible s’il y a assez de policiers en service, chaque type nécessite du matériel particulier, trouvez un moyens de vous renseigner en RP:
   * Les caisses enregistreuses de boutiques
@@ -185,15 +181,14 @@ L’informateur est inclus dans le prix de création de l’organisation.
 ## Les services où l’illégal est interdit
 
 * Les actions illégales et la corruption sont interdits pour les services suivant:
-  * Police (dont Fire marshal)
-  * Juges
-  * Procureurs
   * Gouverneur et lieutenant-gouverneur
   * Contrôleur fiscal
+Les actions illégales et la corruption sont autorisé pour les services suivant:
+  * Police (dont Fire marshal)
+  * Juges 1/3
+  * Procureurs 1/3
 * L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne rentre pas dans l’illégal.
-* Pour enrichir et développer le RP, certains policiers ont la possibilité de faire de l’illégal et/ou être corrompu.
-  * Maximum 1 policier sur 5 par service sur dossier et demande auprès du groupe dark.
-  * Ces policiers sont éligibles à la mort RP dark.
+* Pour les services autorisés il faut faire une demande sur dossier auprès du groupe dark. Ces policiers sont éligibles à la mort RP dark.
 
 ## Safes-Zones
 
@@ -219,7 +214,7 @@ Toutes les propriétés de gang ou d’organisations ne sont pas forcément des 
 
 Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers seront tenus de passer par le groupe Dark pour valider ou non l'achat.
 
-* Il est interdit de rejoindre ou de se réfugier une Dark Zone sans avoir semé la police.
+* Il est interdit de se réfugier dans une Dark Zone sans avoir semé la police. 
 
 ## Mort RP Dark
 
@@ -267,8 +262,8 @@ Les organisations auront désormais la possibilité d'avoir jusqu'à trois faux 
 
 La création d’organisation dark se fait sur dossier, avec deux types disponibles :
 
-* Les organisations dites classiques nécessitent un minimum de cinq personnes et un maximum de dix. 
-* Les organisations appelées Cartels doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins huit joueurs actifs et au maximum de dix, et soumettre une demande détaillée au groupe Dark.
+* Les organisations dites classiques ne nécessitent aucun minimum mais un maximum de dix personnes.
+* Les organisations appelées Cartels doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins cinq joueurs actifs.  
 
 Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
 
