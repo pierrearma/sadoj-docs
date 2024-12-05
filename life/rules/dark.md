@@ -129,7 +129,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 * Il n’est pas nécessaire d’être dans une organisation ou dans un gang pour voler un véhicule.
 * Lorsqu’il y a assez de policiers en services pour voler un véhicule, il devient possible de carjacker les véhicules PNJ.
-* Il est possible de revendre des véhicules à des receleurs PNJ, l'ensemble des joueurs ont la possibilité de faire affaire avec eux. Les organisation et les gangs sont les seules à pouvoir récupérer l’info. La police peut également les démanteler.
+* Il est possible de revendre des véhicules à des receleurs PNJ, l'ensemble des joueurs ont la possibilité de faire affaire avec eux. Les organisation et les gangs sont les seules à pouvoir récupérer l’information de localisation. La police peut également les démanteler.
   * Le receleur achète à prix cassé les véhicules PNJ qui n’ont pas été crocheté. Jouez le jeux et crochetez les véhicules que vous volez.
 * Si vous êtes dans une organisation ou un gang, vous avez la possibilité de mettre un véhicule au faux nom de votre organisation pour que l’ensemble des membre de l’organisation puisse avoir les clés. Pour ce faire, le véhicule doit vous appartenir.
 * Le vol de véhicule joueur doit se faire obligatoirement avec un témoin, qu’il soit à proximité ou non tant qu’une personne hors du groupe de voleurs peut voir le vol. Les vols de véhicules joueurs sans personne autour sont interdits. Dans le cas où cela se produit, le véhicule sera restitué au joueur et si le véhicule a été vendu, l’argent sera retiré au voleur.
@@ -183,12 +183,13 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Les actions illégales et la corruption sont interdits pour les services suivant:
   * Gouverneur et lieutenant-gouverneur
   * Contrôleur fiscal
-Les actions illégales et la corruption sont autorisé pour les services suivant:
+Les actions illégales et la corruption sont autorisé pour les services suivant, il faut faire une demande sur dossier auprès du groupe dark :
+
   * Police (dont Fire marshal)
   * Juges 1/3
   * Procureurs 1/3
 * L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne rentre pas dans l’illégal.
-* Pour les services autorisés il faut faire une demande sur dossier auprès du groupe dark. Ces policiers sont éligibles à la mort RP dark.
+* Ces policiers sont éligibles à la mort RP dark.
 
 ## Safes-Zones
 
@@ -263,7 +264,7 @@ Les organisations auront désormais la possibilité d'avoir jusqu'à trois faux 
 La création d’organisation dark se fait sur dossier, avec deux types disponibles :
 
 * Les organisations dites classiques ne nécessitent aucun minimum mais un maximum de dix personnes.
-* Les organisations appelées Cartels doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins cinq joueurs actifs.  
+* Les organisations appelées Cartels doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins cinq joueurs actifs (une connexion par semaine).  
 
 Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
 
