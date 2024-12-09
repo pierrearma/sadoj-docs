@@ -407,7 +407,7 @@
       </td>
       <td style="text-align: center;">9</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Roni, Elkas, Dylan51, Bragon, Valdum, Spen82, Weazley, Estéban</td>
+      <td style="text-align: center;">Pierre, Roni, Elkas, Bragon, Valdum, Spen82, Weazley, Estéban</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Gestionnaire VPS</td>
