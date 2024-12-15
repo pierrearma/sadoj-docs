@@ -210,7 +210,7 @@
       </td>
       <td style="text-align: center;">2</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Jordan, Kentinlsy</td>
+      <td style="text-align: center;">Spen82, Kentinlsy</td>
       <td style="text-align: center;">Volontaire (éditeur sur le site)</td>
     </tr>
     <tr>
