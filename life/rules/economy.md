@@ -1229,4 +1229,9 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
 - Sont exclus la vente d'arme, le custom d'arme, de licence.
 - Le délai de mise en conformité est fixé à un mois à partir du 11/09/24
 
- 
+ ### Kits de réparation, de nettoyage
+
+- Kit de réparation : prix de vente minimum 5000$
+- Kit de nettoyage : prix de vente conseillés 50$
+- Les 2 kits ne sont achetables qu'auprès des garages pour les clients finaux (exclusivités garage)
+- Les fournisseurs ont l'obligation de vendre ces kits exclusivement aux garages.
