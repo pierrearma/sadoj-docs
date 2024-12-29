@@ -29,8 +29,9 @@
 * [Charte du créateur de contenu (direct ou vidéo)](community/rules/streamer.md)
 * Un ancien membre partit de lui même ou étant exclu pour inactivité a la possibilité de faire une demande de retour.
 * Un membre qui a fait l'objet d'un vote de bannissement ou qui est parti de lui-même après avoir porté atteinte à l’intégrité de la communauté, de ses serveurs (jeux, TeamSpeak, Discord) ou de ses documents, pourra soumettre une demande de retour en deux étapes :
-  * Les informations concernant la sanction seront partagées par les médiateurs. Un débat entre les membres permettra d’évaluer si le membre peut être autorisé à revenir pour bénéficier d'une seconde chance.
+  * Les informations concernant la sanction seront partagées par les médiateurs. Un premier vote permettra d’évaluer si le membre peut être autorisé à demander son retour.
   * Si la réintégration est acceptée, le membre pourra plaider sa cause lors d’une réunion (par exemple, un dimanche). Un vote sera alors organisé pour valider ou non son retour. Si accepté, celui-ci sera assorti de restrictions pendant une durée déterminée.
+  * Le vote doit obtenir une majorité de 2/3 pour que celui-ci soit accepté.
 * Un membre ayant une absence prolongée ne peut pas avoir un rôle dans la communauté (recruteur, groupe économiste, groupe justice, groupe dark, …) et ne peut pas être PDG d’une entreprise ou occuper tout autre rôle important en RP (gouverneur, chef d’un service public, procureur, juge, …). Si le membre ne se retire pas de sa propre initiative, la communauté lui retirera son rôle.
 * Tout membre qui quitte la communauté alors qu’une procédure de médiation ou une procédure de sanction est en cours ne pourra pas réintégrer la communauté (prend effet dès la réception du message d’un médiateur).
 * Tous les 4 mois, lors de la première réunion du mois concerné, la communauté doit voter pour les nouveaux membres faisant partie de la médiation (les membres déjà dans le groupe peuvent postuler). Le sujet doit être créé lors de la réunion précédente et la collecte des volontaires se fait la semaine précédant le vote.
