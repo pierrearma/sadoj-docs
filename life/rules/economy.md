@@ -13,7 +13,8 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 > [!ATTENTION]
 > Les modifications seront présentées en réunion mais non soumises au vote de la communauté **sauf si elles impactent immédiatement l'ensemble de la communauté et ne découlent pas d'une décision RP ET/OU ne concernent pas exclusivement la définition d'un prix ou d'une valeur précise ET/OU ne sont pas un correctif à un problème urgent.**
 
-> Il est possible de contactez les économistes par le formulaire mis à disposition, il est accessible depuis le site principal (seulement par les membres).
+> [!NOTE]
+> Il est possible de contactez les économistes par le formulaire mis à disposition, il est accessible depuis le Drive (seulement par les membres).
 
 > [!ATTENTION]
 > **Tout membre de la communauté est le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.**
@@ -22,358 +23,175 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ### Les salaires
 
-* Le salaire minimum actuel est de **$2.500/semaine** si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci)
+* Le salaire minimum actuel est de **$2.500/semaine** si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci).
 * Des primes peuvent être données en plus afin de récompenser les employés. Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle-ci.
+
+### Honoraires des avocats
+
+|     Type de contrat     | Plafond |
+| :---------------------: | :-----: |
+| Hors commision d'office | 20 000$ |
+|  En commision d'office  | 10 000$ |
+
+L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder **10% de ce dernier.**
+
+### Revenus des journalistes
+
+- Pas de limite d'article, de tweet, de video.
+- Le groupe des économistes peut également décider de ne donner aucun revenu en cas de tromperie, de sujets qui n'ont aucun rapport avec le serveur.
+
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Revenu</th>
+  </tr>
+  <tr>
+    <td>Post Birdy</td>
+    <td>500$/post (maximum 10 posts rémunérés sur une semaine)</td>
+  </tr>
+  <tr>
+    <td>Tweet sur X</td>
+    <td>15$/impression</td>
+  </tr>
+  <tr>
+    <td>Tweet sur X enrichi <i>(petite vidéo sans travail journalistique)<i></td>
+    <td>20$/impression</td>
+  </tr>
+  <tr>
+    <td>Tweet avec article sur X <i>(travaillé)<i></td>
+    <td>150$/impression</td>
+  </tr>
+  <tr>
+    <td>Article site <i>(travaillé)<i></td>
+    <td>150$/vue</td>
+  </tr>
+  <tr>
+    <td>Vidéo discours <i>(captation d’images)<i></td>
+    <td>100$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Vidéos Méteo</td>
+    <td>100$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Vidéo conférence de presse</td>
+    <td>120$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Vidéo interview <i>(travail journalistique)<i></td>
+    <td>150$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Vidéo évènement <i>(travail journalistique)<i></td>
+    <td>150$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Vidéo divers évènements avec montage <i>(travail journalistique)<i></td>
+    <td>170$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Vidéo reportage avec enquête journalistique</td>
+    <td>200$/vue ou impression</td>
+  </tr>
+  <tr>
+    <td>Radio</td>
+    <td>20$/ auditeur</td>
+  </tr>
+</table>
+
+### Les revenus de travail ou activité PNJ
+
+Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse permettent de toucher de l’argent versé par un PNJ. Le but est de rester cohérent ici et de ne pas farmer excessivement dans le but de s’enrichir plus que la normale. Ce sont des jobs de dépannage pour se faire un peu d’argent quand on a pas d’emploi ou pour se faire un petit plus. Passer sa journée sur le serveur à faire ce genre de chose alors que personne n’est connecté et que cela n’est pas cohérent avec le RP de votre personnage n’est pas une attitude que l’on souhaite voir dans la communauté.
 
 ## Les prix
 
 > [!NOTE]
 > Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
+
 * Le coût d'un transport de fonds doit être compris **entre 3 et 7 % de la valeur transportée.**
 
-### Les prix des véhicules, du custom
-* Les prix des véhicules sont calculés sur la base des prix des prix réels. Voir le tableau suivant:
-  
-<table border="1">
-    <tr>
-        <th>Tranches des prix réels</th>
-        <th>Réduction appliquée</th>
-        <th>Prix après réduction</th>
-    </tr>
-    <tr>
-        <td>≤ 100 000</td>
-        <td>Aucune</td>
-        <td>Prix réel</td>
-    </tr>
-    <tr>
-        <td>100 001 - 200 000</td>
-        <td>10 %</td>
-        <td>Prix réel * 0.9</td>
-    </tr>
-    <tr>
-        <td>200 001 - 300 000</td>
-        <td>15 %</td>
-        <td>Prix réel * 0.85</td>
-    </tr>
-    <tr>
-        <td>300 001 - 400 000</td>
-        <td>20 %</td>
-        <td>Prix réel * 0.8</td>
-    </tr>
-    <tr>
-        <td>400 001 - 500 000</td>
-        <td>30 %</td>
-        <td>Prix réel * 0.7</td>
-    </tr>
-    <tr>
-        <td>500 001 - 600 000</td>
-        <td>35 %</td>
-        <td>Prix réel * 0.65</td>
-    </tr>
-    <tr>
-        <td>600 001 - 700 000</td>
-        <td>40 %</td>
-        <td>Prix réel * 0.6</td>
-    </tr>
-    <tr>
-        <td>700 001 - 800 000</td>
-        <td>50 %</td>
-        <td>Prix réel * 0.5</td>
-    </tr>
-    <tr>
-        <td>800 001 - 1 000 000</td>
-        <td>55 %</td>
-        <td>Prix réel * 0.45</td>
-    </tr>
-    <tr>
-        <td>1 000 001 - 2 000 000</td>
-        <td>60 %</td>
-        <td>Prix réel * 0.4</td>
-    </tr>
-    <tr>
-        <td>2 000 001 - 3 000 000</td>
-        <td>70 %</td>
-        <td>Prix réel * 0.3</td>
-    </tr>
-    <tr>
-        <td>3 000 001 - 5 000 000</td>
-        <td>75 %</td>
-        <td>Prix réel * 0.25</td>
-    </tr>
-    <tr>
-        <td>> 5 000 000</td>
-        <td>85 %</td>
-        <td>Prix réel * 0.15</td>
-    </tr>
-</table>
+### Prix des véhicules et du custom
 
-* Le prix des custom des véhicules est calculé selon le prix d'achat  neuf du véhicule.
-  
-#### Répartition lors de l'achat d'un véhicule, de custom
-  
-  <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
-    <thead>
-        <tr style="background-color: #f2f2f2;">
-            <th>Répartition</th>
-            <th>Taux</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><b>Part de l'entreprise</b></td>
-            <td>60 %</td>
-        </tr>
-        <tr>
-            <td><b>Taxe versée à l'État</b></td>
-            <td>10 %</td>
-        </tr>
-        <tr>
-            <td><b>Part du PNJ</b></td>
-            <td>30 %</td>
-        </tr>
-    </tbody>
-</table>
-
-
-### Pour l’immobilier
-
-#### Notaire PNJ
-
-Il est constitué des économistes, son rôle consiste à :
-- Donner la valeur d’un bien sur le marché
-- Vérifier la disponibilité d’un bien sur le marché
-- Saisir des biens abandonnés ou inutilisés
-- Prend les déclarations de locataire
-- Prend les déclarations de changement de propriétaire
-- Faire le changement de propriétaire pour une vente directe
-- Traite les demandes de justice concernant l’immobilier
-
-
-#### Pour les investisseurs
-Il n'y a pas de limite de bien d’investissement. Mais le notaire sera attentif à l’utilisation des biens
-Voici la règle :
-
-L’usage d’un bien immobilier avec intérieur non duplicable se doit d’être justifié à la demande des économistes afin d’éviter tout blocage d’un bien dans lequel du rôle play pourrait se développer. Dans le cas où l'usage n’est pas justifié (vote interne des économistes après réception des éléments), le bien doit être remis sur le marché de la vente ou de la location. Le joueur locataire ou propriétaire (celui qui l’utilise) ou gérant de l’entreprise (dans le cas d’un bien occupé par une entreprise) possède un droit de recours avec un vote communautaire
-
-#### Agences immobilières
-Limité à deux entreprises maximum
-Les frais d’agence sont des frais minimum, elles peuvent prendre des commissions plus importantes selon les biens. Pas de réduction possible sur les frais minimums.
-
-
-#### Achat, location de bien, de terrain
-Un bien peut être vendu de 80% à 130% de sa valeur de base **SAUF pour les enchères.**
-Exemple *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
-
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Données de Vente et Location Immobilière</title>
-    <style>
-        body {
-            background-color: #1e1e1e;
-            color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            background-color: #2c2c2c;
-            color: #f0f0f0;
-        }
-        th, td {
-            border: 1px solid #444;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #3a3a3a;
-        }
-        tr:nth-child(even) {
-            background-color: #2a2a2a;
-        }
-        tr:nth-child(odd) {
-            background-color: #1f1f1f;
-        }
-        tr:hover {
-            background-color: #444;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <thead>
-            <tr>
-                <th>Type de Transaction</th>
-                <th>Description</th>
-                <th>Frais/Commissions</th>
-                <th>Remarques</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Vente de bien entre joueurs (particuliers)</td>
-                <td>Passer par le notaire pour déclarer le changement de propriétaire</td>
-                <td>25% du prix de vente à la charge de l’acheteur</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Vente de bien entre joueurs (particuliers)</td>
-                <td>Passer par une agence immo pour le changement de propriétaire (travail administratif de l’agence)</td>
-                <td>10% du prix de vente à la charge de l’acheteur facturé par l’agence</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Vente d’un bien en passant par l’agence (obligatoire pour entreprises ou banques)</td>
-                <td>Gestion de la vente, visites, négociation de l’agence</td>
-                <td>Commission de 15% frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Achat d’un bien PNJ</td>
-                <td>Obligation de passer par une agence, gestion de la vente, visites, négociation de l’agence</td>
-                <td>Commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-                <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce)</td>
-            </tr>
-            <tr>
-                <td>Vente d’un bien au PNJ</td>
-                <td>Obligation de passer par une agence, gestion de la vente auprès du notaire</td>
-                <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Location de biens (particuliers)</td>
-                <td>Les particuliers peuvent louer leur bien eux-mêmes mais doivent faire une déclaration obligatoire auprès du notaire</td>
-                <td>Frais de dossier 5000$</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Location de biens par l’agence (obligatoire pour entreprises ou banques)</td>
-                <td>Gestion de la location, commission de l’agence</td>
-                <td>Commission de 20% du prix de la location (loyer +20%) à la charge du locataire, frais de notaire inclus</td>
-                <td>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
-            </tr>
-            <tr>
-                <td>Vente aux enchères immobilières (Etat)</td>
-                <td>Biens appartenant à l'état ou biens saisis, obligation de passer par une agence immobilière</td>
-                <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-                <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce), seules les agences immobilières peuvent participer aux enchères, pas de limite de prix de vente</td>
-            </tr>
-        </tbody>
-    </table>
-</body>
-</html>
-
->[!NOTE]
-> Les agences ne payent pas les frais de changement de propriétaire.
->
-> Pour des achat ou des ventes hors enchères, l'état doit tirer au sort l'agence avec laquelle il va passer.
-
-### Calcul de la valeur
-
-* Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes.
-
-#### Encadrement du marché
+Les prix des véhicules sont calculés sur la base des prix des prix réels. Voir le tableau suivant:
 
 <table>
   <tr>
-    <th style="text-align: center;">Type d'opération</th>
-    <th>Conditions</th>
-    <th>Exemples</th>
+    <th>Tranches des prix réels</th>
+    <th>Réduction appliquée</th>
+    <th>Prix après réduction</th>
   </tr>
   <tr>
-    <td style="text-align: center;">Achat/Vente</td>
-    <td>Les prix libres entre joueurs, <strong>entre 80% et 120% </strong> pour la revente. <br>Pour une revente aux PNJ, le taux est 100%.<br> Ne concerne pas les enchères</td>
-    <td>Un bien d'une valeur de 200 000 dollars peut être revendu entre 160 000 et 240 000 dollars.</td>
+    <td>≤ 100 000</td>
+    <td>Aucune</td>
+    <td>Prix réel</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Location d'une maison, d'un appartement</td>
-    <td><strong>Loyer maximum fixé à 1.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
-    <td>Une maison ou un appartement d'une valeur de 200 000 dollars peut être loué jusqu'à 3 000 dollars maximum.</td>
-  </tr>
-<tr>
-    <td style="text-align: center;">Location pour les autres biens</td>
-    <td><strong>Loyer maximum fixé à 2.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
-    <td>Un entrepôt ou un bureau d'une valeur de 200 000 dollars peut être loué jusqu'à 5 000 dollars maximum.<br>Un garage loué à un particulier d'une valeur de 300 000 dollars pourra être loué jusqu'à 7 500 dollars.</td>
-</tr>
-</table>
-
->[!NOTE]
-> Pour les achats/ ventes :
->
-> Un taux minimum pour éviter les reventes aux potes à un prix dérisoire.
->
-> Un taux maximum pour éviter d'avoir des biens qui se vendent x fois plus cher.
->
-> Cela s'applique aussi aux entreprises.
-
-* Lors d’un crédit : il est obligatoire de faire un apport lors de l’achat d’un bien immobilier : **10% particuliers** et **20% entreprises.**
-
-#### Ajout d'un MLO/ travaux/ Destruction
-
-* Vous devez faire des travaux dans le cas où un MLO est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes.
-
-* En cas d’incendie d’un bien immobilier, l'État peut indemniser le sinistré, se renseigner directement en RP.
-
-#### Adressage
-* Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la route devant l’entrée principale et le nom de la rue.
-  > Exemple : 1154RueDeMaMaison
-
-
-### Pour les véhicules
-
-- Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
-
-- En cas de vol ou de destruction d'un véhicule, l'État peut indemniser le sinistré, se renseigner directement en RP.
-
-- Les camping car sont désormais disponible à l'achat dans toutes les concessions.
-
-#### Les délais de livraisons
-
-<!DOCTYPE html>
-<html>
-<body>
-<table>
-  <tr>
-    <th>Type de véhicule</th>
-    <th>Délais</th>
+    <td>100 001 - 200 000</td>
+    <td>10 %</td>
+    <td>Prix réel * 0.9</td>
   </tr>
   <tr>
-    <td>Véhicules rares</td>
-    <td>Deux semaines</td>
+    <td>200 001 - 300 000</td>
+    <td>15 %</td>
+    <td>Prix réel * 0.85</td>
   </tr>
   <tr>
-    <td>Bateau, aéronefs</td>
-    <td>Une semaine</td>
+    <td>300 001 - 400 000</td>
+    <td>20 %</td>
+    <td>Prix réel * 0.8</td>
   </tr>
   <tr>
-    <td>Le reste</td>
-    <td>24 heures</td>
+    <td>400 001 - 500 000</td>
+    <td>30 %</td>
+    <td>Prix réel * 0.7</td>
+  </tr>
+  <tr>
+    <td>500 001 - 600 000</td>
+    <td>35 %</td>
+    <td>Prix réel * 0.65</td>
+  </tr>
+  <tr>
+    <td>600 001 - 700 000</td>
+    <td>40 %</td>
+    <td>Prix réel * 0.6</td>
+  </tr>
+  <tr>
+    <td>700 001 - 800 000</td>
+    <td>50 %</td>
+    <td>Prix réel * 0.5</td>
+  </tr>
+  <tr>
+    <td>800 001 - 1 000 000</td>
+    <td>55 %</td>
+    <td>Prix réel * 0.45</td>
+  </tr>
+  <tr>
+    <td>1 000 001 - 2 000 000</td>
+    <td>60 %</td>
+    <td>Prix réel * 0.4</td>
+  </tr>
+  <tr>
+    <td>2 000 001 - 3 000 000</td>
+    <td>70 %</td>
+    <td>Prix réel * 0.3</td>
+  </tr>
+  <tr>
+    <td>3 000 001 - 5 000 000</td>
+    <td>75 %</td>
+    <td>Prix réel * 0.25</td>
+  </tr>
+  <tr>
+    <td>> 5 000 000</td>
+    <td>85 %</td>
+    <td>Prix réel * 0.15</td>
   </tr>
 </table>
 
-#### Procédure véhicules rares
+Le prix des custom des véhicules est calculé selon le prix d'achat neuf du véhicule.
 
-* Les véhicules rares sont répartis de **manière équitable** entre les concessions.
-* En cas d'exemplaire unique (1), **un tirage au sort** est effectué pour déterminer quelle concession l'aura.
-  * Le tirage au sort n'est pas effectué par les concessions.
-* Concernant la vente au client, elle se fera normalement : les premiers arrivés seront les premiers servis.
-> [!ATTENTION]
-> Un vendeur doit vous autoriser à commander le véhicule
->
-> Le vendeur est tenu de s'assurer que le modèle est disponible
-
-* Une fois le stock de véhicules écoulé, **aucun exemplaire supplémentaire** ne sera injecté sur le marché.
-
-
-### Pour les biens de consommations courantes : alimentation, vêtement …
+### Prix des biens de consommations courants : alimentation, vêtement …
 
 Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
-
-### Les prix PNJ
-
-Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
 
 ### Prix des PNJ placés
 
@@ -422,112 +240,258 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
   </tr>
 </table>
 
-</body>
-</html>
+### Prix des PNJ
+
+Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
 
 ### Les prix fixés par les entreprises
 
 * Les prix sont conseillés par les économistes mais restent libres. Si vous souhaitez les modifier, demandez conseil aux économistes. Certains prix sont fixés par les économistes *(réparation VL, Prix VL neuf, Alarmes).*
 * **Remise maximum pour les entreprises fixée à 30%** pour garder une certaine cohérence et éviter l’escalade des remises entre concurrents.
 
-### Honoraires des avocats
+### Prix des bancs de puissance
 
-| Type de contrat | Plafond |
-| :--------------: | :-----: |
-| Hors commision d'office | 20 000$  |
-| En commision d'office    | 10 000$  |
-- L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder **10% de ce dernier.**
+* L'installation d'un banc de puissance coute **25 000$ par unité**, la somme est à reverser au compte PNJ.
+* L'installation de bancs est réservée uniquement aux garages mécaniques, aux entreprises de préparation automobile et aux clubs ou associations liés aux véhicules.
 
-### Revenus des journalistes
+### Prix du retrait volontaire de tatouage
 
-- Pas de limite d'article, de tweet, de video.
-- Le groupe des économistes peut également décider de ne donner aucun revenu en cas de tromperie, de sujets qui n'ont aucun rapport avec le serveur.
+* Le retrait de un ou plusieurs tatouages est facturé 2000 dollars par tatouage (voté en 2020).
 
-<div style="display: flex; justify-content: center;">
-  <table style="border: 0;">
-    <tr>
-      <th>Type</th>
-      <th>Revenu</th>
-    </tr>
-    <tr>
-      <td>Post Birdy</td>
-      <td>500$/post (maximum 10 posts rémunérés sur une semaine)</td>
-    </tr>
-    <tr>
-      <td>Tweet sur X</td>
-      <td>15$/impression</td>
-    </tr>
-    <tr>
-      <td>Tweet sur X enrichi <i>(petite vidéo sans travail journalistique)<i></td>
-      <td>20$/impression</td>
-    </tr>
-    <tr>
-      <td>Tweet avec article sur X <i>(travaillé)<i></td>
-      <td>150$/impression</td>
-    </tr>
-    <tr>
-      <td>Article site <i>(travaillé)<i></td>
-      <td>150$/vue</td>
-    </tr>
-    <tr>
-      <td>Vidéo discours <i>(captation d’images)<i></td>
-      <td>100$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Vidéos Méteo</td>
-      <td>100$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Vidéo conférence de presse</td>
-      <td>120$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Vidéo interview <i>(travail journalistique)<i></td>
-      <td>150$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Vidéo évènement <i>(travail journalistique)<i></td>
-      <td>150$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Vidéo divers évènements avec montage <i>(travail journalistique)<i></td>
-      <td>170$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Vidéo reportage avec enquête journalistique</td>
-      <td>200$/vue ou impression</td>
-    </tr>
-    <tr>
-      <td>Radio</td>
-      <td>20$/ auditeur</td>
-    </tr>
-  </table>
-</div>
+### Prix des kits de réparation, de nettoyage
 
+- Kit de réparation : prix de vente minimum 5000$.
+- Kit de nettoyage : prix de vente conseillés 50$.
+- Les 2 kits ne sont achetables qu'auprès des garages pour les clients finaux (exclusivités garage).
+- Les fournisseurs ont l'obligation de vendre ces kits exclusivement aux garages.
 
-### Les revenus de travail ou activité PNJ
+## L’immobilier
 
-Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse permettent de toucher de l’argent versé par un PNJ. Le but est de rester cohérent ici et de ne pas farmer excessivement dans le but de s’enrichir plus que la normale. Ce sont des jobs de dépannage pour se faire un peu d’argent quand on a pas d’emploi ou pour se faire un petit plus. Passer sa journée sur le serveur à faire ce genre de chose alors que personne n’est connecté et que cela n’est pas cohérent avec le RP de votre personnage n’est pas une attitude que l’on souhaite voir dans la communauté.
+### Notaire PNJ
+
+Il est constitué des économistes, son rôle consiste à :
+- Donner la valeur d’un bien sur le marché
+- Vérifier la disponibilité d’un bien sur le marché
+- Saisir des biens abandonnés ou inutilisés
+- Prend les déclarations de locataire
+- Prend les déclarations de changement de propriétaire
+- Faire le changement de propriétaire pour une vente directe
+- Traite les demandes de justice concernant l’immobilier
+
+### Pour les investisseurs
+
+Il n'y a pas de limite de bien d’investissement. Mais le notaire sera attentif à l’utilisation des biens.
+
+L’usage d’un bien immobilier avec intérieur non duplicable se doit d’être justifié à la demande des économistes afin d’éviter tout blocage d’un bien dans lequel du rôle play pourrait se développer. Dans le cas où l'usage n’est pas justifié (vote interne des économistes après réception des éléments), le bien doit être remis sur le marché de la vente ou de la location. Le joueur locataire ou propriétaire (celui qui l’utilise) ou gérant de l’entreprise (dans le cas d’un bien occupé par une entreprise) possède un droit de recours avec un vote communautaire.
+
+### Agences immobilières
+
+Limité à deux entreprises maximum.
+
+Les frais d’agence sont des frais minimum, elles peuvent prendre des commissions plus importantes selon les biens. Pas de réduction possible sur les frais minimums.
+
+### Achat, location de bien, de terrain
+
+Un bien peut être vendu de 80% à 130% de sa valeur de base **SAUF pour les enchères.**
+
+Exemple : *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
+
+<table>
+  <thead>
+    <tr>
+      <th>Type de Transaction</th>
+      <th>Description</th>
+      <th>Frais/Commissions</th>
+      <th>Remarques</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vente de bien entre joueurs (particuliers)</td>
+      <td>Passer par le notaire pour déclarer le changement de propriétaire</td>
+      <td>25% du prix de vente à la charge de l’acheteur</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Vente de bien entre joueurs (particuliers)</td>
+      <td>Passer par une agence immo pour le changement de propriétaire (travail administratif de l’agence)</td>
+      <td>10% du prix de vente à la charge de l’acheteur facturé par l’agence</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Vente d’un bien en passant par l’agence (obligatoire pour entreprises ou banques)</td>
+      <td>Gestion de la vente, visites, négociation de l’agence</td>
+      <td>Commission de 15% frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Achat d’un bien PNJ</td>
+      <td>Obligation de passer par une agence, gestion de la vente, visites, négociation de l’agence</td>
+      <td>Commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce)</td>
+    </tr>
+    <tr>
+      <td>Vente d’un bien au PNJ</td>
+      <td>Obligation de passer par une agence, gestion de la vente auprès du notaire</td>
+      <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Location de biens (particuliers)</td>
+      <td>Les particuliers peuvent louer leur bien eux-mêmes mais doivent faire une déclaration obligatoire auprès du notaire</td>
+      <td>Frais de dossier 5000$</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Location de biens par l’agence (obligatoire pour entreprises ou banques)</td>
+      <td>Gestion de la location, commission de l’agence</td>
+      <td>Commission de 20% du prix de la location (loyer +20%) à la charge du locataire, frais de notaire inclus</td>
+      <td>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
+    </tr>
+    <tr>
+      <td>Vente aux enchères immobilières (Etat)</td>
+      <td>Biens appartenant à l'état ou biens saisis, obligation de passer par une agence immobilière</td>
+      <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce), seules les agences immobilières peuvent participer aux enchères, pas de limite de prix de vente</td>
+    </tr>
+  </tbody>
+</table>
+
+>[!NOTE]
+> Les agences ne payent pas les frais de changement de propriétaire.
+>
+> Pour des achat ou des ventes hors enchères, l'état doit tirer au sort l'agence avec laquelle il va passer.
+
+### Calcul de la valeur
+
+Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes.
+
+### Encadrement du marché
+
+<table>
+  <tr>
+    <th>Type d'opération</th>
+    <th>Conditions</th>
+    <th>Exemples</th>
+  </tr>
+  <tr>
+    <td>Achat/Vente</td>
+    <td>Les prix libres entre joueurs, <strong>entre 80% et 120%</strong> pour la revente. <br>Pour une revente aux PNJ, le taux est 100%.<br> Ne concerne pas les enchères</td>
+    <td>Un bien d'une valeur de 200 000 dollars peut être revendu entre 160 000 et 240 000 dollars.</td>
+  </tr>
+  <tr>
+    <td>Location d'une maison, d'un appartement</td>
+    <td><strong>Loyer maximum fixé à 1.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
+    <td>Une maison ou un appartement d'une valeur de 200 000 dollars peut être loué jusqu'à 3 000 dollars maximum.</td>
+  </tr>
+  <tr>
+    <td>Location pour les autres biens</td>
+    <td><strong>Loyer maximum fixé à 2.5%</strong> de la valeur du bien <br>Pas de taux minimum pour le loyer.</td>
+    <td>Un entrepôt ou un bureau d'une valeur de 200 000 dollars peut être loué jusqu'à 5 000 dollars maximum.<br>Un garage loué à un particulier d'une valeur de 300 000 dollars pourra être loué jusqu'à 7 500 dollars.</td>
+  </tr>
+</table>
+
+>[!NOTE]
+> Pour les achats/ ventes :
+> - Un taux minimum pour éviter les reventes aux potes à un prix dérisoire.
+> - Un taux maximum pour éviter d'avoir des biens qui se vendent x fois plus cher.
+>
+> Cela s'applique aussi aux entreprises.
+
+### Ajout d'un intérieur / travaux / destruction
+
+* Vous devez faire des travaux dans le cas où un intérieur est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes.
+* En cas d’incendie d’un bien immobilier, l'État peut indemniser le sinistré, se renseigner directement en RP.
+
+### Adressage
+
+Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la route devant l’entrée principale et le nom de la rue.
+
+> Exemple : 1154RueDeMaMaison
+
+## Les véhicules
+
+- Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
+- En cas de vol ou de destruction d'un véhicule, l'État peut indemniser le sinistré, se renseigner directement en RP.
+- Les camping car sont désormais disponible à l'achat dans toutes les concessions.
+
+### Les délais de livraisons
+
+<table>
+  <tr>
+    <th>Type de véhicule</th>
+    <th>Délais</th>
+  </tr>
+  <tr>
+    <td>Véhicules rares</td>
+    <td>Deux semaines</td>
+  </tr>
+  <tr>
+    <td>Bateau, aéronefs</td>
+    <td>Une semaine</td>
+  </tr>
+  <tr>
+    <td>Le reste</td>
+    <td>24 heures</td>
+  </tr>
+</table>
+
+### Procédure véhicules rares
+
+* Les véhicules rares sont répartis de **manière équitable** entre les concessions.
+* En cas d'exemplaire unique (1), **un tirage au sort** est effectué pour déterminer quelle concession l'aura.
+  * Le tirage au sort n'est pas effectué par les concessions.
+* Concernant la vente au client, elle se fera normalement : les premiers arrivés seront les premiers servis.
+> [!ATTENTION]
+> Un vendeur doit vous autoriser à commander le véhicule
+>
+> Le vendeur est tenu de s'assurer que le modèle est disponible
+* Une fois le stock de véhicules écoulé, **aucun exemplaire supplémentaire** ne sera injecté sur le marché.
+
+### Répartition lors de l'achat d'un véhicule, de custom
+
+<table>
+  <thead>
+    <tr>
+      <th>Répartition</th>
+      <th>Taux</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Part de l'entreprise</b></td>
+      <td>60 %</td>
+    </tr>
+    <tr>
+      <td><b>Taxe versée à l'État</b></td>
+      <td>10 %</td>
+    </tr>
+    <tr>
+      <td><b>Part du PNJ</b></td>
+      <td>30 %</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Limite d’emploi
 
-* Sont considérés comme emploi le fait de posséder une entreprise et/ou  d'y travailler.
-* Il est autorisé d'avoir deux  emplois maximum  responsable ou employé ou bénévole pour les entreprises.
-* Les associations, clubs sont  exclus et peuvent faire appel à des bénévoles.
+* Sont considérés comme emploi le fait de posséder une entreprise et/ou d'y travailler.
+  * Etre sénateur est considéré comme un emploi.
+* Il est autorisé d'avoir deux emplois maximum  responsable ou employé ou bénévole pour les entreprises.
+* Les associations, clubs sont exclus et peuvent faire appel à des bénévoles.
 * Posséder des parts et être seulement actionnaire ne compte pas comme un emploi.
 * Les mandats électifs (Gouverneur, Lieutenant Gouverneur, Procureur Général) comptent comme un emploi.
-  - Durant leur mandat, ils ne peuvent pas exercer d'autres activités professionnelles et doivent se mettre en retrait de leurs éventuels emplois ou entreprises pendant toute la durée de leur mandat.
+  * Durant leur mandat, ils ne peuvent pas exercer d'autres activités professionnelles et doivent se mettre en retrait de leurs éventuels emplois ou entreprises pendant toute la durée de leur mandat.
 * La profession d'avocat peut être effectuée en plus de deux autres emplois.
-* Etre sénateur est considéré comme un emploi.
 * Tout nouveau joueur arrivant est interdit de cumuler plusieurs emplois pendant une période de 1 mois à compter de sa première apparition avec son personnage sur le serveur life, sont exclus le travail à la tâche, le bénévolat.
 
-
 > [!NOTE]
-> Une exception est possible pour des tâches temporaires, [voir](#le-travail-à-la-tâche-temporaire)
+> Une exception est possible pour des tâches temporaires, [voir](#le-travail-à-la-tâche-temporaire).
 
 ### Le travail à la tâche / temporaire
 
 Une entreprise peut décider d'employer une personne pour une tâche ou pour une mission courte cela s’apparente à de l’intérim et vous pouvez toucher une somme pour cela. Encore une fois, cela doit rester cohérent et peut tenir compte de la précarité de l’emploi. Pour une tâche qui dure la soirée, une somme de 2500$ paraît correcte. Donner beaucoup peut être considéré comme un moyen de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
+
 > Exemple : volontariat dans un service public
 
 ## Les crédits
@@ -556,11 +520,10 @@ Le taux d'endettement doit être inférieur à **80% du salaire fixe** hors prim
 
 ### Pour les entreprises
 
-Pour les entreprises, **10% est prélevé sur chaque facture** constitué de la façon suivante :
-- 10% de taxe de consommation (TC)
-
-Une déclaration pour les impôts a lieu une fois par mois.
-- Si bénéfices du mois supérieurs à $300.000 : **20% prélevé par l’état**.
+* Pour les entreprises, **10% est prélevé sur chaque facture** constitué de la façon suivante :
+  * 10% de taxe de consommation (TC)
+* Une déclaration pour les impôts a lieu une fois par mois.
+  * Si bénéfices du mois supérieurs à $300.000 : **20% prélevé par l’état**.
 
 ### Pour les particuliers
 
@@ -571,29 +534,29 @@ Prélèvement social et contribution solidarité par déclaration lors de la dé
 Ce tableau récapitule les prélèvements faits en fonction des revenus des responsables et actionnaires d'entreprises.
 
 | Salaire et prime/ mois en $ | Taux d'imposition |
-| :--------------------: | :---: |
-|     Moins de 20000     |  0%   |
-|    De 20001 à 30000    |  5%   |
-|    De 30001 à 40000    |  10%  |
-|   De 40.001 à 60000    |  15%  |
-|     Plus de 60001      |  30%  |
-|      Plus de 200K      |  70%  |
+| :-------------------------: | :---------------: |
+|       Moins de 20000        |        0%         |
+|      De 20001 à 30000       |        5%         |
+|      De 30001 à 40000       |        10%        |
+|      De 40.001 à 60000      |        15%        |
+|        Plus de 60001        |        30%        |
+|        Plus de 200K         |        70%        |
 
 ## Les entreprises / associations
 
- > [!ATTENTION]
- > **Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.**
+> [!ATTENTION]
+> **Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.**
 
 ### Type d’entités possibles
 
 > [!ATTENTION]
 > **Toute création d'association ou d'entreprise doit être validée par le gouvernement.**
 
-| Type d'entité       | Caractéristiques principales                                      |
-|---------------------|------------------------------------------------------------------|
-| <div style="text-align:center">Association</div>         | - Activité à but non lucratif<br>- Pas de salaire, employés ou factures |
-| <div style="text-align:center">Micro-entreprise</div>    | - Possibilité d'accréditation pour certaines activités spécifiques<br>- Taxe de 10% sur le chiffre d'affaires<br>- Chiffre d’affaires max : $15,000/semaine<br>- Compte en banque obligatoire, facture par la banque<br>- Pas de déclaration ni d'employés |
-| <div style="text-align:center">Entreprise</div>          | - Possibilité d'avoir des employés<br>- Taxe de 10% sur le chiffre d'affaires<br>- Déclaration revenus obligatoire<br>- Soumise à l'impôt sur les entreprises |
+| Type d'entité     | Caractéristiques principales                                                                                                                                                      |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Association**    | - Activité à but non lucratif<br>- Pas de salaire, employés ou factures                                                                                                          |
+| **Micro-entreprise** | - Possibilité d'accréditation pour certaines activités spécifiques<br>- Taxe de 10% sur le chiffre d'affaires<br>- Chiffre d’affaires max : $15,000/semaine<br>- Compte en banque obligatoire, factures par la banque<br>- Pas de déclaration ni d'employés |
+| **Entreprise**     | - Possibilité d'avoir des employés<br>- Taxe de 10% sur le chiffre d'affaires<br>- Déclaration des revenus obligatoire<br>- Soumise à l'impôt sur les entreprises                                                     |
 
 Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
@@ -601,7 +564,7 @@ Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
 Le prix de l'entreprise est fixé au cas par cas par les économistes en fonction de l’activité et des addons désirés. Le prix total devra être payé à l'État.
 
-Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités sur les fonds de l’entreprise. le crédit pourra être remboursé à tout moment
+Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités sur les fonds de l’entreprise. le crédit pourra être remboursé à tout moment.
 
 - **Apport obligatoire de 10% du prix** sur fonds personnel du créateur de l’entreprise et/ou actionnaires.
 - Crédit avec un **taux d'intérêt minimum de 10%** et **maximum de 20%.**
@@ -614,7 +577,8 @@ Les entreprises disposant de locaux ouverts au public en permanence et où il es
 Ces revenus seront étudiés au cas par cas en fonction des demandes mais la marge finale sera **au minimum de 2500$** (salaire minimum).
 
 En réponse à la demande, des contreparties pourront être décidées, pour animer les lieux.
-> Pour un nightclub par exemple organiser des soirées, pour une supérette, faire des livraisons/ réapprovisionnement.
+
+> Pour un nightclub par exemple organiser des soirées, pour une supérette, faire des livraisons / réapprovisionnement.
 
 Les objectifs sont d’apporter des revenus supplémentaires tout en favorisant l’interaction, une occupation des lieux qui sont bien souvent vides et pour éviter de revenir en arrière avec les investissements de bâtiments fantômes.
 
@@ -639,21 +603,20 @@ La valeur de l'entreprise est calculée à l'aide d'une feuille de calcul et de 
 
 ### Fermeture d’une entreprise
 
-| Type de Fermeture                    | Procédure                                          | Récupération des Fonds                                      |
-|:--------------------------------------:|----------------------------------------------------|-------------------------------------------------------------|
-| Cessation d'activité simple sans revente  | - Clôture des crédits <br>- Vente des bâtiments et véhicules | Les responsables peuvent récupérer les fonds, mais **taxe de 60%** |
-| Cessation d'activité avec revente à l'État | - Vente à l'État à 50% du capital <br>- **Taxe de 60%**        | Les responsables récupèrent une partie des fonds, **taxe de 60%** |
-| Faillite de l’entreprise             | L'entreprise ferme sans fonds et disparaît            | Aucune récupération de fonds                                  |
-| Fermeture d’une association/club     | Fonds reversés à d'autres associations/clubs ou à des associations diverses | Le président peut récupérer **jusqu'à 40% des fonds**            |
+|             Type de Fermeture              | Procédure                                                                   | Récupération des Fonds                                             |
+| :----------------------------------------: | --------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+|  Cessation d'activité simple sans revente  | - Clôture des crédits <br>- Vente des bâtiments et véhicules                | Les responsables peuvent récupérer les fonds, mais **taxe de 60%** |
+| Cessation d'activité avec revente à l'État | - Vente à l'État à 50% du capital <br>- **Taxe de 60%**                     | Les responsables récupèrent une partie des fonds, **taxe de 60%**  |
+|          Faillite de l’entreprise          | L'entreprise ferme sans fonds et disparaît                                  | Aucune récupération de fonds                                       |
+|      Fermeture d’une association/club      | Fonds reversés à d'autres associations/clubs ou à des associations diverses | Le président peut récupérer **jusqu'à 40% des fonds**              |
 
 ### Vente d’une entreprise
 
-Le responsable peut décider de vendre l’entreprise à une autre personne dans ce cas là :
-le(s) responsable(s) peuvent récupérer les fonds de l’entreprise  mais devront payer une taxe de 30% et vendre l’entreprise à la valeur du capital en laissant **minimum 150000$**.
+Le responsable peut décider de vendre l’entreprise à une autre personne dans ce cas là, le(s) responsable(s) peuvent récupérer les fonds de l’entreprise  mais devront payer une taxe de 30% et vendre l’entreprise à la valeur du capital en laissant **minimum 150000$**.
 
-A savoir que la valeur maximale du prix de vente (hors fonds) ne pourra pas être supérieure à **120% du capital**. L’etat aura un droit de préemption si l’entreprise est vendu à moins de 80% de la valeur du capital
+A savoir que la valeur maximale du prix de vente (hors fonds) ne pourra pas être supérieure à **120% du capital**. L’Etat aura un droit de préemption si l’entreprise est vendu à moins de 80% de la valeur du capital.
 
-Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vente.**
+Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vente**.
 
 >[!ATTENTION]
 >**Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.**
@@ -665,16 +628,14 @@ Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vent
 
 L’acheteur devra payer selon la situation le capital de l’entreprise *(de 80% à 120% décidé par le vendeur)* et si des fonds sont présents cette somme se verra ajoutée au montant précédent.
 
-
 L’acheteur peut faire un crédit au nom de sa future entreprise (comme à la création) dans les mêmes conditions.
 
 * Cas particulier rachat d’une entreprise par une entreprise :
-  - rachat d'une entreprise par une autre entreprise possible que pour fusion et **100% des parts.**
-  - vente dans les mêmes conditions que la vente d'entreprise mais pas de % en moins ou en plus.
-Prix = capital + fond.
+  - Rachat d'une entreprise par une autre entreprise possible que pour fusion et **100% des parts.**
+  - Vente dans les mêmes conditions que la vente d'entreprise mais pas de % en moins ou en plus.
+  - Prix = capital + fond.
 
 - Apport obligatoire de **10% du prix.**
-
 - Crédit avec un **taux minimum de 10%** et **maximum de 20%.**
 - Fond de roulement obligatoire minimum de **10% du prix d’achat.**
 
@@ -688,13 +649,10 @@ Prix = capital + fond.
 
 ### Les Actionnaires
 
-Le nombre maximum d’actionnaires est de 4 actionnaires, l’actionnaire qui a le plus de parts est considéré comme le responsable de l’entreprise, il est le seul décideur.
-
-Les revenus touchés par les actionnaires sont à l’initiative du responsable et non obligatoires et doivent être déclarés lors de la déclaration d’entreprise chaque mois. et les actionnaires devront payer le Prélèvement social et contribution solidarité *(voir Taxes et impôts/ pour les particuliers)
-
-Le revenu des actionnaires ne peut dépasser **10.000$ par semaine** à titre de dividendes.
-
-Lors de la vente de l'entreprise les actionnaires touchent la part qu’ils leur revient **-25%** et ne peuvent pas garder les parts de l’entreprise
+* Le nombre maximum d’actionnaires est de 4 actionnaires, l’actionnaire qui a le plus de parts est considéré comme le responsable de l’entreprise, il est le seul décideur.
+* Les revenus touchés par les actionnaires sont à l’initiative du responsable et non obligatoires et doivent être déclarés lors de la déclaration d’entreprise chaque mois. et les actionnaires devront payer le Prélèvement social et contribution solidarité *(voir Taxes et impôts/ pour les particuliers)
+* Le revenu des actionnaires ne peut dépasser **10.000$ par semaine** à titre de dividendes.
+* Lors de la vente de l'entreprise les actionnaires touchent la part qu’ils leur revient **-25%** et ne peuvent pas garder les parts de l’entreprise
 
 ### Statut des actionnaires minoritaires
 
@@ -729,12 +687,12 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 > [!ATTENTION]
 > **Les entreprises pourront perdre l’aide si elle ne respecte pas la destination des fonds.**
 
-### Les dons
+## Les dons
 
 > [!ATTENTION]
 > **Les dons sont interdits avant le départ ou la mort d’un personnage**. Cela serait considéré comme contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
 
-<table style="border-collapse: collapse;">
+<table>
   <tr>
     <th>Qui donne</th>
     <th>Qui reçoit</th>
@@ -782,19 +740,14 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
   </tr>
 </table>
 
-
-#### Cas particulier des entreprises
+### Cas particulier des entreprises
 
 * On ne peut pas faire don de son entreprise à un particulier lors de la mort de son personnage ou du départ, l’état récupère l’entreprise et s’occupe de la revente.
-
 * Les salariés ont la priorité absolue sur l’achat de l’entreprise dans les mêmes conditions que [le rachat d’entreprise](#le-rachat-dentreprise).
-
 * Dans tous les cas le gouvernement gèrera au cas par cas après validation du gouv et des économistes.
-
 * Dans le cas où la personne a des parts dans une entreprise, les associés doivent racheter les parts auprès du gouvernement.
 
-
-### Système de testament
+## Système de testament
 
 Le Bureau du Procureur se charge de l'archivage des testaments et transmet les testaments après le décès de la personne à l'executeur testamentaire.
 
@@ -842,24 +795,21 @@ Le Bureau du Procureur se charge de l'archivage des testaments et transmet les t
   </tr>
 </table>
 
-
-
-
 > [!WARNING]
-> Les testaments doivent contenir le Nom et prénom(s) de la personne, sa date de naissance, son adresse et la signature du dépositaire.
+> Les testaments doivent contenir le nom et prénom(s) de la personne, sa date de naissance, son adresse et la signature du dépositaire.
 
-#### Pour le dépôt de testament :
+### Pour le dépôt de testament
 
-* Via un avocat : les avocats peuvent transmettre les testaments aux procureurs pour être signés
-* Via les procureurs: les personnes qui le souhaitent, peuvent transmettre leur testament il un procureur directement
-* Via les juges: les personnes qui le souhaitent peuvent transmettre leur testament à un juge qui devra ensuite le transmettre à un procureur pour être archivé.
+* **Via un avocat**: les avocats peuvent transmettre les testaments aux procureurs pour être signés
+* **Via les procureurs**: les personnes qui le souhaitent, peuvent transmettre leur testament il un procureur directement
+* **Via les juges**: les personnes qui le souhaitent peuvent transmettre leur testament à un juge qui devra ensuite le transmettre à un procureur pour être archivé.
 
 > [!ATTENTION]
 > **Les testaments déposés après la mort ne seront pas pris en compte.**
 >
-> Les testaments signés '"Allan Pehainjy"' pour les juges ou les procureurs ne seront pas pris en compte
+> Les testaments signés '"Allan Pehainjy"' pour les juges ou les procureurs ne seront pas pris en compte.
 >
-> Le testament doit être en PDF (google docs ou autre sont interdits)
+> Le testament doit être en PDF (google docs ou autre sont interdits).
 
 > [!NOTE]
 > Lors d'un départ, d'une exclusion **définitive**, d'une mort, en l'absence de testament, l'État récupère l'argent présent sur les comptes bancaires de la même manière que les véhicules.
@@ -867,37 +817,30 @@ Le Bureau du Procureur se charge de l'archivage des testaments et transmet les t
 
 ## La chasse
 
-
-La chasse doit être pratiquée avec des véhicules adaptés et des quantités raisonnables  en fonction du véhicule utilisé.
+La chasse doit être pratiquée avec des véhicules adaptés et des quantités raisonnables en fonction du véhicule utilisé.
 
 Il convient de ne pas profiter des faiblesses du jeu pour augmenter ses gains.
 
-> Exemples de situations abusives :
->
-> Chasser en supercar sur des chemins sinueux et montagneux.
->
-> Avoir 150 viandes de cerfs dans un véhicule de sport, une berline, un SUV…
->
-> Avoir 50 viandes de puma sur une moto.
->
-> Attendre que les animaux respawn pour les tuer.
+> **Exemples de situations abusives :**
+> - Chasser en supercar sur des chemins sinueux et montagneux.
+> - Avoir 150 viandes de cerfs dans un véhicule de sport, une berline, un SUV…
+> - Avoir 50 viandes de puma sur une moto.
+> - Attendre que les animaux respawn pour les tuer.
 
-Les économistes feront une étude au cas par cas si des signalements d'abus sont rapportés.
-Une perte totale des gains voir plus pourra être demandée.
+Les économistes feront une étude au cas par cas si des signalements d'abus sont rapportés. Une perte totale des gains voir plus pourra être demandée.
 
 > [!NOTE]
 > Tuer des animaux est toujours possible sans policier en service, pour le plaisir d’une chasse sans gain par exemple.
 
-### Les joueurs inactifs
+## Les joueurs inactifs
 
-Introduction d'une règle ou d'une procédure concernant les biens immobiliers, les véhicules rares et les entreprises appartenant à des joueurs considérés comme inactifs dans le jeu. Ces règles suivent les critères déjà présents dans le règlement communautaire.
+Procédure concernant les biens immobiliers, les véhicules rares et les entreprises appartenant à des joueurs considérés comme inactifs dans le jeu. Ces règles suivent les critères déjà présents dans le règlement communautaire.
 
 * Les biens immobiliers, les véhicules rares et les entreprises des joueurs totalement inactifs ou ne répondant pas à un avertissement de perte de biens peuvent être saisis.
 * Les joueurs sont considérés inactifs s'ils sont absents du jeu depuis au moins 3 mois.
 * Les joueurs sont avertis une fois par message sur Discord pour comprendre les raisons de leur inactivité.
 
-Si la saisie est décidée
-
+Si la saisie est décidée :
 * Aucune indemnisation n'est accordée.
 * Si un crédit immobilier est en cours, il est soldé gratuitement par la banque.
 * La saisie est réalisée hors du contexte du jeu (en dehors du rôle-play).
@@ -905,31 +848,30 @@ Si la saisie est décidée
 
 ## Les paiements de produits, de services
 
-**À compter du 1er septembre 2023**
-
-Les paiements des services et/ou produits devront être effectués uniquement par FACTURE  en utilisant le système de facturation en jeu ou via les sites des banques.
+Les paiements des services et/ou produits devront être effectués uniquement par FACTURE en utilisant le système de facturation en jeu ou via les sites des banques.
 
 > [!ATTENTION]
-> **Après la date butoir, tous les virements directs encore présents seront purement supprimés.**
+> **Les virements directs présents seront purement supprimés.**
 
 ## Les quotas
 
 Des quotas maximums ont été mis en place pour les métiers PNJ et dans d'autres secteurs afin de ne plus avoir d'abus.
 
-Les entreprises qui ont des missions PNJ (Smoke ou transportify) ont un CA maximum par semaine.
-Les joueurs ont un quota maximum par semaine sur l'ensemble des missions PNJ (smoke, taxi, transportify)
+Les entreprises qui ont des missions PNJ (Smoke On The Water ou Transportify) ont un CA maximum par semaine.
+
+Les joueurs ont un quota maximum par semaine sur l'ensemble des missions PNJ (Smoke On The Water, taxi, Transportify).
 
 Ce quota permet tout de même de gagner de l'argent mais évite juste les abus et nous permet de ne pas vérifier régulièrement.
 
 > [!NOTE]
 >
->Les quotas ne brident pas le jeu, si le quota est atteint cela n'empêche pas de faire les missions mais vous ne toucherez pas l'argent. Utile parfois pour le RP.
+> Les quotas ne brident pas le jeu, si le quota est atteint cela n'empêche pas de faire les missions mais vous ne toucherez pas l'argent. Utile parfois pour le RP.
 
 ### Pour les métiers
 
-<table border="1" style="width:100%; border-collapse: collapse;">
+<table>
   <thead>
-    <tr style="background-color: #f2f2f2;">
+    <tr>
       <th>Type de mission</th>
       <th>Revenus joueur</th>
       <th>Revenus entreprise</th>
@@ -977,7 +919,7 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="4" style="text-align: left;">
+      <td colspan="4">
         - <strong>50 000$</strong> max de revenu pour les entreprises par semaine<br>
         - <strong>10 000$</strong> max de revenu farm par semaine pour les joueurs (tous jobs PNJ confondus)
       </td>
@@ -987,153 +929,153 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
 
 ### Pour le métier de bucheron
 
-<table border="1">
-    <thead>
-        <tr>
-            <th>Type</th>
-            <th>Destination</th>
-            <th>Temps</th>
-            <th>Prix Min ($)</th>
-            <th>Prix Max ($)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <!-- Planches -->
-        <tr>
-            <td rowspan="4">Planches</td>
-            <td>Chantier Paleto</td>
-            <td>20 min</td>
-            <td>800</td>
-            <td>1,200</td>
-        </tr>
-        <tr>
-            <td>Terrain de cross Sandy Shores</td>
-            <td>30 min</td>
-            <td>1,500</td>
-            <td>1,900</td>
-        </tr>
-        <tr>
-            <td>Los Santos</td>
-            <td>40 min</td>
-            <td>1,900</td>
-            <td>2,300</td>
-        </tr>
-        <tr>
-            <td>Port de Los Santos</td>
-            <td>50 min</td>
-            <td>2,300</td>
-            <td>2,700</td>
-        </tr>
-        <!-- Copeaux -->
-        <tr>
-            <td rowspan="4">Copeaux</td>
-            <td>Ferme à Paleto Bay</td>
-            <td>20 min</td>
-            <td>800</td>
-            <td>1,200</td>
-        </tr>
-        <tr>
-            <td>Ferme Oneil à Grapeseed</td>
-            <td>30 min</td>
-            <td>1,552</td>
-            <td>1,940</td>
-        </tr>
-        <tr>
-            <td>Hippodrome à Los Santos</td>
-            <td>40 min</td>
-            <td>1,940</td>
-            <td>2,328</td>
-        </tr>
-        <tr>
-            <td>Port de Los Santos</td>
-            <td>50 min</td>
-            <td>2,328</td>
-            <td>2,716</td>
-        </tr>
-        <!-- Grumes -->
-        <tr>
-            <td rowspan="4">Grumes</td>
-            <td>Jetée à Paleto Bay</td>
-            <td>15 min</td>
-            <td>640</td>
-            <td>800</td>
-        </tr>
-        <tr>
-            <td>Sandy Shores</td>
-            <td>20 min</td>
-            <td>1,120</td>
-            <td>1,440</td>
-        </tr>
-        <tr>
-            <td>Ranch</td>
-            <td>30 min</td>
-            <td>1,440</td>
-            <td>1,824</td>
-        </tr>
-        <tr>
-            <td>Port de Los Santos</td>
-            <td>40 min</td>
-            <td>1,824</td>
-            <td>2,208</td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Destination</th>
+      <th>Temps</th>
+      <th>Prix Min ($)</th>
+      <th>Prix Max ($)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Planches -->
+    <tr>
+      <td rowspan="4">Planches</td>
+      <td>Chantier Paleto</td>
+      <td>20 min</td>
+      <td>800</td>
+      <td>1,200</td>
+    </tr>
+    <tr>
+      <td>Terrain de cross Sandy Shores</td>
+      <td>30 min</td>
+      <td>1,500</td>
+      <td>1,900</td>
+    </tr>
+    <tr>
+      <td>Los Santos</td>
+      <td>40 min</td>
+      <td>1,900</td>
+      <td>2,300</td>
+    </tr>
+    <tr>
+      <td>Port de Los Santos</td>
+      <td>50 min</td>
+      <td>2,300</td>
+      <td>2,700</td>
+    </tr>
+    <!-- Copeaux -->
+    <tr>
+      <td rowspan="4">Copeaux</td>
+      <td>Ferme à Paleto Bay</td>
+      <td>20 min</td>
+      <td>800</td>
+      <td>1,200</td>
+    </tr>
+    <tr>
+      <td>Ferme Oneil à Grapeseed</td>
+      <td>30 min</td>
+      <td>1,552</td>
+      <td>1,940</td>
+    </tr>
+    <tr>
+      <td>Hippodrome à Los Santos</td>
+      <td>40 min</td>
+      <td>1,940</td>
+      <td>2,328</td>
+    </tr>
+    <tr>
+      <td>Port de Los Santos</td>
+      <td>50 min</td>
+      <td>2,328</td>
+      <td>2,716</td>
+    </tr>
+    <!-- Grumes -->
+    <tr>
+      <td rowspan="4">Grumes</td>
+      <td>Jetée à Paleto Bay</td>
+      <td>15 min</td>
+      <td>640</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td>Sandy Shores</td>
+      <td>20 min</td>
+      <td>1,120</td>
+      <td>1,440</td>
+    </tr>
+    <tr>
+      <td>Ranch</td>
+      <td>30 min</td>
+      <td>1,440</td>
+      <td>1,824</td>
+    </tr>
+    <tr>
+      <td>Port de Los Santos</td>
+      <td>40 min</td>
+      <td>1,824</td>
+      <td>2,208</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Pour le métier d'éboueur
 
-<table border="1" style="border-collapse: collapse; width: 100%; margin-bottom: 20px; text-align: left;">
-    <thead>
-        <tr style="background-color: #e6f7ff;">
-            <th>Élément</th>
-            <th>Détail</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><b>Remplissage</b></td>
-            <td>1 % de remplissage = 1 poubelle</td>
-        </tr>
-        <tr>
-            <td><b>Prix par poubelle</b></td>
-            <td>20 $</td>
-        </tr>
-        <tr>
-            <td><b>Revenu maximum</b></td>
-            <td>100 % remplissage = 2000 $</td>
-        </tr>
-        <tr>
-            <td><b>Temps estimé</b></td>
-            <td>40 minutes</td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>Élément</th>
+      <th>Détail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Remplissage</b></td>
+      <td>1 % de remplissage = 1 poubelle</td>
+    </tr>
+    <tr>
+      <td><b>Prix par poubelle</b></td>
+      <td>20 $</td>
+    </tr>
+    <tr>
+      <td><b>Revenu maximum</b></td>
+      <td>100 % remplissage = 2000 $</td>
+    </tr>
+    <tr>
+      <td><b>Temps estimé</b></td>
+      <td>40 minutes</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Pour le métier de constructeur
 
-<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
-    <thead>
-        <tr style="background-color: #ffebe6;">
-            <th>Élément</th>
-            <th>Détail</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><b>Temps estimé</b></td>
-            <td>25-30 minutes</td>
-        </tr>
-        <tr>
-            <td><b>Gain de base</b></td>
-            <td>1500 $</td>
-        </tr>
-        <tr>
-            <td><b>Coefficient</b></td>
-            <td>Ajusté selon distance (moins loin, plus loin)</td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>Élément</th>
+      <th>Détail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Temps estimé</b></td>
+      <td>25-30 minutes</td>
+    </tr>
+    <tr>
+      <td><b>Gain de base</b></td>
+      <td>1500 $</td>
+    </tr>
+    <tr>
+      <td><b>Coefficient</b></td>
+      <td>Ajusté selon distance (moins loin, plus loin)</td>
+    </tr>
+  </tbody>
 </table>
 
-### Pour la chasse 
+### Pour la chasse
 
 <table>
   <thead>
@@ -1208,30 +1150,18 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
   </tfoot>
 </table>
 
-
 ## Divers
+
 ### Stockage d'argent
-* Il est interdit de stocker plus de 5000 unités d'argent liquide ou de valeur équivalente en jetons de casino dans des véhicules stockés dans des garages et plus de 50000 unités d'argent liquide ou de valeur équivalente en jetons de casino  sur sa personne sur plus de deux  sessions de jeu.
+
+* Il est interdit de stocker plus de 5000 unités d'argent liquide ou de valeur équivalente en jetons de casino dans des véhicules stockés dans des garages et plus de 50000 unités d'argent liquide ou de valeur équivalente en jetons de casino sur sa personne sur plus de deux  sessions de jeu.
+
 > [!NOTE]
 > Cette règle vise à empêcher toute accumulation excessive d'argent inaccessible.
 
-### Bancs de puissance
-* L'installation d'un banc de puissance coute **25 000$ par unité**, la somme est à reverser au compte PNJ.
-* L'installation de bancs est réservée uniquement aux garages mécaniques, aux entreprises de préparation automobile et aux clubs ou associations liés aux véhicules.
-
-### Retrait volontaire de tatouage
-* Le retrait de un ou plusieurs tatouages est facturé 2000 dollars par tatouage (voté en 2020).
-
 ### Magasin joueur
-- Les entreprises, associations, clubs, bars,  sont tenues d'installer des magasins pour remplacer les magasins PNJ. Le point de vente devra être situé dans un intérieur.
+
+- Les entreprises, associations, clubs, bars, sont tenues d'installer des magasins joueurs (pas de magasins PNJ). Le point de vente devra être situé dans un intérieur.
 - Le coffre du magasin, où sera stocké l'argent, doit être accessible (tout en pouvant être sécurisé conformément aux règles en vigueur concernant la sécurité) et placé dans un local appartenant à l'entreprise ou à l'association, clubs, ou bar.
 - Le prix maximum d'un item est plafonné à 30 000 $.
 - Sont exclus la vente d'arme, le custom d'arme, de licence.
-- Le délai de mise en conformité est fixé à un mois à partir du 11/09/24
-
- ### Kits de réparation, de nettoyage
-
-- Kit de réparation : prix de vente minimum 5000$
-- Kit de nettoyage : prix de vente conseillés 50$
-- Les 2 kits ne sont achetables qu'auprès des garages pour les clients finaux (exclusivités garage)
-- Les fournisseurs ont l'obligation de vendre ces kits exclusivement aux garages.
