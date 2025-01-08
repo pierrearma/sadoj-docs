@@ -367,9 +367,9 @@
           <li>Personnes touchant au mapping</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Kuro, Thomas, Mr.nunus, Wrc</td>
+      <td style="text-align: center;">Théo, Kuro, Thomas, Wrc</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Validation Véhicules</td>
@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Mr.nunus, Mathys, Thracios, Doryann, Guillaume, lhomme1515, FlyHight</td>
+      <td style="text-align: center;">Mathys, Thracios, Guillaume, lhomme1515, FlyHight, ZeBi</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
