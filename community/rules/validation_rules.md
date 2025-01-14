@@ -42,6 +42,7 @@
 ### Occlusions
 
 - S'assurer qu'aucun objet ou bâtiment ne disparaît quand on se promène à l'intérieur et à l'extérieur.
+- S'assurer que les fichiers d'occlusion ne sont pas vides ou trop légers (1 ko, 2 ko, etc.) lors de la validation d'un mapping. Si un fichier est léger, l'ouvrir pour vérifier qu'il contient bien des données d'occlusion, car un fichier vide peut gravement impacter les performances du jeu.
 
 ### L'intégration / Détails des finitions
 
