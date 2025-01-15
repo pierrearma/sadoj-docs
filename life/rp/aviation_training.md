@@ -66,7 +66,7 @@ L'objectif est d'identifier l'appartenance plus rapidement des engins liés aux 
 * LF 	- LSFD
 * BC 	- BCFD
 * GV 	- Gouvernement
-* FA 	- FAA
+* AA 	- San Andreas State Aviation Administration
 * MR 	- Militaire
 * PX 	- Privé/autre
 
@@ -138,7 +138,7 @@ Voici un petit listing d’expressions et mots qui pourront t’être utile dans
 * La police est autorisée lors d’une patrouille à descendre à 500ft minimum (+300ft en cas d’obstacle).
 * Tous les services publics sont autorisés lors d’une intervention à descendre à 500ft minimum (+ 300ft en cas d’obstacle).
 * Tous vols lors de fortes intempéries ou orages sont strictement interdits.
-* Les Fly-by ou Low pass sont strictement interdits, sauf dérogation approuvé par le Gouvernement et la FAA (l’article 8.4.1 n’est pas applicable si cette dérogation est approuvée)
+* Les Fly-by ou Low pass sont strictement interdits, sauf dérogation approuvé par le Gouvernement et la SASAA (l’article 8.4.1 n’est pas applicable si cette dérogation est approuvée)
 
 ## Zones régulées et zones interdites de survol
 
