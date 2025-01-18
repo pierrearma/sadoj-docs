@@ -14,7 +14,6 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 
 #### Menus
 
-- <kbd>F7</kbd> : Menu Life
 - <kbd>F9</kbd> : Tenue
 - <kbd>F10</kbd> : Animations
 - Menu animal :
@@ -65,6 +64,7 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 #### Menus
 
 - <kbd>F2</kbd> : Inventaire
+- <kbd>F7</kbd> : Menu métiers
 - <kbd>X</kbd> : Menu radial
 - <kbd>.</kbd> : Téléphone
 - <kbd>!</kbd> : Préférences de l'interface
