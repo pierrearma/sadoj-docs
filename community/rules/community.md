@@ -95,6 +95,7 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 * Seules les images et les vidéos sont autorisée dans le salon public #galerie.
 * Dans les salons dédiés aux débats, les messages hors sujet ou "troll" sont interdits.
   * Il existe une commande de modération communautaire pour supprimer un message: en réponse à un message, écrire `-hs` pour le supprimer.
+* Le canal Discord #sondages est strictement réservé à la création de sondages. Chaque sondage peut être accompagné d'un seul message de contexte en réponse à celui-ci (car il n'est pas possible d'ajouter du texte en dehors du titre du sondage lors de sa création). Il est interdit d'utiliser ce canal à des fins humoristiques.
 
 ### TeamSpeak
 
