@@ -110,6 +110,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d’important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute) y compris les voies ferrées.
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
 * Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
+* Les véhicules de police doivent avoir une puissance équivalente à leur version civile, avec une tolérance de pourcentage définie par le groupe de validation des véhicules.
 
 ## Immobilier
 
