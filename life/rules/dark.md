@@ -113,7 +113,6 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Vol de véhicule: 2 policiers en service
   * Braquage de convoi de fonds: 2 policiers en service
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
-* En cas d’intrusion, si des PNJ sont présents et qu’aucun joueur témoin n’est à proximité, l’appel police anonyme est obligatoire.
 * Dans le cadre de l'installation de systèmes d'alarme dans le jeu, il est strictement interdit d'avoir plus d'une alarme installée pour sécuriser une même salle. Chaque salle ne peut disposer que d'une seule alarme. Cette règle vise à maintenir l'équilibre du jeu et à empêcher les joueurs d'accumuler trop de sécurité pour un même endroit, ce qui pourrait altérer l'expérience de jeu pour les autres participants.
 * Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau.
 
