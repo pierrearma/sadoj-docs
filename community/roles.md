@@ -270,9 +270,9 @@
           <li>Traitement des situations juridiques particulières</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Kuro, Backdraft, Esteban, Dylan51, UrtomT, Mentalomane</td>
+      <td style="text-align: center;">Guillaume, Kuro, Esteban, Dylan51, UrtomT, Mentalomane</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -355,9 +355,9 @@
           <li>Il est conseiller de passer par eux en cas de conflit</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Dylan51, Pierre, Back_draft, Thomas, Emmanuel, Valdum, IamBlue</td>
+      <td style="text-align: center;">Dylan51, Pierre, Thomas, Emmanuel, Valdum, IamBlue</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
