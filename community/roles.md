@@ -40,9 +40,9 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, IamBlue, Dylan51, Antonin, Valdum, Toxi, Spen82</td>
+      <td style="text-align: center;">Pierre, IamBlue, Dylan51, Valdum, Toxi, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
@@ -56,9 +56,9 @@
           <li>Fixe le prix des créations entreprises</li>
         </ul>
       </td>
-      <td style="text-align: center;">7</td>
+      <td style="text-align: center;">6</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, wrc, Esteban, </td>
+      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, wrc, Esteban</td>
       <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>
@@ -210,7 +210,7 @@
       </td>
       <td style="text-align: center;">2</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Jordan, Kentinlsy</td>
+      <td style="text-align: center;">Spen82, Kentinlsy</td>
       <td style="text-align: center;">Volontaire (éditeur sur le site)</td>
     </tr>
     <tr>
@@ -270,9 +270,9 @@
           <li>Traitement des situations juridiques particulières</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Kuro, Backdraft, Esteban, Dylan51, UrtomT, Mentalomane</td>
+      <td style="text-align: center;">Guillaume, Kuro, Esteban, Dylan51, UrtomT, Mentalomane</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -285,9 +285,9 @@
           <li>Encadrer les référents dark (gestion blackmarket, vente immobilière dark, vente d’informations, etc .. via leur personnage fictif)</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">???</td>
-      <td style="text-align: center;">Police :<br>Thracios, Dylan51, Thomas<br><br>Dark : <br>Lorrandmaps, Marcellino55, wrc, Magic_<br><br>Référents RP/HRP :<br>WRC</li>
+      <td style="text-align: center;">Police :<br>Dylan51, Thomas<br><br>Dark : <br>Lorrandmaps, Romno, wrc, Magic_<br><br>Référents RP/HRP :<br>WRC</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
@@ -355,9 +355,9 @@
           <li>Il est conseiller de passer par eux en cas de conflit</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Dylan51, Pierre, Back_draft, Thomas, Emmanuel, Valdum, IamBlue</td>
+      <td style="text-align: center;">Dylan51, Pierre, Thomas, Emmanuel, Valdum, IamBlue</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
@@ -367,9 +367,9 @@
           <li>Personnes touchant au mapping</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Kuro, Thomas, Mr.nunus, Wrc</td>
+      <td style="text-align: center;">Théo, Kuro, Thomas, Wrc</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Validation Véhicules</td>
@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Mr.nunus, Mathys, Thracios, Doryann, Guillaume, lhomme1515, FlyHight</td>
+      <td style="text-align: center;">Mathys, Thracios, Guillaume, lhomme1515, FlyHight, ZeBi</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
@@ -405,9 +405,9 @@
       <ul>
       <li>Se rendre disponible si un membre souhaite ajouter une information à un sujets ou si un auteur souhaite supprimer / modifier son sujet </li>
       </td>
-      <td style="text-align: center;">9</td>
+      <td style="text-align: center;">7</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Roni, Elkas, Dylan51, Bragon, Valdum, Spen82, Weazley, Estéban</td>
+      <td style="text-align: center;">Pierre, Roni, Elkas, Bragon, Valdum, Spen82, Weazley</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Gestionnaire VPS</td>

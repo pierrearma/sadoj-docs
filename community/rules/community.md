@@ -28,7 +28,10 @@
 * L’abus d’un ou des privilèges donnés par un rôle est interdit (le rôle pourra être retiré selon les conditions établies).
 * [Charte du créateur de contenu (direct ou vidéo)](community/rules/streamer.md)
 * Un ancien membre partit de lui même ou étant exclu pour inactivité a la possibilité de faire une demande de retour.
-* Tout membre ne pourra pas faire de demande de retour dans la communauté après un vote de sanction ou un départ volontaire s'il a porté atteinte à l’intégrité de la communauté, de ses serveurs (jeux, TeamSpeak, Discord) et de ses documents
+* Un membre qui a fait l'objet d'un vote de bannissement ou qui est parti de lui-même après avoir porté atteinte à l’intégrité de la communauté, de ses serveurs (jeux, TeamSpeak, Discord) ou de ses documents, pourra soumettre une demande de retour en deux étapes :
+  * Les informations concernant la sanction seront partagées par les médiateurs. Un premier vote permettra d’évaluer si le membre peut être autorisé à demander son retour.
+  * Si la réintégration est acceptée, le membre pourra plaider sa cause lors d’une réunion (par exemple, un dimanche). Un vote sera alors organisé pour valider ou non son retour. Si accepté, celui-ci sera assorti de restrictions pendant une durée déterminée.
+  * Le vote doit obtenir une majorité de 2/3 pour que celui-ci soit accepté.
 * Un membre ayant une absence prolongée ne peut pas avoir un rôle dans la communauté (recruteur, groupe économiste, groupe justice, groupe dark, …) et ne peut pas être PDG d’une entreprise ou occuper tout autre rôle important en RP (gouverneur, chef d’un service public, procureur, juge, …). Si le membre ne se retire pas de sa propre initiative, la communauté lui retirera son rôle.
 * Tout membre qui quitte la communauté alors qu’une procédure de médiation ou une procédure de sanction est en cours ne pourra pas réintégrer la communauté (prend effet dès la réception du message d’un médiateur).
 * Tous les 4 mois, lors de la première réunion du mois concerné, la communauté doit voter pour les nouveaux membres faisant partie de la médiation (les membres déjà dans le groupe peuvent postuler). Le sujet doit être créé lors de la réunion précédente et la collecte des volontaires se fait la semaine précédant le vote.
@@ -65,6 +68,7 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
   * Demande de second personnage
   * Demande de retour dans la communauté
   * Suppression du droit de stream
+* Le vote est un choix et une décision personnelle. Il ne peut et ne doit pas être remis en question par qui que se soit. Chaque avis, chaque prise de position se doit d’être respecté dans un scrutin. Toute critique ou remise en question du choix d’un membre lors d’un scrutin est et sera considérée comme un comportement anti communautaire, antidémocratique et portant préjudice au fonctionnement fondamental de la communauté.
 * A une même réunion, il ne peut avoir plusieurs votes sanctions d’un même type de sanction d’un même membre. S’il y a plusieurs demandes du même type de sanction envers un membre, chaque sujet doit être discuté séparément mais la communauté décide de la sanction des multiples sujets sur un seul et même vote par type de sanction.
 * Les groupes de la communauté doivent faire un compte-rendu hebdomadaire.
 
@@ -91,6 +95,7 @@ Respectez tout le monde, le respect est primordial. Soyez respectueux, courtois,
 * Seules les images et les vidéos sont autorisée dans le salon public #galerie.
 * Dans les salons dédiés aux débats, les messages hors sujet ou "troll" sont interdits.
   * Il existe une commande de modération communautaire pour supprimer un message: en réponse à un message, écrire `-hs` pour le supprimer.
+* Le canal Discord #sondages est strictement réservé à la création de sondages. Chaque sondage peut être accompagné d'un seul message de contexte en réponse à celui-ci (car il n'est pas possible d'ajouter du texte en dehors du titre du sondage lors de sa création). Il est interdit d'utiliser ce canal à des fins humoristiques.
 
 ### TeamSpeak
 

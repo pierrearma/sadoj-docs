@@ -32,7 +32,7 @@
 * [Termes RolePlay](life/rules/terms.md)
 * Il est interdit d’effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti.
 * Le sexe classique est autorisé si les personnes sont consentantes.
-* Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le formulaire.
+* Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le serveur Discord "Formation SADoJ".
 * Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
 * Pour garantir l’immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L’impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l’oral dans un cadre roleplay.
 
@@ -110,6 +110,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d’important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute) y compris les voies ferrées.
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
 * Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
+* Les véhicules de police doivent avoir une puissance équivalente à leur version civile, avec une tolérance de pourcentage définie par le groupe de validation des véhicules.
 
 ## Immobilier
 

@@ -129,15 +129,19 @@
 
 ### IX - 1 : Déclenchement alarme (levée de doute)
 
-- Interventions en cas d’alarme :
-  - Vérification extérieure et des portes.
-  - Vérification intérieure en signalant l'appartenance à une société de sécurité.
-  - En présence d'un intrus, repli et appel au 911 (attendre la police).
+- **Interventions en cas d’alarme :**
+  - Vérification extérieure et des portes.  
+  - Vérification intérieure en signalant l’appartenance à une société de sécurité.  
+  - En présence d’un intrus, l’agent de sécurité peut intervenir pour demander à l’intrus de quitter les lieux.  
+  - En cas de refus de l’intrus ou si ce dernier devient menaçant, l’agent de sécurité est autorisé à recourir à une force physique strictement proportionnelle et nécessaire pour neutraliser la menace ou expulser l’intrus, dans le respect des limites légales. Toute intervention physique doit éviter de mettre en danger la sécurité de l’agent ou des tiers présents.  
+  - Si l’intrus est armé ou que la situation devient dangereuse, l’agent doit immédiatement appeler les forces de l’ordre et attendre leur arrivée.  
+  - La société de sécurité est responsable de la gestion immédiate des biens, tout en restant dans les limites du contrat de sécurité et des dispositions légales.  
+  - En cas de dégradation des biens, de vol ou de tout autre acte criminel, l’agent de sécurité doit alerter les forces de l’ordre et rester à disposition pour fournir des informations précises.  
+  - En cas de présence d’un criminel armé ou si la situation dépasse les capacités de l’agent, l’intervention des forces de l’ordre est prioritaire.  
+  - Une fois la police sur les lieux, elle prend la responsabilité de l’intervention. L’agent de sécurité fournit un briefing complet au responsable d’intervention et reste à disposition pour toute assistance nécessaire.  
+  - En cas d’utilisation de l’arme à feu ou d’un recours important à la force, un rapport détaillé doit être rédigé et transmis aux autorités compétentes. L’arme peut être récupérée par un officier dans le cadre d’une enquête.
 
-- La société de sécurité intervient en premier lieu.
-- En cas de présence d’un criminel, appel aux forces de l'ordre pour renfort.
-- Une fois la police arrivée, ils sont responsables de l’intervention. L'entreprise doit faire un briefing au responsable d’intervention et rester à disposition.
-- En cas d’utilisation de l’arme à feu, un rapport écrit doit être fourni à la police et l'arme peut être récupérée par l’officier pour l'enquête.
+
 
 ### IX - 2 : Retrait illégal d’une balise
 
