@@ -169,6 +169,19 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Les caisses enregistreuses de boutiques
   * Les coffres de boutiques
   * Les petites banques Fleeca
+ 
+## Prises d'otages
+* Dans chaque situation (cambriolage, braquage, forcené, etc.), les forces de l'ordre doivent impérativement vérifier s'il y a une prise d'otage avant toute intervention.
+* Un otage peut être un joueur ou un PNJ, même fixe.
+* La vie des otages doit être la priorité absolue des forces de l'ordre. Toute action pouvant mettre leur vie en danger est strictement interdite.
+* Toute prise d’otage confirmée doit obligatoirement donner lieu à une tentative de négociation avant d’envisager une intervention. Les négociations doivent avoir pour objectif principal de préserver la vie des otages.
+* Les forces de l'ordre doivent rester ouvertes aux demandes des preneurs d'otages, à condition que ces requêtes soient raisonnables et qu'elles permettent de préserver des vies. Refuser systématiquement les demandes des preneurs d'otages est interdit.
+* L’arrestation des preneurs d’otages est un objectif secondaire et ne doit en aucun cas être prioritaire par rapport à la sécurité des otages.
+* Un assaut est autorisé uniquement si :
+ * Les négociations échouent ou sont rompues.
+ * La vie des otages est en danger immédiat.
+ * Une stratégie réaliste et cohérente a été élaborée pour maximiser la sécurité des otages.
+* Les forces de l’ordre doivent adopter un comportement réaliste et cohérent avec leur rôle, en évitant toute action irréfléchie ou irréaliste. L’objectif principal reste de sauver des vies.
 
 ## Les courses poursuites
 
