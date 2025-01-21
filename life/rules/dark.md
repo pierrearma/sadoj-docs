@@ -169,7 +169,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Les caisses enregistreuses de boutiques
   * Les coffres de boutiques
   * Les petites banques Fleeca
- 
+
 ## Prises d'otages
 
 * Dans chaque situation (cambriolage, braquage, forcené, etc.), les forces de l'ordre doivent impérativement vérifier s'il y a une prise d'otage avant toute intervention.
