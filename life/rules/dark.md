@@ -171,6 +171,20 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Les coffres de boutiques
   * Les petites banques Fleeca
 
+## Prises d'otages
+
+* Dans chaque situation (cambriolage, braquage, forcené, etc.), les forces de l'ordre doivent impérativement vérifier s'il y a une prise d'otage avant toute intervention.
+* Un otage peut être un joueur ou un PNJ, même fixe.
+* La vie des otages doit être la priorité absolue des forces de l'ordre. Toute action pouvant mettre leur vie en danger est strictement interdite.
+* Toute prise d’otage confirmée doit obligatoirement donner lieu à une tentative de négociation avant d’envisager une intervention. Les négociations doivent avoir pour objectif principal de préserver la vie des otages.
+* Les forces de l'ordre doivent rester ouvertes aux demandes des preneurs d'otages, à condition que ces requêtes soient raisonnables et qu'elles permettent de préserver des vies. Refuser systématiquement les demandes des preneurs d'otages est interdit.
+* L’arrestation des preneurs d’otages est un objectif secondaire et ne doit en aucun cas être prioritaire par rapport à la sécurité des otages.
+* Un assaut est autorisé uniquement si :
+  * Les négociations échouent ou sont rompues.
+  * La vie des otages est en danger immédiat.
+  * Une stratégie réaliste et cohérente a été élaborée pour maximiser la sécurité des otages.
+* Les forces de l’ordre doivent adopter un comportement réaliste et cohérent avec leur rôle, en évitant toute action irréfléchie ou irréaliste. L’objectif principal reste de sauver des vies.
+
 ## Les courses poursuites
 
 * Il faut privilégier au maximum les courses poursuites et pitt en dernier recours si danger pour la population (tir, accident, trottoir…).
@@ -221,6 +235,7 @@ Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers ser
 * La mort RP dark permet de subir les conséquences de ses actions dark. Sont éligibles:
   * Toute personne faisant du dark.
   * Les dénonciateurs et indicateurs d’activités dark.
+  * Toute personne adoptant un comportement physiquement menaçant envers un ou plusieurs acteurs pendant une scène Dark.
 * Les policiers infiltrés dans une organisation ou un gang sont éligibles. Les demandeurs doivent avoir une preuve RP (à ajouter au dossier) pour prouver que le policier infiltré a divulgué des informations (si pas de preuves, échappatoire). Le policier infiltré doit encore être dans le gang ou l’organisation pour y être éligible.
 * Un citoyen lambda qui ne fait que se défendre légalement n’est pas éligible.
 * La **mort RP Dark** comme dernière solution : Subir une **mort RP Dark** est pour un joueur quelque part toujours une expérience frustrante et destructrice. La **mort RP Dark** reste un dernier recours et doit être mise en place seulement quand toutes les solutions sont épuisées.
