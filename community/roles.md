@@ -42,7 +42,7 @@
       </td>
       <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, IamBlue, Dylan51, Valdum, Toxi, Spen82</td>
+      <td style="text-align: center;">Pierre, IamBlue, Dylan51, Valdum, Izukyo, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
