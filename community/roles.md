@@ -169,21 +169,6 @@
       <td style="text-align: center;">Décision du porte-parole du groupe (sous sa responsabilité)</td>
     </tr>
     <tr>
-      <td style="text-align: center;">Editeur du site</td>
-      <td>
-        Création de contenu du site internet :
-        <ul>
-          <li>Création de vote</li>
-          <li>Création d'articles (comptes rendus)</li>
-          <li>Création de pages</li>
-        </ul>
-      </td>
-      <td style="text-align: center;">8</td>
-      <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Elkas, Doryann, Kentinsly, Dylan51</td>
-      <td style="text-align: center;">Tout le monde après formation de Pierre <br> <br> Retrait possible en cas d'inactivité ou de mauvaise manipulation, réintégration après nouvelle formation.</td>
-    </tr>
-  <tr>
       <td style="text-align: center;">Formateur</td>
       <td>
         Formation des nouveaux membres :
