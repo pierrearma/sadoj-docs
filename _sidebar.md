@@ -31,7 +31,9 @@
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
     * [Commandes (nerds uniquement)](life/guides/commands.md "Commandes (nerds uniquement)")
-    * [Lore de Cayo Perico](life/guides/cayoperico.md "Lore de Cayo Perico")
+    * Lore
+      * [Lore de Cayo Perico](life/guides/lore/cayoperico.md "Lore de Cayo Perico")
+      * [Lore des gangs](life/guides/lore/gangs.md "Lore des gangs")
     * General
       * [Inventaire](life/guides/general/inventory.md "Inventaires")
       * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
