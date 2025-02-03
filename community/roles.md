@@ -40,9 +40,9 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, IamBlue, Dylan51, Valdum, Toxi, Spen82</td>
+      <td style="text-align: center;">Pierre, IamBlue, Dylan51, Valdum, Izukyo, Spen82, XanderTV</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
@@ -169,21 +169,6 @@
       <td style="text-align: center;">Décision du porte-parole du groupe (sous sa responsabilité)</td>
     </tr>
     <tr>
-      <td style="text-align: center;">Editeur du site</td>
-      <td>
-        Création de contenu du site internet :
-        <ul>
-          <li>Création de vote</li>
-          <li>Création d'articles (comptes rendus)</li>
-          <li>Création de pages</li>
-        </ul>
-      </td>
-      <td style="text-align: center;">8</td>
-      <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Elkas, Doryann, Kentinsly, Dylan51</td>
-      <td style="text-align: center;">Tout le monde après formation de Pierre <br> <br> Retrait possible en cas d'inactivité ou de mauvaise manipulation, réintégration après nouvelle formation.</td>
-    </tr>
-  <tr>
       <td style="text-align: center;">Formateur</td>
       <td>
         Formation des nouveaux membres :
@@ -301,8 +286,8 @@
         </ul>
       </td>
       <td style="text-align: center;">3</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Dylan51 LSPDS <br> Parale BCSO</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Dylan51 LSPDS <br> Parale BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> lhomme1515 LSPDS <br> mickey2309 BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> lhomme1515 LSPDS <br> mickey2309 BCSO</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Pompier (Life)</td>
@@ -324,8 +309,8 @@
         </ul>
       </td>
       <td style="text-align: center;">1</td>
-      <td style="text-align: center;">UrdomT</td>
-      <td style="text-align: center;">UrdomT</td>
+      <td style="text-align: center;">Wolfgardia</td>
+      <td style="text-align: center;">Wolfgardia</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Militaire (Life)</td>

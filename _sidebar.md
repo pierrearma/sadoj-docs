@@ -31,17 +31,10 @@
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
     * [Commandes (nerds uniquement)](life/guides/commands.md "Commandes (nerds uniquement)")
-    * [Lore](life/guides/Lore.md "Lore") 
-      * [Lore de Cayo Perico](life/guides/Lore/cayoperico.md "Lore de Cayo Perico")
-      * [Lore des Los Santos Vagos](life/guides/Lore/lossantosvagos.md "Lore des Los Santos Vagos")
-      * [Lore des Grove Street Families](life/guides/Lore/grovestreetfamilies.md "Lore des Grove Street Families")
-      * [Lore des Ballas](life/guides/Lore/ballas.md "Lore des Ballas")
-      * [Lore des Kkangpae](life/guides/Lore/kkangpae.md "Lore des Kkangpae")
-      * [Lore des Marabunta Grande](life/guides/Lore/marabuntagrande.md "Lore des Marabunta Grande")
-      * [Lore des Redneck](life/guides/Lore/redneck.md "Lore des Redneck")
-      * [Lore de The Lost MC](life/guides/Lore/thelostmc.md "Lore de The Lost MC")
-      * [Lore des Varrios Los Aztecas](life/guides/Lore/varrioslosaztecas.md "Lore des Varrios Los Aztecas")
-  * General
+    * Lore
+      * [Lore de Cayo Perico](life/guides/lore/cayoperico.md "Lore de Cayo Perico")
+      * [Lore des gangs](life/guides/lore/gangs.md "Lore des gangs")
+    * General
       * [Inventaire](life/guides/general/inventory.md "Inventaires")
       * [Menu Radial](life/guides/general/radialmenu.md "Menu Radial")
       * [Animation](life/guides/general/animation.md "Animation")

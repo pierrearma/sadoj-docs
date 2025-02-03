@@ -149,7 +149,7 @@ Voir [ce document](life/rules/perpetuity.md).
 
 ## Cayo Perico
 
-* L’île possède un lore bien défini. Vous pouvez le consulter [ici](life/guides/cayoperico.md).
+* L’île possède un lore bien défini. Vous pouvez le consulter [ici](life/guides/lore/cayoperico.md).
 * Il est interdit d’acheter une propriété sur l’île.
 * La location immobilière pour une durée de + de 24H est interdite.
 * Aucun véhicules personnels ne sont admis.
