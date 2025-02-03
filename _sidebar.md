@@ -52,6 +52,7 @@
       * [Perçage de coffre](life/guides/dark/safedrilling.md "Perçage de coffre")
       * [Piratage d'alarme](life/guides/dark/hackingalarm.md "Piratage d'alarme")
       * [Vente de drogue](life/guides/dark/drugsales.md "Vente de drogue")
+      * [Informateur](life/guides/dark/informant.md "Informateur")
       * [Achat armes non enregistrées](life/guides/dark/purchaseofunregisteredweapons.md "Achat armes non enregistrées")
     * Justice
       * [Tutoriel procureurs](life/guides/justice/process_attoney.md "Tutoriel procureurs")
