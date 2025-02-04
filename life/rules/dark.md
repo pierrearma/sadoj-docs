@@ -196,6 +196,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Les actions illégales et la corruption sont interdits pour les services suivant:
   * Gouverneur et lieutenant-gouverneur
   * Contrôleur fiscal
+  * SASAA
 * Les actions illégales et la corruption sont autorisé pour les services suivant, il faut faire une demande sur dossier auprès du groupe dark :
   * Police (dont Fire marshal) 1/5
   * Juges 1/3
