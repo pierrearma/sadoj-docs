@@ -47,4 +47,4 @@ En ouvrant cet onglet, vous pourrez lire l'information souhaitée.
 
 ![Informateur](../../../_media/life/guides/dark/informant/informant7.png)
 
-Évidemment, à vous d'aller la lire ensuite hehe ^^ ! 
+Évidemment, à vous d'aller la lire ensuite hehe ^^.
