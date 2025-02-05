@@ -10,7 +10,7 @@
 > Le vote sanction doit rester une procédure exceptionnelle non banalisée.
 
 > [!TIP]
-> **Pour toute question concernant le dark, veuillez vous adresser au référent, ToxiCorpTv.**
+> **Pour toute question concernant le dark, veuillez vous adresser au référent, Wrc.**
 
 ## Définitions
 
