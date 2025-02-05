@@ -224,6 +224,7 @@ Une carte est disponible [ici](https://map.sadoj-rp.fr/).
 Les Dark Zones sont des QG d’organisations ou de gang où la police ne peut intervenir sans décision de justice. Il reste possible de patrouiller dans la zone mais sans s’y arrêter.
 
 En cas d’intervention dans ces zones, les policiers doivent avoir un comportement et un équipement cohérent.
+Tout civil ayant un comportement jugé irresponsable par les locaux d'une Dark Zone le fait à ses risques et périls ! Une Mort Dark RP pourra être demandée auprès du Groupe Dark. 
 
 Toutes les propriétés de gang ou d’organisations ne sont pas forcément des Dark Zones, la liste est disponible [ici](https://map.sadoj-rp.fr/).
 
