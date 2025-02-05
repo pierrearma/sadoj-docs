@@ -237,6 +237,7 @@ Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers ser
   * Toute personne faisant du dark.
   * Les dénonciateurs et indicateurs d’activités dark.
   * Toute personne adoptant un comportement physiquement menaçant envers un ou plusieurs acteurs pendant une scène Dark.
+  * Tout civil ayant un comportement jugé irresponsable par les locaux dans une Dark Zone.
 * Les policiers infiltrés dans une organisation ou un gang sont éligibles. Les demandeurs doivent avoir une preuve RP (à ajouter au dossier) pour prouver que le policier infiltré a divulgué des informations (si pas de preuves, échappatoire). Le policier infiltré doit encore être dans le gang ou l’organisation pour y être éligible.
 * Un citoyen lambda qui ne fait que se défendre légalement n’est pas éligible.
 * La **mort RP Dark** comme dernière solution : Subir une **mort RP Dark** est pour un joueur quelque part toujours une expérience frustrante et destructrice. La **mort RP Dark** reste un dernier recours et doit être mise en place seulement quand toutes les solutions sont épuisées.
