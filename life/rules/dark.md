@@ -144,10 +144,10 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Seuls les organisations et les gangs en lien avec le trafic de drogue ont la possibilité de se fournir auprès d’un PNJ.
   * Chaque organisation / gang à un quota d’achat maximum par semaine.
   * L’attribution des différents type de drogue se fait par bon sens:
-    * Weed: Families & Ballas
-    * Cocaïne: Vagos, Marabunta & Cartels
-    * Meth: Redneck
-    * Ecstasy: Lost
+    * Weed: Grove Street Families & Ballas
+    * Cocaïne: Los Santos Vagos, Marabunta Grande & Cartels
+    * Meth: Redneck, Kkangpae
+    * Ecstasy: The Lost MC
 * Plantations de cannabis
   * Vous avez la possibilité en jeu de faire votre propre plantation et production de cannabis.
   * Concernant la plantation, vous trouverez tout ce dont vous avez besoin dans différents magasins en ville (Smoke and the Water, magasin de bricolage et superette).
