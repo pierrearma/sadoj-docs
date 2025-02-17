@@ -340,9 +340,9 @@
           <li>Il est conseiller de passer par eux en cas de conflit</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Dylan51, Pierre, Thomas, Emmanuel, Valdum, IamBlue</td>
+      <td style="text-align: center;">Thomas, Remigdv, Valdum, Dylan51, Pierre_19, Emmanuel, Pierre</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
