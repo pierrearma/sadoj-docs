@@ -56,9 +56,9 @@
           <li>Fixe le prix des créations entreprises</li>
         </ul>
       </td>
-      <td style="text-align: center;">6</td>
+      <td style="text-align: center;">5</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Theo, Remy, Cobraz, wrc, Esteban</td>
+      <td style="text-align: center;">Guillaume, Theo, Remy, lhomme1515, wrc<br><br>Conseillers : Clem0233, Kevinbdx, Cobraz</td>
       <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>

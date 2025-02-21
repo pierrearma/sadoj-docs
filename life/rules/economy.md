@@ -584,10 +584,10 @@ Les objectifs sont d’apporter des revenus supplémentaires tout en favorisant 
 
 Un commerce PNJ *(supérettes, loisirs, car wash...)* ne peut pas être installé chez les particuliers. Aucune demande d’ajout chez les particuliers sera acceptée.
 
-> [!WARNING]
-> Un script tel que billard, bras de fer  ne doit être accessible que dans des entreprises, clubs, lieux publics.
+>[!WARNING]
+> Les scripts tels que billard, bras de fer, fléchettes, air hockey ne doivent être accessibles que dans des entreprises, clubs ou lieux publics.
 >
-> Aucune demande d’ajout chez les particuliers sera acceptée. Si le lieu dispose déjà  cette possibilité il est autorisé de l’utiliser.
+> Aucune demande d’ajout chez des particuliers ne sera acceptée. Si le lieu dispose déjà de ces scripts, ceux-ci ainsi que les objets associés devront être retirés.
 
 ### La valeur de l’entreprise
 
