@@ -193,16 +193,16 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 ## Les services où l’illégal est interdit
 
-* Les actions illégales et la corruption sont interdits pour les services suivant:
-  * Gouverneur et lieutenant-gouverneur
+* Les actions illégales et la corruption sont autorisées pour les services / postes suivants, il faut faire une demande sur dossier auprès du groupe Dark :
+  * Police (dont Fire marshal) (1/5 maximum)
+  * Juges (1/3 maximum)
+  * Procureurs (1/3 maximum)
+* Les actions illégales ainsi que la corruption sont autorisées pour les services / postes suivants, il faut faire une demande pour chaque action auprès du Groupe Dark qui jugera si l'action demandée par le commanditaire est possible ou pas :
+  * Le Gouverneur et Lieutenant Gouverneur
   * Contrôleur fiscal
   * SASAA
-* Les actions illégales et la corruption sont autorisé pour les services suivant, il faut faire une demande sur dossier auprès du groupe dark :
-  * Police (dont Fire marshal) 1/5
-  * Juges 1/3
-  * Procureurs 1/3
-* L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne rentre pas dans l’illégal.
-* Ces policiers sont éligibles à la mort RP dark.
+* Dans ce cadre, policiers, Gouverneur et Lieutenant Gouverneur sont éligibles à la Mort RP Dark.
+* L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne tombe pas dans l’illégal.
 
 ## Safes-Zones
 
