@@ -128,7 +128,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 * Il n’est pas nécessaire d’être dans une organisation ou dans un gang pour voler un véhicule.
 * Lorsqu’il y a assez de policiers en services pour voler un véhicule, il devient possible de carjacker les véhicules PNJ.
-* Il est possible de revendre des véhicules à des receleurs PNJ, l'ensemble des joueurs ont la possibilité de faire affaire avec eux. Les organisation et les gangs sont les seules à pouvoir récupérer l’information de localisation. La police peut également les démanteler.
+* Il est possible de revendre des véhicules à des receleurs Joueurs ainsi que PNJ, l'ensemble des joueurs ont la possibilité de faire affaire avec eux. Les organisation et les gangs sont les seules à pouvoir récupérer l’information de localisation pour les receleurs PNJ. La police peut également les démanteler.
   * Le receleur achète à prix cassé les véhicules PNJ qui n’ont pas été crocheté. Jouez le jeux et crochetez les véhicules que vous volez.
 * Si vous êtes dans une organisation ou un gang, vous avez la possibilité de mettre un véhicule au faux nom de votre organisation pour que l’ensemble des membre de l’organisation puisse avoir les clés. Pour ce faire, le véhicule doit vous appartenir.
 * Le vol de véhicule joueur doit se faire obligatoirement avec un témoin, qu’il soit à proximité ou non tant qu’une personne hors du groupe de voleurs peut voir le vol. Les vols de véhicules joueurs sans personne autour sont interdits. Dans le cas où cela se produit, le véhicule sera restitué au joueur et si le véhicule a été vendu, l’argent sera retiré au voleur.
