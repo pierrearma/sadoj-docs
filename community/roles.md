@@ -179,7 +179,7 @@
           <li>Donner les "règles" de base sur le RP</li>
         </ul>
       </td>
-      <td style="text-align: center;">8</td>
+      <td style="text-align: center;">5</td>
       <td style="text-align: center;">Romno</td>
       <td style="text-align: center;">Voir le discord Formation</td>
       <td style="text-align: center;">Volontaire</td>
