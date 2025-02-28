@@ -605,8 +605,8 @@ La valeur de l'entreprise est calculée à l'aide d'une feuille de calcul et de 
 
 |             Type de Fermeture              | Procédure                                                                   | Récupération des Fonds                                             |
 | :----------------------------------------: | --------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-|  Cessation d'activité simple sans revente  | - Clôture des crédits <br>- Vente des bâtiments et véhicules                | Les responsables peuvent récupérer les fonds, mais **taxe de 60%** |
-| Cessation d'activité avec revente à l'État | - Vente à l'État à 50% du capital <br>- **Taxe de 60%**                     | Les responsables récupèrent une partie des fonds, **taxe de 60%**  |
+|  Cessation d'activité simple sans revente  | - Clôture des crédits <br>- Vente des bâtiments et véhicules                | Les responsables peuvent récupérer les fonds, mais **taxe de 30%** |
+| Cessation d'activité avec revente à l'État | - Vente à l'État à 50% du capital <br>- **Taxe de 30%**                     | Les responsables récupèrent une partie des fonds, **taxe de 30%**  |
 |          Faillite de l’entreprise          | L'entreprise ferme sans fonds et disparaît                                  | Aucune récupération de fonds                                       |
 |      Fermeture d’une association/club      | Fonds reversés à d'autres associations/clubs ou à des associations diverses | Le président peut récupérer **jusqu'à 40% des fonds**              |
 
@@ -1165,3 +1165,8 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
 - Le coffre du magasin, où sera stocké l'argent, doit être accessible (tout en pouvant être sécurisé conformément aux règles en vigueur concernant la sécurité) et placé dans un local appartenant à l'entreprise ou à l'association, clubs, ou bar.
 - Le prix maximum d'un item est plafonné à 30 000 $.
 - Sont exclus la vente d'arme, le custom d'arme, de licence.
+
+### Assurance
+* Le principe de l'assurance largement généreuse c'est de compenser les pertes liées au dark et de "ne pas avoir peur" de se faire voler son véhicule et non pour permettre aux voleurs eux même de  s'enrichir x2 ou de s'enrichir sur le dos du dark.
+
+* Toute demande de remboursement sera étudiée HRP et si il n'y a pas de VOL de VL ou de biens volés il n'y aura pas de remboursement.
