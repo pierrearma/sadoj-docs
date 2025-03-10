@@ -34,7 +34,6 @@ En effectuant une des actions de cette liste non exhaustive, vous êtes considé
 
 ### Le Référent Dark
 
-
 Le référent Dark joue un rôle central dans l'univers de Dark, incluant :
 
 * Gestion de l'immobilier Dark, y compris les ventes et les achats.
@@ -115,6 +114,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
 * Dans le cadre de l'installation de systèmes d'alarme dans le jeu, il est strictement interdit d'avoir plus d'une alarme installée pour sécuriser une même salle. Chaque salle ne peut disposer que d'une seule alarme. Cette règle vise à maintenir l'équilibre du jeu et à empêcher les joueurs d'accumuler trop de sécurité pour un même endroit, ce qui pourrait altérer l'expérience de jeu pour les autres participants.
 * Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau.
+* Seuls les civils victimes d’une agression ou d’une poursuite peuvent se réfugier dans une police station.
 
 ## Armes & tirs
 
@@ -204,25 +204,21 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Dans ce cadre, policiers, Gouverneur et Lieutenant Gouverneur sont éligibles à la Mort RP Dark.
 * L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne tombe pas dans l’illégal.
 
-## Safe/Dark Zones
+## Safes-zones
 
-* Les Safe-zones sont des lieux où le rôle-play illégal est interdit (tirs, vols, prise d’otage, mettre le feu,…). 
-* Les Dark Zones sont des QG d’organisations ou de gangs.
-
-* Les safes-zones sont les lieux suivants :
+* Les safe-zones sont des lieux où le rôle-play illégal est interdit (tirs, vols, prise d’otage, mettre le feu,…).
+* Les safe-zones sont les lieux suivants :
   * Fort Zancudo (base militaire)
   * Pénitencier de Bolingbroke (prison)
+* Il est interdit d’utiliser une safe-zone pour se réfugier afin de ne pas jouer une scène.
+* Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones.
 
-* Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones. 
+## Dark-zones
 
-* Il est interdit d’utiliser une Safe Zone pour se réfugier afin de ne pas jouer une scène. 
-* Seuls les civils victimes d’une agression ou d’une poursuite peuvent se réfugier dans une police station.
-
-* Pour les Dark Zones, 
-La police est en droit d'intervenir dans ces zones dans le cas de la prise en flag ou d'une fin de poursuite en son sein. 
-
-* Tout civil ayant un comportement jugé irresponsable par les locaux d'une Dark Zone le fait à ses risques et périls ! 
-Une Mort Dark RP pourra être demandée auprès du Groupe Dark. 
+* Les Dark Zones sont des QG d’organisations ou de gangs.
+* Dans les dark-zones, la police est en droit d'intervenir dedans uniquement dans le cas d'un flagrant délit, d'une poursuite en son sein ou d'une décision de justice.
+* Tout civil ayant un comportement jugé irresponsable par les locaux d'une dark-zone le fait à ses risques et périls ! Une Mort Dark RP pourra être demandée auprès du Groupe Dark.
+* Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones.
 
 ## Mort RP Dark
 
