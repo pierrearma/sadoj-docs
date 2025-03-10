@@ -204,32 +204,25 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Dans ce cadre, policiers, Gouverneur et Lieutenant Gouverneur sont éligibles à la Mort RP Dark.
 * L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne tombe pas dans l’illégal.
 
-## Safes-Zones
+## Safe/Dark Zones
 
-Les safes-zones sont des lieux ou le Rôle-Play illégal est interdit (tirs, vols, prise d’otage, mettre le feu, …).
-Il reste néanmoins possible de capturer quelqu’un ou de mettre des baffes.
+* Les Safe-zones sont des lieux où le rôle-play illégal est interdit (tirs, vols, prise d’otage, mettre le feu,…). 
+* Les Dark Zones sont des QG d’organisations ou de gangs.
 
-Les safes-zones sont les lieux suivant:
+* Les safes-zones sont les lieux suivants :
+  * Fort Zancudo (base militaire)
+  * Pénitencier de Bolingbroke (prison)
 
-* Fort Zancudo (base militaire)
-* Bâtiment du gouvernement et périmètre autours
+* Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones. 
 
-Une carte est disponible [ici](https://map.sadoj-rp.fr/).
+* Il est interdit d’utiliser une Safe Zone pour se réfugier afin de ne pas jouer une scène. 
+* Seuls les civils victimes d’une agression ou d’une poursuite peuvent se réfugier dans une police station.
 
-* Il est interdit d’utiliser une safe zone pour se réfugier et afin de ne pas jouer une scène. Seuls les civils victimes d’une agression ou d’une poursuite peuvent se réfugier dans une police station.
+* Pour les Dark Zones, 
+La police est en droit d'intervenir dans ces zones dans le cas de la prise en flag ou d'une fin de poursuite en son sein. 
 
-## Dark Zones
-
-Les Dark Zones sont des QG d’organisations ou de gang où la police ne peut intervenir sans décision de justice. Il reste possible de patrouiller dans la zone mais sans s’y arrêter.
-
-En cas d’intervention dans ces zones, les policiers doivent avoir un comportement et un équipement cohérent.
-Tout civil ayant un comportement jugé irresponsable par les locaux d'une Dark Zone le fait à ses risques et périls ! Une Mort Dark RP pourra être demandée auprès du Groupe Dark. 
-
-Toutes les propriétés de gang ou d’organisations ne sont pas forcément des Dark Zones, la liste est disponible [ici](https://map.sadoj-rp.fr/).
-
-Pour tout achat d'une propriété dans une Dark Zone, les agents immobiliers seront tenus de passer par le groupe Dark pour valider ou non l'achat.
-
-* Il est interdit de se réfugier dans une Dark Zone sans avoir semé la police.
+* Tout civil ayant un comportement jugé irresponsable par les locaux d'une Dark Zone le fait à ses risques et périls ! 
+Une Mort Dark RP pourra être demandée auprès du Groupe Dark. 
 
 ## Mort RP Dark
 
