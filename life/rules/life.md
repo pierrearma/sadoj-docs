@@ -154,6 +154,13 @@ Voir [ce document](life/rules/perpetuity.md).
 * La location immobilière pour une durée de + de 24H est interdite.
 * Aucun véhicules personnels ne sont admis.
 
+## Justice
+* Il est interdit de recourir simultanément à plusieurs avocats de cabinets différents dans une même affaire.
+Une exception est toutefois admise si l’ensemble des avocats exercent au sein du même cabinet.
+* Les joueurs ayant deux personnages et jouant à la fois un policier et un juge ne peuvent pas traiter eux-mêmes les demandes de mandats émanant de leur service de police, sauf en cas de nécessité urgente et avec l'autorisation préalable du groupe justice, qui peut refuser et attribuer la tâche à un autre juge.
+* Tout document rédigé en dehors d'un cadre RP n'est pas invocable dans une procédure judiciaire, pénale comme civile, sauf sur dérogation spéciale du groupe justice (en cas d'indisponibilité disproportionnée des joueurs du domaine en question, et si le document n'est pas rédigé par le joueur qui le demande, mais par une personne neutre).
+
+
 ## Autre
 
 * Pour toute modification sur le serveur Life qui a des conséquences sur tous les joueurs, il est obligatoire de faire voter cette modification par la communauté sauf exception propre à un groupe, et d’inscrire le changement dans le canal #change_log.
