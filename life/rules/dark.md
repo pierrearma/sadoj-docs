@@ -73,7 +73,7 @@ Les gangs sont des organisations par défaut qui ont été créées par le group
 Vous pouvez retrouver la liste ainsi que leur lore juste [ici](life/guides/lore/gangs.md).
 Il existe deux méthode pour les rejoindre. S’il y a des joueurs déjà dedans, tout doit se faire en RP. Si le gang est vacant, vous devez justifier votre demande auprès du groupe dark en fournissant un document comprenant le background de votre personnage ainsi que vos motivations. Un minimum de trois personnes est requis, sans limite maximum.
 Il n’existe pas de chef dans les gangs, du moins, sur le papier. Les membres sont libres de s’organiser comme ils veulent entre eux.
-Si vous rejoignez un gang vide, vous retrouverez votre QG ainsi qu’un coffre avec 1 pisolet et 15k$.
+Si vous rejoignez un gang vide, vous retrouverez votre QG ainsi qu’un coffre remplit d'éléments prédéfinis par le Groupe Dark pour vous lancer.
 
 #### 2. Les organisations dites “classiques”
 
@@ -275,7 +275,7 @@ Merci d’argumenter la demande et de préciser les besoins. Les organisations h
 
 Cette étape permet de garder une certaine cohérence, permet d’avoir des projets de qualité et permet d’éviter une multiplication inutile des organisations et permet de garder une certaine cohérence et proportion entre le légal et l’illégal.
 
-Les parties qui doivent figurer dans le dossier : (dossier à présenter sur google slide)
+Les parties qui doivent figurer dans le dossier : (dossier à présenter sur google slide de préférence).
 
 * Présentation de l’organisation : présentation et explications de ce que cela peut apporter au RP
 * Spécialisations, domaines d’activités

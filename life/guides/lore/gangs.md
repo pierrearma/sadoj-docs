@@ -230,7 +230,9 @@ Le gang est inspiré par les véritables clubs de motards comme les Hells Angels
 
 The Lost MC fonctionne comme un véritable club de motards, avec une hiérarchie bien établie:
 - **Le Président**: Le chef du club, 
-- **Le Vice-président**: Le bras droit du président. Ce rôle est souvent occupé par quelqu'un en qui le président a une grande confiance.
+- **Le Vice President**: Le bras droit du président. Ce rôle est souvent occupé par quelqu'un en qui le président a une grande confiance.
+- **Sergeant At Arms** : Il veille à la discipline, protège les membres et peut être responsable des armes du club.
+- **Road Captain** : Il organise et dirige les sorties du club et veille à la sécurité du groupe sur la route.
 - **Les membres initiés**: Ceux qui ont prouvé leur loyauté envers le club.
 - **Les prospects**: De nouvelles recrues qui doivent faire leurs preuves avant de devenir des membres à part entière.
 
