@@ -108,9 +108,20 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * La police n’est ni votre ami ni votre ennemi, vous devez respecter leurs statuts et les craindre un minimum.
 * Il est interdit de rentrer dans un garage script tout type de véhicule (voiture, moto, camion, bateau, hélicoptère, etc.) durant les 48h suivants une action dark (braquage, courses-poursuite, vol, etc.). Vous pouvez cependant tenter de cacher le véhicule *(exemple: dans un garage qui a une porte qui s’ouvre)*.
 * Des actions nécessites un certain nombre de policiers en services. En jeux, vous retrouvez dans le menu radial un bouton vous indiquant la possibilité ou non de faire une action. Voici quelques chiffres (non exhaustif):
-  * Grosses actions (prises d’otage, etc…): 4 policiers en service
-  * Vol de véhicule: 2 policiers en service
-  * Braquage de convoi de fonds: 2 policiers en service
+  * Braquer une banque:  6 policers en service ; 
+  * Grosses actions (prises d’otage, etc…): 4 policiers en service ;
+  * Braquer un coffre (PNJ ou joueur): 3 policiers en service ;
+  * Forcer une ouverture (portes, etc...): 3 policiers en service ;
+  * Piratage d'une alarme: 3 policiers en service ;
+  * Vol de véhicule: 2 policiers en service ;
+  * Braquage de convoi de fonds: 2 policiers en service ;
+  * Installer/Arracher une balise vl (uniquement relié à la central): 2 policiers en service ;
+  * Braconnage: 2 policiers en service ;
+  * Retirer un bracelet électronique: 2 policiers en service ;
+  * Braquer la caisse d'un commerce PNJ: 1 policiers en service ;
+  * Vendre de la drogue aux PNJ: 1 policiers en service ; 
+  * Vendre une voiture volée: 1 policiers en service ; 
+
 * Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
 * Dans le cadre de l'installation de systèmes d'alarme dans le jeu, il est strictement interdit d'avoir plus d'une alarme installée pour sécuriser une même salle. Chaque salle ne peut disposer que d'une seule alarme. Cette règle vise à maintenir l'équilibre du jeu et à empêcher les joueurs d'accumuler trop de sécurité pour un même endroit, ce qui pourrait altérer l'expérience de jeu pour les autres participants.
 * Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau.
