@@ -85,7 +85,7 @@ Voir [ce document](life/rules/perpetuity.md).
 
 ## Multi personnage
 
-* L’autorisation de pouvoir crée un autre personnage passera par un vote de la communauté.
+* L'autorisation de créer un autre personnage passera par un vote de la communauté, lequel pourra être demandé à tout moment à un animateur de réunion. Ce vote aura une durée de 24 heures.
 * Il faut être dans la communauté depuis 3 mois minimum pour faire la demande.
 * Le départ ou la mort d’un personnage se doit de respecter le règlement en vigueur. *(voir La mort Rôle Play- départ du personnage).*
 * Le changement de personnage est autorisé en cours d’une session de jeu.
