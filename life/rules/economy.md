@@ -724,7 +724,7 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
     <tr>
       <td>Particuliers, Entreprises, Associations</td>
       <td>Associations</td>
-      <td>Limité à 50 000 $ par personne et par mois<br />(crédit d’impôt de 50 %)</td>
+      <td>Limité à 50.000$ par personnes ou entité et par mois. (crédit d'impôt de 50% pour les entreprises)</td>
     </tr>
     <tr>
       <td>Particuliers, Entreprises, Associations</td>
