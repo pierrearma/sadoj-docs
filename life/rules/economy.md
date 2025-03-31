@@ -693,53 +693,59 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 > **Les dons sont interdits avant le départ ou la mort d’un personnage**. Cela serait considéré comme contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
 
 <table>
-  <tr>
-    <th>Qui donne</th>
-    <th>Qui reçoit</th>
-    <th>Limites / Conditions</th>
-  </tr>
-  <tr>
-    <td>Particuliers</td>
-    <td>Entreprises</td>
-    <td>Interdit</td>
-  </tr>
-  <tr>
-    <td>Particuliers</td>
-    <td>Particuliers</td>
-    <td>Limite de $50.000 par personne et par mois</td>
-  </tr>
-  <tr>
-    <td>Entreprises</td>
-    <td>Particuliers</td>
-    <td>Interdit</td>
-  </tr>
-  <tr>
-    <td>Entreprises</td>
-    <td>Entreprises</td>
-    <td>Interdit</td>
-  </tr>
-  <tr>
-    <td>Particuliers / Entreprises</td>
-    <td>Associations</td>
-    <td>Limite de $50.000/mois et par personne (crédit d’impôt de 50%)</td>
-  </tr>
-  <tr>
-    <td>Particuliers / Entreprises</td>
-    <td>Associations PNJ</td>
-    <td>Pas de limite</td>
-  </tr>
-  <tr>
-    <td>Particuliers / Entreprises</td>
-    <td>Partis politiques / Candidats</td>
-    <td>Maximum de $50.000 (1 fois par élection)</td>
-  </tr>
-  <tr>
-    <td>Particuliers / Entreprises</td>
-    <td>État, services publics</td>
-    <td>Pas de limite</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Donneur(s)</th>
+      <th>Bénéficiaire(s)</th>
+      <th>Conditions / Limites</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Particuliers, Associations, Entreprises</td>
+      <td>Entreprises</td>
+      <td>Interdit</td>
+    </tr>
+    <tr>
+      <td>Particuliers</td>
+      <td>Particuliers</td>
+      <td>Limité à 50 000 $ par personne et par mois</td>
+    </tr>
+    <tr>
+      <td>Entreprises</td>
+      <td>Particuliers</td>
+      <td>Interdit</td>
+    </tr>
+    <tr>
+      <td>Entreprises</td>
+      <td>Entreprises</td>
+      <td>Interdit</td>
+    </tr>
+    <tr>
+      <td>Particuliers, Entreprises, Associations</td>
+      <td>Associations</td>
+      <td>Limité à 50 000 $ par personne et par mois<br />(crédit d’impôt de 50 %)</td>
+    </tr>
+    <tr>
+      <td>Particuliers, Entreprises, Associations</td>
+      <td>Associations PNJ</td>
+      <td>Aucune limite</td>
+    </tr>
+    <tr>
+      <td>Particuliers, Entreprises, Associations</td>
+      <td>Partis politiques, Candidats</td>
+      <td>Maximum de 150 000 $ (une fois par élection)</td>
+    </tr>
+    <tr>
+      <td>Particuliers, Entreprises, Associations</td>
+      <td>État, Services publics</td>
+      <td>Aucune limite</td>
+    </tr>
+  </tbody>
 </table>
 
+
+Cette version utilise les éléments `<thead>` et `<tbody>` pour structurer le tableau et faciliter la lecture.
 ### Cas particulier des entreprises
 
 * On ne peut pas faire don de son entreprise à un particulier lors de la mort de son personnage ou du départ, l’état récupère l’entreprise et s’occupe de la revente.
