@@ -159,7 +159,16 @@ Voir [ce document](life/rules/perpetuity.md).
 Une exception est toutefois admise si l’ensemble des avocats exercent au sein du même cabinet.
 * Les joueurs ayant deux personnages et jouant à la fois un policier et un juge ne peuvent pas traiter eux-mêmes les demandes de mandats émanant de leur service de police, sauf en cas de nécessité urgente et avec l'autorisation préalable du groupe justice, qui peut refuser et attribuer la tâche à un autre juge.
 * Tout document rédigé en dehors d'un cadre RP n'est pas invocable dans une procédure judiciaire, pénale comme civile, sauf sur dérogation spéciale du groupe justice (en cas d'indisponibilité disproportionnée des joueurs du domaine en question, et si le document n'est pas rédigé par le joueur qui le demande, mais par une personne neutre).
-
+* Il est possible d’incarner un personnage exclusivement dédié aux fonctions judiciaires (juge ou procureur).
+  * Ce personnage peut être joué en plus des autres.
+  * Tout membre est éligible, sous réserve de validation par le groupe Justice.
+  * Le groupe Justice peut ajouter ou supprimer ce personnage si nécessaire.
+  * Ce personnage doit respecter les mêmes règles de création que les autres (ex. : validation du background).
+  * Il doit obligatoirement exercer la fonction de juge ou procureur, sans autre rôle possible.
+  * Il ne peut avoir aucune vie sociale ou activité en dehors de son cadre judiciaire. Il est uniquement présent pour traiter les affaires de justice (pas de loisirs, sorties informelles ou implications personnelles en dehors de la sphère judiciaire).
+  * Toute interaction sociale en dehors des audiences, plaidoiries, rédactions de jugements et procédures judiciaires est interdite.
+  * Le personnage ne peut être affilié à un groupe ou une faction susceptible de compromettre son impartialité, ni entretenir des relations personnelles influençant ses décisions.
+  * Un juge ou procureur incarnant ce personnage doit être physiquement présent en salle d’audience.
 
 ## Autre
 
