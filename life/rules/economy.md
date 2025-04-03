@@ -744,8 +744,6 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
   </tbody>
 </table>
 
-
-Cette version utilise les éléments `<thead>` et `<tbody>` pour structurer le tableau et faciliter la lecture.
 ### Cas particulier des entreprises
 
 * On ne peut pas faire don de son entreprise à un particulier lors de la mort de son personnage ou du départ, l’état récupère l’entreprise et s’occupe de la revente.
