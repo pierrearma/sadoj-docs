@@ -40,6 +40,9 @@ Après l’extérieur, on passe à l’intérieur. L’ensemble des instruments 
 ## Les communications radio
 
 La partie la plus redoutée de tous les élèves pilotes existants, les communications radio.
+Pour cela on se connect sur la radio en jeu sur les fréquences suivantes :
+* San Andreas - 1.0
+* Cayo Perico - 1.5
 
 **Le plus important est de vous faire comprendre.**
 
