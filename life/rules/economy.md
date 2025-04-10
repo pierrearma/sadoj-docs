@@ -93,10 +93,6 @@ L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un 
     <td>Vidéo reportage avec enquête journalistique</td>
     <td>200$/vue ou impression</td>
   </tr>
-  <tr>
-    <td>Radio</td>
-    <td>20$/ auditeur</td>
-  </tr>
 </table>
 
 ### Les revenus de travail ou activité PNJ
@@ -545,12 +541,14 @@ Ce tableau récapitule les prélèvements faits en fonction des revenus des resp
 ## Les entreprises / associations
 
 > [!ATTENTION]
-> **Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.**
+> Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.
 
 ### Type d’entités possibles
 
 > [!ATTENTION]
-> **Toute création d'association ou d'entreprise doit être validée par le gouvernement.**
+> Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
+Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets.
+
 
 | Type d'entité     | Caractéristiques principales                                                                                                                                                      |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -640,7 +638,8 @@ L’acheteur peut faire un crédit au nom de sa future entreprise (comme à la c
 - Fond de roulement obligatoire minimum de **10% du prix d’achat.**
 
 > [!ATTENTION]
-> **Le gouvernement doit valider la vente ou non. (Activités compatibles)**
+> **Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
+Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets. **
 
 > [!TIP]
 > Possibilité de faire un crédit personnel pour financer l'apport.
@@ -748,8 +747,8 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 
 * On ne peut pas faire don de son entreprise à un particulier lors de la mort de son personnage ou du départ, l’état récupère l’entreprise et s’occupe de la revente.
 * Les salariés ont la priorité absolue sur l’achat de l’entreprise dans les mêmes conditions que [le rachat d’entreprise](#le-rachat-dentreprise).
-* Dans tous les cas le gouvernement gèrera au cas par cas après validation du gouv et des économistes.
-* Dans le cas où la personne a des parts dans une entreprise, les associés doivent racheter les parts auprès du gouvernement.
+* Dans tous les cas le gouvernement gèrera au cas par cas après validation des économistes.
+* Dans le cas où la personne décédée a des parts dans une entreprise, les associés doivent racheter les parts auprès du gouvernement.
 
 ## Système de testament
 
