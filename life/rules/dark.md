@@ -246,9 +246,10 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * La mort RP Dark se déroule en 3 étapes
   * **Première étape :** avertissement, enlèvement ou torture (dans la limite des règles)
     * Cette première étape est facultative si le personnage visé a déjà communiqué deux ou plusieurs informations à la police permettant de nuire au demandeur ou à son organisation.
-  * **Deuxième étape :** Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage. Si dossier accepté, la personne visée sera averti par le groupe dark.
+  * **Deuxième étape :** Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage.
   * **Dernière étape :** La personne déposant le dossier de mort RP a le choix entre infliger la mort RP à la personne visée ou lui accorder une échappatoire. Si le dépositaire choisit l'échappatoire le concernée aura plusieurs possibilités  (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela.
     * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
+* La cible sera prévenue une fois la scène de Mort Dark effectuée.  
 
 ## Hôpitaux et médecins dark
 
