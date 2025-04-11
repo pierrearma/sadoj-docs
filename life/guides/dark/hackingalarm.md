@@ -1,4 +1,4 @@
-# Piratage d'alarme
+ pendant # Piratage d'alarme
 
 > Auteur de la page: Lorr'and Maps.
 
@@ -23,8 +23,8 @@ Vous n'avez que très peu de temps pour trouver l'emplacement du boîtier d'alar
 
 ![Piratage](../../../_media/life/guides/dark/hackingalarm/hackingalarm2.png)
 
-Une fois le "mini-jeu" réussi, l'alarme sera désactivée.
+Une fois le "mini-jeu" réussi, l'alarme sera désactivée pendant un certain temps en fonction du type de bâtiment. 
 
 ## Risques
 
-L'alarme peut se déclencher si vous ne trouvez pas le boîtier à temps. Un appel à la police sera effectué, ainsi que la sirène se mettra à retentir.
+L'alarme peut se déclencher si vous ne trouvez pas le boîtier à temps. Un appel à la police sera effectué, ainsi que la sirène se mettra à retentir sauf s'il s'agit d'une alarme silencieuse. 
