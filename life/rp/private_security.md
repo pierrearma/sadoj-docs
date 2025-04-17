@@ -148,5 +148,13 @@
 - Recherche de la balise.
 - Appel au 911 + sécurisation de la balise (empêcher la présence de civils).
 
+## X - Contrôle d’identité
+### Article X-1 : Principe général
+Le contrôle d’identité par un agent d’une société de sécurité privée est interdit, sauf dans les cas expressément prévus par la présente section.
+### Article X-2 : Exceptions
+Nonobstant le principe énoncé à l’article X.1, il est autorisé aux agents de procéder à un contrôle d’identité dans les situations suivantes :
+- Lors d’une levée de doute dans le cadre d’une alarme ou en cas de suspicion d’intrusion ;
+- Lors de la sécurisation d’un événement privé ou d’un lieu restreint, dont l’accès est réservé aux personnes ayant reçu une invitation nominative ou une autorisation.
+- Lors d'une délégation de pouvoir de puissance publique, notamment dans la sécurisation d'un lieu ou événement institutionnel ou plus généralement, public, à un service de sécurité privé.
 
 
