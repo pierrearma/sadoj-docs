@@ -40,6 +40,9 @@ Après l’extérieur, on passe à l’intérieur. L’ensemble des instruments 
 ## Les communications radio
 
 La partie la plus redoutée de tous les élèves pilotes existants, les communications radio.
+Tout d'abord une connexion oblogatoire sur la fréquence de votre secteur de vol. 
+- A San Andreas connexion sur votre radio fréquence : 001.0
+- A l'extérieur de San Andreas fréquence : 001.5
 
 **Le plus important est de vous faire comprendre.**
 
