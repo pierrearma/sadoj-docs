@@ -111,6 +111,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
 * Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
 * Les véhicules de police doivent avoir une puissance équivalente à leur version civile, avec une tolérance de pourcentage définie par le groupe de validation des véhicules.
+* Il est interdit de ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l’activité exercée par la structure qui l’utilise. Il est important de noter que les véhicules des clients, des employés, des fonctionnaires ou des membres d’une association ne sont, par définition, pas considérés comme liés à l’activité, puisqu’ils n’appartiennent pas à la structure.
 
 ## Immobilier
 
