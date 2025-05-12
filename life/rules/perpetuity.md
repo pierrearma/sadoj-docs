@@ -29,4 +29,4 @@ Les infractions suivantes peuvent conduire à une **Mort RP Justice** en cas de 
 * **Article 9.3.3 – Stockage illégal d’explosifs**
 * **Article 9.3.4 – Usage illégal d’un explosif**
 
-**Condamnation pour l’une des infractions ci-dessous, qu’il s’agisse de tentative ou d’accomplissement, et avec responsabilité pénale.**
+**Condamnation pour l’une des infractions ci-dessus, qu’il s’agisse de tentative ou d’accomplissement, et avec responsabilité pénale.**
