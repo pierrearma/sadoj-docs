@@ -2,27 +2,31 @@
 
 ---
 
-La perpétuité justice, le personnage condamné à perpétuité aura le droit de demander le retour de son personnage sous une période comprise entre 6 et 12 mois selon le crime. Perpetuité est faite uniquement dans la prison d’État.
+La “Perpétuité Justice” est une sanction exceptionnelle, réservée aux personnages ayant commis plusieurs crimes graves à répétition.
+Elle entraîne un retrait prolongé du personnage du cadre RP.
 
-Le démarrage du dossier de perpétuité justice commence dès la deuxieme condamnation pour crime.
+Le retour du personnage est possible après un délai minimum de **six mois**.
 
-Étapes :
+## Progression des condamnations
 
-1. 2eme Condamnation pour crime (jugement ou accord)
-2. 3eme condamnation pour crime (récidive ou pas) = 1 semaine de prison à la prison d’état
-3. 4eme condamnation pour crime (récidive ou pas) = 2 semaines de prison à la prison d’état
-4. 5eme condamnation pour crime (récidive ou pas) = vote perpétuité justice. Possibilité de refaire revenir son perso aprés 6 mois minimum.
+* **1ʳᵉ condamnation** | Déclenchement automatique de la procédure.
+* **2ᵉ condamnation** | 7 jours de prison d’État ; Mention RP : **« Individu à surveiller – haute dangerosité »**.
+* **3ᵉ condamnation** | Perpétuité Justice ; le personnage est exclu du RP. Retour possible après **six mois minimum**.
 
-Liste des crimes qui nécéssaire lors d’une perpétuité justice:
 
-* 2.5 - Tentative d'homicide
-* 2.6 - Homicide involontaire
-* 2.7 - Meurtre au premier degré
-* 2.8 - Meurtre au second degré
-* 2.10 - Enlèvement
-* 2.11 - Acte de barbarie
-* 2.12 - Homicide par véhicule
-* 2.13 - Complot / Conspiration si la conspiration est liée avec les autres articles de la liste
-* 4.1 - Incendie volontaire avec victime
-* 7.7 - Possession de dispositifs explosifs avec l'intention de les vendre
+## Crimes concernés
+Les infractions suivantes peuvent conduire à une **Mort RP Justice** en cas de récidive :
 
+* **Article 4.2.1 – Homicide involontaire**
+* **Article 4.2.2 – Meurtre au premier degré**
+* **Article 4.2.3 – Meurtre au second degré**
+* **Article 4.2.4 – Séquestration**
+* **Article 4.2.5 – Enlèvement**
+* **Article 4.2.6 – Acte de barbarie**
+* **Article 5.2.3 – Trahison**
+* **Article 6.2.5 – Incendie volontaire**
+* **Article 9.3.2 – Trafic illégal d’explosifs**
+* **Article 9.3.3 – Stockage illégal d’explosifs**
+* **Article 9.3.4 – Usage illégal d’un explosif**
+
+**Condamnation pour l’une des infractions ci-dessous, qu’il s’agisse de tentative ou d’accomplissement, et avec responsabilité pénale.**
