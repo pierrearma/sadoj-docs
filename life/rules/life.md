@@ -39,6 +39,7 @@
 ## La vie / la mort
 
 * La valeur de la vie : préserver la vie de votre personnage doit être plus important que tout le reste. Ne pas se rendre/fuir/obtempérer, en situation désespérée, sera considéré comme du No-Fear-Rôle-Play (grosse infériorité numérique et de moyen avec la police, hélico etc.., encerclé par l’ennemi, etc…).
+* Chaque personnage doit disposer d’au moins un lieu de vie, qu’il soit légal ou non, tant qu’il est cohérent et reconnu comme un espace où il est possible de dormir (squat, planque, logement, etc.). Un lieu de travail ne peut pas faire office de logement. Les personnages volontairement sans-abri sont autorisés, à condition que ce soit un choix RP cohérent et pleinement assumé dans leur jeu.
 * Pour la perte de mémoire suite à un état inconscient, se référer à l’image:
 
 <img src="../../_media/life/rules/perte_de_memoire.png" alt="Perte de mémoire" style="max-width: 750px;">
