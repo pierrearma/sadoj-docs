@@ -473,13 +473,25 @@ Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la r
 
 * Sont considérés comme emploi le fait de posséder une entreprise et/ou d'y travailler.
   * Etre sénateur est considéré comme un emploi.
+  * Chairman (même en cas de participation au capital),
+  * Associé dans une société,
+  * Employé de l’entreprise.
+* Les fonctions suivantes ne sont pas considérées comme des emplois :
+  * Actionnaire non impliqué dans la gestion opérationnelle,
+  * Entrepreneur individuel,
+  * Commerçant,
+  * Avocat.
 * Il est autorisé d'avoir deux emplois maximum  responsable ou employé ou bénévole pour les entreprises.
 * Les associations, clubs sont exclus et peuvent faire appel à des bénévoles.
-* Posséder des parts et être seulement actionnaire ne compte pas comme un emploi.
 * Les mandats électifs (Gouverneur, Lieutenant Gouverneur, Procureur Général) comptent comme un emploi.
   * Durant leur mandat, ils ne peuvent pas exercer d'autres activités professionnelles et doivent se mettre en retrait de leurs éventuels emplois ou entreprises pendant toute la durée de leur mandat.
-* La profession d'avocat peut être effectuée en plus de deux autres emplois.
-* Tout nouveau joueur arrivant est interdit de cumuler plusieurs emplois pendant une période de 1 mois à compter de sa première apparition avec son personnage sur le serveur life, sont exclus le travail à la tâche, le bénévolat.
+  
+
+> [!NOTE]
+> Tout nouveau joueur arrivant est interdit de cumuler plusieurs emplois pendant une période de 1 mois à compter de sa première apparition avec son personnage sur le serveur life, sont exclus le travail à la tâche, le bénévolat.
+
+
+
 
 > [!NOTE]
 > Une exception est possible pour des tâches temporaires, [voir](#le-travail-à-la-tâche-temporaire).
@@ -519,24 +531,147 @@ Le taux d'endettement doit être inférieur à **80% du salaire fixe** hors prim
 * Pour les entreprises, **10% est prélevé sur chaque facture** constitué de la façon suivante :
   * 10% de taxe de consommation (TC)
 * Une déclaration pour les impôts a lieu une fois par mois.
-  * Si bénéfices du mois supérieurs à $300.000 : **20% prélevé par l’état**.
 
 ### Pour les particuliers
 
 Prélèvement social et contribution solidarité par déclaration lors de la déclaration des entreprises des revenus perçu par les responsables et par les actionnaires.
 
-### Pour les dirigeants et actionnaires
+### Imposition pour les associés, commerçants, chairman (par mois)
+<table border="1">
+  <thead>
+    <tr>
+      <th>Plage de revenu (par mois)</th>
+      <th>Taux d'imposition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Moins de 40 001</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>De 40 001 à 60 000</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>De 60 001 à 80 000</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>De 80 001 à 100 000</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>De 100 001 à 150 000</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>Entre 150 001 et 250 000</td>
+      <td>30%</td>
+    </tr>
+    <tr>
+      <td>Plus de 250 001</td>
+      <td>70%</td>
+    </tr>
+  </tbody>
+</table>
 
-Ce tableau récapitule les prélèvements faits en fonction des revenus des responsables et actionnaires d'entreprises.
+### Imposition pour les actionnaires sur les dividendes (par mois)
+<table border="1">
+  <thead>
+    <tr>
+      <th>Plage de dividendes (par mois)</th>
+      <th>Taux d'imposition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Moins de 40 001</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>De 40 001 à 100 000</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>De 100 001 à 200 000</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>De 200 001 à 300 000</td>
+      <td>30%</td>
+    </tr>
+    <tr>
+      <td>De 300 001 à 400 000</td>
+      <td>35%</td>
+    </tr>
+  </tbody>
+</table>
 
-| Salaire et prime/ mois en $ | Taux d'imposition |
-| :-------------------------: | :---------------: |
-|       Moins de 20000        |        0%         |
-|      De 20001 à 30000       |        5%         |
-|      De 30001 à 40000       |        10%        |
-|      De 40.001 à 60000      |        15%        |
-|        Plus de 60001        |        30%        |
-|        Plus de 200K         |        70%        |
+### Imposition sur les entreprises (bénéfice, masse salariale, frais)
+<table border="1">
+  <thead>
+    <tr>
+      <th>Plage de revenus (par mois)</th>
+      <th>Taux d'imposition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inférieur à 50 000</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>De 50 001 à 100 000</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>De 100 001 à 150 000</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>De 150 001 à 200 000</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>De 200 001 à 300 000</td>
+      <td>12%</td>
+    </tr>
+    <tr>
+      <td>De 300 001 à 400 000</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>De 400 001 à 500 000</td>
+      <td>18%</td>
+    </tr>
+    <tr>
+      <td>De 500 001 à 600 000</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>De 600 001 à 800 000</td>
+      <td>22%</td>
+    </tr>
+    <tr>
+      <td>Au-delà de 800 001</td>
+      <td>25%</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Frais de l'entreprise ( investissements, frais de fonctionnement) (Total du mois) :
+  * Achat de véhicules, immobilier, tous les frais de fonctionnement (essence, réparations, alarmes, caméras, remboursements de prêt etc..), dividendes données aux actionnaires. (HORS produits achetés pour revendre)
+
+* Exemples ne pas déclarer :
+  * Achat produits pour les shops pour les commerçants,
+  * L'achat de bien pour revendre des agences immobilières,
+  * L'achat de marchandise à vendre pour les entreprises de logistique.
+  * Le rachat de voiture d'occasion pour les concessions.,
+
+Les frais correspondent vraiment aux dépenses de fonctionnement de l'entreprise.
+
+
 
 ## Les entreprises / associations
 
@@ -549,12 +684,38 @@ Ce tableau récapitule les prélèvements faits en fonction des revenus des resp
 > Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
 Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets.
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Type d'entité</th>
+      <th>Caractéristiques principales</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Association</strong></td>
+      <td>- Activité à but non lucratif<br>- Pas de salaire, employés ou factures</td>
+    </tr>
+    <tr>
+      <td><strong>Sole Proprietorship (Entreprise Individuelle)</strong></td>
+      <td>- Remplace le statut de micro-entreprise pour les entrepreneurs exerçant seuls.<br>- Certaines activités (journalisme, immobilier, sécurité) nécessitent une accréditation préalable.<br>- Chiffre d’affaires mensuel limité à 50 000 $.<br>- L’embauche de personnel est interdite.<br>- Exonération de l'impôt sur les sociétés et des charges patronales.<br>- Facturation bancaire professionnelle obligatoire.<br>- Coût d’ouverture : 30 000 $.<br>- Cessation d'activité : notification de 15 jours et règlement des dettes.<br>- Revente interdite, toute reprise nécessite la création d'une nouvelle entreprise.</td>
+    </tr>
+    <tr>
+      <td><strong>Partnership (Société de Personnes)</strong></td>
+      <td>- Statut réservé aux entreprises fondées par un maximum de trois associés partageant responsabilités et bénéfices.<br>- Les associés sont personnellement et solidairement responsables des dettes de l’entreprise.<br>- Embauche de personnel sans restriction.<br>- Aucune limitation de chiffre d'affaire.<br>- La création d'actions et l'ouverture du capital à des tiers sont interdites.<br>- Coût d’ouverture : 120 000 $.<br>- Les fonds de l’entreprise sont la propriété exclusive des associés, partagés selon les accords internes.<br>- Soumis à l’impôt entrepreneurial standard et aux charges patronales.<br>- Cessation d'activité : approbation des associés et règlement des dettes.<br>- Revente possible avec accord des associés; un acte de cession est requis.</td>
+    </tr>
+    <tr>
+      <td><strong>Corporation (Société Anonyme)</strong></td>
+      <td>- Permet la création d’une entité distincte, gérée par un conseil d’administration.<br>- Le conseil d’administration est composé des actionnaires et du Chairman.<br>- Soumis à l’impôt entrepreneurial standard et aux charges patronales.<br>- Dividendes soumis à l’impôt.<br>- Dividendes distribuables limités à 100 000 $ par semaine.<br>- Coût d’ouverture : 240 000 $.<br>- Les fonds appartiennent exclusivement à l’entreprise.<br>- Cessation d'activité : décision du conseil d’administration et approbation des actionnaires. Les actifs de l’entreprise (trésorerie, équipements, stocks, immobilier, etc.) peuvent être saisis pour couvrir la dette.<br>- Revente : transfert d'actions validé par le conseil d’administration, inclut le passif de l’entreprise.</td>
+    </tr>
+    <tr>
+      <td><strong>Independent Retailer (Commerçant Indépendant)</strong></td>
+      <td>- Statut destiné à l’exercice d’une activité commerciale sans plafond de chiffre d’affaires.<br>- Un seul responsable (commerçant).<br>- Embauche de salariés autorisée sans limitation.<br>- Soumis à l’imposition entrepreneuriale standard et à une taxe de consommation.<br>- Coût d’ouverture : 10 000 $.<br>- Cessation d'activité : notification de 30 jours, règlement des dettes, et inventaire final obligatoire.<br>- Revente de l’ensemble des actifs, stocks, et matériels autorisés.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Type d'entité     | Caractéristiques principales                                                                                                                                                      |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Association**    | - Activité à but non lucratif<br>- Pas de salaire, employés ou factures                                                                                                          |
-| **Micro-entreprise** | - Possibilité d'accréditation pour certaines activités spécifiques<br>- Taxe de 10% sur le chiffre d'affaires<br>- Chiffre d’affaires max : $15,000/semaine<br>- Compte en banque obligatoire, factures par la banque<br>- Pas de déclaration ni d'employés |
-| **Entreprise**     | - Possibilité d'avoir des employés<br>- Taxe de 10% sur le chiffre d'affaires<br>- Déclaration des revenus obligatoire<br>- Soumise à l'impôt sur les entreprises                                                     |
+
 
 Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
@@ -646,27 +807,11 @@ Le gouvernement continue néanmoins de faire l'intermédiaire entre les personna
 >
 > Possibilité de faire un apport personnel de seulement **5% pour l'achat** de l'entreprise mais seulement avec l'accord des économistes, en dernier recours.
 
-### Les Actionnaires
 
-* Le nombre maximum d’actionnaires est de 4 actionnaires, l’actionnaire qui a le plus de parts est considéré comme le responsable de l’entreprise, il est le seul décideur.
-* Les revenus touchés par les actionnaires sont à l’initiative du responsable et non obligatoires et doivent être déclarés lors de la déclaration d’entreprise chaque mois. et les actionnaires devront payer le Prélèvement social et contribution solidarité *(voir Taxes et impôts/ pour les particuliers)
-* Le revenu des actionnaires ne peut dépasser **10.000$ par semaine** à titre de dividendes.
-* Lors de la vente de l'entreprise les actionnaires touchent la part qu’ils leur revient **-25%** et ne peuvent pas garder les parts de l’entreprise
-
-### Statut des actionnaires minoritaires
-
-Les actionnaires minoritaires d'entreprises ne pourront plus bénéficier des avantages accordés dans les fameux menus "entreprise". Nous estimons que l'utilisation de véhicules, de locaux, de caméras, etc., est inutile pour un actionnaire qui n'exerce aucune activité professionnelle.
-
-Le rôle et le but de l'actionnaire minoritaire seront donc de toucher des dividendes et d'investir dans une entreprise. Dans le cas où un actionnaire minoritaire serait également employé de l'entreprise, cela serait considéré comme un travail et donc limité.
-
-> Exemples :
-> Monsieur A possède 49% d'une entreprise, il n'aura plus le droit d'avoir le menu "entreprise" de l'entreprise.
->
-> Monsieur B possède 49% d'une entreprise mais est également employé par celle ci, il aura le droit d'avoir le menu "entreprise" mais ce sera compté comme un emploi (2 max).
 
 ### Injecter de l’argent
 
-Un actionnaire, qu'il soit majoritaire ou minoritaire, peut injecter des capitaux de manière illimitée dans les sociétés où il possède des parts.
+Un associé, un commerçant, un actionnaire peut injecter des capitaux de manière illimitée dans les sociétés où il possède des parts.
 
 ### Les parts
 
