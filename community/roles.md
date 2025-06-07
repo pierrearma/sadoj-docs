@@ -207,8 +207,8 @@
         </ul>
       </td>
       <td style="text-align: center;">1 (1 max)</td>
-      <td style="text-align: center;">Romno</td>
-      <td style="text-align: center;">Romno</td>
+      <td style="text-align: center;">Eliott</td>
+      <td style="text-align: center;">Eliott</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
     <td style="text-align: center;">X (Twitter)</td>
