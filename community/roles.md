@@ -272,7 +272,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">???</td>
-      <td style="text-align: center;">Police :<br>Thomas, Thibault59, Emmanuel<br><br>Dark : <br>Lorrandmaps, Rox, wrc, Valdum<br><br>Référents RP/HRP :<br>WRC</li>
+      <td style="text-align: center;">Police :<br>Thomas, sveltio, Emmanuel<br><br>Dark : <br>Lorrandmaps, Thibault_59, wrc, Valdum<br><br>Référents RP/HRP :<br>WRC</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
