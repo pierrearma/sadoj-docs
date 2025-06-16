@@ -196,10 +196,9 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 ## Les courses poursuites
 
-* Il faut privilégier au maximum les courses poursuites et pitt en dernier recours si danger pour la population (tir, accident, trottoir…).
 * La conduite doit rester réaliste.
-* Les tunnels ne doivent être utilisés qu’en dernier recours qu’après plusieurs minutes de poursuite.
-* Les herses ne peuvent être utilisées qu’après 2 minutes minimum.
+* Toute action ramenée au Groupe Dark, et jugée par celui-ci disproportionnée, exposera son personnage à des représailles RP. 
+* Si un abus d'actions entraînant une écourtation de scène est vu (Off-Road/PIT brutal/Circulation sur terrains inapte, etc...), le Groupe Dark sera en droit de demander une sanction LIFE conjointement avec la médiation à l'encontre du joueur.
 
 ## Les services où l’illégal est interdit
 
