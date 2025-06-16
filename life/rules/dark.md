@@ -198,7 +198,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 * La conduite doit rester réaliste.
 * Toute action ramenée au Groupe Dark, et jugée par celui-ci disproportionnée, exposera son personnage à des représailles RP. 
-* Si un abus d'actions entraînant une écourtassion de scène est vu (Off-Road/PIT brutal/Circulation sur terrains inapte, etc...), le Groupe Dark sera en droit de demander une sanction LIFE conjointement avec la médiation à l'encontre du joueur.
+* Si un abus d'actions entraînant une scène écourtée est vu (Off-Road/PIT brutal/Circulation sur terrains inapte, etc...), le Groupe Dark sera en droit de demander une sanction LIFE conjointement avec la médiation à l'encontre du joueur.
 
 ## Les services où l’illégal est interdit
 
