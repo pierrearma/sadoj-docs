@@ -537,7 +537,7 @@ Le taux d'endettement doit être inférieur à **80% du salaire fixe** hors prim
 Prélèvement social et contribution solidarité par déclaration lors de la déclaration des entreprises des revenus perçu par les responsables et par les actionnaires.
 
 ### Imposition pour les associés, commerçants, chairman (par mois)
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Plage de revenu (par mois)</th>
@@ -577,7 +577,7 @@ Prélèvement social et contribution solidarité par déclaration lors de la dé
 </table>
 
 ### Imposition pour les actionnaires sur les dividendes (par mois)
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Plage de dividendes (par mois)</th>
@@ -609,7 +609,7 @@ Prélèvement social et contribution solidarité par déclaration lors de la dé
 </table>
 
 ### Imposition sur les entreprises (bénéfice, masse salariale, frais)
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Plage de revenus (par mois)</th>
@@ -684,7 +684,7 @@ Les frais correspondent vraiment aux dépenses de fonctionnement de l'entreprise
 > Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
 Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets.
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Type d'entité</th>
@@ -721,9 +721,26 @@ Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
 ### Création d’entreprise
 
-Le prix de l'entreprise est fixé au cas par cas par les économistes en fonction de l’activité et des addons désirés. Le prix total devra être payé à l'État.
+>[!ATTENTION]
+>
+>Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts **devra être validée par le groupe économiste**, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
+> **Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets.**
 
-Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités sur les fonds de l’entreprise. le crédit pourra être remboursé à tout moment.
+>[!ATTENTION]
+>
+> Toute demande de création d'entreprise ayant pour activité principale ou secondaire le développement (DEV) **sera systématiquement refusée.**
+>
+> Le développement, qu’il s’agisse de la création de coverings, de mapping ou d'autres contributions techniques, est considéré comme une démarche bénévole au service de la communauté, en dehors du cadre RP.
+>
+>Toute tentative de monétisation, de valorisation en jeu ou de mise en scène RP d’une activité de développeur sera refusée.
+>
+>Cette règle ne s’applique **pas de manière rétroactive** : les structures déjà existantes avant son entrée en vigueur ne sont pas concernées, sauf en cas d’abus manifeste.
+>
+> *Exemples : aménagement (maping), création de véhicule...*
+
+* Le prix de l'entreprise est fixé au cas par cas par les économistes. Le prix total devra être payé à l'État.
+
+* Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités sur les fonds de l’entreprise. le crédit pourra être remboursé à tout moment.
 
 - **Apport obligatoire de 10% du prix** sur fonds personnel du créateur de l’entreprise et/ou actionnaires.
 - Crédit avec un **taux d'intérêt minimum de 10%** et **maximum de 20%.**
@@ -798,9 +815,7 @@ L’acheteur peut faire un crédit au nom de sa future entreprise (comme à la c
 - Crédit avec un **taux minimum de 10%** et **maximum de 20%.**
 - Fond de roulement obligatoire minimum de **10% du prix d’achat.**
 
-> [!ATTENTION]
-> **Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
-Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets. **
+
 
 > [!TIP]
 > Possibilité de faire un crédit personnel pour financer l'apport.
