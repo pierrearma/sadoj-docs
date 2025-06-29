@@ -256,8 +256,8 @@
         </ul>
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
-      <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;">Guillaume, Kuro, Esteban, Dylan51, UrtomT, Mentalomane, CharlieS</td>
+      <td style="text-align: center;">??</td>
+      <td style="text-align: center;">Florian, Kuro, Esteban, Dylan51, UrtomT, Mentalomane, CharlieS</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
