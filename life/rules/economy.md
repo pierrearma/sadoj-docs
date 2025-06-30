@@ -23,7 +23,7 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ### Les salaires
 
-* Le salaire minimum actuel est de **$2.500/semaine** si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci).
+* Le salaire minimum actuel est de **$3.500/semaine** si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci).
 * Des primes peuvent être données en plus afin de récompenser les employés. Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle-ci.
 
 ### Honoraires des avocats
