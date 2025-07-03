@@ -424,7 +424,7 @@ Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la r
   </tr>
   <tr>
     <td>Bateau, aéronefs</td>
-    <td>Une semaine</td>
+    <td>48 heures</td>
   </tr>
   <tr>
     <td>Le reste</td>
