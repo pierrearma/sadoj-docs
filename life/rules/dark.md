@@ -197,7 +197,6 @@ L’informateur est inclus dans le prix de création de l’organisation.
 ## Les courses poursuites
 
 * La conduite doit rester réaliste.
-* Toute action ramenée au Groupe Dark, et jugée par celui-ci disproportionnée, exposera son personnage à des représailles RP. 
 * Le Groupe Dark reste attentif aux comportements pouvant entraîner un écourtement (Off-Road, PIT brutal, circulation sur des terrains inadaptés, etc.) et n’hésitera pas, si nécessaire, à intervenir pour veiller au respect des règles.
 
 ## Les services où l’illégal est interdit
