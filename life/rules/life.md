@@ -95,7 +95,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * Le second personnage a le droit de louer, acheter et vendre un bien immobilier sur le plan professionnel ou personnel.
 * L’avatar à le droit de prétendre à tous les emplois présent sur le serveur.
   * Exceptions :
-    * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, avocat, procureur, etc …).
+    * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, procureur, etc …) (hors avocat).
     * Il est interdit d'avoir deux personnages sénateurs.
     * Il est interdit d'avoir un personnage sénateur et un autre gouverneur ou lieutenant-gouverneur.
     * Il est interdit d’avoir un personnage dans une organisation et un autre dans la police (tous services confondus).
