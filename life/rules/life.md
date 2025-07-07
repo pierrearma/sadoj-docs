@@ -183,7 +183,8 @@ Une exception est toutefois admise si l’ensemble des avocats exercent au sein 
 * L’utilisation des notifications en jeux est autorisé dans les conditions suivantes:
   * Message de prévention (alerte trafic, sensibilisation, …).
   * Annonce d’évènement (audience, course, soirée publique, …).
-* Il est interdit d’acheter un véhicule destiné à une société si vous ne faites pas partie de la société et/ou si le patron n’a pas donné son accord. De même, il est interdit d’acheter un véhicule destiné au service public (police, médecins, pompiers, etc.) si vous ne faites pas partie du service et/ou si le chef n’a pas donné son accord.
+* Il est strictement interdit d’acheter un véhicule destiné à une entreprise si vous n’en faites pas partie ou si le dirigeant n’a pas expressément donné son accord. De la même manière, vous ne pouvez pas acquérir un véhicule réservé aux services publics (police, médecins, pompiers, etc.) sans appartenir à ce service ou sans l’autorisation du chef de service.
+  * Concernant les coverings, qu’ils soient utilisés par une société, un service public ou un particulier, certaines textures peuvent être estampillées « exclu ». Dans ce cas, toute modification ou acquisition de ce covering « exclu » doit faire l’objet d’une demande préalable auprès de son créateur (demandez sur le Discord DEV si vous ne savez pas de qui il s’agit).
 * La communauté n'a pas le pouvoir de modifier tout document RP (tout document pouvant être cité en RP). Seul(s) le(s) groupe(s) concerné(s) peut/peuvent y apporter des modifications. Le(s) groupe(s) concerné(s) conserve le droit de solliciter l'avis de la communauté pour une modification importante.
 * Une ancienneté de 1 mois est nécessaire dans la communauté pour être sénateur.
 
