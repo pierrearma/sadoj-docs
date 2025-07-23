@@ -433,7 +433,8 @@
       </td>
       <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
       <td style="text-align: center;">Remigdv</td>
-      <td style="text-align: center;">Remigdv, thracios (police), Mac, salvatormauro, Zebi</td>
+      <td style="text-align: center;">lhomme1515, Mac, Remigdv, thracios, sadojtitouan82 (police)
+</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
         <td style="text-align: center;">Groupe Politique</td>
