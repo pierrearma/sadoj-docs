@@ -372,7 +372,7 @@ Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + p
   </tr>
   <tr>
     <td>Achat/Vente</td>
-    <td>Les prix libres entre joueurs, <strong>entre 80% et 120%</strong> pour la revente. <br>Pour une revente aux PNJ, le taux est 100%.<br> Ne concerne pas les enchères</td>
+    <td>Les prix libres entre joueurs, <strong>entre 80% et 120%</strong> pour la revente. </td>
     <td>Un bien d'une valeur de 200 000 dollars peut être revendu entre 160 000 et 240 000 dollars.</td>
   </tr>
   <tr>
