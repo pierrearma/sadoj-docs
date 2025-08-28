@@ -1333,3 +1333,7 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
 * Le principe de l'assurance largement généreuse c'est de compenser les pertes liées au dark et de "ne pas avoir peur" de se faire voler son véhicule et non pour permettre aux voleurs eux même de  s'enrichir x2 ou de s'enrichir sur le dos du dark.
 
 * Toute demande de remboursement sera étudiée HRP et si il n'y a pas de VOL de VL ou de biens volés il n'y aura pas de remboursement.
+
+### Redevance fédérale
+Chaque semaine, une redevance fédérale d’un montant fixe de 300 000 $ est prélevée et versée sur le compte PNJ depuis le compte du Gouvernement.
+Cette mesure vise à réguler l’économie en retirant une partie de l’argent en circulation, tout en maintenant les flux financiers nécessaires au gameplay (revenus des journalistes, jobs PNJ, activités illégales, etc.).
