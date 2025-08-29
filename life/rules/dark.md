@@ -209,6 +209,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Le Gouverneur et Lieutenant Gouverneur
   * Contrôleur fiscal
   * SASAA
+  * Affaires internes
 * Dans ce cadre, policiers, Gouverneur et Lieutenant Gouverneur sont éligibles à la Mort RP Dark.
 * L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne tombe pas dans l’illégal.
 
