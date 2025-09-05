@@ -329,7 +329,7 @@ Exemple : *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
     <tr>
       <td>Vente d’un bien au PNJ</td>
       <td>Obligation de passer par une agence, gestion de la vente auprès du notaire</td>
-      <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 10%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
       <td></td>
     </tr>
     <tr>
@@ -398,6 +398,8 @@ Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + p
 
 * Vous devez faire des travaux dans le cas où un intérieur est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes.
 * En cas d’incendie d’un bien immobilier, l'État peut indemniser le sinistré, se renseigner directement en RP.
+* Les travaux d'aménagement extérieur ou d'intérieur (mlo/IPL) doivent passer par une demande auprès des agences.
+
 
 ### Adressage
 
