@@ -288,7 +288,7 @@ Les frais d’agence sont des frais minimum, elles peuvent prendre des commissio
 
 ### Achat, location de bien, de terrain
 
-Un bien peut être vendu de 80% à 130% de sa valeur de base **SAUF pour les enchères.**
+Un bien peut être vendu de 80% à 130% de sa valeur de base.
 
 Exemple : *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
 
@@ -344,20 +344,12 @@ Exemple : *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
       <td>Commission de 20% du prix de la location (loyer +20%) à la charge du locataire, frais de notaire inclus</td>
       <td>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
     </tr>
-    <tr>
-      <td>Vente aux enchères immobilières (Etat)</td>
-      <td>Biens appartenant à l'état ou biens saisis, obligation de passer par une agence immobilière</td>
-      <td>Prix de départ 60% de la valeur de base du bien sur le marché, commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-      <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce), seules les agences immobilières peuvent participer aux enchères, pas de limite de prix de vente</td>
-    </tr>
   </tbody>
 </table>
 
 >[!NOTE]
 > Les agences ne payent pas les frais de changement de propriétaire.
 >
-> Pour des achat ou des ventes hors enchères, l'état doit tirer au sort l'agence avec laquelle il va passer.
-
 ### Calcul de la valeur
 
 Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + prix du bâtiment en fonction des étages. Plus le terrain est grand, plus c’est cher et inversement, ce qui peut créer des cas particuliers qui peuvent faire l’objet d’un prix fixé par les économistes.
@@ -439,7 +431,9 @@ Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la r
 * Les véhicules rares sont répartis de **manière équitable** entre les concessions.
 * En cas d'exemplaire unique (1), **un tirage au sort** est effectué pour déterminer quelle concession l'aura.
   * Le tirage au sort n'est pas effectué par les concessions.
-* Concernant la vente au client, elle se fera normalement : les premiers arrivés seront les premiers servis.
+* Concernant la vente au client, chaque acheteur potentiel devra s'inscrire sur une liste et **un tirage au sort** sera effectué en fonction du nombre d'exemplaires disponible chez celle ci.
+  * Le tirage au sort n'est pas effectué par les concessions.
+
 > [!ATTENTION]
 > Un vendeur doit vous autoriser à commander le véhicule
 >
@@ -798,6 +792,10 @@ Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vent
 
 >[!ATTENTION]
 >**Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.**
+>
+>**Les économistes valideront ou non la conformité de la vente, en cas d'anomalie celle ci pourra être annulée.**
+
+
 
 >[!ATTENTION]
 >**Les économistes peuvent forcer la fermeture d'une entreprise lors d'une mise en vente ou d'une mise en inactivité. Cela s'applique, mais sans s'y limiter, par exemple, si le secteur concerné devient trop saturé ou si l'entreprise est jugée inutile pour le serveur.**
