@@ -39,6 +39,7 @@ L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un 
 
 - Pas de limite d'article, de tweet, de video.
 - Le groupe des économistes peut également décider de ne donner aucun revenu en cas de tromperie, de sujets qui n'ont aucun rapport avec le serveur.
+- Les hashtags réels tels que #politique #actu #info #breakingnews sont interdit, utilisez des hastags RP comme #PolitiqueSanAdreas #nom_entreprise ect... en lien avec le Role Play.
 
 <table>
   <tr>
@@ -94,6 +95,7 @@ L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un 
     <td>200$/vue ou impression</td>
   </tr>
 </table>
+
 
 ### Les revenus de travail ou activité PNJ
 
