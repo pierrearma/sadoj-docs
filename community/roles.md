@@ -286,8 +286,8 @@
         </ul>
       </td>
       <td style="text-align: center;">3</td>
-      <td style="text-align: center;">Guillaume SAHP <br> lhomme1515 LSPDS <br> mickey2309 BCSO</td>
-      <td style="text-align: center;">Guillaume SAHP <br> lhomme1515 LSPDS <br> mickey2309 BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSPDS <br> besajo BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSPDS <br> besajo BCSO</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Pompier (Life)</td>
@@ -357,16 +357,36 @@
       <td style="text-align: center;">Théo, Kuro, Thomas, Wrc</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
+ <tr>
     <td style="text-align: center;">Validation Véhicules</td>
-      <td>
-      Valide les véhicules ajoutés sur le life
+    <td>
+      <strong>Valide les véhicules ajoutés sur le life</strong>
       <ul>
-          <li>Personnes touchant aux véhicules</li>
-        </ul>
-      </td>
+        <li>
+          <strong>Contrôle technique</strong><br>
+          <small>Vérifie que les véhicules proposés sont fonctionnels, exempts de bugs et conformes aux normes techniques du serveur.</small>
+        </li>
+        <li>
+          <strong>Contrôle la pertinence des ajouts</strong><br>
+          <small>Juge si un véhicule proposé est cohérent avec l’univers RP et respecte l’équilibre global du serveur.</small>
+        </li>
+        <li>
+          <strong>Contrôle la cohérence des ajouts</strong><br>
+          <small>S’assure que les ajouts n’entraînent pas de déséquilibres esthétiques ou RP et qu’ils s’intègrent harmonieusement au contenu existant.</small>
+        </li>
+        <li>
+          <strong>Identité visuelle</strong><br>
+          <small>Valide et vérifie en amont toute modification d’apparence (textures, livrées, couleurs, logos) pour préserver la cohérence et éviter les changements trop fréquents d’image pour une entité.</small>
+        </li>
+        <li>
+          <strong>Droit de regard sur le parc existant</strong><br>
+          <small>Peut réexaminer certains véhicules déjà intégrés (performances, cohérence visuelle, pertinence RP) et proposer leur modification, remplacement ou retrait.</small>
+        </li>
+      </ul>
+    </td>
       <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Mathys, Thracios, Guillaume, lhomme1515, FlyHight, ZeBi</td>
+      <td style="text-align: center;"> Doryann, Thracios, Guillaume, lhomme1515, FlyHight, Titouan</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
