@@ -747,14 +747,23 @@ Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
 ### Revenus additionnels possibles
 
-Les entreprises disposant de locaux ouverts au public en permanence et où il est possible d’acheter des produits *(supérettes, boutiques, bar, nightclub) ou d’effectuer des loisirs (billard etc..)* ont la possibilité de demander via le gouvernement des revenus supplémentaires.
-Ces revenus seront étudiés au cas par cas en fonction des demandes mais la marge finale sera **au minimum de 2500$** (salaire minimum).
+Les entreprises disposant de locaux ouverts en permanence au public, permettant l’achat de produits (supérettes, boutiques, bars, clubs, etc.) ou la pratique d’activités de loisirs (billard, jeux, etc.), peuvent solliciter auprès des économistes l’octroi de revenus supplémentaires.
+Chaque demande fera l’objet d’une étude au cas par cas. Le montant final accordé dépendra notamment du prix de location du bâtiment.
 
-En réponse à la demande, des contreparties pourront être décidées, pour animer les lieux.
+En contrepartie, certaines obligations pourront être mises en place afin d’animer les lieux.
 
-> Pour un nightclub par exemple organiser des soirées, pour une supérette, faire des livraisons / réapprovisionnement.
+> Pour un nightclub par exemple organiser des soirées ou pour une supérette, faire des livraisons / réapprovisionnement.
 
-Les objectifs sont d’apporter des revenus supplémentaires tout en favorisant l’interaction, une occupation des lieux qui sont bien souvent vides et pour éviter de revenir en arrière avec les investissements de bâtiments fantômes.
+L’objectif est d’apporter un complément de revenus tout en favorisant l’interaction, l’occupation de locaux souvent vides, et d’éviter que les investissements dans ces bâtiments ne deviennent des « fantômes ».
+
+>[!WARNING]
+> - Cette demande ne sera étudiée que si un shop est effectivement installé.
+>
+> - Le montant final accordé dépendra notamment du prix de location du bâtiment.
+>
+> - Ajout du shop joueur obligatoire.
+>
+
 
 Un commerce PNJ *(supérettes, loisirs, car wash...)* ne peut pas être installé chez les particuliers. Aucune demande d’ajout chez les particuliers sera acceptée.
 
