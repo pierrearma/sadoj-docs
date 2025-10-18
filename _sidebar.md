@@ -27,6 +27,7 @@
     * [Code de prévention des incendies](life/rp/fire_code.md "Code de prévention des incendies")
     * [Code sociétés de sécurité privée](life/rp/private_security.md "Code sociétés de sécurité privée")
     * [Code de la route](life/rp/traffic_regulations.md "Code de la route")
+    * [Registre des entreprises et associations](life/rp/register_companies_associations.md "Registre des entreprises et associations")
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
     * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
   * Guides de jeu
