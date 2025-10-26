@@ -342,7 +342,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Thomas, Remigdv, Spen82, Dylan51, Pierre_19, Emmanuel, Pierre</td>
+      <td style="text-align: center;">Valdum, Xander, Spen82, Dylan51, Lorr'and Maps, Emmanuel, Pierre</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
@@ -465,7 +465,7 @@
       </td>
       <td style="text-align: center;">6</td>
      <td style="text-align: center;">Aucun</td>
-     <td style="text-align: center;">Estéban, Guillaume, wrc, Théo, Urdom, Thomyboy</td>
+     <td style="text-align: center;">Estéban, Guillaume, wrc, Urdom,</td>
            <td style="text-align: center;">Gouverneur, Lieutnant Gouverneur en fonction, anciens gouverneurs volontaires (sous forme de conseiller PNJ), 1 membre extérieur élu par les autres membres du groupe</td
   </tbody>
 </table>
