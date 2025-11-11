@@ -465,7 +465,7 @@
       </td>
       <td style="text-align: center;">6</td>
      <td style="text-align: center;">Aucun</td>
-     <td style="text-align: center;">Estéban, Guillaume, wrc, Urdom,</td>
+     <td style="text-align: center;">Estéban, Guillaume, wrc, Urdom, Xander, Yoshi</td>
            <td style="text-align: center;">Gouverneur, Lieutnant Gouverneur en fonction, anciens gouverneurs volontaires (sous forme de conseiller PNJ), 1 membre extérieur élu par les autres membres du groupe</td
   </tbody>
 </table>
