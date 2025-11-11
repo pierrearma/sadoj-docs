@@ -58,9 +58,9 @@ La procédure est la suivante :
 1. **Le joueur rédige ses motivations RP et HRP.** Il explique notamment pourquoi il souhaite la mort ou le départ de son personnage. La communication d'informations RP doit être réduite au strict minimum et se limiter à l'explication des motivations.
 2. **Le joueur contacte un animateur de réunion en lui fournissant ses motivations.** Si le demandeur est un animateur de réunion, il ne peut pas traiter lui-même sa demande.
 3. L'animateur est en charge de collecter les informations suivantes :
-   1. **Une procédure de mort "dark" est-elle en cours de traitement ?** Si oui, l'avis du groupe "Dark" doit obligatoirement y figurer (favorable / défavorable / sans avis).
-   2. **Une procédure de mort "justice" est-elle en cours de traitement ?** Si oui, l'avis du groupe "Justice" doit obligatoirement y figurer (favorable / défavorable / sans avis).
-   3. **Une procédure judiciaire est-elle en cours ?** Si oui, l'avis du groupe "Justice" doit obligatoirement y figurer (favorable / défavorable / sans avis).
+   1. **Une procédure de mort "dark" est-elle en cours de traitement ?** Si oui, le groupe "Dark" doit rendre une décision (favorable / défavorable). En cas de décision défavorable, la demande ne peut être poursuivie.
+   2. **Une procédure de mort "justice" est-elle en cours de traitement ?** Si oui, le groupe "Justice" doit rendre une décision (favorable / défavorable). En cas de décision défavorable, la demande ne peut être poursuivie.
+   3. **Une procédure judiciaire est-elle en cours ?** Si oui, le groupe "Justice" doit rendre une décision (favorable / défavorable). En cas de décision défavorable, la demande ne peut être poursuivie.
    4. **Une enquête de police est-elle en cours ?** Si oui, les joueurs concernés peuvent, sur la base du volontariat, donner leur avis.
 4. **L'animateur crée le vote** et diffuse, sur la même page, les motivations et les informations collectées. Il y inscrit également la date de création du personnage. **Le vote doit durer 24h00** à compter de la publication de l'annonce de l'étape suivante.
 5. **L'animateur prévient la communauté** de la création du vote dans #messages_membres en mentionnant @everyone.
