@@ -394,12 +394,15 @@ Le calcul se fait sur la surface du terrain selon le secteur prix du terrain + p
 * En cas d’incendie d’un bien immobilier, l'État peut indemniser le sinistré, se renseigner directement en RP.
 * Les travaux d'aménagement extérieur ou d'intérieur (mlo/IPL) doivent passer par une demande auprès des agences.
 
-
 ### Adressage
 
 Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la route devant l’entrée principale et le nom de la rue.
 
 > Exemple : 1154RueDeMaMaison
+
+### Règle d’attribution pour les propriétés dotées d’un MLO
+- Lors d’une vente de maison impliquant un MLO, le vendeur doit privilégier les joueurs ne possédant pas encore de maison avec MLO.
+   - En cas d’égalité entre plusieurs acheteurs potentiels, le vendeur (en cas de vente direct) ou l’agence immobilière sera chargé de  déterminer le candidat retenu, en se basant sur la qualité du dossier présenté.
 
 ## Les véhicules
 
@@ -1007,18 +1010,17 @@ Les économistes feront une étude au cas par cas si des signalements d'abus son
 > Tuer des animaux est toujours possible sans policier en service, pour le plaisir d’une chasse sans gain par exemple.
 
 ## Les joueurs inactifs
+### Règle de saisie d’un bien inactif :
 
-Procédure concernant les biens immobiliers, les véhicules rares et les entreprises appartenant à des joueurs considérés comme inactifs dans le jeu. Ces règles suivent les critères déjà présents dans le règlement communautaire.
+Tout bien appartenant à un joueur inactif est automatiquement saisi et remboursé si ce joueur ne s’est pas connecté au cours d’une période de plus de 2 mois.
+Si la personne concernée possède des véhicules rares, ceux-ci font également l’objet d’une saisie avec remboursement équivalent.
 
-* Les biens immobiliers, les véhicules rares et les entreprises des joueurs totalement inactifs ou ne répondant pas à un avertissement de perte de biens peuvent être saisis.
-* Les joueurs sont considérés inactifs s'ils sont absents du jeu depuis au moins 3 mois.
-* Les joueurs sont avertis une fois par message sur Discord pour comprendre les raisons de leur inactivité.
+Les situations particulières pourront toutefois être étudiées et traitées au cas par cas.
 
 Si la saisie est décidée :
-* Aucune indemnisation n'est accordée.
 * Si un crédit immobilier est en cours, il est soldé gratuitement par la banque.
 * La saisie est réalisée hors du contexte du jeu (en dehors du rôle-play).
-* Ensuite, les biens immobiliers sont remis sur le marché immobilier, les véhicules sont vendus aux enchères, et les entreprises sont également mises en vente ou attribuées à de nouveaux propriétaires.
+* Ensuite, les biens immobiliers sont remis sur le marché, les véhicules également, et les entreprises sont mises en vente ou attribuées à de nouveaux propriétaires.
 
 ## Les paiements de produits, de services
 
