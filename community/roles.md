@@ -230,9 +230,9 @@
           <li>Community manager</li>
         </ul>
       </td>
-      <td style="text-align: center;">2</td>
+      <td style="text-align: center;">1</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Taykay, Klugos</td>
+      <td style="text-align: center;">Klugos</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Instagram</td>
@@ -244,7 +244,7 @@
       </td>
       <td style="text-align: center;">2</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">TayKay, Spen82</td>
+      <td style="text-align: center;">Noé, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
      <td style="text-align: center;">Groupe Justice (Life)</td>
