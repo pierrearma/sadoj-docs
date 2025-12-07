@@ -682,8 +682,7 @@ Les frais correspondent vraiment aux dépenses de fonctionnement de l'entreprise
 ### Type d’entités possibles
 
 > [!ATTENTION]
-> Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
-Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets.
+> Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts devra être validée par le groupe économiste, garant et gestionnaire de l’économie du serveur, le gouvernement n'est plus impliqué dans le processus.
 
 <table>
   <thead>
@@ -725,7 +724,8 @@ Système d’aide pour les entreprises au cas par cas sans le système de coef.
 >[!ATTENTION]
 >
 >Toute création ou modification d’activité pour les entreprises ou entité commerciales peu importe leur statuts **devra être validée par le groupe économiste**, garant et gestionnaire de l’économie du serveur, et ce, indépendamment de toute approbation gouvernementale.
-> **Le gouvernement continue néanmoins de faire l'intermédiaire entre les personnages et les économistes pour les projets.**
+>
+>**Le gouvernement n'est plus impliqué dans le processus.**
 
 >[!ATTENTION]
 >
@@ -805,7 +805,7 @@ A savoir que la valeur maximale du prix de vente (hors fonds) ne pourra pas êtr
 Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vente**.
 
 >[!ATTENTION]
->**Il est obligatoire de passer par le gouvernement pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.**
+>**Il est obligatoire de passer par le groupe économiste pour savoir la valeur de l’entreprise et la déclaration de vente est obligatoire.**
 >
 >**Les économistes valideront ou non la conformité de la vente, en cas d'anomalie celle ci pourra être annulée.**
 
@@ -850,7 +850,7 @@ Les parts d’une entreprise ne peuvent pas être données, revente obligatoire 
 * Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente des parts.
 
 > [!ATTENTION]
-> **Obligation de passer par le gouvernement pour savoir la valeur de l’entreprise et déclaration obligatoire la vente de parts.**
+> **Obligation de passer par le groupe économiste pour savoir la valeur de l’entreprise et déclaration obligatoire la vente de parts.**
 
 ### Aides gouvernementales (pour entreprises ou associations)
 
@@ -1348,5 +1348,5 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
 * Toute demande de remboursement sera étudiée HRP et si il n'y a pas de VOL de VL ou de biens volés il n'y aura pas de remboursement.
 
 ### Redevance fédérale
-Chaque semaine, une redevance fédérale d’un montant fixe de 300 000 $ est prélevée et versée sur le compte PNJ depuis le compte du Gouvernement.
+Chaque semaine, une redevance fédérale d’un montant fixe de 500 000 $ est prélevée et versée sur le compte PNJ depuis le compte du Gouvernement.
 Cette mesure vise à réguler l’économie en retirant une partie de l’argent en circulation, tout en maintenant les flux financiers nécessaires au gameplay (revenus des journalistes, jobs PNJ, activités illégales, etc.).
