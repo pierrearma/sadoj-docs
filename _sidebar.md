@@ -28,6 +28,7 @@
     * [Code sociétés de sécurité privée](life/rp/private_security.md "Code sociétés de sécurité privée")
     * [Code de la route](life/rp/traffic_regulations.md "Code de la route")
     * [Registre des entreprises et associations](life/rp/register_companies_associations.md "Registre des entreprises et associations")
+    * [Registre des praticiens autorisés à exercer](life/rp/register_medical_practicioner.md "Registre des praticiens autorisés à exercer")
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
     * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
   * Guides de jeu
