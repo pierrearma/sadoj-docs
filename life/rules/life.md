@@ -11,29 +11,35 @@
 
 ## Généralités
 
-* Toute triche, utilisation, exploitation de bug est interdite.
-* Il est interdit d'être en communication vocale hors de TeamSpeak lorsque vous êtes en jeu.
-* Il est interdit de partager son écran lorsque vous êtes en jeu.
-* Il est interdit de parler **H**ors-**R**ôle-**P**lay lorsque vous êtes en jeu.
-* L’usage d’informations vues sur un stream/hors de l’immersion roleplay est interdit, même en utilisant le terme “J’ai regardé ta GoPro”. De même qu’il est formellement interdit de regarder un live étant en jeu (streamstalk).
-* Il est interdit d’écouter une conversation si vous n’en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
-* Il est interdit d’écouter et d’utiliser l’audio entendu via les caméras de surveillance.
-* Il est strictement interdit de se déconnecter ou quitter le jeu afin d’éviter une interaction.
-* L’utilisation d’un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l’utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….) est interdite.
-* Il est interdit de spammer les centrales d’appels. Il faut attendre quelques minutes avant de rappeler.
+* Sont interdits
+  * La triche.
+  * L'utilisation ou exploitation de bugs.
+  * D'être en communication vocale hors de TeamSpeak lorsque vous êtes en jeu.
+  * De partager son écran lorsque vous êtes en jeu.
+  * De parler **H**ors-**R**ôle-**P**lay* (HRP) en jeu.
+  * D'utiliser des informations vues sur un stream/hors de l’immersion roleplay, même en utilisant le terme “J’ai regardé ta GoPro”.
+  * De regarder une vidéo en direct (live) d’un joueur étant en jeu (streamstalk).
+  * D'écouter une conversation si vous n’en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
+  * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance.
+  * De se déconnecter ou quitter le jeu afin d’éviter une interaction.
+  * D'utiliser un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l’utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….).
+  * De spammer les centrales d’appels. Il faut attendre quelques minutes avant de rappeler.
+  * Toute suppression non souhaitée de documents RP, sites RP, réseaux sociaux RP, Discord RP, etc…
+  * De porter plus de **60** items vêtements sur soi.
+    * Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
+  * D'effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti
+* Sont obligatoires
+  * d’avoir l’item *Radio* dans l’inventaire quand communique à la radio (whisper TS) (dans le coffre du véhicule si c’est une radio de véhicule).
+  * De porter une Bodycam lors d’une action pour qu’elle soit considérée comme présente (et être utilisée).
+    * Exception technique : Non obligatoire pour les tenues SWAT qui nécessite une cagoule.
+  * De faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le serveur Discord "Formation SADoJ".
 * Il arrive que certains masques ou des casques s’enlèvent sans que les porteurs le veuillent, il est donc demandé aux joueurs d’oublier le visage qu’ils auraient pu voir/ découvrir le temps que la personne remettre son casque/ masque. L’utilisation de ce bug est interdite, car considéré comme **H**ors-**R**ôle-**P**lay.
-* Il est obligatoire d’avoir l’item *Radio* dans l’inventaire quand communique à la radio (whisper TS) (dans le coffre du véhicule si c’est une radio de véhicule)
 * Un personnage ne peut pas être reconnu par sa voix ou son accent ou si son visage est dissimulé : Exemples : foulard, cagoule, casque, barbe épaisse et la combinaison lunettes et chapeau, casquette, bonnet, casque. Une casquette seule et une paire de lunettes seule ne suffisent pas. De même, la féminité et la masculinité du corps ou de la voix peuvent être supposées (à tort ou à raison, et toujours sans permettre d’identifier UNE personne en particulier).
 * Un membre qui souhaite faire revenir son personnage commencera de zéro (argent, biens, etc…) (dont les membres ayant quitté la communauté).
-* Toute suppression non souhaité de documents RP, sites RP, réseaux sociaux RP, Discord RP, etc… est interdite.
 * Seul les PNJ physiquement présents sont à prendre en compte en RP (on n’imagine pas ni invente des PNJ). Si ils vous voient faire un acte illégal, ils est conseillé de prévenir les services de secours (à vous de faire un appel anonyme).
-* Obligation de porter une Bodycam lors d’une action pour qu’elle soit considérée comme présente (et être utilisée) Exception technique : Non obligatoire pour les tenues SWAT qui nécessite une cagoule.
-* Une limite d’item vêtement sur soi a été fixée à **60**. Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
-* [Termes RolePlay](life/rules/terms.md)
-* Il est interdit d’effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti.
-* Le sexe classique est autorisé si les personnes sont consentantes.
-* Il est obligatoire de faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le serveur Discord "Formation SADoJ".
 * Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
+* [Termes RolePlay](life/rules/terms.md)
+* Le sexe classique est autorisé si les personnes sont consentantes.
 * Pour garantir l’immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L’impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l’oral dans un cadre roleplay.
 
 ## La vie / la mort
@@ -82,7 +88,6 @@ Voir [ce document](life/rules/perpetuity.md).
 * Cas des joueurs en stream : pour suivre une “logique” dans leur perso et respecter le vote de la communauté, ces personnes devront figer l’action et ne pas déclarer eux-mêmes une mort **R**ôle-**P**lay.
 * Si quelqu’un veut suicider son personnage, sa mort **R**ôle-**P**lay devra être votée par la communauté. **(Situation 1)**
 * Imposer sa mort **R**ôle-**P**lay au ne pas respecter les nouvelles règles aboutira à un vote sanction pour respecter le vote de la communauté et le **R**ôle-**P**lay des autres joueurs.
-* Il faut faire attention de ne pas annoncer une mort de manière prématurée (en attente du résultat du vote par exemple). Les termes d’état très inquiétant, mort cérébrale sont possibles afin de faire comprendre les différents acteurs.
 
 ## Multi personnage
 
@@ -103,16 +108,18 @@ Voir [ce document](life/rules/perpetuity.md).
 
 ## Déplacements / Véhicules
 
-* Il est Interdit de “custom” un véhicule sans garagiste présent (sauf custom illégal).
+* Sont interdits
+  * De “custom” un véhicule sans garagiste présent (sauf custom illégal).
+  * De se déplacer constamment en sprintant, pareil en vélo.
+  * De carkill, qui consiste à écraser volontairement quelqu’un sans raison valable.
+  * De ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l’activité exercée par la structure qui l’utilise.
+    * Il est important de noter que les véhicules des clients, des employés, des fonctionnaires ou des membres d’une association ne sont, par définition, pas considérés comme liés à l’activité, puisqu’ils n’appartiennent pas à la structure.
 * Par temps de pluie/neige/brouillard, il convient de faire attention à sa manière de conduire, surtout avec des engins type motos ou des voitures sportives.
-* Il est interdit de se déplacer constamment en sprintant, pareil en vélo.
-* Le carkill, qui consiste à écraser volontairement quelqu’un sans raison valable, est strictement interdit.
 * Le Numéro VIN du véhicule ce trouve en haut du tableau de bord coté conducteur (facilement visible par le pare-brise).
 * La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d’important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute) y compris les voies ferrées.
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
 * Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
 * Les véhicules de police doivent avoir une puissance équivalente à leur version civile, avec une tolérance de pourcentage définie par le groupe de validation des véhicules.
-* Il est interdit de ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l’activité exercée par la structure qui l’utilise. Il est important de noter que les véhicules des clients, des employés, des fonctionnaires ou des membres d’une association ne sont, par définition, pas considérés comme liés à l’activité, puisqu’ils n’appartiennent pas à la structure.
 
 ## Immobilier
 
