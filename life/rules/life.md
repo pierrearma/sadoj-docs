@@ -16,7 +16,9 @@
   * L'utilisation ou exploitation de bugs.
   * D'être en communication vocale hors de TeamSpeak lorsque vous êtes en jeu.
   * De partager son écran lorsque vous êtes en jeu.
-  * De parler **H**ors-**R**ôle-**P**lay* (HRP) en jeu.
+  * De parler **H**ors-**R**ôle-**P**lay (HRP) en jeu.
+  * De mélanger le RP et le HRP, notamment en interprétant des actions, décisions ou paroles RP comme des attaques personnelles HRP.
+    * Cette règle s’applique également à tous les canaux de communication utilisés dans le cadre du RP (en jeu ou non).
   * D'utiliser des informations vues sur un stream/hors de l’immersion roleplay, même en utilisant le terme “J’ai regardé ta GoPro”.
   * De regarder une vidéo en direct (live) d’un joueur étant en jeu (streamstalk).
   * D'écouter une conversation si vous n’en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
@@ -28,6 +30,9 @@
   * De porter plus de **60** items vêtements sur soi.
     * Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
   * D'effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti
+  * Toute tentative de pression, menace, règlement de compte ou reproche effectué en HRP pour des faits exclusivement RP.
+    * Le canal dark-police-citoyens-hrp est le seul espace autorisé pour débattre d’une situation RP passée, uniquement dans un objectif d’éclaircissement ou d’amélioration du jeu, et jamais pour exercer une quelconque pression ou influence.
+  * Toute réaction HRP destinée à influencer, punir ou contraindre un joueur en raison d’un comportement RP. Les conflits, tensions ou décisions créées en jeu et liées aux personnages doivent rester strictement en RP.
 * Sont obligatoires
   * d’avoir l’item *Radio* dans l’inventaire quand communique à la radio (whisper TS) (dans le coffre du véhicule si c’est une radio de véhicule).
   * De porter une Bodycam lors d’une action pour qu’elle soit considérée comme présente (et être utilisée).
@@ -41,6 +46,7 @@
 * [Termes RolePlay](life/rules/terms.md)
 * Le sexe classique est autorisé si les personnes sont consentantes.
 * Pour garantir l’immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L’impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l’oral dans un cadre roleplay.
+
 
 ## La vie / la mort
 
