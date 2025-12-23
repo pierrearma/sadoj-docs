@@ -21,6 +21,7 @@
   * Les contenus pornographiques explicites.
   * Les règlements de compte entre membres dans les espaces communs. Ils nuisent à l’ambiance générale, dégradent l’image de la communauté et perturbent les échanges.
     * Les messages privés et la médiation existent pour permettre aux membres concernés de communiquer directement, sans polluer les salons publics ni attirer des interventions extérieures susceptibles d’envenimer la situation.
+    * Pour les salons textuels Discord, il existe une commande de modération communautaire pour supprimer un message: en réponse à un message, écrire `-rdc` pour le supprimer.
 * Le fair-play est attendu de tous les membres : jouer avec intégrité, respecter l’esprit du jeu, penser au collectif, savoir gagner sans arrogance et perdre sans frustration. Les comportements toxiques, même hors jeu, nuisent à la communauté et ne sont pas tolérés. Chaque membre doit contribuer activement à une ambiance saine et à une expérience de jeu positive pour tous.
 * Il est obligatoire d’avoir un compte sur le site SADoJ (exclusion automatique sous 15 jours le cas échéant).
 * Il est obligatoire de faire sa formation d’intégration lorsque l’on rejoint la communauté (exclusion automatique sous 15 jours le cas échéant).
