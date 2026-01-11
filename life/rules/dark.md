@@ -241,7 +241,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
     * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
 * La cible sera prévenue une fois la scène de Mort Dark effectuée.  
 
-> [!ATTENTION] Lorsqu’un joueur fait une demande de mort RP dark contre un autre joueur, si celle-ci est acceptée, le joueur qui initie la demande devient automatiquement éligible à une mort RP dark sans qu’un dossier séparé soit nécessaire.
+> [!ATTENTION] Lorsqu’un joueur fait une demande de mort RP dark contre un autre joueur, si celle-ci est acceptée, le commanditaire devient automatiquement éligible à une mort RP dark sans qu’un dossier séparé soit nécessaire.
 
 ## Hôpitaux et médecins dark
 
