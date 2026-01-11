@@ -192,7 +192,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 ## Les services où l’illégal est interdit
 
-* Les actions illégales et la corruption sont autorisées pour les services / postes suivants, il faut faire une demande sur dossier auprès du groupe Dark :
+* Les actions illégales et la corruption sont autorisées pour les services / postes suivants, il faut faire une demande sur dossier auprès du Référent Dark :
   * Police (dont Fire marshal) (1/5 maximum)
   * Juges (1/3 maximum)
   * Procureurs (1/3 maximum)
