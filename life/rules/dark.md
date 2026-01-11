@@ -207,9 +207,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 ## Safes-zones
 
 * Les safe-zones sont des lieux où le rôle-play illégal est interdit (tirs, vols, prise d’otage, mettre le feu,…).
-* Les safe-zones sont les lieux suivants :
-  * Fort Zancudo (base militaire)
-  * Pénitencier de Bolingbroke (prison)
+* A ce jour, l'unique safe-zone est le Fort Zancudo (base militaire)
 * Il est interdit d’utiliser une safe-zone pour se réfugier afin de ne pas jouer une scène.
 * Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones.
 
