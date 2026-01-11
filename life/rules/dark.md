@@ -69,7 +69,10 @@ Les gangs sont des organisations par défaut qui ont été créées par le group
 Vous pouvez retrouver la liste ainsi que leur lore juste [ici](life/guides/lore/gangs.md).
 Il existe deux méthode pour les rejoindre. S’il y a des joueurs déjà dedans, tout doit se faire en RP. Si le gang est vacant, vous devez justifier votre demande auprès du groupe dark en fournissant un document comprenant le background de votre personnage ainsi que vos motivations. Un minimum de trois personnes est requis, sans limite maximum.
 Il n’existe pas de chef dans les gangs, du moins, sur le papier. Les membres sont libres de s’organiser comme ils veulent entre eux.
-Si vous rejoignez un gang vide, vous retrouverez votre QG ainsi qu’un coffre remplit d'éléments prédéfinis par le Groupe Dark pour vous lancer.
+Si vous rejoignez un gang vide, vous retrouverez votre QG ainsi que : 
+* $25.000 en argent liquide dans votre coffre,
+* Une arme de poing de type pétoire sans numéro de série,
+* Un couteau.
 
 #### 2. Les organisations dites “classiques”
 
