@@ -207,6 +207,16 @@ L’informateur est inclus dans le prix de création de l’organisation.
 * Dans ce cadre, policiers, Gouverneur et Lieutenant Gouverneur sont éligibles à la Mort RP Dark.
 * L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne tombe pas dans l’illégal.
 
+### Exposition aux risques et consentement tacite
+
+En acceptant un poste à haute responsabilité (Gouverneur, Juge, Procureur, Commandement, etc.), le joueur accepte tacitement les risques inhérents à sa fonction, y compris celui de devenir la cible d'organisations criminelles.
+
+Par conséquent :
+* Le consentement HRP du joueur ciblé n'est pas requis pour qu'une organisation initie une tentative de corruption, de chantage ou de pression.
+* Devoir de signalement : Si la corruption ou la contrainte aboutit, le joueur en poste doit impérativement informer le Référent Dark des actions que le commanditaire exige de lui.
+* Rôle du Référent : Ce dernier n'intervient pas sur la scène de corruption elle-même, mais contrôle la cohérence des demandes ultérieures. Il se réserve le droit d'intervenir pour stopper l'initiateur ou réaligner ses exigences si celles-ci sont jugées abusives ou incohérentes vis-à-vis du lore.
+* Le joueur ciblé reste libre d'accepter ou de refuser la corruption en RP s'il est prêt à en assumer les conséquences : représailles, Mort RP, etc., mais ne peut pas utiliser le HRP pour esquiver l'interaction.
+
 ## Safes-zones
 
 * Les safe-zones sont des lieux où le rôle-play illégal est interdit (tirs, vols, prise d’otage, mettre le feu,…).
