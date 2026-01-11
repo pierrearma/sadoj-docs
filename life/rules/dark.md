@@ -178,6 +178,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 * Dans chaque situation (cambriolage, braquage, forcené, etc.), les forces de l'ordre doivent impérativement vérifier s'il y a une prise d'otage avant toute intervention.
 * Un otage peut être un joueur ou un PNJ, même fixe.
+* Aucun consentement HRP n'est requis lorsqu'un joueur est pris en otage ou soumis à une action criminelle (contrainte physique, mentale,...). Il doit impérativement jouer la scène. Tout refus de jouer l'interaction (refus de scène / No Fear) rend le personnage immédiatement éligible à une Mort RP Dark (sur demande) et expose le joueur à un vote de sanction.
 * La vie des otages doit être la priorité absolue des forces de l'ordre. Toute action pouvant mettre leur vie en danger est strictement interdite.
 * Toute prise d’otage confirmée doit obligatoirement donner lieu à une tentative de négociation avant d’envisager une intervention. Les négociations doivent avoir pour objectif principal de préserver la vie des otages.
 * Les forces de l'ordre doivent rester ouvertes aux demandes des preneurs d'otages, à condition que ces requêtes soient raisonnables et qu'elles permettent de préserver des vies. Refuser systématiquement les demandes des preneurs d'otages est interdit.
