@@ -1,8 +1,8 @@
-# L'économie du serveur life
+# 💰 L'économie du serveur life
 
 ---
 
-## Préambule
+## 📜 Préambule
 
 Cette page reprend l’ensemble des éléments mis en place par les économistes afin d’avoir une économie la plus viable possible sur le serveur life.
 
@@ -19,8 +19,7 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 > [!ATTENTION]
 > **Tout membre de la communauté est le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.**
 
-## Les salaires et revenus
-
+## 💼 Salaires & revenus
 ### Les salaires
 
 * Le salaire minimum actuel est de **$3.500/semaine** si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci).
@@ -28,12 +27,8 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 ### Honoraires des avocats
 
-|     Type de contrat     | Plafond |
-| :---------------------: | :-----: |
-| Hors commision d'office | 20 000$ |
-|  En commision d'office  | 10 000$ |
-
-L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder **10% de ce dernier.**
+* Les plafonds sont fixés par le Gouvernement.
+* L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder **10% de ce dernier.**
 
 ### Revenus des journalistes
 
@@ -101,7 +96,7 @@ L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un 
 
 Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse permettent de toucher de l’argent versé par un PNJ. Le but est de rester cohérent ici et de ne pas farmer excessivement dans le but de s’enrichir plus que la normale. Ce sont des jobs de dépannage pour se faire un peu d’argent quand on a pas d’emploi ou pour se faire un petit plus. Passer sa journée sur le serveur à faire ce genre de chose alors que personne n’est connecté et que cela n’est pas cohérent avec le RP de votre personnage n’est pas une attitude que l’on souhaite voir dans la communauté.
 
-## Les prix
+## 🏷️ Prix & tarification
 
 > [!NOTE]
 > Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
@@ -263,7 +258,7 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 - Les 2 kits ne sont achetables qu'auprès des garages pour les clients finaux (exclusivités garage).
 - Les fournisseurs ont l'obligation de vendre ces kits exclusivement aux garages.
 
-## L’immobilier
+## 🏠 Immobilier
 
 ### Notaire PNJ
 
@@ -404,7 +399,7 @@ Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la r
 - Lors d’une vente de maison impliquant un MLO, le vendeur doit privilégier les joueurs ne possédant pas encore de maison avec MLO.
    - En cas d’égalité entre plusieurs acheteurs potentiels, le vendeur (en cas de vente direct) ou l’agence immobilière sera chargé de  déterminer le candidat retenu, en se basant sur la qualité du dossier présenté.
 
-## Les véhicules
+## 🚘 Véhicules
 
 - Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
 - En cas de vol ou de destruction d'un véhicule, l'État peut indemniser le sinistré, se renseigner directement en RP.
@@ -470,7 +465,7 @@ Pour le numéro et adresse d'un bien : coordonnées x *(sans le moins)* sur la r
   </tbody>
 </table>
 
-## Limite d’emploi
+## 👔 Emploi & cumul
 
 * Sont considérés comme emploi le fait de posséder une entreprise et/ou d'y travailler.
   * Etre sénateur est considéré comme un emploi.
@@ -503,7 +498,7 @@ Une entreprise peut décider d'employer une personne pour une tâche ou pour une
 
 > Exemple : volontariat dans un service public
 
-## Les crédits
+## 🏦 Crédits
 
 Les banques de l’état proposent des crédits à  la consommation. Les taux sont libres sauf cas particuliers.
 Les crédits contractés se remboursent sur **52 semaines maximum** *(1 an IRL).*
@@ -525,7 +520,7 @@ Le taux d'endettement doit être inférieur à **80% du salaire fixe** hors prim
 > [!NOTE]
 > Les entreprises ont la possibilité de demander des crédits sur **78 semaines (18 mois)** au lieu des **52 semaines par défaut.**
 
-## Les taxes et impôts
+## 💼 Taxes & impôts
 
 ### Pour les entreprises
 
@@ -674,7 +669,7 @@ Les frais correspondent vraiment aux dépenses de fonctionnement de l'entreprise
 
 
 
-## Les entreprises / associations
+## 🏭 Entreprises & associations
 
 > [!ATTENTION]
 > Toute revente, tout rachat, toute cessation d'entreprise, toute prise de contrôle (devenir majoritaire) devra être vérifié puis validé par le groupe Économiste et ou le contrôleur fiscal pour le côté RP en étroite coordination AVANT TOUTE transaction.
@@ -729,15 +724,19 @@ Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
 >[!ATTENTION]
 >
-> Toute demande de création d'entreprise ayant pour activité principale ou secondaire le développement (DEV) **sera systématiquement refusée.**
+> * Toute demande de création d'entreprise ayant pour activité principale ou secondaire le développement (DEV) **sera systématiquement refusée.**
 >
-> Le développement, qu’il s’agisse de la création de coverings, de mapping ou d'autres contributions techniques, est considéré comme une démarche bénévole au service de la communauté, en dehors du cadre RP.
+> * Le développement, qu’il s’agisse de mapping ou d'autres contributions techniques, est considéré comme une démarche bénévole au service de la communauté, en dehors du cadre RP.
 >
->Toute tentative de monétisation, de valorisation en jeu ou de mise en scène RP d’une activité de développeur sera refusée.
+>* Toute tentative de monétisation, de valorisation en jeu ou de mise en scène RP d’une activité de développeur sera refusée.
 >
->Cette règle ne s’applique **pas de manière rétroactive** : les structures déjà existantes avant son entrée en vigueur ne sont pas concernées, sauf en cas d’abus manifeste.
+>  * Cette règle ne s’applique pas aux entreprises proposant un service de création de covering, logo, pub et spot TV.
 >
 > *Exemples : aménagement (maping), création de véhicule...*
+
+>[!NOTE]
+>
+>* Les joueurs possédant une entreprise de covering auront l’obligation d’accepter et d’effectuer les demandes HRP pour tout joueur ne souhaitant pas passer par leur entreprise RP, sans condition, sans justification exigée et sans aucune exception, au même titre que n’importe quel contributeur au développement du serveur. Cette obligation devra être respectée dans un délai raisonnable et identique pour tous, sans traitement préférentiel ni discrimination. Le refus, le ralentissement volontaire ou la conditionnalité d’une demande HRP constitueront un manquement aux règles.
 
 * Le prix de l'entreprise est fixé au cas par cas par les économistes. Le prix total devra être payé à l'État.
 
@@ -860,7 +859,7 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 > [!ATTENTION]
 > **Les entreprises pourront perdre l’aide si elle ne respecte pas la destination des fonds.**
 
-## Les dons
+## 🎁 Dons
 
 > [!ATTENTION]
 > **Les dons sont interdits avant le départ ou la mort d’un personnage**. Cela serait considéré comme contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
@@ -924,7 +923,7 @@ Les entreprises pourront chacune faire une demande d’aide par dossier au gouve
 * Dans tous les cas le gouvernement gèrera au cas par cas après validation des économistes.
 * Dans le cas où la personne décédée a des parts dans une entreprise, les associés doivent racheter les parts auprès du gouvernement.
 
-## Système de testament
+## 📜 Testament & succession
 
 Le Bureau du Procureur se charge de l'archivage des testaments et transmet les testaments après le décès de la personne à l'executeur testamentaire.
 
@@ -992,7 +991,7 @@ Le Bureau du Procureur se charge de l'archivage des testaments et transmet les t
 > Lors d'un départ, d'une exclusion **définitive**, d'une mort, en l'absence de testament, l'État récupère l'argent présent sur les comptes bancaires de la même manière que les véhicules.
 > Si des dettes sont présentes, elles seront soldées en même temps.
 
-## La chasse
+## 🦌 Chasse
 
 La chasse doit être pratiquée avec des véhicules adaptés et des quantités raisonnables en fonction du véhicule utilisé.
 
@@ -1009,7 +1008,8 @@ Les économistes feront une étude au cas par cas si des signalements d'abus son
 > [!NOTE]
 > Tuer des animaux est toujours possible sans policier en service, pour le plaisir d’une chasse sans gain par exemple.
 
-## Les joueurs inactifs
+## ⏳ Joueurs inactifs
+
 ### Règle de saisie d’un bien inactif :
 
 Tout bien appartenant à un joueur inactif est automatiquement saisi et remboursé si ce joueur ne s’est pas connecté au cours d’une période de plus de 2 mois.
@@ -1022,14 +1022,14 @@ Si la saisie est décidée :
 * La saisie est réalisée hors du contexte du jeu (en dehors du rôle-play).
 * Ensuite, les biens immobiliers sont remis sur le marché, les véhicules également, et les entreprises sont mises en vente ou attribuées à de nouveaux propriétaires.
 
-## Les paiements de produits, de services
+## 💳 Paiements & facturation
 
 Les paiements des services et/ou produits devront être effectués uniquement par FACTURE en utilisant le système de facturation en jeu ou via les sites des banques.
 
 > [!ATTENTION]
 > **Les virements directs présents seront purement supprimés.**
 
-## Les quotas
+## 📈 Quotas & métiers PNJ
 
 Des quotas maximums ont été mis en place pour les métiers PNJ et dans d'autres secteurs afin de ne plus avoir d'abus.
 
@@ -1326,7 +1326,7 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
   </tfoot>
 </table>
 
-## Divers
+## 🧰 Divers
 
 ### Stockage d'argent
 
