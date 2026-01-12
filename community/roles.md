@@ -211,43 +211,22 @@
       <td style="text-align: center;">Eliott</td>
       <td style="text-align: center;">Volontaire</td>
     </tr>
-    <td style="text-align: center;">X (Twitter)</td>
+    <td style="text-align: center;">Communication</td>
       <td>
-        Gestion du compte X de la SADoJ
+        Gestion de la communication extérieure de la SADoJ
         <ul>
-          <li>Community manager</li>
+          <li>Gestion et présence régulière sur les réseaux sociaux (X, TikTok, Instagram)</li>
+          <li>Création et publication de contenu</li>
+          <li>Définition de la stratégie de communication</li>
+          <li>Mise en valeur et promotion de la communauté</li>
         </ul>
       </td>
-      <td style="text-align: center;">1 (2 souhaité)</td>
-      <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Vote des membres de la commu</td>
+      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">Noé</td>
+      <td style="text-align: center;">Noé, Magic, Spen, Salvator Mauro, VeLon</td>
+      <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
-    <td style="text-align: center;">TikTok</td>
-      <td>
-        Gestion du TikTok de la SADoJ
-        <ul>
-          <li>Community manager</li>
-        </ul>
-      </td>
-      <td style="text-align: center;">1</td>
-      <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Klugos</td>
-      <td style="text-align: center;">Vote des membres de la commu</td>
-    </tr>
-    <td style="text-align: center;">Instagram</td>
-      <td>
-        Gestion du compte Instagram de la SADoJ
-        <ul>
-          <li>Community manager</li>
-        </ul>
-      </td>
-      <td style="text-align: center;">2</td>
-      <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Noé, Spen82</td>
-      <td style="text-align: center;">Vote des membres de la commu</td>
-    </tr>
-     <td style="text-align: center;">Groupe Justice (Life)</td>
+    <td style="text-align: center;">Groupe Justice (Life)</td>
       <td>
         Reflexion et travail justice life
         <ul>
@@ -428,7 +407,7 @@
       <td style="text-align: center;">Roni</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
-    <td style="text-align: center;">Validation des backgrounds</td> 
+    <td style="text-align: center;">Validation des backgrounds</td>
       <td>
       <ul>
          <li> Valider la cohérence d'un background pour les nouveaux personnages (anciens et nouveaux membres) </li>
