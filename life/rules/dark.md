@@ -10,7 +10,7 @@
 > Le vote sanction doit rester une procédure exceptionnelle non banalisée.
 
 > [!TIP]
-> **Pour toute question concernant le dark, veuillez vous adresser au référent, Wrc.**
+> **Pour toute question concernant le dark, veuillez vous adresser au [Référent Dark](https://docs.sadoj-rp.fr/#/community/roles:~:text=R%C3%A9f%C3%A9rents%20RP/HRP%20%3A-,ZeBi,-Vote%20des%20membres).**
 
 ## Définitions
 
