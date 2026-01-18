@@ -1,321 +1,250 @@
-# Règlement dark
+# Règlement Général des Activités Criminelles (Dark)
+
+> [!NOTE] **Préambule**
+> Ce règlement vise à prévenir les conflits et à garantir le respect de l'esprit du serveur. Si l'erreur est humaine, la récidive et l'incapacité à apprendre de ses fautes ne sont pas tolérées. Le vote de sanction demeure une procédure exceptionnelle.
+>
+> [!Tip]Pour toute interrogation relative au domaine "Dark", veuillez vous adresser au **Référent Dark (Wrc)**.
 
 ---
 
-> [!NOTE]
-> Les règles suivantes ont pour but d’éviter bon nombre de conflits et de comportements qui ne correspondent pas à l’esprit SADoJ.
+## 1. Définitions et Champ d'Application
+
+### 1.1. Le Dark
+Le "Dark" qualifie l'organisation d'actes illégaux visant ou non à en tirer un bénéfice. Sont considérées comme des activités Dark (liste non exhaustive) :
+* Vol de véhicule (revente ou usage personnel), 
+* Vol et trafic de carburant,
+* Vol dans les coffres et recel de biens volés.
+* Meurtre, tentative de meurtre, 
+* Commandite d'actes illégaux.
+* Braquages et vente de drogue.
+* Actes de terreur (actions punitives ou intimidation).
+* Usage d'armes à feu hors légitime défense (sur joueurs ou PNJ).
+* Possession d'armes illégales (sans numéro de série).
+* Provocations volontaires et régulières envers des organisations ou gangs.
+
+> [!ATTENTION] Si vous réaliser une des actions ci-dessus alors vous serez considéré comme joueur Dark.
+
+> [!Distinction Important] : Un acte illégal n'est pas nécessairement un acte "Dark". La justice peut condamner un citoyen pour un délit sans que cela ne bascule dans le règlement Dark (sauf récidive ou gravité spécifique).
+
+### 1.2. Le Référent Dark
+Le Référent occupe un rôle central de gestion et de régulation.
+
+**Ses missions :** 
+* Gestion de l'immobilier Dark (achat/vente), 
+* Organisation des transactions de drogue physiquement, 
+* Configuration des accès (portes/serrures), 
+* Gestion du Black Market, 
+* fourniture d'armement spécial (grenades, bombes collantes) sur demande auprès du Groupe Dark, 
+* Organisation d'événements divers, 
+* Achat et revente de véhicules,
+* Il peut intervenir en RP (descentes de police, rendez-vous) selon les besoins.
+
+**Ses interdictions :** 
+* Il ne peut pas braquer (joueurs ou banques), 
+* Il ne peut pas voler de véhicules, 
+* Il ne peut pas vendre de drogue, 
+* Il ne peut pas voter aux élections, 
+* Il ne peut pas interférer physiquement entre la police et les organisations (aide lors d'assauts), ni divulguer des informations s'il est arrêté.
+
+---
+
+## 2. Règles Générales de Conduite
+
+### 2.1. Comportement et Fair-play
+* **Terrorisme :** Tout acte de terrorisme (extrémisme idéologique ou religieux) est strictement proscrit.
+* **Mutilations :** Les actes entraînant un handicap bloquant le RP pour une durée infinie (ex: couper un membre, crever les yeux) sont interdits, sauf accord préalable entre les participants.
+* **Relation avec la Police :** La police n'est ni une alliée ni une ennemie par défaut. Les criminels doivent respecter le statut des forces de l'ordre et faire preuve d'une crainte réaliste ("Fear Police").
+
+### 2.2. Zones Spécifiques (Safe-Zones et Dark-Zones)
+Une carte des zones est consultable [ici](https://map.sadoj-rp.fr/).
+
+* **Safe-Zones :** Lieux où tout RP illégal est interdit (tirs, vols, prises d'otages).
+    * *Lieu actuel :* Fort Zancudo (Base Militaire).
+    * *Interdiction formelle :* Il est interdit de se réfugier en Safe-Zone pour fuir une scène RP.
+* **Dark-Zones (QG) :** Quartiers généraux des organisations/gangs.
+    * *Police :* Intervention autorisée uniquement en cas de flagrant délit, de course-poursuite active ou sur décision de justice.
+    * *Civils :* Tout comportement irresponsable d'un civil en Dark-Zone est à ses risques et périls (éligibilité à la Mort RP Dark possible sur demande).
+* **Police Station :** Seuls les civils victimes d'une agression ou d'une poursuite peuvent s'y réfugier.
+* **Hôpitaux Dark :** Considérés comme des zones neutres de non-agression.
+
+### 2.3. Équipements et Sécurité
+* **Alarmes :** Il est strictement interdit d'installer plus d'une alarme pour sécuriser une même salle.
+* **Radios/Scanners :** Toute radio volée ou conservée après un licenciement a une durée de validité de **15 jours**. Passé ce délai (ou si l'entreprise exclut la fréquence), elle est inutilisable.
+* **Garages Scriptés :** Interdiction de rentrer tout véhicule (terre, mer, air) dans un garage scripté durant les **48h suivant une action Dark** (braquage, poursuite, vol). Le véhicule doit être caché physiquement (ex: garage avec porte ouvrable manuellement).
+
+---
+
+## 3. Système de Combat et Armement
+
+* **FreeKill :** Interdiction formelle de tuer par pur plaisir. Un passif cohérent est requis.
+* **Tirs de Neutralisation :** Les tirs visant à tuer instantanément pour "être tranquille" (ex: balle dans la tête systématique) sont interdits.
+* **Armement Lourd et Explosifs :**
+    * Obtention exceptionnelle sur dossier auprès du groupe Dark (justification requise).
+    * **Explosifs sur véhicules :** Peuvent être posés mais activés **uniquement si le véhicule est vide** (pour éviter la mort RP imposée).
+    * **Utilisation :** Seules les grenades peuvent être lancées. Les bombes doivent être posées.
+    * **Pyrotechnie :** Interdiction de tirer directement sur une personne avec un lanceur pyrotechnique.
+* **Assassinats :** Les homicides avec préméditation sont interdits sauf dans le cadre d'une Mort RP Dark validée ou d'un consentement mutuel écrit. Il est interdit d'infliger volontairement des blessures entraînant obligatoirement la mort (ex: exécution sommaire).
+
+---
+
+## 4. Interactions Critiques : Otages et Police
+
+> [!WARNING] **RÈGLE D'OR : FEAR RP ET REFUS DE SCÈNE**
 >
-> On peut tous faire des erreurs, nous sommes humains, mais ce qui est réellement important, c’est apprendre de ses erreurs et être capable de ne pas les reproduire à l’avenir.
->
-> Le vote sanction doit rester une procédure exceptionnelle non banalisée.
-
-> [!TIP]
-> **Pour toute question concernant le dark, veuillez vous adresser au référent, Wrc.**
-
-## Définitions
-
-### Le dark
-
-Le dark est le fait d’organiser des actes illégaux dans le but d’en tirer un bénéfice ou non.
-En effectuant une des actions de cette liste non exhaustive, vous êtes considéré comme faisant du dark.
-
-* Vol de véhicule (que ce soit pour de la revente ou pour le garder)
-* Vol de carburant, trafic de carburant
-* Vol dans des coffres
-* Meurtre ou tentative de meurtre
-* Braquage
-* Vente de drogue
-* Commanditaire d’acte illégal
-* Terreur (organisation d’actions punitives ou pour faire peur)
-* Recel de biens volés
-* Tirer sur quelqu’un hors légitime défense (y compris les PNJ, les policiers, etc…)
-* Avoir des armes illégales (où le numéro de série n’est pas inscrit)
-* Se frotter volontairement et régulièrement à des organisations ou des gangs
-
-### Le Référent Dark
-
-Le référent Dark joue un rôle central dans l'univers de Dark, incluant :
-
-* Gestion de l'immobilier Dark, y compris les ventes et les achats.
-* Organisation des transactions de drogue (points de vente PNJ).
-* Configuration des portes, changement de serrures pour les coffres et les portes en jeu.
-* Participation en tant que joueur lors d'événements nécessitant sa présence, tels que les descentes de police ou les rendez-vous à la demande des organisations ou en tant que loueur de biens immobiliers.
-* Organisation d'événements Dark tels que des ventes aux enchères, etc.
-* L'achat et la vente de véhicules volés.
-* Fourniture d'armement spécial (grenades, bombes collantes) sur demande des joueurs auprès du groupe Dark.
-* Il est le gérant du black market.
-
-Ce qu'il ne peut pas faire :
-
-* Participer à des braquages.
-* Voler des véhicules.
-* Braquer des joueurs.
-* Vendre de la drogue à des PNJ ou à des joueurs.
-* Voter lors des différentes élections.
-* Interférer entre la police et les organisations (apporter son aide lors de descentes de police ou autres).
-* Divulguer des informations à la police s'il est arrêté.
-
-### L’illégal
-
-Un acte illégal n’est pas forcément un acte dark. La justice peut condamner la personne sans que ce soit considérer comme un acte dark.
-
-### Organisations
-
-Les organisations sont des structures permettant l’accès au monde du dark et aux différents business. **Il en existe 3 types.**
-
-#### 1. Les gangs
-
-Les gangs sont des organisations par défaut qui ont été créées par le groupe dark.
-Vous pouvez retrouver la liste ainsi que leur lore juste [ici](life/guides/lore/gangs.md).
-Il existe deux méthode pour les rejoindre. S’il y a des joueurs déjà dedans, tout doit se faire en RP. Si le gang est vacant, vous devez justifier votre demande auprès du groupe dark en fournissant un document comprenant le background de votre personnage ainsi que vos motivations. Un minimum de trois personnes est requis, sans limite maximum.
-Il n’existe pas de chef dans les gangs, du moins, sur le papier. Les membres sont libres de s’organiser comme ils veulent entre eux.
-Si vous rejoignez un gang vide, vous retrouverez votre QG ainsi que : 
-* $25.000 en argent liquide dans votre coffre,
-* Une arme de poing de type pétoire sans numéro de série,
-* Un couteau.
-
-#### 2. Les organisations dites “classiques”
-
-Ce sont des organisations créées par des joueurs, elles peuvent être très différente de l’une à l’autre. Pour en créer une, voir la section “Création d’une organisation”.
-
-#### 3. Les grosses organisations dites “cartels”
-
-Les cartels sont des organisations créées par des joueurs. Ils ont accès à plus d’article concernant le marché noir d’arme notamment. Il est imposé aux cartels d’avoir un RP discret, ils ont également un rôle important pour les trafics entre organisations. Pour en créer un, voir la section “Création d’une organisation”.
-
-### Blackmarket (marché noir)
-
-Il existe un Discord marché noir géré par les référents dark. Celui-ci permet aux acteurs du dark de proposer leurs service de manière anonyme, d’acheter des informations, d’acheter un véhicule, d’échanger, etc…
-Pour rejoindre la plateforme, rapprochez-vous d’un référent.
-La police est interdite de rejoindre le Black Market. Seuls les policiers sous dossier Dark y sont autorisés.
-
-### Informateurs PNJ
-
-Chaque organisation à la possibilité de placer dans son QG ou sa planque un informateur PNJ.
-
-Cet informateurs permettent plusieurs choses:
-
-* Acheter la localisation de quelque chose (boutique d’arme, recelleurs, etc…).
-* Acheter des informations (guides, etc…).
-* Obtenir du travail via des missions (pas encore disponible).
-
-L’informateur est inclus dans le prix de création de l’organisation.
-
-## Généralités
-
-* Nous vous demandons de proscrire tous actes de terrorisme (extrémisme idéologique, extrémisme religieux).
-* Les actes sur les personnages menant à un handicap bloquant du RP sur une durée infinie sont interdits (sauf si accord entre les membres) *(exemples: couper un membre, crever les yeux)*.
-* La police n’est ni votre ami ni votre ennemi, vous devez respecter leurs statuts et les craindre un minimum.
-* Il est interdit de rentrer dans un garage script tout type de véhicule (voiture, moto, camion, bateau, hélicoptère, etc.) durant les 48h suivants une action dark (braquage, courses-poursuite, vol, etc.). Vous pouvez cependant tenter de cacher le véhicule *(exemple: dans un garage qui a une porte qui s’ouvre)*.
-* Des actions nécessites un certain nombre de policiers en services. En jeux, vous retrouvez dans le menu radial un bouton vous indiquant la possibilité ou non de faire une action. Voici quelques chiffres (non exhaustif):
-  * Braquer une banque :  6,
-  * Grosse action (enlèvement, prise d'otage(s), etc...) :  4,
-  * Forcer une ouverture/piratage (portes, coffre, etc...) :  3,
-  * Vendre/Voler une voiture et son contenu : 2,
-  * Vendre de la drogue à Cayo : 2,
-  * Arracher une balise : 2, 
-  * Braquer la caisse d'un commerce PNJ : 1,
-  * Vendre de la drogue aux PNJ : 1,
-* Les assassinats (homicides commis avec préméditation) sont strictement interdits sauf dans le cas d’une mort RP dark ou d’un consentement mutuel, écrit au préalable. Il est donc interdit d’infliger volontairement et avec préméditation des blessures entraînant “obligatoirement” la mort (balle dans la tête volontaire par exemple).
-* Dans le cadre de l'installation de systèmes d'alarme dans le jeu, il est strictement interdit d'avoir plus d'une alarme installée pour sécuriser une même salle. Chaque salle ne peut disposer que d'une seule alarme. Cette règle vise à maintenir l'équilibre du jeu et à empêcher les joueurs d'accumuler trop de sécurité pour un même endroit, ce qui pourrait altérer l'expérience de jeu pour les autres participants.
-* Toute radio/scanner a une durée d’expiration de 15 jours après un vol ou si la personne ne travaille plus dans le service/entreprise. A moins que le service ou l'entreprise n'exclue la radio de leur réseau.
-* Seuls les civils victimes d’une agression ou d’une poursuite peuvent se réfugier dans une police station.
-
-## Armes & tirs
-
-* Il est strictement interdit de descendre quelqu’un par pur plaisir (freekill) et il doit y avoir un passif cohérent.
-* Les tirs de neutralisation sont interdit (tir dans la tête pour être tranquille).
-* Il est possible sur demande au groupe dark d’obtenir exceptionnellement des armes lourdes ou des explosifs (notamment des bombes artisanales). La demande doit être justifié.
-* Les explosifs peuvent être posées sur un véhicule mais ne peuvent être activées que si il n’y a personne dans le véhicule (afin d’éviter d’imposer une mort Rôle-Play). Seules les grenades peuvent être lancées, les bombes doivent être posées à proximité ou sur la cible.
-* Il est interdit de tirer directement sur une personne avec un lanceur pyrotechnique.
-
-## Vol et trafic de véhicules
-
-* Il n’est pas nécessaire d’être dans une organisation ou dans un gang pour voler un véhicule.
-* Lorsqu’il y a assez de policiers en services pour voler un véhicule, il devient possible de carjacker les véhicules PNJ.
-* Il est possible de revendre des véhicules à des receleurs Joueurs ainsi que PNJ, l'ensemble des joueurs ont la possibilité de faire affaire avec eux. Les organisation et les gangs sont les seules à pouvoir récupérer l’information de localisation pour les receleurs PNJ. La police peut également les démanteler.
-  * Le receleur achète à prix cassé les véhicules PNJ qui n’ont pas été crocheté. Jouez le jeux et crochetez les véhicules que vous volez.
-* Si vous êtes dans une organisation ou un gang, vous avez la possibilité de mettre un véhicule au faux nom de votre organisation pour que l’ensemble des membre de l’organisation puisse avoir les clés. Pour ce faire, le véhicule doit vous appartenir.
-* Le vol de véhicule joueur doit se faire obligatoirement avec un témoin, à proximité, en capacité de voir le vol, et qu'il s'agit d'une personne hors du groupe. Les vols de véhicules joueurs sans personne autour sont interdits. Dans le cas où cela se produit, le véhicule sera restitué au joueur et si le véhicule a été vendu, l’argent sera retiré au voleur.
-* Le vol de contenu d'un véhicule joueur peut se faire sans interaction.
-* Il est interdit d’utiliser l’option dans le ciblage pour crocheter des véhicules volés. Utilisez les outils de crochetage vendu en magasin de bricolage.
-* Si une entreprise ou un particulier subit plus de 2 vols de véhicule dans la semaine, le véhicule sera restitué sans contrepartie et l’argent sera retiré au voleur **que dans le cas où** il était l’auteur du vol précédent (lui ou un membre de son organisation).
-  * Il y a une **exception pour les concessionnaires** pour qui la limite est de 5 véhicules par semaine dans les mêmes conditions.
-
-## Trafic de drogue
-
-* N’importe qui a la possibilité de vendre de la drogue s’il a l’item dans son inventaire.
-* Les organisations / gangs sont libre de vendre à qui elles veulent leur marchandise.
-* Seuls les organisations et les gangs en lien avec le trafic de drogue ont la possibilité de se fournir auprès d’un PNJ.
-  * Chaque organisation / gang à un quota d’achat maximum par semaine.
-  * L’attribution des différents type de drogue se fait par bon sens:
-    * Weed: Grove Street Families & Ballas
-    * Cocaïne: Los Santos Vagos, Marabunta Grande & Cartels
-    * Meth: Redneck, Kkangpae
-    * Ecstasy: The Lost MC
-* Plantations de cannabis
-  * Vous avez la possibilité en jeu de faire votre propre plantation et production de cannabis.
-  * Concernant la plantation, vous trouverez tout ce dont vous avez besoin dans différents magasins en ville (Smoke and the Water, magasin de bricolage et superette).
-  * Deux possibilités s'offrent à vous pour planter
-    * Plantation en intérieur, plus discrète, mais plus longue à pousser par manque de lumière naturelle.
-    * Plantation en extérieur, plus risquée, mais plus rapide à pousser.
-
-## Trafic d’arme
-
-* Les gangs et organisations classiques ont accès à des receleurs d’arme éparpillé un peu partout dans l’état.
-* Les cartels ont en plus accès à des receleurs d’armes plus lourdes.
-
-## Les braquages
-
-* La négociation est toujours à privilégier.
-* Il est possible de braquer une personne pour le contenu de son compte en banque pour un montant maximal de **30 000$** par semaine. Dans le cas où une victime subit plus de 1 braquage avec retrait d’argent dans la semaine de plus de 30.000$ l’argent sera restitué sans contrepartie et l’argent sera retiré au voleur que dans le cas où il était l’auteur du vol précédent (lui ou un membre de son organisation).
-* La totalité de la valeur transportée lors de convois de fonds peut être volée.
-* Il existe actuellement 3 types de braquages PNJ, l’interaction est possible s’il y a assez de policiers en service, chaque type nécessite du matériel particulier, trouvez un moyens de vous renseigner en RP:
-  * Les caisses enregistreuses de boutiques
-  * Les coffres de boutiques
-  * Les petites banques Fleeca
-
-## Prises d'otages
-
-* Dans chaque situation (cambriolage, braquage, forcené, etc.), les forces de l'ordre doivent impérativement vérifier s'il y a une prise d'otage avant toute intervention.
-* Un otage peut être un joueur ou un PNJ, même fixe.
-* Aucun consentement HRP n'est requis lorsqu'un joueur est pris en otage ou soumis à une action criminelle (contrainte physique, mentale,...). Il doit impérativement jouer la scène. Tout refus de jouer l'interaction (refus de scène / No Fear) rend le personnage immédiatement éligible à une Mort RP Dark (sur demande) et expose le joueur à un vote de sanction.
-* La vie des otages doit être la priorité absolue des forces de l'ordre. Toute action pouvant mettre leur vie en danger est strictement interdite.
-* Toute prise d’otage confirmée doit obligatoirement donner lieu à une tentative de négociation avant d’envisager une intervention. Les négociations doivent avoir pour objectif principal de préserver la vie des otages.
-* Les forces de l'ordre doivent rester ouvertes aux demandes des preneurs d'otages, à condition que ces requêtes soient raisonnables et qu'elles permettent de préserver des vies. Refuser systématiquement les demandes des preneurs d'otages est interdit.
-* L’arrestation des preneurs d’otages est un objectif secondaire et ne doit en aucun cas être prioritaire par rapport à la sécurité des otages.
-* Un assaut est autorisé uniquement si :
-  * Les négociations échouent ou sont rompues.
-  * La vie des otages est en danger immédiat.
-  * Une stratégie réaliste et cohérente a été élaborée pour maximiser la sécurité des otages.
-* Les forces de l’ordre doivent adopter un comportement réaliste et cohérent avec leur rôle, en évitant toute action irréfléchie ou irréaliste. L’objectif principal reste de sauver des vies.
-
-## Les courses poursuites
-
-* La conduite doit rester réaliste.
-* Le Groupe Dark reste attentif aux comportements pouvant entraîner un écourtement (Off-Road, PIT brutal, circulation sur des terrains inadaptés, etc.) et n’hésitera pas, si nécessaire, à intervenir pour veiller au respect des règles.
-
-## Les services où l’illégal est réglementé
-
-* Les actions illégales et la corruption sont autorisées pour les services / postes suivants, il faut faire une demande sur dossier auprès du Référent Dark :
-  * Police (dont Fire marshal) (1/5 maximum)
-  * Juges (1/3 maximum)
-  * Procureurs (1/3 maximum)
-* Les actions illégales ainsi que la corruption sont autorisées pour les services / postes suivants, il faut faire une demande pour chaque action auprès du Référent Dark qui jugera si l'action demandée par le commanditaire est possible ou pas :
-  * Le Gouverneur et Lieutenant Gouverneur
-  * Contrôleur fiscal
-  * SASAA
-  * Affaires internes
-* Dans ce cadre, policiers, Gouverneur et Lieutenant Gouverneur sont éligibles à la Mort RP Dark.
-* L’interdiction de faire des actions illégales n’empêche pas l’individu d’être borderline tant qu’il ne tombe pas dans l’illégal.
-
-### Exposition aux risques et consentement tacite
-
-En acceptant un poste à haute responsabilité (Gouverneur, Juge, Procureur, Commandement, etc.), le joueur accepte tacitement les risques inhérents à sa fonction, y compris celui de devenir la cible d'organisations criminelles.
-
-Par conséquent :
-* Le consentement HRP du joueur ciblé n'est pas requis pour qu'une organisation initie une tentative de corruption, de chantage ou de pression.
-* Devoir de signalement : Si la corruption ou la contrainte aboutit, le joueur en poste doit impérativement informer le Référent Dark des actions que le commanditaire exige de lui.
-* Rôle du Référent : Ce dernier n'intervient pas sur la scène de corruption elle-même, mais contrôle la cohérence des demandes ultérieures. Il se réserve le droit d'intervenir pour stopper l'initiateur ou réaligner ses exigences si celles-ci sont jugées abusives ou incohérentes vis-à-vis du lore.
-* Le joueur ciblé reste libre d'accepter ou de refuser la corruption en RP s'il est prêt à en assumer les conséquences : représailles, Mort RP, etc., mais ne peut pas utiliser le HRP pour esquiver l'interaction.
-
-## Safes-zones
-
-* Les safe-zones sont des lieux où le rôle-play illégal est interdit (tirs, vols, prise d’otage, mettre le feu,…).
-* A ce jour, l'unique safe-zone est le Fort Zancudo (base militaire).
-* Il est interdit d’utiliser une safe-zone pour se réfugier afin de ne pas jouer une scène.
-* Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones.
-
-## Dark-zones
-
-* Les Dark Zones sont des QG d’organisations ou de gangs.
-* Dans les dark-zones, la police est en droit d'intervenir dedans uniquement dans le cas d'un flagrant délit, d'une poursuite en son sein ou d'une décision de justice.
-* Tout civil ayant un comportement jugé irresponsable par les locaux d'une dark-zone le fait à ses risques et périls ! Une Mort Dark RP pourra être demandée auprès du Groupe Dark.
-* Une carte est disponible [ici](https://map.sadoj-rp.fr/) afin de voir où se trouvent les différentes zones.
-
-## Mort RP Dark
-
-* La mort RP dark permet de subir les conséquences de ses actions dark. Sont éligibles:
-  * Toute personne faisant du dark.
-  * Les dénonciateurs et indicateurs d’activités dark.
-  * Toute personne adoptant un comportement physiquement menaçant envers un ou plusieurs acteurs pendant une scène Dark.
-  * Tout civil ayant un comportement jugé irresponsable par les locaux dans une Dark Zone.
-* Les policiers infiltrés dans une organisation ou un gang sont éligibles. Les demandeurs doivent avoir une preuve RP (à ajouter au dossier) pour prouver que le policier infiltré a divulgué des informations (si pas de preuves, échappatoire). Le policier infiltré doit encore être dans le gang ou l’organisation pour y être éligible.
-* Un citoyen lambda qui ne fait que se défendre légalement n’est pas éligible.
-* La **mort RP Dark** comme dernière solution : Subir une **mort RP Dark** est pour un joueur quelque part toujours une expérience frustrante et destructrice. La **mort RP Dark** reste un dernier recours et doit être mise en place seulement quand toutes les solutions sont épuisées.
-* La demande de **mort RP Dark** sera forcément accompagnée par un dossier et n’est pas une chose anodine à faire sur un coup de tête.
-* Les personnes (HRP du groupe dark) de la même organisation n’ont pas leur mot à dire lors du vote.
-* Le dossier de **mort RP Dark** est accepté ou non par le groupe dark.
-* La mort RP Dark se déroule en 3 étapes
-  * **Première étape :** avertissement, enlèvement ou torture (dans la limite des règles)
-    * Cette première étape est facultative si le personnage visé a déjà communiqué deux ou plusieurs informations à la police permettant de nuire au demandeur ou à son organisation.
-  * **Deuxième étape :** Dépôt d’un dossier avec des preuves et des raisons LÉGITIMES de demander la mort d’un personnage.
-  * **Dernière étape :** La personne déposant le dossier de mort RP a le choix entre infliger la mort RP à la personne visée ou lui accorder une échappatoire. Si le dépositaire choisit l'échappatoire le concernée aura plusieurs possibilités  (fuite, revenir sur ces dépositions, …) et doit jouer les conséquences à cela.
-    * Si la personne revient à la charge suite à une échappatoire, le dossier de mort RP dark est toujours valide et donc l’auteur peut tuer la personne.
-* La cible sera prévenue une fois la scène de Mort Dark effectuée.  
-
-> [!ATTENTION] Lorsqu’un joueur fait une demande de mort RP dark contre un autre joueur, si celle-ci est acceptée, le commanditaire devient automatiquement éligible à une mort RP dark sans qu’un dossier séparé soit nécessaire.
-
-## Hôpitaux et médecins dark
-
-* Les hopitaux et médecins dark permettent aux membres de gang ou d’organisation de se faire soigner de manière discrète.
-* Lorsqu’on est inconscient, il est possible de faire appel aux médecins dark qui sont joués par des joueurs. Il convient par bon sens de d’abord préférer cette option plutôt que de directement être pris en charge par le transport PNJ.
-* Lorsqu’on est inconscient, il est aussi possible d’être pris en charge directement par un hôpital Dark, il convient, par bon sens, de ne pas s’y rendre lors d’une arrestation par exemple.
-* Les temps d’hospitalisation doivent être respectés.
-* Les hôpitaux dark sont des zones neutres de non-agression.
-
-## L’immobilier dark
-
-* Le système est grossièrement le même système que le légal sauf que:
-  * Les propriétés sont enregistrées sous un faux nom.
-  * Les propriétés personnelles sont limitées à une par personne.
-  * Les propriétés communes sont limitées à deux par organisation et 4 pour le cartel.
-  * Le prix est supérieur au légal de +20% pour bénéficier de ce faux nom.
-  * Un garage, un coffre et un vestiaire est inclus dans le prix.
-* Pour acquérir une propriété, cela se passe sur le Blackmarket.
-* La saisie des biens immobiliers dark:
-  * La police ou la justice pourront saisir un bien immobilier pour une période maximale d'un mois (enquêtes, démantèlement, etc.). Dans ce cas, elles devront alors solliciter le référent dark afin qu'il bloque le bien et évite toute remise en vente directe.
-
-## Fausses identités
-
-Les organisations auront désormais la possibilité d'avoir jusqu'à trois faux noms lors de la création de leur entité ou de leur gang.
-
-## Création d’organisation
-
-La création d’organisation dark se fait sur dossier, avec deux types disponibles :
-
-* Les organisations dites classiques ne nécessitent aucun minimum mais un maximum de dix personnes.
-* Les organisations appelées Cartels doivent répondre à des critères rigoureux pour accéder à ce statut. Elles doivent être composées d'au moins cinq joueurs actifs (une connexion par semaine).
-
-Merci d’argumenter la demande et de préciser les besoins. Les organisations hors gang ne bénéficient pas de Dark Zones. Le projet est validé ou non par le groupe dark et cela sera argumenté.
-
-Cette étape permet de garder une certaine cohérence, permet d’avoir des projets de qualité et permet d’éviter une multiplication inutile des organisations et permet de garder une certaine cohérence et proportion entre le légal et l’illégal.
-
-Les parties qui doivent figurer dans le dossier : (dossier à présenter sur google slide de préférence).
-
-* Présentation de l’organisation : présentation et explications de ce que cela peut apporter au RP
-* Spécialisations, domaines d’activités
-* Les besoins de l’organisation
-* L’aide pour les DEV : coordonnées, menu F7, fonctionnalités, etc…
-
-La créations de l’organisation à un coup : le prix de l’organisation + couts spécifiques + bâtiment.
-
-Le prix de l’organisation est fixé à : 30k$ en liquide hors couts spécifiques et bâtiment.
-
-Les organisations doivent acheter les bâtiments dark en immo dark.
-
-## Les spécialisations
-
-Les spécialisations sont là pour ajouter du gameplay entre les différentes organisations et gangs, dans le but de favoriser les interactions entre joueurs et de ne pas laisser le contrôle à une seule et même organisation ou gang.
-Chaque organisation ou gang a la possibilité de choisir une spécialisation si celle-ci est libre.
-Plusieurs spécialisations seront disponibles en jeu :
-
-* Spécialisation pour le recel de véhicules : permet de revendre les véhicules avec une majoration de 35 % sur leur prix de vente et réduit le délai de revente.
-* Spécialisation pour la vente d'armes lourdes : offre une réduction de 50 % sur le prix d'achat des armes lourdes (réservée uniquement au cartel).
-* Spécialisation pour la vente d'armes classiques : réduit de 50 % le prix des armes classiques (réservée uniquement aux gangs ou organisations).
-* Spécialisation pour la vente de drogue par le cartel : permet d'acheter deux drogues avec une réduction de 20 % et augmente les quotas d’achats (100 pour la weed, 75 pour la meth, 50 pour l’ecstasy et 50 pour la cocaïne).
-* Spécialisation pour la vente de drogue : permet d'acheter la drogue avec une réduction de 10 % et augmente les quotas d’achats (100 pour la weed, 75 pour la meth, 50 pour l’ecstasy, et 50 pour la cocaïne).
-* Spécialisation pour la fabrication de faux papiers : accès au magasin PNJ pour la confection des faux papiers.
-* Spécialisation pour les braquages : accès au magasin PNJ avec l'ensemble des objets liés aux braquages à -50 %.
+> * **Consentement :** Aucun consentement HRP n'est requis pour être pris en otage ou subir une action criminelle.
+> * **Obligation de jouer :** La victime **DOIT** impérativement jouer la scène.
+> * **Sanction immédiate :** Tout refus de jouer l'interaction (Refus de scène) ou absence de peur réaliste (No Fear) rend le personnage **immédiatement éligible à une Mort RP Dark** (sur demande) et expose le joueur à un vote sanction.
+
+### 4.1. Prises d'Otages
+* **Cibles :** Un otage peut être un joueur ou un PNJ.
+* **Devoirs de la Police :**
+    * Vérification systématique de la présence d'otages avant intervention.
+    * **Priorité Absolue :** La vie des otages prime sur l'arrestation des criminels. Toute action mettant leur vie en danger est interdite.
+    * **Négociations :** Obligatoires. Refuser systématiquement les demandes raisonnables des preneurs d'otages est interdit.
+* **Conditions d'Assaut :** Autorisé uniquement si :
+    1.  Les négociations échouent/sont rompues.
+    2.  La vie des otages est en danger immédiat.
+    3.  Une stratégie réaliste pour sauver les otages est établie.
+
+### 4.2. Effectifs de Police Requis (Menu Radial)
+Certaines actions nécessitent un nombre minimum de policiers en service (indicatif via menu radial) :
+* **6 Policiers :** Braquer une banque.
+* **4 Policiers :** Grosse action (enlèvement, prise d'otage).
+* **3 Policiers :** Forcer une ouverture/piratage (portes, coffres).
+* **2 Policiers :** Voler/Vendre une voiture et son contenu, Arracher une balise.
+* **1 Policier :** Braquer une caisse (commerce PNJ), Vente de drogue PNJ.
+
+### 4.3. Courses-poursuites
+La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart"). Le Groupe Dark surveille les comportements (PIT brutal, terrains inadaptés) et sanctionnera les abus visant à écourter les scènes de manière non-RP.
+
+---
+
+## 5. Activités Criminelles Spécifiques
+
+### 5.1. Vols et Trafic de Véhicules
+* **Conditions de Vol :**
+    * Vol de véhicule PNJ (Carjacking) possible si assez de policiers en service.
+    * **Vol de véhicule Joueur :** Obligation d'avoir un **témoin** à proximité (hors du groupe du voleur) capable de voir le vol. Les vols sans témoins sont interdits (Sanction : restitution du véhicule + retrait de l'argent de la vente).
+    * **Limites de fréquence :** Maximum **2 vols** subis par semaine pour un particulier/entreprise (Sanction pour le voleur récidiviste sur la même cible). **Exception Concessionnaires :** Limite de 5 véhicules/semaine.
+* **Crochetage :**
+    * Interdiction d'utiliser l'option de ciblage pour crocheter des véhicules volés (utiliser les outils vendus en magasin de bricolage).
+    * Les receleurs achètent à prix cassé les véhicules non crochetés : jouez le jeu, crochetez vos vols.
+* **Recel :**
+    * Revente possible aux PNJ ou joueurs.
+    * Seules les organisations/gangs peuvent obtenir la localisation des receleurs PNJ (démantelables par la police).
+    * Possibilité de mettre un véhicule personnel au nom de l'organisation pour partager les clés.
+* **Vol de contenu :** Possible sans interaction spécifique.
+
+### 5.2. Trafic de Drogue
+* **Vente :** Accessible à tous si l'item est possédé. Vente libre aux PNJ ou joueurs.
+* **Approvisionnement :** Réservé aux Organisations/Gangs (via PNJ). Quota d'achat hebdomadaire imposé.
+* **Attribution des Drogues (Lore) :**
+    * *Weed :* Grove Street Families & Ballas.
+    * *Cocaïne :* Los Santos Vagos, Marabunta Grande & Cartels.
+    * *Meth :* Redneck, Kkangpae.
+    * *Ecstasy :* The Lost MC.
+* **Plantations :**
+    * Matériel disponible en magasin (Smoke and the Water, Bricolage, Supérette).
+    * *Intérieur :* Discret mais pousse lente (manque de lumière).
+    * *Extérieur :* Risqué mais pousse rapide.
+
+### 5.3. Trafic d'Armes
+* **Accès :** Gangs et organisations classiques ont accès aux receleurs d'armes disséminés.
+* **Cartels :** Accès exclusif aux receleurs d'armes lourdes.
+
+### 5.4. Braquages
+* **Principe :** La négociation est toujours à privilégier.
+* **Braquage de joueurs :** Montant maximal de **30 000$** par semaine sur le compte en banque d'une victime. (Restitution si récidive sur la même victime par le même groupe).
+* **Braquages PNJ :** 3 types (Caisses enregistreuses, Coffres boutiques, Banques Fleeca). Nécessitent matériel spécifique et effectifs de police suffisants.
+* **Convois de fonds :** La totalité de la valeur transportée peut être volée.
+
+---
+
+## 6. Organisations et Gangs
+
+### 6.1. Typologie
+1.  **Les Gangs :** Organisations par défaut (Lore imposé). Pas de chef officiel sur le papier.
+    * *Recrutement :* Si le gang est occupé, tout se fait en RP. Si vacant, dossier (Background + Motivations) requis. Min. 3 personnes.
+    * *Starter Pack (Gang vide) :* QG, 25.000$, Pétoire (sans n° de série), Couteau.
+2.  **Les Organisations "Classiques" :** Créées par les joueurs. Min. 1 personne, Max. 10 personnes. Les organisations hors gang ne bénéficient pas de Dark Zones
+3.  **Les Cartels :** Grosses organisations créées par les joueurs.
+    * *Prérequis :* Min. 5 joueurs actifs (1 connexion/semaine).
+    * *Avantages :* Accès étendu au marché noir (armes lourdes), rôle clé dans le trafic inter-organisations.
+    * *Contrainte :* RP discret obligatoire.
+
+### 6.2. Création d'une Organisation
+La création se fait sur dossier validé par le groupe Dark, incluant : Présentation, Spécialisations, Besoins, Aide technique (Dev).
+* **Coût :** 30.000$ (frais dossier) + Coûts spécifiques + Achat bâtiment (Immo Dark).
+
+### 6.3. Spécialisations
+Choix d'une spécialisation unique (si libre) pour favoriser l'interaction :
+* **Recel de véhicules :** Majoration prix de vente (+35%) et réduction délai.
+* **Vente d'armes lourdes (Cartel uniquement) :** -50% prix achat.
+* **Vente d'armes classiques :** -50% prix achat.
+* **Faux papiers :** Accès magasin confection.
+* **Braquages :** -50% sur matériel de braquage.
+
+### 6.5 Fausse identité
+
+
+### 6.6. Blackmarket et Informateurs
+* **Blackmarket (Discord) :** Plateforme anonyme pour services, achats (véhicules, infos), échanges. Accès via Référent. **Interdit à la police** (sauf policiers corrompus sur dossier).
+* **Informateurs PNJ :** Placés dans le QG (inclus dans le prix de création). Permettent d'acheter des localisations (boutiques, receleurs), des infos (guides) et d'obtenir des missions.
+
+---
+
+## 7. Corruption et Services Publics
+
+### 7.1. Services Réglementés
+L'illégal et la corruption sont autorisés sous conditions strictes :
+* **Sur dossier (Quota fixe) :** Police/Fire Marshal (1/5 max), Juges (1/3 max), Procureurs (1/3 max).
+* **Demande par action (Cas par cas) :** Gouverneur, Lt Gouverneur, Contrôleur fiscal, SASAA, Affaires internes.
+
+### 7.2. Risques et Consentement Tacite
+> [!Tip] En acceptant un poste à haute responsabilité, le joueur accepte tacitement le risque de corruption, chantage ou pression.
+* **Consentement HRP :** Aucun consentement HRP n'est requis pour être pris en otage ou subir une action criminelle.
+* **Devoir de signalement :** 
+    * Lorsque un membre des services ci-dessus se fait corrompre de grès ou de force, le corrupteur doit demander l'accord du Référent Dark avant toute action envers la personne pour  garantir la faisabilité des scènes et eviter toute anulation.
+    * Lorsque un membre des services ci-dessus décide de jouer ripoux de son propre chef alors il doit demander l'accord du Référent Dark avant toute action envers la personne pour  garantir la faisabilité des scènes et eviter toute anulation.
+* **Conséquence :** Les officiels corrompus deviennent éligibles à la **Mort RP Dark**.
+* **Refus RP :** Le joueur peut refuser la corruption en RP mais doit en assumer les conséquences (représailles, mort) sans esquive HRP.
+
+---
+
+## 8. Procédure de Mort RP Dark
+
+> [!Tip] La Mort RP Dark est définitive. Elle est un dernier recours, réservée aux situations où toutes les autres solutions RP sont épuisées.
+
+### 8.1. Éligibilité
+Sont éligibles :
+* Toute personne active dans le Dark ou indicateur/dénonciateur.
+* Toute personne physiquement menaçante lors d'une scène Dark.
+* Civils irresponsables en Dark-Zone.
+* Policiers infiltrés (sous condition de preuves de divulgation d'infos).
+* **Le Commanditaire :** Celui qui demande une Mort RP valide devient automatiquement éligible à son tour.
+* *Non éligible :* Le citoyen lambda se défendant légalement.
+
+### 8.2. Procédure en 3 étapes
+Le dossier est soumis à la validation du groupe Dark (les membres de l'organisation concernée ne votent pas).
+1.  **Avertissement / Torture :** (Facultatif si la cible a déjà nui gravement via la police).
+2.  **Dépôt du Dossier :** Preuves solides et raisons légitimes requises.
+3.  **Exécution ou Échappatoire :** Le dépositaire choisit d'infliger la mort ou d'accorder une échappatoire (fuite, rétractation). En cas de retour après échappatoire, le dossier reste valide pour exécution immédiate.
+
+---
+
+## 9. Immobilier et Fausses Identités
+
+### 9.1. Immobilier Dark
+Fonctionnement similaire au légal avec spécificités :
+* **Anonymat :** Propriétés enregistrées sous faux nom. Prix +20% par rapport au marché légal.
+* **Quotas :** 1 propriété personnelle/joueur. 2 propriétés communes/organisation (4 pour les Cartels).
+* **Saisie :** La police/justice peut saisir un bien pour 1 mois maximum (blocage via Référent).
+* **Inclus :** Garage, coffre, vestiaire.
+
+### 9.2. Identité et Médecine
+* **Fausses Identités :** Jusqu'à 3 faux noms par organisation/gang.
+* **Médecins Dark (Joueurs) :** À privilégier lors d'inconscience.
+* **Hôpitaux Dark :** Prise en charge discrète possible. Les temps d'hospitalisation doivent être respectés.
 
 > **Rédigé par le groupe dark pour la communauté.**
 >
