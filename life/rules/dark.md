@@ -248,6 +248,6 @@ Fonctionnement similaire au légal avec spécificités :
 
 > **Rédigé par le groupe dark pour la communauté.**
 >
-> Le groupe dark peut modifier librement ce règlement, mais la communauté peut faire valoir son désaccord par un vote communautaire.
+> Le groupe dark peut modifier librement ce règlement, mais la communauté peut imposer son désaccord par un vote communautaire.
 
 
