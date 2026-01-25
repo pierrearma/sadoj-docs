@@ -221,9 +221,9 @@
           <li>Mise en valeur et promotion de la communauté</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Noé</td>
-      <td style="text-align: center;">Noé, Magic, Spen, Salvator Mauro, VeLon</td>
+      <td style="text-align: center;">Noé, Magic, Spen, Salvator Mauro, VeLon, Raatchet, Verdox</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Justice (Life)</td>
