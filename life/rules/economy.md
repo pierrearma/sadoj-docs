@@ -1270,7 +1270,7 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
     <tr>
       <td>Coyote</td>
       <td>20</td>
-      <td>Illégal</td>
+      <td>Légal</td>
     </tr>
     <tr>
       <td>Biche/Cerf</td>
@@ -1322,6 +1322,36 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
     </tr>
     <tr>
       <td colspan="3"><strong>Quota maximum d'animaux dépecés par semaine : 50</strong></td>
+    </tr>
+  </tfoot>
+</table>
+
+### Pour les fourrières (dépanneurs)
+<table>
+  <thead>
+    <tr>
+      <th>Catégorie</th>
+      <th>Quota</th>
+      <th>Statut</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dépôts en fourrière (par entreprise)</td>
+      <td>800 / 30 jours</td>
+      <td>Légal</td>
+    </tr>
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <td colspan="3"><strong>Au-delà de 800 dépôts sur 30 jours : aucun paiement</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Paiement : crédité à chaque dépôt en fourrière dans les coffres de l’entreprise (payé par le PNJ)</strong></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Gain unitaire : 350$ − taxe TC (10%) = 315$ nets</strong></td>
     </tr>
   </tfoot>
 </table>
