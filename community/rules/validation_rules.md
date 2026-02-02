@@ -98,7 +98,7 @@
 
 #### Encodage des textures
 
-- Les textures encodées en *A8R8G8B8* sont à proscrire sauf pour les textures *script_rt*.
+- Les textures encodées en ```A8R8G8B8``` sont à proscrire sauf pour les textures *script_rt*.
 
 ### Tests à effectuer sur le serveur
 
@@ -113,12 +113,35 @@
 - Endommager le véhicule pour évaluer sa réaction aux déformations.
 - Faire exploser le véhicule pour observer le rendu *(tout ou presque devrait être brûlé)*.
 
+### Règles spécifiques sur les véhicules
+
+Afin d'être compatible avec le menu d'achat de véhicules il convient de s'assurer que : 
+- La marque du véhicule `vehicleMakeName` est correctement renseigné dans le fichier `vehicle.meta`  
+  [Voir tableau](https://gtamods.com/wiki/Vehicles.meta#vehicleMakeName)
+- Le `GameName` contient aux maximum **11 caractères** et est renseigné dans un fichier client **lua**.
+
+> Exemple pour un véhicule :
+>
+>```<gameName>ARIAS</gameName>```
+>
+>```<vehicleMakeName>BORDEAUX</vehicleMakeName>```
+>
+>```AddTextEntry('arias', 'Arias')```
+>
+
 ### Règles spécifiques sur les textures
+#### Déclinaisons
 
 Pour les modèles dont les livrées sont dans les fichiers *ytd* et *ytd+hi* les déclinaisons de "covering" seront désormais limitées à une seule déclinaison supplémentaire par modèle et par entreprise (donc 2 max.) pour les véhicules communs.
 
 Cette déclinaison doit **être justifiée par un intérêt en RP** pour différencier plusieurs mêmes modèles de véhicule en jeu avec un "covering" différent (Ex : Employé > Superviseur) ou "covering" dit habituel VS "covering" temporaire pour un événement, par exemple.
 Cette règle ne s’applique pas aux modèles de véhicule non communs (type secours), ni aux modèles dont les textures sont dans les fichiers *yft*.
+
+#### Logos d'entreprises joueurs
+Les logos, marques ou identités visuelles d’entreprises détenues par des joueurs sont interdits sur les coverings de véhicules, afin d’éviter les situations de double ou triple validation administrative lors de la fin ou de la modification d’un partenariat.
+>
+> À titre dérogatoire, les véhicules spécifiquement destinés à un usage sportif, culturel ou événementiel peuvent afficher des logos, marques ou identités visuelles d’entreprises détenues par des joueurs.
+
 
 ### La demande
 
