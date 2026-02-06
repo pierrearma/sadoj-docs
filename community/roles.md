@@ -249,9 +249,9 @@
           <li>Encadrer les référents dark (gestion blackmarket, vente immobilière dark, vente d’informations, etc .. via leur personnage fictif)</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Lorrandmaps</td>
-      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Thibault_59, Valdum, ZeBi<br><br>Référents RP/HRP :<br>ZeBi</li>
+      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Thibault_59, Valdum<br><br>Référents RP/HRP :<br>Aucun</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
@@ -331,9 +331,9 @@
           <li>Personnes touchant au mapping</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Kuro, Thomas, Wrc, ZeBi</td>
+      <td style="text-align: center;">Théo, Kuro, Thomas, Wrc</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
  <tr>
