@@ -251,7 +251,7 @@
       </td>
       <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Lorrandmaps</td>
-      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Thibault_59, Valdum<br><br>Référents RP/HRP :<br>Aucun</li>
+      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Thibault_59, Valdum<br><br>Référents RP/HRP :<br>Mac</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
@@ -321,7 +321,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Valdum, Xander, Spen82, Dylan51, Lorr'and Maps, Emmanuel, Pierre</td>
+      <td style="text-align: center;">Pierre, Remigdv, Spen84, Valdum, Yoshi, Dyylan, Mr_LeBreton</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
