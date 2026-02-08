@@ -11,10 +11,10 @@
 
 ### 1.1. Le Dark
 Le "Dark" qualifie l'organisation d'actes illégaux visant ou non à en tirer un bénéfice. Sont considérées comme des activités Dark (liste non exhaustive) :
-* Vol de véhicule (revente ou usage personnel), 
+* Vol de véhicule (revente ou usage personnel),
 * Vol et trafic de carburant,
 * Vol dans les coffres et recel de biens volés.
-* Meurtre, tentative de meurtre, 
+* Meurtre, tentative de meurtre,
 * Commandite d'actes illégaux.
 * Braquages et vente de drogue.
 * Actes de terreur (actions punitives ou intimidation).
@@ -29,21 +29,21 @@ Le "Dark" qualifie l'organisation d'actes illégaux visant ou non à en tirer un
 ### 1.2. Le Référent Dark
 Le Référent occupe un rôle central de gestion et de régulation.
 
-**Ses missions :** 
-* Gestion de l'immobilier Dark (achat/vente), 
-* Organisation des transactions de drogue physiquement, 
-* Configuration des accès (portes/serrures), 
-* Gestion du Black Market, 
-* fourniture d'armement spécial (grenades, bombes collantes) sur demande auprès du Groupe Dark, 
-* Organisation d'événements divers, 
+**Ses missions :**
+* Gestion de l'immobilier Dark (achat/vente),
+* Organisation des transactions de drogue physiquement,
+* Configuration des accès (portes/serrures),
+* Gestion du Black Market,
+* fourniture d'armement spécial (grenades, bombes collantes) sur demande auprès du Groupe Dark,
+* Organisation d'événements divers,
 * Achat et revente de véhicules,
 * Il peut intervenir en RP (descentes de police, rendez-vous) selon les besoins.
 
-**Ses interdictions :** 
-* Il ne peut pas braquer (joueurs ou banques), 
-* Il ne peut pas voler de véhicules, 
-* Il ne peut pas vendre de drogue, 
-* Il ne peut pas voter aux élections, 
+**Ses interdictions :**
+* Il ne peut pas braquer (joueurs ou banques),
+* Il ne peut pas voler de véhicules,
+* Il ne peut pas vendre de drogue,
+* Il ne peut pas voter aux élections,
 * Il ne peut pas interférer physiquement entre la police et les organisations (aide lors d'assauts), ni divulguer des informations s'il est arrêté.
 
 ---
@@ -71,6 +71,10 @@ Une carte des zones est consultable [ici](https://map.sadoj-rp.fr/).
 * **Alarmes :** Il est strictement interdit d'installer plus d'une alarme pour sécuriser une même salle.
 * **Radios/Scanners :** Toute radio volée ou conservée après un licenciement a une durée de validité de **15 jours**. Passé ce délai (ou si l'entreprise exclut la fréquence), elle est inutilisable.
 * **Garages Scriptés :** Interdiction de rentrer tout véhicule (terre, mer, air) dans un garage scripté durant les **48h suivant une action Dark** (braquage, poursuite, vol). Le véhicule doit être caché physiquement (ex: garage avec porte ouvrable manuellement).
+* **Conservation des données :** Tout dispositif est soumis à une date de rétention des évènements stricte.
+    * *Journaux :* Tout historique technique d'activité ou de géolocalisation, quel que soit le système (ex : badges, alarmes, GPS, piratage, etc.) est conservé pour une durée maximale de **90 jours**.
+    * *Vidéo-surveillance :* Les enregistrements vidéo (CCTV, Dashcams) sont conservés pour une durée maximale de **42 jours**.
+    * *Sauvegarde externe :* Une donnée extraite du support d'origine **avant** l'expiration du délai reste valide indéfiniment (dossier, scellé, clé USB, copie). Passé ce délai, elle est définitivement perdue et injouable.
 
 ---
 
@@ -203,7 +207,7 @@ L'illégal et la corruption sont autorisés sous conditions strictes :
 ### 7.2. Risques et consentement tacite
 > [!Tip] En acceptant un poste à haute responsabilité, le joueur accepte tacitement le risque de corruption, chantage ou pression.
 * **Consentement HRP :** Aucun consentement HRP n'est requis pour être pris en otage ou subir une action criminelle.
-* **Devoir de signalement :** 
+* **Devoir de signalement :**
     * Lorsque un membre des services ci-dessus se fait corrompre de grès ou de force, le corrupteur doit demander l'accord du Référent Dark avant toute action envers la personne pour  garantir la faisabilité des scènes et eviter toute anulation.
     * Lorsque un membre des services ci-dessus décide de jouer ripoux de son propre chef alors il doit demander l'accord du Référent Dark avant toute action envers la personne pour  garantir la faisabilité des scènes et eviter toute anulation.
 * **Conséquence :** Les officiels corrompus deviennent éligibles à la **Mort RP Dark**.
