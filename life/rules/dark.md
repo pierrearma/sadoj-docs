@@ -55,19 +55,43 @@ Le Référent occupe un rôle central de gestion et de régulation.
 * **Mutilations :** Les actes entraînant un handicap bloquant le RP pour une durée infinie (ex: couper un membre, crever les yeux) sont interdits, sauf accord préalable entre les participants.
 * **Relation avec la Police :** La police n'est ni une alliée ni une ennemie par défaut. Les criminels doivent respecter le statut des forces de l'ordre et faire preuve d'une crainte réaliste ("Fear Police").
 
-### 2.2. Zones spécifiques (Safe-Zones et Dark-Zones)
+### 2.2. Safe-Zones
 Une carte des zones est consultable [ici](https://map.sadoj-rp.fr/).
 
 * **Safe-Zones :** Lieux où tout RP illégal est interdit (tirs, vols, prises d'otages).
     * *Lieu actuel :* Fort Zancudo (Base Militaire).
     * *Interdiction formelle :* Il est interdit de se réfugier en Safe-Zone pour fuir une scène RP.
-* **Dark-Zones (QG) :** Quartiers généraux des organisations/gangs.
-    * *Police :* Intervention autorisée uniquement en cas de flagrant délit, de course-poursuite active ou sur décision de justice.
-    * *Civils :* Tout comportement irresponsable d'un civil en Dark-Zone est à ses risques et périls (éligibilité à la Mort RP Dark possible sur demande).
 * **Police Station :** Seuls les civils victimes d'une agression ou d'une poursuite peuvent s'y réfugier.
 * **Hôpitaux Dark :** Considérés comme des zones neutres de non-agression.
 
-### 2.3. Équipements et sécurité
+### 2.3. Dark-Zones (QG) : Quartiers généraux des organisations/gangs.
+
+Les Dark Zones sont des zones officiellement reconnues comme Quartiers Généraux (QG) d’organisations, qu’elles soient issues du lore ou non. Elles représentent leur territoire principal, public et connu de tous, servant à leurs activités, réunions et protection.
+
+* **Attribution et Revendication :** Toute organisation (lore ou hors lore) peut demander à revendiquer un lieu comme Dark Zone.
+
+La demande doit être validée par le Groupe Dark, qui vérifiera :
+   * *La cohérence RP et l’implantation de l’organisation ;* 
+   * *La capacité à défendre et faire vivre le lieu ;*
+   * *L’absence de conflit majeur avec une zone déjà attribuée.*
+   
+Les zones déjà attribuées par le lore officiel de GTA (ex. : Groove Street pour les Ballas, Forum pour les Families, etc.) ne peuvent pas être revendiquées par un autre gang ou organisation.
+
+* **Gestion et Conflits :** Les organisations peuvent défendre leur Dark Zone par tous moyens RP.
+
+Les conflits entre organisations concernant des Dark Zones sont réglés par :
+   * *Négociation RP ;*
+   * *Guerre territoriale validée par le Groupe Dark ;*
+   
+Si un gang ou une organisation ne fait plus vivre sa Dark Zone, elle prend le risque qu’un autre gang ou organisation cohérente avec la zone puisse en revendiquer le contrôle. Cette revendication ne peut se faire qu’avec validation du Groupe Dark, afin de garantir un enchaînement RP crédible et équilibré.
+
+* **Processus Visuel :** Demande de Zone → Validation Groupe Dark → Attribution Officielle → Carte Publique → Gestion / Défense / Conflits
+
+> [!WARNING] 
+> * *Police :* Intervention autorisée uniquement en cas de flagrant délit, de course-poursuite active ou sur décision de justice.
+> * *Civils :* Tout comportement irresponsable d'un civil en Dark-Zone est à ses risques et périls (éligibilité à la Mort RP Dark possible sur demande).
+
+### 2.4. Équipements et sécurité
 * **Alarmes :** Il est strictement interdit d'installer plus d'une alarme pour sécuriser une même salle.
 * **Radios/Scanners :** Toute radio volée ou conservée après un licenciement a une durée de validité de **15 jours**. Passé ce délai (ou si l'entreprise exclut la fréquence), elle est inutilisable.
 * **Garages Scriptés :** Interdiction de rentrer tout véhicule (terre, mer, air) dans un garage scripté durant les **48h suivant une action Dark** (braquage, poursuite, vol). Le véhicule doit être caché physiquement (ex: garage avec porte ouvrable manuellement).
@@ -250,8 +274,7 @@ Fonctionnement similaire au légal avec spécificités :
 * **Médecins Dark (Joueurs) :** À privilégier lors d'inconscience.
 * **Hôpitaux Dark :** Prise en charge discrète possible. Les temps d'hospitalisation doivent être respectés.
 
+
 > **Rédigé par le groupe dark pour la communauté.**
 >
 > Le groupe dark peut modifier librement ce règlement, mais la communauté peut imposer son désaccord par un vote communautaire.
-
-
