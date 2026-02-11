@@ -91,8 +91,6 @@ Si un gang ou une organisation ne fait plus vivre sa Dark Zone, elle prend le ri
 > * *Police :* Intervention autorisée uniquement en cas de flagrant délit, de course-poursuite active ou sur décision de justice.
 > * *Civils :* Tout comportement irresponsable d'un civil en Dark-Zone est à ses risques et périls (éligibilité à la Mort RP Dark possible sur demande).
 
-Demande de Zone → Validation Groupe Dark → Attribution Officielle → Carte Publique → Gestion / Défense / Conflits
-
 ### 2.4. Équipements et sécurité
 * **Alarmes :** Il est strictement interdit d'installer plus d'une alarme pour sécuriser une même salle.
 * **Radios/Scanners :** Toute radio volée ou conservée après un licenciement a une durée de validité de **15 jours**. Passé ce délai (ou si l'entreprise exclut la fréquence), elle est inutilisable.
