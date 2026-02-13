@@ -1,5 +1,4 @@
-# Formation aviation
-
+# ✈️ Formation Aviation
 ---
 
 ## La checklist pré-vol
@@ -41,8 +40,75 @@ Après l’extérieur, on passe à l’intérieur. L’ensemble des instruments 
 
 La partie la plus redoutée de tous les élèves pilotes existants, les communications radio.
 Tout d'abord une connexion oblogatoire sur la fréquence de votre secteur de vol. 
-- A San Andreas connexion sur votre radio fréquence : 001.0
-- A l'extérieur de San Andreas fréquence : 001.5
+
+<div style="display:inline-block;">
+  <table style="
+    display: inline-table;
+    width: auto;
+    border-collapse: collapse;
+    font-family: Consolas, 'Courier New', monospace;
+    font-size: 18px;
+    color: #9ef2c9;
+    background: transparent;
+    border: 2px solid #1f3d2b;
+    text-align: center;
+  ">
+    <thead>
+      <tr>
+        <th colspan="2" style="
+          padding: 16px 22px;
+          border-bottom: 2px solid #1f3d2b;
+          letter-spacing: 2px;
+          font-weight: 700;
+        ">
+          CONTROLE AERIEN - FREQUENCES
+        </th>
+      </tr>
+      <tr>
+        <th style="padding: 12px 22px; border-bottom: 2px solid #1f3d2b;">
+          ESPACE AERIEN
+        </th>
+        <th style="padding: 12px 22px; border-bottom: 2px solid #1f3d2b;">
+          FREQUENCE
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="
+          padding: 14px 22px;
+          border-top: 1px solid #13271c;
+          border-right: 2px solid #1f3d2b;
+        ">
+          SAN ANDREAS
+        </td>
+        <td style="
+          padding: 14px 22px;
+          border-top: 1px solid #13271c;
+        ">
+          1
+        </td>
+      </tr>
+      <tr>
+        <td style="
+          padding: 14px 22px;
+          border-top: 1px solid #13271c;
+          border-right: 2px solid #1f3d2b;
+        ">
+          INTERNATIONAL
+        </td>
+        <td style="
+          padding: 14px 22px;
+          border-top: 1px solid #13271c;
+        ">
+          2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 
 **Le plus important est de vous faire comprendre.**
 
@@ -50,7 +116,87 @@ Tout d'abord une connexion oblogatoire sur la fréquence de votre secteur de vol
 
 Déjà, en aéro, on utilise un seul et unique alphabet : celui de l’OTAN.
 
-<img src="../../_media/life/rp/aviation_training/otan.png" alt="Alphabet de l'OTAN" style="max-width: 500px;"/>
+<div style="display:inline-block;">
+  <table style="
+    display: inline-table;
+    width: auto;
+    border-collapse: collapse;
+    font-family: Consolas, 'Courier New', monospace;
+    font-size: 18px;
+    color: #9ef2c9;
+    background: transparent;
+    border: 2px solid #1f3d2b;
+    text-align: center;
+  ">
+    <thead>
+      <tr>
+        <th colspan="8" style="
+          padding: 14px 20px;
+          border-bottom: 2px solid #1f3d2b;
+          letter-spacing: 2px;
+          font-weight: 700;
+        ">
+          ALPHABET PHONÉTIQUE OTAN
+        </th>
+      </tr>
+      <tr>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">LETTRE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">CODE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">LETTRE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">CODE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">LETTRE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">CODE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">LETTRE</th>
+        <th style="padding:10px; border-bottom:2px solid #1f3d2b;">CODE</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">A</td><td style="padding:12px;">ALFA</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">B</td><td style="padding:12px;">BRAVO</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">C</td><td style="padding:12px;">CHARLIE</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">D</td><td style="padding:12px;">DELTA</td>
+      </tr>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">E</td><td style="padding:12px;">ECHO</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">F</td><td style="padding:12px;">FOXTROT</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">G</td><td style="padding:12px;">GOLF</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">H</td><td style="padding:12px;">HOTEL</td>
+      </tr>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">I</td><td style="padding:12px;">INDIA</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">J</td><td style="padding:12px;">JULIETT</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">K</td><td style="padding:12px;">KILO</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">L</td><td style="padding:12px;">LIMA</td>
+      </tr>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">M</td><td style="padding:12px;">MIKE</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">N</td><td style="padding:12px;">NOVEMBER</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">O</td><td style="padding:12px;">OSCAR</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">P</td><td style="padding:12px;">PAPA</td>
+      </tr>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">Q</td><td style="padding:12px;">QUEBEC</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">R</td><td style="padding:12px;">ROMEO</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">S</td><td style="padding:12px;">SIERRA</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">T</td><td style="padding:12px;">TANGO</td>
+      </tr>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">U</td><td style="padding:12px;">UNIFORM</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">V</td><td style="padding:12px;">VICTOR</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">W</td><td style="padding:12px;">WHISKEY</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">X</td><td style="padding:12px;">XRAY</td>
+      </tr>
+      <tr>
+        <td style="padding:12px; border-right:2px solid #1f3d2b;">Y</td><td style="padding:12px;">YANKEE</td>
+        <td style="padding:12px; border-left:2px solid #1f3d2b;">Z</td><td style="padding:12px;">ZULU</td>
+        <td style="padding:12px;"></td><td style="padding:12px;"></td>
+        <td style="padding:12px;"></td><td style="padding:12px;"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ### Matricule de mon aéronef
 
@@ -61,17 +207,68 @@ LETTRES/Catégorie correspond à la liste suivante. 2 lettres (prononcé avec l'
 L'objectif est d'identifier l'appartenance plus rapidement des engins liés aux services et à l'immatriculation d'origine, lors des communications radio.
 
 **Lettre/Catégorie**
-* HP 	- SAHP
-* PD 	- LSPD
-* LS 	- LSSD
-* SO 	- BCSO
-* MS 	- Medical service
-* LF 	- LSFD
-* BC 	- BCFD
-* GV 	- Gouvernement
-* AA 	- San Andreas State Aviation Administration
-* MR 	- Militaire
-* PX 	- Privé/autre
+
+<table
+  cellpadding="6"
+  cellspacing="0"
+  style="
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+  "
+>
+  <tr>
+    <th>Code</th>
+    <th>Organisation</th>
+  </tr>
+  <tr>
+    <td>HP</td>
+    <td>SAHP</td>
+  </tr>
+  <tr>
+    <td>PD</td>
+    <td>LSPD</td>
+  </tr>
+  <tr>
+    <td>LS</td>
+    <td>LSSD</td>
+  </tr>
+  <tr>
+    <td>SO</td>
+    <td>BCSO</td>
+  </tr>
+  <tr>
+    <td>MS</td>
+    <td>Medical Service</td>
+  </tr>
+  <tr>
+    <td>LF</td>
+    <td>LSFD</td>
+  </tr>
+  <tr>
+    <td>BC</td>
+    <td>BCFD</td>
+  </tr>
+  <tr>
+    <td>GV</td>
+    <td>Gouvernement</td>
+  </tr>
+  <tr>
+    <td>AA</td>
+    <td>San Andreas State Aviation Administration</td>
+  </tr>
+  <tr>
+    <td>MR</td>
+    <td>Militaire</td>
+  </tr>
+  <tr>
+    <td>PX</td>
+    <td>Privé / autre</td>
+  </tr>
+</table>
+
 
 Exemple pour un aéronef du BCFD immatriculé **98FYI702**
 Le matricule de l’aéronef radio est donc *November 702 Bravo Charlie*
@@ -131,17 +328,163 @@ Voici un petit listing d’expressions et mots qui pourront t’être utile dans
 
 ## Les altitudes de survol des différents territoires
 
-* Agglomération : L’altitude minimum au-dessus d’une agglomération est fixée à 1500ft (+ 500ft en cas d’obstacle).
-* Hors agglomération : L’altitude de survol minimum au niveau de la mer est de 800ft (+ 200ft en cas d’obstacle).
-* Mer : L’altitude maximum est fixée à 800ft.
+<div style="display:inline-block; max-width:100%;">
+  <table style="
+    display:inline-table;
+    border-collapse:collapse;
+    font-family:Consolas, 'Courier New', monospace;
+    font-size:18px;
+    color:#9ef2c9;
+    background:transparent;
+    border:2px solid #1f3d2b;
+    text-align:center;
+  ">
+    <thead>
+      <tr>
+        <th colspan="4" style="
+          padding:14px 20px;
+          border-bottom:2px solid #1f3d2b;
+          letter-spacing:2px;
+          font-weight:700;
+        ">
+          NOTAM — RÈGLES D’ALTITUDES DE SURVOL
+        </th>
+      </tr>
+      <tr>
+        <th style="padding:10px 18px; border-bottom:2px solid #1f3d2b;">
+          ZONE / CATÉGORIE
+        </th>
+        <th style="padding:10px 18px; border-bottom:2px solid #1f3d2b;">
+          ALTITUDE
+        </th>
+        <th style="padding:10px 18px; border-bottom:2px solid #1f3d2b;">
+          OBSTACLES
+        </th>
+        <th style="padding:10px 18px; border-bottom:2px solid #1f3d2b;">
+          REMARQUES
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- RÈGLES GÉNÉRALES -->
+      <tr>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          AGGLOMÉRATION
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          ≥ 1500 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          +500 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c;">
+          RÈGLE GÉNÉRALE
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          HORS AGGLOMÉRATION
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          ≥ 800 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          +200 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c;">
+          RÈGLE GÉNÉRALE
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          MER
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          ≤ 800 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          —
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c;">
+          ALTITUDE MAXIMALE
+        </td>
+      </tr>
+      <!-- EXCEPTIONS -->
+      <tr>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b; border-right:2px solid #1f3d2b;">
+          JOURNALISTES
+        </td>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b; border-right:2px solid #1f3d2b;">
+          ≥ 800 FT
+        </td>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b; border-right:2px solid #1f3d2b;">
+          +500 FT
+        </td>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b;">
+          DÉROGATION MÉDIA
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          POLICE (PATROUILLE)
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          ≥ 500 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          +300 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c;">
+          DÉROGATION OPÉRATIONNELLE
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          SERVICES PUBLICS (INTERVENTION)
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          ≥ 500 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          +300 FT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c;">
+          PRIORITÉ INTERVENTION
+        </td>
+      </tr>
+      <!-- INTERDICTIONS -->
+      <tr>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b; border-right:2px solid #1f3d2b;">
+          ORAGES / INTEMPÉRIES
+        </td>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b; border-right:2px solid #1f3d2b;">
+          INTERDIT
+        </td>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b; border-right:2px solid #1f3d2b;">
+          —
+        </td>
+        <td style="padding:12px 18px; border-top:2px solid #1f3d2b;">
+          VOL PROHIBÉ
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          FLY-BY / LOW PASS
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          INTERDIT
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c; border-right:2px solid #1f3d2b;">
+          —
+        </td>
+        <td style="padding:12px 18px; border-top:1px solid #13271c;">
+          SAUF DÉROGATION GOV + SASAA
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### Exceptions par profession en agglomération et en mer
-
-* Les journalistes sont autorisés à descendre jusqu’à 800ft minimum (+500ft en cas d’obstacle).
-* La police est autorisée lors d’une patrouille à descendre à 500ft minimum (+300ft en cas d’obstacle).
-* Tous les services publics sont autorisés lors d’une intervention à descendre à 500ft minimum (+ 300ft en cas d’obstacle).
-* Tous vols lors de fortes intempéries ou orages sont strictement interdits.
-* Les Fly-by ou Low pass sont strictement interdits, sauf dérogation approuvé par le Gouvernement et la SASAA (l’article 8.4.1 n’est pas applicable si cette dérogation est approuvée)
 
 ## Zones régulées et zones interdites de survol
 
