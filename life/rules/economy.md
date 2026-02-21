@@ -738,13 +738,6 @@ Système d’aide pour les entreprises au cas par cas sans le système de coef.
 >
 >* Les joueurs possédant une entreprise de covering auront l’obligation d’accepter et d’effectuer les demandes HRP pour tout joueur ne souhaitant pas passer par leur entreprise RP, sans condition, sans justification exigée et sans aucune exception, au même titre que n’importe quel contributeur au développement du serveur. Cette obligation devra être respectée dans un délai raisonnable et identique pour tous, sans traitement préférentiel ni discrimination. Le refus, le ralentissement volontaire ou la conditionnalité d’une demande HRP constitueront un manquement aux règles.
 
-* Le prix de l'entreprise est fixé au cas par cas par les économistes. Le prix total devra être payé à l'État.
-
-* Un crédit est obligatoire, au nom de l’entreprise qui paiera les mensualités sur les fonds de l’entreprise. le crédit pourra être remboursé à tout moment.
-
-- **Apport obligatoire de 10% du prix** sur fonds personnel du créateur de l’entreprise et/ou actionnaires.
-- Crédit avec un **taux d'intérêt minimum de 10%** et **maximum de 20%.**
-- **Fond de roulement obligatoire de 10%** du prix. Afin de permettre à l’entreprise de payer les premiers salaires et les premières mensualités.
 - Le nombre maximal d’entreprises où vous pouvez être responsable est de 2.
 
 ### Revenus additionnels possibles
@@ -780,11 +773,8 @@ La valeur de l'entreprise est calculée à l'aide d'une feuille de calcul et de 
 * Valeur des véhicules entreprises **(50%)**.
 * Pour les concessions, valeur des véhicules en vente **(25%)**.
 * Valeur de l'immobilier
-* CA moyen sur un mois
-* Fonds sur les comptes en banque, dans les coffres
+* Fonds sur les comptes en banque, dans les coffres (n'est plus pris en compte en cas de rachat d'entreprise).
 
->[!NOTE]
->L’actionnaire majoritaire d’une entreprise peut injecter de l’argent sans limite sur les comptes de l'entreprise.
 
 ### Fermeture d’une entreprise
 
@@ -797,7 +787,7 @@ La valeur de l'entreprise est calculée à l'aide d'une feuille de calcul et de 
 
 ### Vente d’une entreprise
 
-Le responsable peut décider de vendre l’entreprise à une autre personne dans ce cas là, le(s) responsable(s) peuvent récupérer les fonds de l’entreprise  mais devront payer une taxe de 30% et vendre l’entreprise à la valeur du capital en laissant **minimum 150000$**.
+Le responsable peut décider de vendre l’entreprise à une autre personne dans ce cas là, le(s) responsable(s) devront récupérer les fonds de l’entreprise  mais devront payer une taxe de 30% et vendre l’entreprise à la valeur du capital en laissant **minimum 150000$**.
 
 A savoir que la valeur maximale du prix de vente (hors fonds) ne pourra pas être supérieure à **120% du capital**. L’Etat aura un droit de préemption si l’entreprise est vendu à moins de 80% de la valeur du capital.
 
@@ -815,25 +805,14 @@ Taxe sur la revente d’entreprise à payer par le vendeur **30% du prix de vent
 
 ### Le rachat d’entreprise
 
-L’acheteur devra payer selon la situation le capital de l’entreprise *(de 80% à 120% décidé par le vendeur)* et si des fonds sont présents cette somme se verra ajoutée au montant précédent.
+L’acheteur devra payer selon la situation le capital de l’entreprise *(de 80% à 120% décidé par le vendeur)*
 
-L’acheteur peut faire un crédit au nom de sa future entreprise (comme à la création) dans les mêmes conditions.
+L’acheteur ne  peut plus faire un crédit au nom de sa future entreprise et devra utiliser ses fonds personnels.
 
 * Cas particulier rachat d’une entreprise par une entreprise :
   - Rachat d'une entreprise par une autre entreprise possible que pour fusion et **100% des parts.**
   - Vente dans les mêmes conditions que la vente d'entreprise mais pas de % en moins ou en plus.
-  - Prix = capital + fond.
-
-- Apport obligatoire de **10% du prix.**
-- Crédit avec un **taux minimum de 10%** et **maximum de 20%.**
-- Fond de roulement obligatoire minimum de **10% du prix d’achat.**
-
-
-
-> [!TIP]
-> Possibilité de faire un crédit personnel pour financer l'apport.
->
-> Possibilité de faire un apport personnel de seulement **5% pour l'achat** de l'entreprise mais seulement avec l'accord des économistes, en dernier recours.
+  - Prix = capital
 
 
 
@@ -845,7 +824,7 @@ Un associé, un commerçant, un actionnaire peut injecter des capitaux de maniè
 
 Les parts d’une entreprise ne peuvent pas être données, revente obligatoire à un particulier dans les mêmes conditions que la revente d’entreprise au prorata des parts.
 * Proportion de la valeur du capital *(de 80% à 130% décidé par le vendeur)*.
-* Si il n'y a pas les fonds, le crédit est obligatoire. Il est interdit d'utiliser les fonds de l’entreprise.
+* Il est interdit d'utiliser les fonds de l’entreprise.
 * Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente des parts.
 
 > [!ATTENTION]
