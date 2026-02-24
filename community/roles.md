@@ -319,9 +319,9 @@
           <li>Il est conseiller de passer par eux en cas de conflit</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Remigdv, Spen84, Valdum, Yoshi, Dyylan, Mr_LeBreton</td>
+      <td style="text-align: center;">Pierre, Remigdv, Spen84, Valdum, Yoshi, Mr_LeBreton</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
@@ -363,9 +363,9 @@
         </li>
       </ul>
     </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">5 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;"> Doryann, Thracios, Guillaume, lhomme1515, FlyHight, Titouan</td>
+      <td style="text-align: center;">Doryann, Thracios, Guillaume, lhomme1515, Titouan</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
