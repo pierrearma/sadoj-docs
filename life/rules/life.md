@@ -109,7 +109,7 @@ Voir [ce document](life/rules/perpetuity.md).
     * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, procureur, etc …) (hors avocat).
     * Il est interdit d'avoir deux personnages sénateurs.
     * Il est interdit d'avoir un personnage sénateur et un autre gouverneur ou lieutenant-gouverneur.
-    * Il est interdit d’avoir un personnage dans une organisation et un autre dans la police (tous services confondus).
+    * Il est interdit d’avoir un personnage dans une organisation et un autre dans la police (tous services confondus sauf SASAA).
     * Note: Il est autorisé d’avoir un personnage dans le domaine du dark (sans être dans une organisation) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
 
 ## Déplacements / Véhicules
