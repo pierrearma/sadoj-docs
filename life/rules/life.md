@@ -46,6 +46,7 @@
 * [Termes RolePlay](life/rules/terms.md)
 * Le sexe classique est autorisé si les personnes sont consentantes.
 * Pour garantir l’immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L’impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l’oral dans un cadre roleplay.
+* Tout graffiti ou affiche devra être dans une langue autre que le français afin de respecter le lore. Les langues prédominantes sont l'anglais, l'espagnol et le coréen.
 
 
 ## La vie / la mort
