@@ -10,7 +10,7 @@ En tant que joueur votre personnage n'est pas **immortel**, si vous êtes bless�
 
 **Le RP médical ne doit pas être une corvée.**
 
-Que vous soyez conscients ou inconscients, **donnez le plus de détail possible** par le biais textuel (sur Discord ou sur Teamspeak).
+Que vous soyez conscients ou inconscients, **donnez le plus de détail possible** par le biais textuel (sur Discord).
 
 Une fois la blessure décrite, **il faut la jouer en jeu**.
 
@@ -29,7 +29,7 @@ Après cet acte médical lourd, la victime est transportée en salle de réveil 
 
 Avec la balle dans le ventre, le soignant peut réaliser un arrêt de travail temporaire de quelques jours (**2 max**) et une autre visite médicale peut être prévu. Également un rendez-vous avec un psychologue peut être évoqué suite à cette action.
 
-> Attente maximum dans l’hôpital : 25 minutes (ce n’est qu’un exemple de durée d’intervention, elle peut durer + ou - de 25 minutes, l’imprévu rythme le roleplay).
+> Attente maximum dans l'hôpital : 25 minutes (ce n'est qu'un exemple de durée d'intervention, elle peut durer + ou - de 25 minutes, l'imprévu rythme le roleplay).
 >
 > Arrêt possible : 2 jours maximum.
 >
@@ -60,7 +60,7 @@ Avec la balle dans le ventre, le soignant peut réaliser un arrêt de travail te
 * Perte de connaissance
 * Paralysie
 * Mort
-* Plus les séquelles citées au-dessus dans l’accident à moins de 35mph.
+* Plus les séquelles citées au-dessus dans l'accident à moins de 35mph.
 
 **Blessure par balles:**
 
@@ -70,19 +70,19 @@ Avec la balle dans le ventre, le soignant peut réaliser un arrêt de travail te
 * Mort
 * Coma
 
-**Chute d’une faible hauteur (-10m):**
+**Chute d'une faible hauteur (-10m):**
 
 * Membres cassés
 * Traumatismes
 * Perte de connaissance possible
 * Hématomes sur le corps
 
-**Chute d’une moyenne hauteur (-25m):**
+**Chute d'une moyenne hauteur (-25m):**
 
 * Les séquelles sont identiques à celles au-dessus mais avec une plus grande gravité
 * Mort
 
-**Chute d’une grande hauteur (+25m):**
+**Chute d'une grande hauteur (+25m):**
 
 * Les séquelles sont identiques à celles au-dessus mais avec une plus grande gravité
 * Mort
@@ -92,7 +92,7 @@ Avec la balle dans le ventre, le soignant peut réaliser un arrêt de travail te
 * Membre immobilisé
 * Greffe de la peau
 
-**Attaque à l’arme blanche:**
+**Attaque à l'arme blanche:**
 
 * Organe non vital ou vital touché
 * Saignement abondant
@@ -102,6 +102,6 @@ Avec la balle dans le ventre, le soignant peut réaliser un arrêt de travail te
 **Autres:**
 
 * ébriété : vomissement, étourdissement, fatigue, perte de connaissance…
-* drogue : comme pour l’alcool, mort possible si overdose, effets selon la drogue prise.
+* drogue : comme pour l'alcool, mort possible si overdose, effets selon la drogue prise.
 * malaise : petite perte de connaissance.
 
