@@ -3,9 +3,9 @@
 ---
 
 > [!NOTE]
-> Les règles suivantes ont pour but d’éviter bon nombre de conflits et de comportements qui ne correspondent pas à l’esprit SADoJ.
+> Les règles suivantes ont pour but d'éviter bon nombre de conflits et de comportements qui ne correspondent pas à l'esprit SADoJ.
 >
-> On peut tous faire des erreurs, nous sommes humains, mais ce qui est réellement important, c’est apprendre de ses erreurs et être capable de ne pas les reproduire à l’avenir.
+> On peut tous faire des erreurs, nous sommes humains, mais ce qui est réellement important, c'est apprendre de ses erreurs et être capable de ne pas les reproduire à l'avenir.
 >
 > Le vote sanction doit rester une procédure exceptionnelle non banalisée.
 
@@ -14,52 +14,51 @@
 * Sont interdits
   * La triche.
   * L'utilisation ou exploitation de bugs.
-  * D'être en communication vocale hors de TeamSpeak lorsque vous êtes en jeu.
+  * D'être en communication vocale lorsque vous êtes en jeu.
   * De partager son écran lorsque vous êtes en jeu.
   * De parler **H**ors-**R**ôle-**P**lay (HRP) en jeu.
   * De mélanger le RP et le HRP, notamment en interprétant des actions, décisions ou paroles RP comme des attaques personnelles HRP.
-    * Cette règle s’applique également à tous les canaux de communication utilisés dans le cadre du RP (en jeu ou non).
-  * D'utiliser des informations vues sur un stream/hors de l’immersion roleplay, même en utilisant le terme “J’ai regardé ta GoPro”.
-  * De regarder une vidéo en direct (live) d’un joueur étant en jeu (streamstalk).
-  * D'écouter une conversation si vous n’en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
+    * Cette règle s'applique également à tous les canaux de communication utilisés dans le cadre du RP (en jeu ou non).
+  * D'utiliser des informations vues sur un stream/hors de l'immersion roleplay, même en utilisant le terme “J'ai regardé ta GoPro”.
+  * De regarder une vidéo en direct (live) d'un joueur étant en jeu (streamstalk).
+  * D'écouter une conversation si vous n'en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
   * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance.
-  * De se déconnecter ou quitter le jeu afin d’éviter une interaction.
-  * D'utiliser un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l’utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….).
-  * De spammer les centrales d’appels. Il faut attendre quelques minutes avant de rappeler.
+  * De se déconnecter ou quitter le jeu afin d'éviter une interaction.
+  * D'utiliser un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l'utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….).
+  * De spammer les centrales d'appels. Il faut attendre quelques minutes avant de rappeler.
   * Toute suppression non souhaitée de documents RP, sites RP, réseaux sociaux RP, Discord RP, etc…
   * De porter plus de **60** items vêtements sur soi.
     * Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
   * D'effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti
   * Toute tentative de pression, menace, règlement de compte ou reproche effectué en HRP pour des faits exclusivement RP.
-    * Le canal dark-police-citoyens-hrp est le seul espace autorisé pour débattre d’une situation RP passée, uniquement dans un objectif d’éclaircissement ou d’amélioration du jeu, et jamais pour exercer une quelconque pression ou influence.
-  * Toute réaction HRP destinée à influencer, punir ou contraindre un joueur en raison d’un comportement RP. Les conflits, tensions ou décisions créées en jeu et liées aux personnages doivent rester strictement en RP.
+    * Le canal dark-police-citoyens-hrp est le seul espace autorisé pour débattre d'une situation RP passée, uniquement dans un objectif d'éclaircissement ou d'amélioration du jeu, et jamais pour exercer une quelconque pression ou influence.
+  * Toute réaction HRP destinée à influencer, punir ou contraindre un joueur en raison d'un comportement RP. Les conflits, tensions ou décisions créées en jeu et liées aux personnages doivent rester strictement en RP.
 * Sont obligatoires
-  * d’avoir l’item *Radio* dans l’inventaire quand communique à la radio (whisper TS) (dans le coffre du véhicule si c’est une radio de véhicule).
-  * De porter une Bodycam lors d’une action pour qu’elle soit considérée comme présente (et être utilisée).
+  * De porter une Bodycam lors d'une action pour qu'elle soit considérée comme présente (et être utilisée).
     * Exception technique : Non obligatoire pour les tenues SWAT qui nécessite une cagoule.
   * De faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le serveur Discord "Formation SADoJ".
-* Il arrive que certains masques ou des casques s’enlèvent sans que les porteurs le veuillent, il est donc demandé aux joueurs d’oublier le visage qu’ils auraient pu voir/ découvrir le temps que la personne remettre son casque/ masque. L’utilisation de ce bug est interdite, car considéré comme **H**ors-**R**ôle-**P**lay.
-* Un personnage ne peut pas être reconnu par sa voix ou son accent ou si son visage est dissimulé : Exemples : foulard, cagoule, casque, barbe épaisse et la combinaison lunettes et chapeau, casquette, bonnet, casque. Une casquette seule et une paire de lunettes seule ne suffisent pas. De même, la féminité et la masculinité du corps ou de la voix peuvent être supposées (à tort ou à raison, et toujours sans permettre d’identifier UNE personne en particulier).
+* Il arrive que certains masques ou des casques s'enlèvent sans que les porteurs le veuillent, il est donc demandé aux joueurs d'oublier le visage qu'ils auraient pu voir/ découvrir le temps que la personne remettre son casque/ masque. L'utilisation de ce bug est interdite, car considéré comme **H**ors-**R**ôle-**P**lay.
+* Un personnage ne peut pas être reconnu par sa voix ou son accent ou si son visage est dissimulé : Exemples : foulard, cagoule, casque, barbe épaisse et la combinaison lunettes et chapeau, casquette, bonnet, casque. Une casquette seule et une paire de lunettes seule ne suffisent pas. De même, la féminité et la masculinité du corps ou de la voix peuvent être supposées (à tort ou à raison, et toujours sans permettre d'identifier UNE personne en particulier).
 * Un membre qui souhaite faire revenir son personnage commencera de zéro (argent, biens, etc…) (dont les membres ayant quitté la communauté).
-* Seul les PNJ physiquement présents sont à prendre en compte en RP (on n’imagine pas ni invente des PNJ). Si ils vous voient faire un acte illégal, ils est conseillé de prévenir les services de secours (à vous de faire un appel anonyme).
+* Seul les PNJ physiquement présents sont à prendre en compte en RP (on n'imagine pas ni invente des PNJ). Si ils vous voient faire un acte illégal, ils est conseillé de prévenir les services de secours (à vous de faire un appel anonyme).
 * Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
 * [Termes RolePlay](life/rules/terms.md)
 * Le sexe classique est autorisé si les personnes sont consentantes.
-* Pour garantir l’immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L’impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l’oral dans un cadre roleplay.
+* Pour garantir l'immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L'impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l'oral dans un cadre roleplay.
 * Tout graffiti ou affiche devra être dans une langue autre que le français afin de respecter le lore. Les langues prédominantes sont l'anglais, l'espagnol et le coréen.
 
 
 ## La vie / la mort
 
-* La valeur de la vie : préserver la vie de votre personnage doit être plus important que tout le reste. Ne pas se rendre/fuir/obtempérer, en situation désespérée, sera considéré comme du No-Fear-Rôle-Play (grosse infériorité numérique et de moyen avec la police, hélico etc.., encerclé par l’ennemi, etc…).
-* Chaque personnage doit disposer d’au moins un lieu de vie, qu’il soit légal ou non, tant qu’il est cohérent et reconnu comme un espace où il est possible de dormir (squat, planque, logement, etc.). Un lieu de travail ne peut pas faire office de logement. Les personnages volontairement sans-abri sont autorisés, à condition que ce soit un choix RP cohérent et pleinement assumé dans leur jeu.
-* Pour la perte de mémoire suite à un état inconscient, se référer à l’image:
+* La valeur de la vie : préserver la vie de votre personnage doit être plus important que tout le reste. Ne pas se rendre/fuir/obtempérer, en situation désespérée, sera considéré comme du No-Fear-Rôle-Play (grosse infériorité numérique et de moyen avec la police, hélico etc.., encerclé par l'ennemi, etc…).
+* Chaque personnage doit disposer d'au moins un lieu de vie, qu'il soit légal ou non, tant qu'il est cohérent et reconnu comme un espace où il est possible de dormir (squat, planque, logement, etc.). Un lieu de travail ne peut pas faire office de logement. Les personnages volontairement sans-abri sont autorisés, à condition que ce soit un choix RP cohérent et pleinement assumé dans leur jeu.
+* Pour la perte de mémoire suite à un état inconscient, se référer à l'image:
 
 <img src="../../_media/life/rules/perte_de_memoire.png" alt="Perte de mémoire" style="max-width: 750px;">
 
-* Pour être valide, un testament doit être déposé avant la mort d’un personnage auprès d’un procureur (si procureur pnj souhaité, voir le groupe justice)
+* Pour être valide, un testament doit être déposé avant la mort d'un personnage auprès d'un procureur (si procureur pnj souhaité, voir le groupe justice)
 * Le RP médical est régi par le [ce document](life/rules/medical.md).
-* Il faut faire attention de ne pas annoncer une mort de manière prématurée (en attente du résultat du vote par exemple). Les termes d’état très inquiétant, mort cérébrale sont possibles afin de faire comprendre les différents acteurs.
+* Il faut faire attention de ne pas annoncer une mort de manière prématurée (en attente du résultat du vote par exemple). Les termes d'état très inquiétant, mort cérébrale sont possibles afin de faire comprendre les différents acteurs.
 
 ## La mort Rôle-Play / départ du personnage
 
@@ -92,40 +91,40 @@ Voir [ce document](life/rules/perpetuity.md).
 
 ### Autre
 
-* Cas des joueurs en stream : pour suivre une “logique” dans leur perso et respecter le vote de la communauté, ces personnes devront figer l’action et ne pas déclarer eux-mêmes une mort **R**ôle-**P**lay.
-* Si quelqu’un veut suicider son personnage, sa mort **R**ôle-**P**lay devra être votée par la communauté. **(Situation 1)**
+* Cas des joueurs en stream : pour suivre une “logique” dans leur perso et respecter le vote de la communauté, ces personnes devront figer l'action et ne pas déclarer eux-mêmes une mort **R**ôle-**P**lay.
+* Si quelqu'un veut suicider son personnage, sa mort **R**ôle-**P**lay devra être votée par la communauté. **(Situation 1)**
 * Imposer sa mort **R**ôle-**P**lay au ne pas respecter les nouvelles règles aboutira à un vote sanction pour respecter le vote de la communauté et le **R**ôle-**P**lay des autres joueurs.
 
 ## Multi personnage
 
 * L'autorisation de créer un autre personnage passera par un vote de la communauté, lequel pourra être demandé à tout moment à un animateur de réunion. Ce vote aura une durée de 24 heures.
 * Il faut être dans la communauté depuis 3 mois minimum pour faire la demande.
-* Le départ ou la mort d’un personnage se doit de respecter le règlement en vigueur. *(voir La mort Rôle Play- départ du personnage).*
-* Le changement de personnage est autorisé en cours d’une session de jeu.
-* Toute interaction entre vos personnages est interdite (physique, matériel, correspondance, pécuniaire) si elle vise à avantager un des deux personnages (partage d’une information, don d’argent etc.)
-  * Les sénateurs ne doivent pas influencer les votes seulement pour favoriser leur autre personnage. Ils peuvent voter blanc pour éviter de gros conflits d’intérêt entre leurs personnages.
+* Le départ ou la mort d'un personnage se doit de respecter le règlement en vigueur. *(voir La mort Rôle Play- départ du personnage).*
+* Le changement de personnage est autorisé en cours d'une session de jeu.
+* Toute interaction entre vos personnages est interdite (physique, matériel, correspondance, pécuniaire) si elle vise à avantager un des deux personnages (partage d'une information, don d'argent etc.)
+  * Les sénateurs ne doivent pas influencer les votes seulement pour favoriser leur autre personnage. Ils peuvent voter blanc pour éviter de gros conflits d'intérêt entre leurs personnages.
 * Le second personnage a le droit de louer, acheter et vendre un bien immobilier sur le plan professionnel ou personnel.
-* L’avatar à le droit de prétendre à tous les emplois présent sur le serveur.
+* L'avatar à le droit de prétendre à tous les emplois présent sur le serveur.
   * Exceptions :
-    * Il est interdit d’avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, procureur, etc …) (hors avocat).
+    * Il est interdit d'avoir un personnage dans le domaine du dark et un autre dans le domaine de la justice (juge, procureur, etc …) (hors avocat).
     * Il est interdit d'avoir deux personnages sénateurs.
     * Il est interdit d'avoir un personnage sénateur et un autre gouverneur ou lieutenant-gouverneur.
-    * Il est interdit d’avoir un personnage dans une organisation et un autre dans la police (tous services confondus sauf SASAA).
-    * Note: Il est autorisé d’avoir un personnage dans le domaine du dark (sans être dans une organisation) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
+    * Il est interdit d'avoir un personnage dans une organisation et un autre dans la police (tous services confondus sauf SASAA).
+    * Note: Il est autorisé d'avoir un personnage dans le domaine du dark (sans être dans une organisation) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
 
 ## Déplacements / Véhicules
 
 * Sont interdits
   * De “custom” un véhicule sans garagiste présent (sauf custom illégal).
   * De se déplacer constamment en sprintant, pareil en vélo.
-  * De carkill, qui consiste à écraser volontairement quelqu’un sans raison valable.
-  * De ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l’activité exercée par la structure qui l’utilise.
-    * Il est important de noter que les véhicules des clients, des employés, des fonctionnaires ou des membres d’une association ne sont, par définition, pas considérés comme liés à l’activité, puisqu’ils n’appartiennent pas à la structure.
+  * De carkill, qui consiste à écraser volontairement quelqu'un sans raison valable.
+  * De ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l'activité exercée par la structure qui l'utilise.
+    * Il est important de noter que les véhicules des clients, des employés, des fonctionnaires ou des membres d'une association ne sont, par définition, pas considérés comme liés à l'activité, puisqu'ils n'appartiennent pas à la structure.
 * Par temps de pluie/neige/brouillard, il convient de faire attention à sa manière de conduire, surtout avec des engins type motos ou des voitures sportives.
 * Le Numéro VIN du véhicule ce trouve en haut du tableau de bord coté conducteur (facilement visible par le pare-brise).
-* La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d’important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute) y compris les voies ferrées.
+* La conduite en off-road sur un terrain difficile et La conduite sur piste de montagne, avec d'important trous ou passage difficile nécessite un véhicule adapté (moto cross, quad, VTT, véhicule avec une garde au sol haute) y compris les voies ferrées.
 * La conduite sur piste en sable ou terre sans passage difficile, trous, et relativement plat ne nécessite pas de véhicule adapté.
-* Si le véhicule ne possède pas physiquement d’arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
+* Si le véhicule ne possède pas physiquement d'arceaux ou des équipements supplémentaires de sécurité, ils ne pourront pas êtres inventés.
 * Les véhicules de police doivent avoir une puissance équivalente à leur version civile, avec une tolérance de pourcentage définie par le groupe de validation des véhicules.
 
 ## Immobilier
@@ -133,7 +132,7 @@ Voir [ce document](life/rules/perpetuity.md).
 * Un personnage ou une entreprise ne peut pas vivre dans plus de deux logements avec intérieur, les autres biens possédés devront être mis en location ou mis à disposition.
 * Il est obligatoire de pouvoir retrouver les biens en location ou en vente avec intérieur dans le canal Discord “immo-dispo-rp”. Les propriétés sans intérieur sont exclu de ce système sauf si inclus dans un document externe au canal.
 * L'accord d'un économiste suffit pour approuver l'achat d'un bien PNJ.
-* L’usage d’un bien immobilier avec intérieur non duplicable se doit d’être justifié à la demande des économistes afin d’éviter tout blocage d’un bien dans lequel du rôle play pourrait se developper. Dans le cas ou l’usage n’est pas justifié (*vote interne des économistes après réception des éléments*), le bien doit être remis sur le marché de la vente ou de la location. Le joueur locataire ou propriétaire (*celui qui l’utilise*) ou gérant de l’entreprise (*dans le cas d’un bien occupé par une entreprise*) possède un droit de recours avec un vote communautaire.
+* L'usage d'un bien immobilier avec intérieur non duplicable se doit d'être justifié à la demande des économistes afin d'éviter tout blocage d'un bien dans lequel du rôle play pourrait se developper. Dans le cas ou l'usage n'est pas justifié (*vote interne des économistes après réception des éléments*), le bien doit être remis sur le marché de la vente ou de la location. Le joueur locataire ou propriétaire (*celui qui l'utilise*) ou gérant de l'entreprise (*dans le cas d'un bien occupé par une entreprise*) possède un droit de recours avec un vote communautaire.
 
 ## Entreprises
 
@@ -141,12 +140,12 @@ Voir [ce document](life/rules/perpetuity.md).
 
 ## Hospitalisation
 
-* Voici les temps d’hospitalisation sur le Life. (hôpitaux & hôpitaux dark)
-  * Valable uniquement si il y a du personnel soignant à l’hôpital.
-  * Les soins et temps d’hospitalisations ne sont pas cummulable sauf demande du joueur.
-  * Le temps d’hospitalisation est facultatif.
+* Voici les temps d'hospitalisation sur le Life. (hôpitaux & hôpitaux dark)
+  * Valable uniquement si il y a du personnel soignant à l'hôpital.
+  * Les soins et temps d'hospitalisations ne sont pas cummulable sauf demande du joueur.
+  * Le temps d'hospitalisation est facultatif.
 
-| Raison de la consultation                 | Temps des soins | Temps d’hospitalisation |
+| Raison de la consultation                 | Temps des soins | Temps d'hospitalisation |
 |-------------------------------------------|-----------------|-------------------------|
 | Balles dans zone vitale                   | 15 minutes      | 15 minutes              |
 | Balles dans zone non vitale               | 10 minutes      | 5 minutes               |
@@ -165,17 +164,17 @@ Voir [ce document](life/rules/perpetuity.md).
 
 ## Cayo Perico
 
-* L’île possède un lore bien défini. Vous pouvez le consulter [ici](life/guides/lore/cayoperico.md).
-* Il est interdit d’acheter une propriété sur l’île.
+* L'île possède un lore bien défini. Vous pouvez le consulter [ici](life/guides/lore/cayoperico.md).
+* Il est interdit d'acheter une propriété sur l'île.
 * La location immobilière pour une durée de + de 24H est interdite.
 * Aucun véhicules personnels ne sont admis.
 
 ## Justice
 * Il est interdit de recourir simultanément à plusieurs avocats de cabinets différents dans une même affaire.
-Une exception est toutefois admise si l’ensemble des avocats exercent au sein du même cabinet.
+Une exception est toutefois admise si l'ensemble des avocats exercent au sein du même cabinet.
 * Les joueurs ayant deux personnages et jouant à la fois un policier et un juge ne peuvent pas traiter eux-mêmes les demandes de mandats émanant de leur service de police, sauf en cas de nécessité urgente et avec l'autorisation préalable du groupe justice, qui peut refuser et attribuer la tâche à un autre juge.
 * Tout document rédigé en dehors d'un cadre RP n'est pas invocable dans une procédure judiciaire, pénale comme civile, sauf sur dérogation spéciale du groupe justice (en cas d'indisponibilité disproportionnée des joueurs du domaine en question, et si le document n'est pas rédigé par le joueur qui le demande, mais par une personne neutre).
-* Il est possible d’incarner un personnage exclusivement dédié aux fonctions judiciaires (juge ou procureur).
+* Il est possible d'incarner un personnage exclusivement dédié aux fonctions judiciaires (juge ou procureur).
   * Ce personnage peut être joué en plus des autres.
   * Tout membre est éligible, sous réserve de validation par le groupe Justice.
   * Le groupe Justice peut ajouter ou supprimer ce personnage si nécessaire.
@@ -184,24 +183,21 @@ Une exception est toutefois admise si l’ensemble des avocats exercent au sein 
   * Il ne peut avoir aucune vie sociale ou activité en dehors de son cadre judiciaire. Il est uniquement présent pour traiter les affaires de justice (pas de loisirs, sorties informelles ou implications personnelles en dehors de la sphère judiciaire).
   * Toute interaction sociale en dehors des audiences, plaidoiries, rédactions de jugements et procédures judiciaires est interdite.
   * Le personnage ne peut être affilié à un groupe ou une faction susceptible de compromettre son impartialité, ni entretenir des relations personnelles influençant ses décisions.
-  * Un juge ou procureur incarnant ce personnage doit être physiquement présent en salle d’audience.
+  * Un juge ou procureur incarnant ce personnage doit être physiquement présent en salle d'audience.
 
 ## Autre
 
-* Pour toute modification sur le serveur Life qui a des conséquences sur tous les joueurs, il est obligatoire de faire voter cette modification par la communauté sauf exception propre à un groupe, et d’inscrire le changement dans le canal #change_log.
-* Interdit de modifier des questions une fois la réponse donnée (sinon vice procédure) dans le Labo Police et interdit de mentir dans les réponses L’usage de toutes vidéos, stream peu importe son origine et qui permettrait de répondre de manière précise, véritable est autorisée.
-* Les services de secours ont l’obligation de transmettre également sur les scanner presse sur TeamSpeak. Exception pour les canaux sécurisés.
-* L’utilisation des notifications en jeux est interdit dans les conditions suivantes:
+* Pour toute modification sur le serveur Life qui a des conséquences sur tous les joueurs, il est obligatoire de faire voter cette modification par la communauté sauf exception propre à un groupe, et d'inscrire le changement dans le canal #change_log.
+* Interdit de modifier des questions une fois la réponse donnée (sinon vice procédure) dans le Labo Police et interdit de mentir dans les réponses L'usage de toutes vidéos, stream peu importe son origine et qui permettrait de répondre de manière précise, véritable est autorisée.
+* L'utilisation des notifications en jeux est interdit dans les conditions suivantes:
   * Message publicitaire ou propagande sauf presse.
-  * Message de disponibilité d’une entreprise, d’un service, sauf presse (privilégier l’utilisation du marketplace).
-* L’utilisation des notifications en jeux est autorisé dans les conditions suivantes:
+  * Message de disponibilité d'une entreprise, d'un service, sauf presse (privilégier l'utilisation du marketplace).
+* L'utilisation des notifications en jeux est autorisé dans les conditions suivantes:
   * Message de prévention (alerte trafic, sensibilisation, …).
-  * Annonce d’évènement (audience, course, soirée publique, …).
-* Il est strictement interdit d’acheter un véhicule destiné à une entreprise si vous n’en faites pas partie ou si le dirigeant n’a pas expressément donné son accord. De la même manière, vous ne pouvez pas acquérir un véhicule réservé aux services publics (police, médecins, pompiers, etc.) sans appartenir à ce service ou sans l’autorisation du chef de service.
-  * Concernant les coverings, qu’ils soient utilisés par une société, un service public ou un particulier, certaines textures peuvent être estampillées « exclu ». Dans ce cas, toute modification ou acquisition de ce covering « exclu » doit faire l’objet d’une demande préalable auprès de son créateur (demandez sur le Discord DEV si vous ne savez pas de qui il s’agit).
+  * Annonce d'évènement (audience, course, soirée publique, …).
+* Il est strictement interdit d'acheter un véhicule destiné à une entreprise si vous n'en faites pas partie ou si le dirigeant n'a pas expressément donné son accord. De la même manière, vous ne pouvez pas acquérir un véhicule réservé aux services publics (police, médecins, pompiers, etc.) sans appartenir à ce service ou sans l'autorisation du chef de service.
+  * Concernant les coverings, qu'ils soient utilisés par une société, un service public ou un particulier, certaines textures peuvent être estampillées « exclu ». Dans ce cas, toute modification ou acquisition de ce covering « exclu » doit faire l'objet d'une demande préalable auprès de son créateur (demandez sur le Discord DEV si vous ne savez pas de qui il s'agit).
 * La communauté n'a pas le pouvoir de modifier tout document RP (tout document pouvant être cité en RP). Seul(s) le(s) groupe(s) concerné(s) peut/peuvent y apporter des modifications. Le(s) groupe(s) concerné(s) conserve le droit de solliciter l'avis de la communauté pour une modification importante.
 * Une ancienneté de 1 mois est nécessaire dans la communauté pour être sénateur.
 
 > Le règlement de la communauté pour et par la communauté.
-
-
