@@ -384,7 +384,6 @@
       Gestionnaire VPS
       <ul>
           <li>Hébergement du site</li>
-          <li>Hébergement du TS (accès automatique à la gestion du TS)</li>
         </ul>
       </td>
       <td style="text-align: center;">1</td>
