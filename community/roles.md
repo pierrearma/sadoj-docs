@@ -138,21 +138,6 @@
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
-      <td style="text-align: center;">Gestion Teamspeak</td>
-      <td>
-        Gestion du TS :
-        <ul>
-          <li>Attribution des rôles TS</li>
-          <li>Gestion des rôles TS</li>
-          <li>Gestion et création des channels TS</li>
-        </ul>
-      </td>
-      <td style="text-align: center;">5</td>
-      <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Jordan, MattZepol, Guillaume, Thomas</td>
-      <td style="text-align: center;">Vote des membres de la commu</td>
-    </tr>
-    <tr>
       <td style="text-align: center;">Gestion du site</td>
       <td>
         Gestion du site internet :
