@@ -221,7 +221,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">??</td>
-      <td style="text-align: center;">Florian, Kuro, Esteban, Dylan51, UrtomT, Mentalomane, CharlieS</td>
+      <td style="text-align: center;">Spen, Kuro, Esteban, Dylan51, UrtomT, Mentalomane, CharlieS</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -236,7 +236,7 @@
       </td>
       <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Lorrandmaps</td>
-      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Thibault_59, Valdum<br><br>Référents RP/HRP :<br>Mac</li>
+      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Yoshi, Valdum<br><br>Référents RP/HRP :<br>Mac</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
