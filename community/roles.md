@@ -40,10 +40,10 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Dylan51, Valdum, Izukyo, Spen82, XanderTV</td>
-      <td style="text-align: center;">Vote des membres de la commu</td>
+      <td style="text-align: center;">Pierre, Dylan51, Valdum, Izukyo, Spen82, XanderTV, Roni</td>
+      <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <tr>
       <td style="text-align: center;">Economistes</td>
@@ -208,7 +208,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Noé</td>
-      <td style="text-align: center;">Noé, Magic, Spen, Salvator Mauro, VeLon, Raatchet, Verdox</td>
+      <td style="text-align: center;">Noé, Magic, Salvator Mauro, VeLon, Raatchet, Lorrandmaps, Thomas88</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Justice (Life)</td>
@@ -234,9 +234,9 @@
           <li>Encadrer les référents dark (gestion blackmarket, vente immobilière dark, vente d’informations, etc .. via leur personnage fictif)</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Lorrandmaps</td>
-      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Yoshi, Valdum<br><br>Référents RP/HRP :<br>Mac</li>
+      <td style="text-align: center;">Police :<br>Guillaume, Pierre19, Mentalomane<br><br>Dark : <br>Lorrandmaps, Yoshi, Valdum, Mac<br><br>Référents RP/HRP :<br>Mac, Yoshi</li>
       </td>
       <td style="text-align: center;">Vote des membres de la commu <br><br> Doit être composé à moitié/moité de joueurs dark et police<br><br><strong>3 mois d'ancienneté dans la communauté</strong>
       </td>
