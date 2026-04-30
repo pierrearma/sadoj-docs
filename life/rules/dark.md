@@ -135,12 +135,20 @@ Si un gang ou une organisation ne fait plus vivre sa Dark Zone, elle prend le ri
     3.  Une stratégie réaliste pour sauver les otages est établie.
 
 ### 4.2. Effectifs de Police requis (menu radial)
-Certaines actions nécessitent un nombre minimum de policiers en service (indicatif via menu radial) :
-* **6 Policiers :** Braquer une banque.
-* **4 Policiers :** Grosse action (enlèvement, prise d'otage).
-* **3 Policiers :** Forcer une ouverture/piratage (portes, coffres).
-* **2 Policiers :** Voler/Vendre une voiture et son contenu, Arracher une balise.
-* **1 Policier :** Braquer une caisse (commerce PNJ), Vente de drogue PNJ.
+
+Certaines actions nécessitent un nombre minimum de policiers en service, indiqué via le menu radial :
+- 6 policiers : braquer une banque.
+- 4 policiers : grosse action criminelle, notamment enlèvement ou prise d’otage.
+- 3 policiers : forcer une ouverture ou effectuer un piratage, notamment portes ou coffres.
+- 2 policiers : voler ou vendre une voiture et son contenu ; arracher une balise.
+- 1 policier : braquer une caisse, commerce PNJ ; vendre de la drogue à un PNJ.
+
+Exception : actions entre acteurs dark :
+Les actions opposant exclusivement des groupes ou individus issus du milieu criminel peuvent être réalisées sans tenir compte des effectifs minimums de police, à condition qu’elles se déroulent dans des lieux discrets, isolés ou situés en dark zone.
+
+Le caractère discret s’apprécie notamment au regard du lieu choisi, de l’impact visuel et sonore de l’action, ainsi que de l’absence d’implication directe de civils, de commerces PNJ/ joueurs, d’institutions publiques ou de tiers non concernés.
+Sont exclus de cette exception : 
+- Les meurtres 
 
 ### 4.3. Courses-poursuites
 La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart"). Le Groupe Dark surveille les comportements (PIT brutal, terrains inadaptés) et sanctionnera les abus visant à écourter les scènes de manière non-RP.
