@@ -72,8 +72,11 @@ La réunion permet d'échanger, d'avoir des réflexions tous ensemble en vocal, 
   * Demande de second personnage
   * Demande de retour dans la communauté
   * Suppression du droit de stream
+* Tout vote (à choix multiple, binaire ou non) voit son résultat retenu uniquement s'il récolte la majorité absolue des votes exprimés. Les "Ne se prononce pas" ne comptent pas comme des votes exprimés.
+  * Sont exclus les votes de la durée des sanctions temporaires où une règle spécifique s'applique.
 * Le vote est un choix et une décision personnelle. Il ne peut et ne doit pas être remis en question par qui que se soit. Chaque avis, chaque prise de position se doit d'être respecté dans un scrutin. Toute critique ou remise en question du choix d'un membre lors d'un scrutin est et sera considérée comme un comportement anti communautaire, antidémocratique et portant préjudice au fonctionnement fondamental de la communauté.
 * A une même réunion, il ne peut avoir plusieurs votes sanctions d'un même type de sanction d'un même membre. S'il y a plusieurs demandes du même type de sanction envers un membre, chaque sujet doit être discuté séparément mais la communauté décide de la sanction des multiples sujets sur un seul et même vote par type de sanction.
+* Pour toute élection de membres où plusieurs places sont disponibles, l'option "Aucun de la liste" doit apparaître dans le vote. Tout candidat recevant un nombre de voix égal ou inférieur à celui de l'option "Aucun de la liste" ne peut être retenu.
 * Les groupes de la communauté doivent faire un compte-rendu hebdomadaire.
 
 ## Discord
