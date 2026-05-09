@@ -13,13 +13,14 @@
 Le "Dark" qualifie l'organisation d'actes illégaux visant ou non à en tirer un bénéfice. Sont considérées comme des activités Dark (liste non exhaustive) :
 * Vol de véhicule (revente ou usage personnel),
 * Vol et trafic de carburant,
-* Vol dans les coffres et recel de biens volés.
+* Vol dans les coffres et recel de biens volés,
+* Commettre des incendies,
 * Meurtre, tentative de meurtre,
-* Commandite d'actes illégaux.
-* Braquages et vente de drogue.
-* Actes de terreur (actions punitives ou intimidation).
-* Usage d'armes à feu hors légitime défense (sur joueurs ou PNJ).
-* Possession d'armes illégales (sans numéro de série).
+* Commandite d'actes illégaux,
+* Braquages et vente de drogue,
+* Actes de terreur (actions punitives ou intimidation),
+* Usage d'armes à feu hors légitime défense (sur joueurs ou PNJ),
+* Possession d'armes illégales (sans numéro de série),
 * Provocations volontaires et régulières envers des organisations ou gangs.
 
 > [!ATTENTION] Si vous réaliser une des actions ci-dessus alors vous serez considéré comme joueur Dark.
