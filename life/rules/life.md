@@ -35,7 +35,6 @@
   * Toute réaction HRP destinée à influencer, punir ou contraindre un joueur en raison d'un comportement RP. Les conflits, tensions ou décisions créées en jeu et liées aux personnages doivent rester strictement en RP.
 * Sont obligatoires
   * De porter une Bodycam lors d'une action pour qu'elle soit considérée comme présente (et être utilisée).
-    * Exception technique : Non obligatoire pour les tenues SWAT qui nécessite une cagoule.
   * De faire valider son background à chaque changement de personnage, second personnage et pour les nouveaux arrivants via le serveur Discord "Formation SADoJ".
 * Il arrive que certains masques ou des casques s'enlèvent sans que les porteurs le veuillent, il est donc demandé aux joueurs d'oublier le visage qu'ils auraient pu voir/ découvrir le temps que la personne remettre son casque/ masque. L'utilisation de ce bug est interdite, car considéré comme **H**ors-**R**ôle-**P**lay.
 * Un personnage ne peut pas être reconnu par sa voix ou son accent ou si son visage est dissimulé : Exemples : foulard, cagoule, casque, barbe épaisse et la combinaison lunettes et chapeau, casquette, bonnet, casque. Une casquette seule et une paire de lunettes seule ne suffisent pas. De même, la féminité et la masculinité du corps ou de la voix peuvent être supposées (à tort ou à raison, et toujours sans permettre d'identifier UNE personne en particulier).
