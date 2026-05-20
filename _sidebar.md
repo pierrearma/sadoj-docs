@@ -10,7 +10,7 @@
   * Règlements
     * [Règlement serveur Life US](life/rules/life.md "Règlement serveur Life US")
     * [Règlement dark](life/rules/dark.md "Règlement dark")
-    * [Perpétuité justice (mort RP justice)](life/rules/perpetuity.md "Perpétuité justice (mort RP justice)")
+    * [Règlement justice](life/rules/justice.md "Règlement justice")
     * [Rôle-play médical](life/rules/medical.md "Rôle-play médical")
     * [Termes RolePlay](life/rules/terms.md "Termes RolePlay")
     * [L'économie du serveur life](life/rules/economy.md "L'économie du serveur life")

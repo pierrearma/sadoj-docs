@@ -1,11 +1,11 @@
-# Règlement Général des Activités Criminelles (Dark)
-
-> [!NOTE] **Préambule**
-> Ce règlement vise à prévenir les conflits et à garantir le respect de l'esprit du serveur. Si l'erreur est humaine, la récidive et l'incapacité à apprendre de ses fautes ne sont pas tolérées. Le vote de sanction demeure une procédure exceptionnelle.
->
-> [!Tip] Pour toute interrogation relative au domaine "Dark", veuillez vous adresser au **Référent Dark**.
+# Règlement dark
 
 ---
+
+> [!NOTE]
+> Ce règlement vise à prévenir les conflits et à garantir le respect de l'esprit du serveur. Si l'erreur est humaine, la récidive et l'incapacité à apprendre de ses fautes ne sont pas tolérées. Le vote de sanction demeure une procédure exceptionnelle.
+
+> [!Tip] Pour toute interrogation relative au domaine "Dark", veuillez vous adresser au **Référent Dark**.
 
 ## 1. Définitions et champ d'application
 
@@ -72,10 +72,10 @@ Les Dark Zones sont des zones officiellement reconnues comme Quartiers Générau
 * **Attribution et Revendication :** Toute organisation (lore ou hors lore) peut demander à revendiquer un lieu comme Dark Zone.
 
 La demande doit être validée par le Groupe Dark, qui vérifiera :
-   * *La cohérence RP et l’implantation de l’organisation ;* 
+   * *La cohérence RP et l’implantation de l’organisation ;*
    * *La capacité à défendre et faire vivre le lieu ;*
    * *L’absence de conflit majeur avec une zone déjà attribuée.*
-   
+
 Les zones déjà attribuées par le lore officiel de GTA (ex. : Groove Street pour les Ballas, Forum pour les Families, etc.) ne peuvent pas être revendiquées par un autre gang ou organisation.
 
 * **Gestion et Conflits :** Les organisations peuvent défendre leur Dark Zone par tous moyens RP.
@@ -83,12 +83,12 @@ Les zones déjà attribuées par le lore officiel de GTA (ex. : Groove Street po
 Les conflits entre organisations concernant des Dark Zones sont réglés par :
    * *Négociation RP ;*
    * *Guerre territoriale validée par le Groupe Dark ;*
-   
+
 Si un gang ou une organisation ne fait plus vivre sa Dark Zone, elle prend le risque qu’un autre gang ou organisation cohérente avec la zone puisse en revendiquer le contrôle. Cette revendication ne peut se faire qu’avec validation du Groupe Dark, afin de garantir un enchaînement RP crédible et équilibré.
 
 * **Processus Visuel :** Demande de Zone → Validation Groupe Dark → Attribution Officielle → Carte Publique → Gestion / Défense / Conflits
 
-> [!WARNING] 
+> [!WARNING]
 > * *Police :* Intervention autorisée uniquement en cas de flagrant délit, de course-poursuite active ou sur décision de justice.
 > * *Civils :* Tout comportement irresponsable d'un civil en Dark-Zone est à ses risques et périls (éligibilité à la Mort RP Dark possible sur demande).
 
@@ -148,8 +148,8 @@ Exception : actions entre acteurs dark :
 Les actions opposant exclusivement des groupes ou individus issus du milieu criminel peuvent être réalisées sans tenir compte des effectifs minimums de police, à condition qu’elles se déroulent dans des lieux discrets, isolés ou situés en dark zone.
 
 Le caractère discret s’apprécie notamment au regard du lieu choisi, de l’impact visuel et sonore de l’action, ainsi que de l’absence d’implication directe de civils, de commerces PNJ/ joueurs, d’institutions publiques ou de tiers non concernés.
-Sont exclus de cette exception : 
-- Les meurtres 
+Sont exclus de cette exception :
+- Les meurtres
 
 ### 4.3. Courses-poursuites
 La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart"). Le Groupe Dark surveille les comportements (PIT brutal, terrains inadaptés) et sanctionnera les abus visant à écourter les scènes de manière non-RP.
