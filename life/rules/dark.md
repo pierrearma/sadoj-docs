@@ -286,7 +286,7 @@ Fonctionnement similaire au légal avec spécificités :
 
 ## 10. Prison / Pénitencier 
 
-Le Pénitencier de BollingBrock est sous la gestion du LSSD, il vous sera demandé de remplir un formulaire accessible [ici](https://docs.google.com/spreadsheets/d/1vwckt9ia4D3DNWTn7qQvp-3JJY0SDkmNAFWJppy85xI/edit?gid=0#gid=0) afin d'y inscrire votre passage au moment de votre entrée, ainsi que votre sortie. 
+Le Pénitencier de BollingBrock est sous la gestion du LSSD, il vous sera demandé de remplir un formulaire fourni par un agent afin d'y inscrire votre passage au moment de votre entrée, ainsi que votre sortie. 
 Les portes sont ouvertes. Cela ne fait pas du Pénitencier une Zone de Non-Droit. Vous êtes dans l'obligation de vous plier aux règles qui vous seront communiquées lors de votre admission par les agents accompagnants. 
 
 > **Rédigé par le groupe dark pour la communauté.**
