@@ -283,6 +283,12 @@ Fonctionnement similaire au légal avec spécificités :
 * **Médecins Dark (Joueurs) :** À privilégier lors d'inconscience.
 * **Hôpitaux Dark :** Prise en charge discrète possible. Les temps d'hospitalisation doivent être respectés.
 
+---
+
+## 10. Prison / Pénitencier 
+
+Le Pénitencier de BollingBrock est sous la gestion du LSSD, il vous sera demandé de remplir un formulaire fourni par un agent afin d'y inscrire votre passage au moment de votre entrée, ainsi que votre sortie. 
+Les portes sont ouvertes. Cela ne fait pas du Pénitencier une Zone de Non-Droit. Vous êtes dans l'obligation de vous plier aux règles qui vous seront communiquées lors de votre admission par les agents accompagnants. 
 
 > **Rédigé par le groupe dark pour la communauté.**
 >
