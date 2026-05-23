@@ -1,10 +1,10 @@
-# Code de Procédure Pénal de San Andreas
+# Code de procédure pénale de San Andreas
 
 ---
 
 <!-- tabs:start -->
 
-#### **Code de Procédure Pénal**
+#### **Code de procédure pénale**
 
 <iframe style="height: 95vh;" src="https://docs.google.com/document/d/e/2PACX-1vR_gGhlTBgllBLxDpW136lR8m6vz1xPjFMxj2YsB9fBUBQZwJG6n3EYXtnICFv3BxIJ65sSTCDVf6Fo/pub?embedded=true" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
