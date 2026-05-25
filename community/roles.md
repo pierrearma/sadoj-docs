@@ -306,7 +306,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Eliott, Remigdv, Spen84, Valdum, Yoshi, Mr_LeBreton, Snake</td>
+      <td style="text-align: center;">Eliott, Remigdv, Spen82, Valdum, Yoshi, Mr_LeBreton, Snake</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
