@@ -221,7 +221,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">??</td>
-      <td style="text-align: center;">Spen, Kuro, thomaslah, Dylan51, UrtomT, Mentalomane, CharlieS</td>
+      <td style="text-align: center;">Spen, Kuro, thomaslah, Odin.AsG, UrtomT, Mentalomane, CharlieS</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -250,8 +250,8 @@
         </ul>
       </td>
       <td style="text-align: center;">3</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSPDS <br> besajo BCSO</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSPDS <br> besajo BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSCPD <br> besajo BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSCPD <br> besajo BCSO</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Pompier (Life)</td>
