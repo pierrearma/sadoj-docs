@@ -250,8 +250,8 @@
         </ul>
       </td>
       <td style="text-align: center;">3</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSCPD <br> besajo BCSO</td>
-      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSCPD <br> besajo BCSO</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSCPD</td>
+      <td style="text-align: center;">Guillaume SAHP <br> Titouan LSCPD</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Pompier (Life)</td>
@@ -262,8 +262,8 @@
         </ul>
       </td>
       <td style="text-align: center;">1</td>
-      <td style="text-align: center;">Clem0233 (SanFire)</td>
-      <td style="text-align: center;">Clem0233 (SanFire)</td>
+      <td style="text-align: center;">Odin (SanFire)</td>
+      <td style="text-align: center;">Odin (SanFire)</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Medical (Life)</td>
@@ -273,8 +273,8 @@
         </ul>
       </td>
       <td style="text-align: center;">1</td>
-      <td style="text-align: center;">Wolfgardia</td>
-      <td style="text-align: center;">Wolfgardia</td>
+      <td style="text-align: center;">??</td>
+      <td style="text-align: center;">??</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Militaire (Life)</td>
