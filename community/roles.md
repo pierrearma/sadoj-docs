@@ -304,9 +304,9 @@
           <li>Il est conseiller de passer par eux en cas de conflit</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Eliott, Remigdv, Spen82, Valdum, Yoshi, Mr_LeBreton, Snake</td>
+      <td style="text-align: center;">Eliott, Valdum, Secours911, Spen82, Yoshi, Emmanuel</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
