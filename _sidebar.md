@@ -17,7 +17,7 @@
     * [Le sénat (règles)](life/rules/senate_rules.md "Le sénat (règles)")
   * Role-play
     * [Constitution de San Andreas](life/rp/constitutionsa.md "Constitution de San Andreas")
-    * [Amendements et Droit commun](life/rp/constitution.md "Amendements et Droit commun")
+    * [Recueil de jurisprudence](life/rp/caselaw.md "Recueil de jurisprudence")
     * [Code Électoral](life/rp/electoral_code.md "Code Électoral")
     * [Sénat (loi organique)](life/rp/senate.md "Sénat (loi organique)")
     * [Code pénal](life/rp/penal_code.md "Code pénal")
