@@ -22,7 +22,7 @@
   * D'utiliser des informations vues sur un stream/hors de l'immersion roleplay, même en utilisant le terme “J'ai regardé ta GoPro”.
   * De regarder une vidéo en direct (live) d'un joueur étant en jeu (streamstalk).
   * D'écouter une conversation si vous n'en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
-  * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance **sauf en visualisation direct.**
+  * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance **sauf en visualisation directe.**
   * De se déconnecter ou quitter le jeu afin d'éviter une interaction.
   * D'utiliser un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l'utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….).
   * De spammer les centrales d'appels. Il faut attendre quelques minutes avant de rappeler.
