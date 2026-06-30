@@ -22,7 +22,7 @@
   * D'utiliser des informations vues sur un stream/hors de l'immersion roleplay, même en utilisant le terme “J'ai regardé ta GoPro”.
   * De regarder une vidéo en direct (live) d'un joueur étant en jeu (streamstalk).
   * D'écouter une conversation si vous n'en avez pas la capacité (à distance, pas dans la même pièce/même étage (sauf à travers une porte)).
-  * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance.
+  * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance **sauf en visualisation direct.**
   * De se déconnecter ou quitter le jeu afin d'éviter une interaction.
   * D'utiliser un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l'utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….).
   * De spammer les centrales d'appels. Il faut attendre quelques minutes avant de rappeler.
@@ -110,6 +110,11 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
     * Il est interdit d'avoir un personnage sénateur et un autre gouverneur ou lieutenant-gouverneur.
     * Il est interdit d'avoir un personnage dans une organisation et un autre dans la police (tous services confondus sauf SASAA).
     * Note: Il est autorisé d'avoir un personnage dans le domaine du dark (sans être dans une organisation) et un autre dans la police cependant le second ne peut faire des investigations & enquêtes.
+
+### Blocage temporaire d'un emplacement de personnage
+* Lorsqu'un personnage fait l'objet d'une procédure judiciaire, d'une enquête, d'un mandat, d'une plainte ou de toute autre scène RP majeure nécessitant sa participation active, la communauté peut décider, par vote, de suspendre temporairement l'accès à un ou plusieurs autres personnages du joueur concerné.
+    * La suspension est levée dès lors que les procédures ou scènes concernées sont raisonnablement terminées, closes ou qu'un nouveau vote de la communauté en décide autrement.
+
 
 ## Déplacements / Véhicules
 
