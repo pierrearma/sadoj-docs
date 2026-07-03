@@ -8,6 +8,7 @@
 * Les joueurs ayant deux personnages et jouant à la fois un policier et un juge ne peuvent pas traiter eux-mêmes les demandes de mandats émanant de leur service de police, sauf en cas de nécessité urgente et avec l'autorisation préalable du groupe justice, qui peut refuser et attribuer la tâche à un autre juge.
 * Tout document rédigé en dehors d'un cadre RP n'est pas invocable dans une procédure judiciaire, pénale comme civile, sauf sur dérogation spéciale du groupe justice (en cas d'indisponibilité disproportionnée des joueurs du domaine en question, et si le document n'est pas rédigé par le joueur qui le demande, mais par une personne neutre).
 * La détention provisoire est limitée à 7 jours consécutifs.
+* Afin de prévenir toute fuite de scène, en cas d'hospitalisation d'un individu sous le coup d'une procédure judiciaire, le séjour médical suspensif est limité à 7 jours consécutifs. Passé ce délai, le groupe Justice est en droit de statuer sur son état et de délivrer d'office une attestation médicale permettant la reprise immédiate de la procédure (interrogatoire, jugement ou incarcération).
 * Il est possible d'incarner un personnage exclusivement dédié aux fonctions judiciaires (juge ou procureur).
   * Ce personnage peut être joué en plus des autres.
   * Tout membre est éligible, sous réserve de validation par le groupe Justice.
