@@ -247,6 +247,11 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 * L'installation d'un banc de puissance coute **25 000$ par unité**, la somme est à reverser au compte PNJ.
 * L'installation de bancs est réservée uniquement aux garages mécaniques, aux entreprises de préparation automobile et aux clubs ou associations liés aux véhicules.
 
+### Prix des machines à clé
+
+* L'installation d'une machine à clé dans les garages coute **15000 $ par unité**, la somme est à reverser au compte PNJ.
+
+
 ### Prix du retrait volontaire de tatouage
 
 * Le retrait de un ou plusieurs tatouages est facturé 2000 dollars par tatouage (voté en 2020).
