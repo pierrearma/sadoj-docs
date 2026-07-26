@@ -178,6 +178,21 @@ Les personnes concernées par la procédure sont prévenues une semaine avant le
 
 Elles peuvent demander un retour à tout moment par un simple vote, **ce n'est pas une sanction**.
 
+## Rôle "Vacancier"
+
+Le rôle Vacancier permet à un membre de suspendre temporairement sa participation à la communauté sans la quitter définitivement.
+
+Il peut être attribué :
+* À la demande du membre souhaitant s'absenter temporairement de la communauté.
+* Lorsqu'un membre fait l'objet d'un bannissement communautaire temporaire.
+
+L'attribution du rôle Vacancier entraîne automatiquement :
+* La suppression de l'ensemble des rôles communautaires.
+* La perte des accès Discord associés à ces rôles.
+* La suspension de toute responsabilité, fonction ou autorisation particulière au sein de la communauté pendant toute la durée du statut.
+
+À la levée du statut Vacancier, le membre pourra réintégrer les différents rôles au sein de la communauté selon les modalités normales prévues.
+
 > Le règlement de la communauté pour et par la communauté.
 
 
