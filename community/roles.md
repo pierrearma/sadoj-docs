@@ -348,9 +348,9 @@
         </li>
       </ul>
     </td>
-      <td style="text-align: center;">5 (7 voulu)</td>
+      <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Doryann, Thracios, Guillaume, lhomme1515, Titouan</td>
+      <td style="text-align: center;">Doryann, Guillaume, lhomme1515, Titouan</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
