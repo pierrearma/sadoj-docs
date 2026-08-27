@@ -182,6 +182,27 @@ Les prix des véhicules sont calculés sur la base des prix des prix réels. Voi
 
 Le prix des custom des véhicules est calculé selon le prix d'achat neuf du véhicule.
 
+## Points de customs légaux
+Les points de custom sont désormais réservés :
+
+* aux garages disposant de la compétence de customisation ;
+* aux sociétés de sécurité privée habilitées, uniquement pour les véhicules blindés.
+
+Les points situés ailleurs seront supprimés rétroactivement, à l’exception des points bateaux, avions et dark.
+
+Dans les concessions et établissements assimilés, les points de custom permettront uniquement de générer des récapitulatifs.
+
+L’objectif est de limiter le custom sauvage et de favoriser les interactions avec les professionnels, les transports de véhicules et les déplacements. Le client reste libre de choisir son prestataire.
+
+## Tarification des coverings de véhicules
+
+Afin de rémunérer le travail de création d’un covering en fonction de sa complexité réelle, et non de la valeur du véhicule sur lequel il est appliqué, la tarification des créations de coverings est fixée selon le barème suivant (hors pose via le script) :
+* Basique : 3 000 $ maximum
+* Intermédiaire : 6 000 $ maximum
+* Complexe : 12 000 $ maximum
+* Prix libre : possibilité de fixer librement le tarif, sous réserve d’un accord préalable entre le prestataire et le client. 
+
+
 ### Prix des biens de consommations courants : alimentation, vêtement …
 
 Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
