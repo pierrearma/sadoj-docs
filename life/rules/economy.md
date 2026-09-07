@@ -272,11 +272,6 @@ Les prix PNJ sont fixés à **20% plus chers minimum** et adaptés selon les bie
 
 * L'installation d'une machine à clé dans les garages coute **15000 $ par unité**, la somme est à reverser au compte PNJ.
 
-
-### Prix du retrait volontaire de tatouage
-
-* Le retrait de un ou plusieurs tatouages est facturé 2000 dollars par tatouage (voté en 2020).
-
 ### Prix des kits de réparation, de nettoyage
 
 - Kit de réparation : prix de vente minimum 5000$.
