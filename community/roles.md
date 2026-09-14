@@ -45,22 +45,52 @@
       <td style="text-align: center;">Pierre, Dylan51, Valdum, Izukyo, Spen82, XanderTV, Roni</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
-    <tr>
-      <td style="text-align: center;">Economistes</td>
-      <td>
-        Gestion de l'économie du serveur life :
-        <ul>
-          <li>Fixe et aide à fixer les prix</li>
-          <li>Fixe le salaire minimum</li>
-          <li>Fixe les coefs et leur évolution</li>
-          <li>Fixe le prix des créations entreprises</li>
-        </ul>
-      </td>
-      <td style="text-align: center;">5</td>
-      <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Theo, Remy, lhomme1515, wrc<br><br>Conseillers : Clem0233, Kevinbdx, Cobraz</td>
-      <td style="text-align: center;">Vote des membres du rôle <br><br><strong> 3 mois d'ancienneté dans la communauté</td>
-    </tr>
+   <tr>
+  <td style="text-align: center;">Économistes</td>
+  <td>
+    Gestion, régulation et suivi de l'économie du serveur Life dans l'intérêt général :
+    <br><br>
+    <strong>Économie générale</strong>
+    <ul>
+      <li>Fixent et participent à la fixation des prix des biens et services</li>
+      <li>Veillent à la cohérence et à l'équilibre général de l'économie du serveur</li>
+    </ul>
+    <strong>Réglementation économique</strong>
+    <ul>
+      <li>Élaborent et mettent à jour le règlement économique</li>
+      <li>Veillent à son application et à la cohérence des règles économiques</li>
+    </ul>
+    <strong>Entreprises et transactions</strong>
+    <ul>
+      <li>Fixent les coûts de création des entreprises et autres structures économiques</li>
+      <li>Étudient et valident les créations d'entreprises</li>
+      <li>Valident les transactions soumises à autorisation des économistes</li>
+    </ul>
+    <strong>Immobilier</strong>
+    <ul>
+      <li>Encadrent l'économie immobilière et participent à la détermination de la valeur des biens</li>
+      <li>Incarnent les notaires lors des opérations nécessitant leur intervention</li>
+      <li>Incarnent les propriétaires PNJ dans le cadre des opérations immobilières concernées</li>
+    </ul>
+  </td>
+
+  <td style="text-align: center;">5</td>
+
+  <td style="text-align: center;">Aucun</td>
+
+  <td style="text-align: center;">
+    Guillaume, Theo, lhomme1515, wrc
+    <br><br>
+    <strong>Conseillers :</strong><br>
+    Clem0233, Kevinbdx, Cobraz
+  </td>
+
+  <td style="text-align: center;">
+    Vote des membres du rôle
+    <br><br>
+    <strong>3 mois d'ancienneté dans la communauté</strong>
+  </td>
+</tr>
     <tr>
       <td style="text-align: center;">Paypal</td>
       <td>
