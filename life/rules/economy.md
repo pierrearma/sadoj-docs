@@ -29,6 +29,7 @@ De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le r
 
 * Les plafonds sont fixés par le Gouvernement.
 * L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder **10% de ce dernier.**
+* Les avocats sont assujettis à la taxe sur la consommation dans le cadre de leur activité professionnelle.
 
 ### Revenus des journalistes
 
@@ -717,28 +718,36 @@ Les frais correspondent vraiment aux dépenses de fonctionnement de l'entreprise
       <td>- Remplace le statut de micro-entreprise pour les entrepreneurs exerçant seuls.<br>- Certaines activités (journalisme, immobilier, sécurité) nécessitent une accréditation préalable.<br>- Chiffre d’affaires mensuel limité à 50 000 $.<br>- L’embauche de personnel est interdite.<br>- Exonération de l'impôt sur les sociétés et des charges patronales.<br>- Facturation bancaire professionnelle obligatoire.<br>- Coût d’ouverture : 30 000 $.<br>- Cessation d'activité : notification de 15 jours et règlement des dettes.<br>- Revente interdite, toute reprise nécessite la création d'une nouvelle entreprise.</td>
     </tr>
     <tr>
-      <td><strong>Partnership (Société de Personnes)</strong></td>
-      <td>
-        - Statut réservé aux entreprises fondées par un maximum de trois associés partageant responsabilités et bénéfices.<br>
-        - Les associés sont personnellement et solidairement responsables des dettes de l’entreprise.<br>
-        - Embauche de personnel sans restriction.<br>
-        - Aucune limitation de chiffre d'affaires.<br>
-        - La création d'actions et l'ouverture du capital à des tiers sont interdites.<br>
-        - Coût d’ouverture : 120 000 $.<br>
-        - Les fonds de l’entreprise sont la propriété exclusive des associés, partagés selon les accords internes.<br>
-        - Soumis à l’impôt entrepreneurial standard et aux charges patronales.<br>
-        - Cessation d'activité : approbation des associés et règlement des dettes.<br>
-        - Revente possible avec accord des associés ; un acte de cession est requis.<br><br>
-        <strong>Statut spécial : Racing Team (Société de sport mécanique)</strong><br>
-        - Réservé exclusivement aux entités dédiées aux sports mécaniques.<br>
-        - Soumis à l’ensemble des dispositions applicables aux Partnership.<br>
-        - Pour le calcul du capital social, la valeur des véhicules de l’entreprise est prise en compte à hauteur de <strong>100 %</strong>.
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Corporation (Société Anonyme)</strong></td>
-      <td>- Permet la création d’une entité distincte, gérée par un conseil d’administration.<br>- Le conseil d’administration est composé des actionnaires et du Chairman.<br>- Soumis à l’impôt entrepreneurial standard et aux charges patronales.<br>- Dividendes soumis à l’impôt.<br>- Dividendes distribuables limités à 100 000 $ par semaine.<br>- Coût d’ouverture : 240 000 $.<br>- Les fonds appartiennent exclusivement à l’entreprise.<br>- Cessation d'activité : décision du conseil d’administration et approbation des actionnaires. Les actifs de l’entreprise (trésorerie, équipements, stocks, immobilier, etc.) peuvent être saisis pour couvrir la dette.<br>- Revente : transfert d'actions validé par le conseil d’administration, inclut le passif de l’entreprise.</td>
-    </tr>
+     <td><strong>Partnership (Société de Personnes)</strong></td>
+<td>
+  - Statut réservé aux entreprises fondées par un maximum de trois associés partageant responsabilités et bénéfices.<br>
+  - Les associés sont personnellement et solidairement responsables des dettes de l’entreprise.<br>
+  - Embauche de personnel sans restriction.<br>
+  - Aucune limitation de chiffre d'affaires.<br>
+  - La création d'actions et l'ouverture du capital à des tiers sont interdites.<br>
+  - Coût d’ouverture : 120 000 $.<br>
+  - Les fonds de l’entreprise sont la propriété exclusive des associés, partagés selon les accords internes.<br>
+  - Soumis à l’impôt entrepreneurial standard et aux charges patronales.<br>
+  - Cessation d'activité : approbation des associés et règlement des dettes.<br>
+  - Revente possible avec accord des associés ; un acte de cession est requis.
+</td>
+</tr>
+<tr>
+  <td><strong>Corporation (Société Anonyme)</strong></td>
+  <td>
+    - Permet la création d’une entité distincte, gérée par un conseil d’administration.<br>
+    - Le capital de l’entreprise est réparti entre ses actionnaires.<br>
+    - Les actionnaires peuvent être des <strong>personnes physiques ou des personnes morales</strong>.<br>
+    - Le conseil d’administration est composé des actionnaires et du Chairman.<br>
+    - Soumis à l’impôt entrepreneurial standard et aux charges patronales.<br>
+    - Dividendes soumis à l’impôt.<br>
+    - Dividendes distribuables limités à 100 000 $ par semaine.<br>
+    - Coût d’ouverture : 240 000 $.<br>
+    - Les fonds appartiennent exclusivement à l’entreprise.<br>
+    - Cessation d'activité : décision du conseil d’administration et approbation des actionnaires. Les actifs de l’entreprise (trésorerie, équipements, stocks, immobilier, etc.) peuvent être saisis pour couvrir la dette.<br>
+    - Revente : transfert d'actions validé par le conseil d’administration, inclut le passif de l’entreprise.
+  </td>
+</tr>
     <tr>
       <td><strong>Independent Retailer (Commerçant Indépendant)</strong></td>
       <td>- Statut destiné à l’exercice d’une activité commerciale sans plafond de chiffre d’affaires.<br>- Un seul responsable (commerçant).<br>- Embauche de salariés autorisée sans limitation.<br>- Soumis à l’imposition entrepreneuriale standard et à une taxe de consommation.<br>- Coût d’ouverture : 10 000 $.<br>- Cessation d'activité : notification de 30 jours, règlement des dettes, et inventaire final obligatoire.<br>- Revente de l’ensemble des actifs, stocks, et matériels autorisés.</td>
@@ -746,9 +755,10 @@ Les frais correspondent vraiment aux dépenses de fonctionnement de l'entreprise
   </tbody>
 </table>
 
+* Des dispositions particulières peuvent être prévues pour certaines entreprises lorsque leur activité ou leur objet social le justifie. Ces dispositions dérogatoires sont alors expressément inscrites dans l’objet social de l’entreprise et ne s’appliquent qu’à celle-ci, ceci est validé par les économistes.
 
+*À titre d’exemple, une entreprise ayant pour activité principale l’exploitation d’une écurie de sport automobile peut prévoir que, pour le calcul de son capital social, la valeur des véhicules détenus par l’entreprise soit prise en compte à hauteur de 100 %.*
 
-Système d’aide pour les entreprises au cas par cas sans le système de coef.
 
 ### Création d’entreprise
 
@@ -855,19 +865,12 @@ L’acheteur ne  peut plus faire un crédit au nom de sa future entreprise et de
 
 Un associé, un commerçant ou un actionnaire peut injecter des capitaux de manière illimitée dans les sociétés où il possède des parts.
 
-**Exception — Racing Team :** lorsqu’une entreprise détient des parts dans une *Racing Team*, ses injections sont limitées à **100 000 $ par mois et par part détenue**.
-
-
 ### Les parts
 
 Les parts d’une entreprise ne peuvent pas être données, revente obligatoire à un particulier dans les mêmes conditions que la revente d’entreprise au prorata des parts.
 * Proportion de la valeur du capital *(de 80% à 130% décidé par le vendeur)*.
 * Il est interdit d'utiliser les fonds de l’entreprise.
 * Taxe sur la revente d’entreprise à payer par le vendeur 30% du prix de vente des parts.
-
-**Exception — Racing Team :** une *Racing Team* peut céder à une ou plusieurs entreprises **jusqu’à 50 % maximum de ses parts**.
-
-Les autres dispositions relatives à la vente, à la valorisation et à la déclaration des parts demeurent applicables.
 
 
 
