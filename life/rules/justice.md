@@ -9,6 +9,7 @@
 * Tout document rédigé en dehors d'un cadre RP n'est pas invocable dans une procédure judiciaire, pénale comme civile, sauf sur dérogation spéciale du groupe justice (en cas d'indisponibilité disproportionnée des joueurs du domaine en question, et si le document n'est pas rédigé par le joueur qui le demande, mais par une personne neutre).
 * La détention provisoire est limitée à 7 jours consécutifs.
 * Afin de prévenir toute fuite de scène, en cas d'hospitalisation d'un individu sous le coup d'une procédure judiciaire, le séjour médical suspensif est limité à 7 jours consécutifs. Passé ce délai, le groupe Justice est en droit de statuer sur son état et de délivrer d'office une attestation médicale permettant la reprise immédiate de la procédure (interrogatoire, jugement ou incarcération).
+* L'objectif premier étant de favoriser l'interaction et le roleplay, le traitement des requêtes doit se faire en priorité lors d'une audience en jeu. Un traitement écrit ou hors audience reste exceptionnel et limité aux cas particuliers : joueurs inactifs, simples mandats, manque de disponibilités des parties, ou dossiers dont les enjeux ne justifient pas de scène en jeu.
 * Il est possible d'incarner un personnage exclusivement dédié aux fonctions judiciaires (juge ou procureur).
   * Ce personnage peut être joué en plus des autres.
   * Tout membre est éligible, sous réserve de validation par le groupe Justice.
