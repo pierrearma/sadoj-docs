@@ -42,7 +42,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Dylan51, Valdum, Izukyo, Spen82, XanderTV, Roni</td>
+      <td style="text-align: center;">Pierre, Dylan51, Valdum, Mentalomane, Spen82, XanderTV, Roni</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
    <tr>
@@ -79,10 +79,10 @@
   <td style="text-align: center;">Aucun</td>
 
   <td style="text-align: center;">
-    Guillaume, Theo, lhomme1515, wrc
+    Guillaume, Theo, lhomme1515, wrc, kuro
     <br><br>
     <strong>Conseillers :</strong><br>
-    Clem0233, Kevinbdx, Cobraz
+    Clem0233, Kevinbdx, Cobraz, Bfremy
   </td>
 
   <td style="text-align: center;">
@@ -346,9 +346,9 @@
           <li>Personnes touchant au mapping</li>
         </ul>
       </td>
-      <td style="text-align: center;">4 (7 voulu)</td>
+      <td style="text-align: center;">7</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, Kuro, Thomas, Wrc</td>
+      <td style="text-align: center;">Théo, Kuro, Thomas, Wrc, lemicky, dylan51, lhomme1515,  </td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
  <tr>
@@ -380,7 +380,7 @@
     </td>
       <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Doryann, Guillaume, lhomme1515, Titouan</td>
+      <td style="text-align: center;">Doryann, Guillaume, lhomme1515, Titouan, Lorr'and maps</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
