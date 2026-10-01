@@ -77,91 +77,138 @@
 
 ### Généralités
 
-- Ne pas accorder une confiance aveugle aux demandeurs, car ils pourraient commettre des erreurs, oublier des détails, ou même mentir. En cas de détection de mensonge, un avertissement sera émis, voire une révocation des accès pourra être demandée.
+- Ne pas accorder une confiance aveugle aux demandeurs, car ils pourraient commettre des erreurs, oublier des détails ou même mentir. **En cas de détection de mensonge, un avertissement sera émis, voire une révocation des accès pourra être demandée.**
 - Ne pas se laisser influencer par les votes positifs (ou négatifs) des autres membres du groupe, car ils pourraient avoir omis certaines étapes ou passer à côté d'un problème sur le véhicule.
-- On n'est pas toujours disponible, temporairement démotivé ; si on n'est pas en capacité de tester de manière complète, il faut s'abstenir de voter.
-- La validation doit être effectuée en toute impartialité et n'est pas soumise aux contraintes RP.
+- On n'est pas toujours disponible ou suffisamment motivé ; si on n'est pas en capacité de tester de manière complète, **il faut s'abstenir de voter**.
+- La validation doit être effectuée **en toute impartialité** et n'est pas soumise aux contraintes RP.
+
+---
 
 ### Tests à effectuer pour la validation (hors serveur)
 
-**Ces vérifications peuvent être faites par une personne mais elle devra exposer ses résultats dans la demande.**
+> **Ces vérifications peuvent être faites par une personne, mais elle devra exposer ses résultats dans la demande.**
 
 #### Ouverture des fichiers
 
-- Vérifier le nombre de polygones présents dans le modèle *yft_hi*.
-- Analyser la taille des textures présentes dans les fichiers *ytd* et *ytd+hi*.
+- Vérifier le nombre de polygones présents dans le modèle **`yft_hi`**.
+- Analyser la taille des textures présentes dans les fichiers **`ytd`** et **`ytd+hi`**.
 - Contrôler l'optimisation de la taille des textures (les textures vides ou unicolores, par exemple).
-- S'assurer que les dimensions des textures ne dépassent pas *2048x2048 pixels*, sauf dans les cas exceptionnels où le rendu en jeu nécessite des dimensions supérieures.
-- S'assurer que les textures de "covering" sont en *1024x1024 pixels* dans le fichier *ytd* normal, sauf dans les cas exceptionnels où le rendu en jeu nécessite des dimensions supérieures.
-- Vérifier que les dimensions des textures sont des puissances de 2 *(4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192...).*
-- Vérifier que le fichier *ytd+hi* n'est pas une copie identique du fichier *ytd* normal.
+- S'assurer que les dimensions des textures ne dépassent pas **2048x2048 pixels**, sauf dans les cas exceptionnels où le rendu en jeu nécessite des dimensions supérieures.
+- S'assurer que les textures de "covering" sont en **1024x1024 pixels** dans le fichier **`ytd`** normal, sauf dans les cas exceptionnels où le rendu en jeu nécessite des dimensions supérieures.
+- Vérifier que les dimensions des textures sont des puissances de 2 : **4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192...**
+- Vérifier que le fichier **`ytd+hi`** n'est pas une copie identique du fichier **`ytd`** normal.
 
 #### Encodage des textures
 
-- Les textures encodées en ```A8R8G8B8``` sont à proscrire sauf pour les textures *script_rt*.
+- Les textures encodées en <code>A8R8G8B8</code> sont à proscrire, sauf pour les textures **`script_rt`**.
+
+---
 
 ### Tests à effectuer sur le serveur
 
-**Ces vérifications sont à effectuer par tous et nécessitent de connaître le mello trainer.**
+> **Ces vérifications sont à effectuer par tous et nécessitent de connaître et de savoir utiliser Mello Trainer.**
 
 - Examiner le véhicule sous tous les angles, en prêtant attention aux éléments de carrosserie.
 - Ouvrir et fermer toutes les ouvertures du véhicule.
-- Tester l'emplacement et le fonctionnement du custom en utilisant le menu mellotrainer ou ("lambda menu").
-- Utiliser des armes pour tester la résistance des vitres, celles-ci doivent se briser sauf si le véhicule est blindé.
-- Tester la résistance des pneus aux balles *(pneu blindé interdit)*.
-- S'éloigner du véhicule ; les roues ne doivent pas disparaître.
+- Tester l'emplacement et le fonctionnement des customs en utilisant **Mello Trainer** ou le **Lambda Menu**.
+- Utiliser des armes pour tester la résistance des vitres : celles-ci doivent se briser, sauf si le véhicule est blindé.
+- Tester la résistance des pneus aux balles (**pneus blindés interdits**).
+- S'éloigner du véhicule ; **les roues ne doivent pas disparaître**.
 - Endommager le véhicule pour évaluer sa réaction aux déformations.
-- Faire exploser le véhicule pour observer le rendu *(tout ou presque devrait être brûlé)*.
+- Faire exploser le véhicule pour observer le rendu (**tout ou presque devrait être brûlé**).
+
+#### Contrôle des octants / F8
+
+Lors de chaque validation, vérifier dans la console **F8** qu'aucune erreur liée aux octants du modèle **`.yft`** n'est présente.
+
+Pour afficher ce type de message, activer au préalable :
+
+<pre>
+developer 1
+</pre>
+
+Le véhicule ne doit notamment pas générer ce type d'erreur :
+
+<pre>
+Physics validation failed for asset 'modelduvehicule.yft'. This asset contains invalid octant data (OctantVertCounts <= 0) and has been auto-corrected during this load to prevent a crash.
+</pre>
+
+> **La présence de cette erreur doit être signalée et le véhicule ne doit pas être validé en l'état.**
+
+---
 
 ### Règles spécifiques sur les véhicules
 
-Afin d'être compatible avec le menu d'achat de véhicules il convient de s'assurer que : 
-- La marque du véhicule `vehicleMakeName` est correctement renseigné dans le fichier `vehicle.meta`  
-  [Voir tableau](https://gtamods.com/wiki/Vehicles.meta#vehicleMakeName)
-- Le `GameName` contient aux maximum **11 caractères** et est renseigné dans un fichier client **lua**.
+Afin d'être compatible avec le menu d'achat de véhicules, il convient de s'assurer que :
 
-> Exemple pour un véhicule :
->
->```<gameName>ARIAS</gameName>```
->
->```<vehicleMakeName>BORDEAUX</vehicleMakeName>```
->
->```AddTextEntry('arias', 'Arias')```
->
+- La marque du véhicule <code>vehicleMakeName</code> est correctement renseignée dans le fichier <code>vehicles.meta</code>.  
+  [Voir tableau](https://gtamods.com/wiki/Vehicles.meta#vehicleMakeName)
+- Le <code>gameName</code> contient au maximum **11 caractères** et est renseigné dans un fichier client **`.lua`**.
+
+> **Exemple pour un véhicule :**
+
+<pre>
+&lt;gameName&gt;ARIAS&lt;/gameName&gt;
+</pre>
+
+<pre>
+&lt;vehicleMakeName&gt;BORDEAUX&lt;/vehicleMakeName&gt;
+</pre>
+
+<pre>
+AddTextEntry('arias', 'Arias')
+</pre>
+
+---
 
 ### Règles spécifiques sur les textures
+
 #### Déclinaisons
 
-Pour les modèles dont les livrées sont dans les fichiers *ytd* et *ytd+hi* les déclinaisons de "covering" seront désormais limitées à une seule déclinaison supplémentaire par modèle et par entreprise (donc 2 max.) pour les véhicules communs.
+Pour les modèles dont les livrées sont dans les fichiers **`ytd`** et **`ytd+hi`**, les déclinaisons de "covering" sont limitées à **une seule déclinaison supplémentaire par modèle et par entreprise**, soit **2 maximum**, pour les véhicules communs.
 
-Cette déclinaison doit **être justifiée par un intérêt en RP** pour différencier plusieurs mêmes modèles de véhicule en jeu avec un "covering" différent (Ex : Employé > Superviseur) ou "covering" dit habituel VS "covering" temporaire pour un événement, par exemple.
-Cette règle ne s’applique pas aux modèles de véhicule non communs (type secours), ni aux modèles dont les textures sont dans les fichiers *yft*.
+Cette déclinaison doit **être justifiée par un intérêt en RP** pour différencier plusieurs véhicules d'un même modèle en jeu avec un "covering" différent.
+
+**Exemples :**
+- Employé → Superviseur ;
+- covering habituel → covering temporaire pour un événement.
+
+Cette règle ne s'applique pas aux modèles de véhicules non communs (**type secours**), ni aux modèles dont les textures sont dans les fichiers **`yft`**.
 
 #### Logos d'entreprises joueurs
-Les logos, marques ou identités visuelles d’entreprises détenues par des joueurs sont interdits sur les coverings de véhicules, afin d’éviter les situations de double ou triple validation administrative lors de la fin ou de la modification d’un partenariat.
->
-> À titre dérogatoire, les véhicules spécifiquement destinés à un usage sportif, culturel ou événementiel peuvent afficher des logos, marques ou identités visuelles d’entreprises détenues par des joueurs.
 
+Les logos, marques ou identités visuelles d'entreprises détenues par des joueurs sont **interdits sur les coverings de véhicules**, afin d'éviter les situations de double ou triple validation administrative lors de la fin ou de la modification d'un partenariat.
+
+> **Dérogation :** les véhicules spécifiquement destinés à un usage **sportif, culturel ou événementiel** peuvent afficher des logos, marques ou identités visuelles d'entreprises détenues par des joueurs.
+
+---
 
 ### La demande
 
-- Le titre de la demande doit comporter le nom du véhicule et du modèle.
-  - Éviter les longues phrases qui masquent l'essentiel (demande de validation de ce véhicule que vous trouverez sur le dev4...).
+- Le titre de la demande doit comporter **le nom du véhicule et du modèle**.
+- Éviter les longues phrases qui masquent l'essentiel *(« demande de validation de ce véhicule que vous trouverez sur le dev4... »)*.
 - Le contenu de la demande pour la validation d'un modèle doit suivre le modèle suivant :
 
-<div style="background-color: #f0f0f0; padding: 10px;">
-  Demande de validation de :<br>
-  Nom du dossier :<br>
-  Nom de spawn :<br>
-  Emplacement :<br>
-  Taille du dossier :<br>
-  Nombre de polygones HI_YFT :<br>
-  Test Carcols / Handling / Carvariation :<br>
-  Test Vitres + Explosion véhicule (duplication) :<br>
-  Warning éventuel :<br>
-  Infos complémentaires : (remplacement, utilité, présence de custom, son custom...)<br>
-  Lien du véhicule si disponible :<br>
+<div style="padding: 12px; border: 1px solid #666; border-radius: 6px; line-height: 1.3;">
+<strong>Demande de validation de :</strong><br>
+Nom du dossier :<br>
+Nom de spawn :<br>
+Emplacement :<br>
+Taille du dossier :<br>
+Nombre de polygones HI_YFT :<br>
+<strong>Test Carcols / Handling / Carvariation :</strong><br>
+<strong>Test Vitres + Explosion véhicule (duplication) :</strong><br>
+<strong>Test Octants / Erreur Physics :</strong><br>
+<strong>Warning éventuel :</strong><br>
+<strong>Infos complémentaires :</strong> <em>(remplacement, utilité, présence de customs, son custom...)</em><br>
+<strong>Lien du véhicule si disponible :</strong>
 </div>
+<br>
+
+- Pour la ligne **Test Octants / Erreur Physics **, indiquer **OK** lorsqu'aucune erreur <code>Physics validation failed</code> / <code>invalid octant data</code> n'est constatée après activation de <code>developer 1</code>.
+- Dans le cas contraire, **préciser l'erreur rencontrée**.
+- Le contenu de la demande pour la validation d'un **covering doit obligatoirement comporter les textures concernées**.
+
 
 
 
