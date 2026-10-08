@@ -184,16 +184,11 @@ Les prix des véhicules sont calculés sur la base des prix des prix réels. Voi
 Le prix des custom des véhicules est calculé selon le prix d'achat neuf du véhicule.
 
 ## Points de customs légaux
-Les points de custom sont désormais réservés :
-
-* aux garages disposant de la compétence de customisation ;
-* aux sociétés de sécurité privée habilitées, uniquement pour les véhicules blindés.
-
-Les points situés ailleurs seront supprimés rétroactivement, à l’exception des points bateaux, avions et dark.
-
-Dans les concessions et établissements assimilés, les points de custom permettront uniquement de générer des récapitulatifs.
-
-L’objectif est de limiter le custom sauvage et de favoriser les interactions avec les professionnels, les transports de véhicules et les déplacements. Le client reste libre de choisir son prestataire.
+Les points de customisation sont désormais considérés comme des points de commande de pièces automobiles :
+* La mise en place de ces points pourra être autorisée au cas par cas, notamment pour les partenaires, les écuries de course, les associations ou toute autre entreprise exerçant une activité en lien avec les véhicules
+* Ces points permettront uniquement de commander des pièces, sans possibilité de procéder directement à leur installation ou à la customisation des véhicules.
+* Les modifications devront être réalisées par un garage disposant de la compétence de customisation. Le propriétaire reste libre de choisir le garage de son choix.
+* L'attribution de ces points reste soumise à la validation des économistes, en fonction de l'activité et des besoins de la structure concernée.
 
 ## Tarification des coverings de véhicules
 
@@ -203,12 +198,29 @@ Afin de rémunérer le travail de création d’un covering en fonction de sa co
 * Complexe : 12 000 $ maximum
 * Prix libre : possibilité de fixer librement le tarif, sous réserve d’un accord préalable entre le prestataire et le client. 
 
+## Tarification des réparations et de la customisation
+### Réparations des véhicules
+
+Les tarifs de main-d'œuvre sont réglementés selon la nature de l'intervention :
+
+- **Réparations mécaniques :** 1 % de la valeur du véhicule, avec un minimum de **250 $** et un maximum de **10 000 $**.
+- **Réparations des aéronefs :** main-d'œuvre comprise entre **2 500 $ et 10 000 $**.
+- **Prestations de service courantes :** tarif fixe de **250 $** pour le remplacement de certaines pièces ou l'utilisation de consommables (batteries, pneus, serrures, clés, huile moteur, etc.).
+### Prix des pièces et marges commerciales
+Les garages peuvent appliquer une **marge maximale de 50 %** sur le prix d'achat des pièces auprès d'un fournisseur joueur (coefficient 1,5).
+Les garages restent libres d'accorder des remises commerciales, dans le respect des tarifs et marges autorisés (30%).
+### Customisation des véhicules
+Les garages perçoivent **60 % du prix des prestations de customisation**, avant toute remise.
+Toute remise commerciale accordée au client est intégralement déduite de la marge du garage.
+### Application des tarifs
+Les garages doivent respecter les tarifs de main-d'œuvre et les plafonds de marge définis par la réglementation économique.
+Le tableau de référence des prix de réparation est disponible auprès des économistes.
 
 ### Prix des biens de consommations courants : alimentation, vêtement …
 
 Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
 
-### Prix des PNJ placés
+## Prix des PNJ placés
 
 <table>
   <tr>
@@ -292,6 +304,8 @@ Il est constitué des économistes, son rôle consiste à :
 - Prend les déclarations de changement de propriétaire
 - Faire le changement de propriétaire pour une vente directe
 - Traite les demandes de justice concernant l’immobilier
+
+Les agents immobiliers ont accès en lecture seule au registre immobilier exclusivement **Hors RolePlay** (sur demande). 
 
 ### Pour les investisseurs
 
@@ -1059,9 +1073,9 @@ Les paiements des services et/ou produits devront être effectués uniquement pa
 
 Des quotas maximums ont été mis en place pour les métiers PNJ et dans d'autres secteurs afin de ne plus avoir d'abus.
 
-Les entreprises qui ont des missions PNJ (Smoke On The Water ou Transportify) ont un CA maximum par semaine.
+Les entreprises qui ont des missions PNJ (Smoke On The Water ou Taxi Downtown Cab) ont un CA maximum par semaine.
 
-Les joueurs ont un quota maximum par semaine sur l'ensemble des missions PNJ (Smoke On The Water, taxi, Transportify).
+Les joueurs ont un quota maximum par semaine sur l'ensemble des missions PNJ (Smoke On The Water, taxi, Taxi Downtown Cab).
 
 Ce quota permet tout de même de gagner de l'argent mais évite juste les abus et nous permet de ne pas vérifier régulièrement.
 
@@ -1092,7 +1106,7 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
       <td>Pourboire variable (25$ à 50$)</td>
     </tr>
     <tr>
-      <td><strong>Taxi Transportify</strong></td>
+      <td><strong>Taxi Downtown Cab</strong></td>
       <td>
         - 0,20$/km<br>
         - Pourboire : 150$ à 200$<br>
@@ -1444,3 +1458,14 @@ Cette mesure vise à réguler l’économie en retirant une partie de l’argent
 <tr><td><strong>3e écurie</strong></td><td><strong>500 000 $</strong></td></tr>
 </tbody>
 </table>
+
+## Grand Señora Raceway
+Le Grand Señora Raceway est un circuit automobile accessible à tous, **qui n'appartient pas à une entreprise, à un joueur et ni à l'État.**
+
+Destiné principalement aux loisirs et aux activités automobiles, il peut être mis à disposition pour l'organisation de différents événements. Pour déclarer un évènement, merci de contacter les économistes pour la coordination et le tarif d'utilisation.
+
+À l'image du parking de drift, il s'agit d'un espace ouvert à tous, sans exclusivité d'utilisation ni appropriation possible par une entreprise ou une organisation.
+
+Son accès libre ne signifie toutefois pas qu'il constitue une zone de non-droit : les règles et lois en vigueur continuent de s'y appliquer.
+
+**L'objectif est de préserver un lieu de rassemblement, de partage et de pratique automobile accessible à l'ensemble des joueurs.**
