@@ -173,6 +173,15 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
 * La location immobilière pour une durée de + de 24H est interdite.
 * Aucun véhicules personnels ne sont admis.
 
+## Déconnexion et lieu de vie RP
+Tout joueur doit obligatoirement déconnecter son personnage dans un lieu de vie ou de repos cohérent avec son RP (domicile, hébergement, lieu de repos adapté, etc.).
+
+Les déconnexions dans des lieux manifestement inadaptés, tels que les rues, parkings, palettes ou autres espaces ne permettant pas de justifier un repos cohérent, sont interdites.
+
+Les personnages déconnectés dans ces conditions pourront être déplacés avec avertissement, vers un emplacement approprié afin de ne pas nuire à l'immersion et à l'expérience de jeu des autres joueurs.
+
+**Exception - Contraintes HRP :** Les déconnexions imprévues résultant d'une urgence personnelle, d'un problème technique ou de toute autre interruption indépendante de la volonté du joueur sont tolérées.
+
 ## Autre
 
 * Pour toute modification sur le serveur Life qui a des conséquences sur tous les joueurs, il est obligatoire de faire voter cette modification par la communauté sauf exception propre à un groupe, et d'inscrire le changement dans le canal #change_log.
