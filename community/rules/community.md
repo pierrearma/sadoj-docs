@@ -15,7 +15,7 @@
   * La triche.
   * Les insultes et moqueries dans le seul but de blesser.
   * Le racisme.
-  * Dénigrer toute forme de sexualité (homophobie, transphobie etc..).cha
+  * Dénigrer toute forme de sexualité (homophobie, transphobie etc..).
   * Les insultes envers une opinion politique ou religieuse (antisémitisme, islamophobie etc..).
   * Toute forme de harcèlement.
   * Les contenus pornographiques explicites.
