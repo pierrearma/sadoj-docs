@@ -15,7 +15,7 @@
   * La triche.
   * Les insultes et moqueries dans le seul but de blesser.
   * Le racisme.
-  * Dénigrer toute forme de sexualité (homophobie, transphobie etc..).
+  * Dénigrer toute forme de sexualité (homophobie, transphobie etc..).cha
   * Les insultes envers une opinion politique ou religieuse (antisémitisme, islamophobie etc..).
   * Toute forme de harcèlement.
   * Les contenus pornographiques explicites.
@@ -50,7 +50,7 @@ La réunion permet d'échanger, d'avoir des réflexions tous ensemble en vocal, 
 * Un sujet peut être reporté 4 fois au maximum.
 * Tout le monde peut déposer un sujet.
 * Il est interdit de déposer un sujet de réunion anonymement ou au nom d'un groupe, à l'exception des cas d'ajout de membres dans un groupe suite à un départ ou une exclusion. Toutefois, il est autorisé de déposer un sujet à plusieurs, mais l'ensemble des pseudonymes doivent être écrits.
-* Tout le monde a droit à la parole (il faut lever la main dans le chat).
+* Tout le monde a droit à la parole.
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
 * Il n'est pas obligatoire d'assister aux réunions, mais c'est toutefois conseillé afin d'être au mieux informé des nouveautés.
 * Tout sujet peut être traité sans son auteur à la condition qu'une mention ***"peut être traité en mon absence"*** soit ajoutée. Exceptions:
