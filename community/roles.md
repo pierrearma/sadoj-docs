@@ -336,7 +336,7 @@
       </td>
       <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Xander TV, Emmanuel, Anomalia, Yoshi, Secours911, Eliott, Valdum</td>
+      <td style="text-align: center;">Xander TV, Pierre19, Mentalomane, Yoshi, Emmanuel, Snake, Valdum</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong> Il ne faut jamais avoir eu de sanctions</td>
     </tr>
     <td style="text-align: center;">Validation Mappings</td>
