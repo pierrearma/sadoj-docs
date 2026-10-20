@@ -164,19 +164,14 @@ Le vote sanction est une décision de la communauté de punir un membre qui aura
 
 ## Inactivité
 
-Il est possible de demander en réunion l'exclusion d'un membre inactif avec la possibilité de revenir.
-
-Un de ces deux critères est valide :
-* Aucun message posté sur Discord depuis plus de 3 mois.
-* Aucune connexion sur le site (sadoj-rp.fr) depuis plus de 3 mois
-
-Si la personne a eu l'amabilité de prévenir de son absence, il convient de l'exclure de la procédure.
-
-Dans le document “suivi des formations” le suivi est effectué.
-
-Les personnes concernées par la procédure sont prévenues une semaine avant le vote en réunion.
-
-Elles peuvent demander un retour à tout moment par un simple vote, **ce n'est pas une sanction**.
+* Il est possible de demander en réunion l'exclusion d'un membre inactif avec la possibilité de revenir.
+* Un de ces deux critères est valide :
+ * Aucun message posté sur Discord depuis plus de 3 mois.
+ * Aucune connexion sur le site (sadoj-rp.fr) depuis plus de 3 mois
+* Si la personne a eu l'amabilité de prévenir de son absence, il convient de l'exclure de la procédure.
+* Dans le document “suivi des formations” le suivi est effectué.
+* Les personnes concernées par la procédure sont prévenues une semaine avant le vote en réunion.
+* Elles peuvent demander un retour à tout moment par un simple vote, **ce n'est pas une sanction**.
 
 ## Rôle "Vacancier"
 
