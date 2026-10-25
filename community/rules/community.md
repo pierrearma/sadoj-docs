@@ -162,6 +162,20 @@ Le vote sanction est une décision de la communauté de punir un membre qui aura
 * En cas de sanction communautaire, perte du rôle SADoJ sur Discord et compte désactivé sur le site pour la durée de la sanction.
 * En cas de sanction serveur et/ou communautaire, interaction RP interdite pour la durée de l'exclusion (serveurs, réseaux sociaux, Discord RP, Sites RP, etc…).
 
+## Sanction de médiation
+
+Procédure rapide permettant de sanctionner de manière simple et efficace les infractions commises sur le serveur Life uniquement.
+
+* **Effet** : suspension temporaire d’accès au serveur Life pour le joueur concerné.
+* **Modalités** : décidée par les médiateurs (accord d'au moins 5/7), pour une durée de 7 jours maximum.
+* **Portée** : couvre l'ensemble des fautes connues de la médiation au moment de la décision. Une même faute ne peut être sanctionnée plusieurs fois par voie de médiation.
+* **Information** : les médiateurs informent obligatoirement la communauté de chaque sanction prise.
+* **Passerelle communautaire** : des faits sanctionnés par la médiation peuvent faire l'objet d'un sujet communautaire si un membre estime la sanction insuffisante, que ce soit pour alourdir la sanction Life ou pour demander une sanction communautaire globale.
+* **Contestation** : le membre sanctionné peut contester en déposant un sujet de réunion. La sanction est alors automatiquement levée dès le dépôt du sujet.
+* **Vote en réunion** : en cas de contestation, la communauté doit obligatoirement se prononcer à la fois :
+  1. Sur une sanction communautaire : pour déterminer si la contestation est légitime et si la ou les fautes justifient une sanction globale.
+  2. Sur une sanction Life : pour décider si les faits reprochés doivent effectivement être sanctionnés sur le Life.
+
 ## Inactivité
 
 * Il est possible de demander en réunion l'exclusion d'un membre inactif avec la possibilité de revenir.
