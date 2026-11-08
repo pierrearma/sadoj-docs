@@ -47,8 +47,6 @@ Le Référent occupe un rôle central de gestion et de régulation.
 * Il ne peut pas voter aux élections,
 * Il ne peut pas interférer physiquement entre la police et les organisations (aide lors d'assauts), ni divulguer des informations s'il est arrêté.
 
----
-
 ## 2. Règles générales de conduite
 
 ### 2.1. Comportement et fair-play
@@ -101,8 +99,6 @@ Si un gang ou une organisation ne fait plus vivre sa Dark Zone, elle prend le ri
     * *Vidéo-surveillance :* Les enregistrements vidéo (CCTV, Dashcams) sont conservés pour une durée maximale de **42 jours**.
     * *Sauvegarde externe :* Une donnée extraite du support d'origine **avant** l'expiration du délai reste valide indéfiniment (dossier, scellé, clé USB, copie). Passé ce délai, elle est définitivement perdue et injouable.
 
----
-
 ## 3. Système de combat et armement
 
 * **FreeKill :** Interdiction formelle de tuer par pur plaisir. Un passif cohérent est requis.
@@ -113,8 +109,6 @@ Si un gang ou une organisation ne fait plus vivre sa Dark Zone, elle prend le ri
     * **Utilisation :** Seules les grenades peuvent être lancées. Les bombes doivent être posées.
     * **Pyrotechnie :** Interdiction de tirer directement sur une personne avec un lanceur pyrotechnique.
 * **Assassinats :** Les homicides avec préméditation sont interdits sauf dans le cadre d'une Mort RP Dark validée ou d'un consentement mutuel écrit. Il est interdit d'infliger volontairement des blessures entraînant obligatoirement la mort (ex: exécution sommaire).
-
----
 
 ## 4. Interactions critiques : otages et police
 
@@ -154,8 +148,6 @@ Sont exclus de cette exception :
 ### 4.3. Courses-poursuites
 La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart"). Le Groupe Dark surveille les comportements (PIT brutal, terrains inadaptés) et sanctionnera les abus visant à écourter les scènes de manière non-RP.
 
----
-
 ## 5. Activités criminelles spécifiques
 
 ### 5.1. Vols et trafic de véhicules
@@ -179,15 +171,14 @@ La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart").
 ### 5.3. Trafic d'armes
 * **Accès :** Gangs et organisations classiques ont accès aux receleurs d'armes disséminés.
 
-[!WARNING] Accès exclusif aux receleurs d'armes lourdes pour une seule organisation. Cette gestion peut à tout instant être vendue, ou récupérée par une autre organisation.
+> [!WARNING]
+> Accès exclusif aux receleurs d'armes lourdes pour une seule organisation. Cette gestion peut à tout instant être vendue, ou récupérée par une autre organisation.
 
 ### 5.4. Braquages
 * **Principe :** La négociation est toujours à privilégier.
 * **Braquage de joueurs :** Montant maximal de **30 000$** par semaine sur le compte en banque d'une victime. (Restitution si récidive sur la même victime par le même groupe).
 * **Braquages PNJ :** 3 types (Caisses enregistreuses, Coffres boutiques, Banques). Nécessitent matériel spécifique et effectifs de police suffisants.
 * **Convois de fonds :** La totalité de la valeur transportée peut être volée.
-
----
 
 ## 6. Organisations et gangs
 
@@ -214,8 +205,6 @@ Géré par le propriétaire de la spécialisation "faux papiers"
 * **Blackmarket (Discord) :** Plateforme anonyme pour services, achats (véhicules, infos), échanges. Accès via Référent. **Interdit à la police** (sauf policiers corrompus sur dossier).
 * **Informateurs PNJ :** Placés dans le QG (inclus dans le prix de création). Permettent d'acheter des localisations (boutiques, receleurs), des infos (guides) et d'obtenir des missions.
 
----
-
 ## 7. Corruption et services publics
 
 ### 7.1. Services réglementés
@@ -231,8 +220,6 @@ L'illégal et la corruption sont autorisés sous conditions strictes :
     * Lorsque un membre des services ci-dessus décide de jouer ripoux de son propre chef alors il doit demander l'accord du Référent Dark avant toute action envers la personne pour  garantir la faisabilité des scènes et eviter toute anulation.
 * **Conséquence :** Les officiels corrompus deviennent éligibles à la **Mort RP Dark**.
 * **Refus RP :** Le joueur peut refuser la corruption en RP mais doit en assumer les conséquences (représailles, mort) sans esquive HRP.
-
----
 
 ## 8. Procédure de mort RP Dark
 
@@ -253,8 +240,6 @@ Le dossier est soumis à la validation du groupe Dark (les membres de l'organisa
 2.  **Dépôt du Dossier :** Preuves solides et raisons légitimes requises.
 3.  **Exécution ou Échappatoire :** Le dépositaire choisit d'infliger la mort ou d'accorder une échappatoire (fuite, rétractation). En cas de retour après échappatoire, le dossier reste valide pour exécution immédiate.
 
----
-
 ## 9. Immobilier et fausses identités
 
 ### 9.1. Immobilier Dark
@@ -268,8 +253,6 @@ Fonctionnement similaire au légal avec spécificités :
 * **Fausses Identités :** Jusqu'à 3 faux noms par organisation/gang.
 * **Médecins Dark (Joueurs) :** À privilégier lors d'inconscience.
 * **Hôpitaux Dark :** Prise en charge discrète possible. Les temps d'hospitalisation doivent être respectés.
-
----
 
 ## 10. Prison / Pénitencier 
 
