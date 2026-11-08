@@ -49,7 +49,6 @@
 <img src="../../_media/life/rules/perte_de_memoire.png" alt="Perte de mémoire" style="max-width: 750px;">
 
 * Pour être valide, un testament doit être déposé avant la mort d'un personnage auprès d'un procureur (si procureur pnj souhaité, voir le groupe justice)
-* Le RP médical est régi par le [ce document](life/rules/medical.md).
 * Il faut faire attention de ne pas annoncer une mort de manière prématurée (en attente du résultat du vote par exemple). Les termes d'état très inquiétant, mort cérébrale sont possibles afin de faire comprendre les différents acteurs.
 
 ## La mort Rôle-Play / départ du personnage
@@ -111,7 +110,6 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
 ## Déplacements / Véhicules
 
 * Sont interdits
-  * De “custom” un véhicule sans garagiste présent (sauf custom illégal).
   * De se déplacer constamment en sprintant, pareil en vélo.
   * De carkill, qui consiste à écraser volontairement quelqu'un sans raison valable.
   * De ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l'activité exercée par la structure qui l'utilise.
@@ -133,30 +131,6 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
 ## Entreprises
 
 * Chaque personnage peut posséder deux entreprises au maximum (plus de 50% des parts).
-
-## Hospitalisation
-
-* Voici les temps d'hospitalisation sur le Life. (hôpitaux & hôpitaux dark)
-  * Valable uniquement si il y a du personnel soignant à l'hôpital.
-  * Les soins et temps d'hospitalisations ne sont pas cummulable sauf demande du joueur.
-  * Le temps d'hospitalisation est facultatif.
-
-| Raison de la consultation                 | Temps des soins | Temps d'hospitalisation |
-|-------------------------------------------|-----------------|-------------------------|
-| Balles dans zone vitale                   | 15 minutes      | 15 minutes              |
-| Balles dans zone non vitale               | 10 minutes      | 5 minutes               |
-| Accident inter véhicule à forte cinétique | 10 minutes      | 15 minutes              |
-| Accident inter vehicule à basse cinétique | 10 minutes      | 0 minute                |
-| Accident exter véhicule à forte cinétique | 15 minutes      | 15 minutes              |
-| Accident exter vehicule à basse cinétique | 5 minutes       | 0 minute                |
-| Chute de moins de 2 mètres                | 10 minutes      | 0 minute                |
-| Chute de plus de 2 mètres                 | 10 minutes      | 15 minutes              |
-| Laision interne                           | 10 minutes      | 10 minutes              |
-| Fracture                                  | 10 minutes      | 10 minutes              |
-| Brulure légère                            | 5 minutes       | 0 minute                |
-| Brulure grave                             | 10 minutes      | 10 minutes              |
-| Plaie légère                              | 5 minutes       | 0 minute                |
-| Plaie grave                               | 10 minutes      | 10 minutes              |
 
 ## Cayo Perico
 
