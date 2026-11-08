@@ -178,7 +178,8 @@ La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart").
 
 ### 5.3. Trafic d'armes
 * **Accès :** Gangs et organisations classiques ont accès aux receleurs d'armes disséminés.
-* [!WARNING] Accès exclusif aux receleurs d'armes lourdes pour une seule organisation. Cette gestion peut à tout instant être vendue, ou récupérée par une autre organisation.
+
+[!WARNING] Accès exclusif aux receleurs d'armes lourdes pour une seule organisation. Cette gestion peut à tout instant être vendue, ou récupérée par une autre organisation.
 
 ### 5.4. Braquages
 * **Principe :** La négociation est toujours à privilégier.
