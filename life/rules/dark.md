@@ -174,25 +174,16 @@ La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart").
 
 ### 5.2. Trafic de drogue
 * **Vente :** Accessible à tous si l'item est possédé. Vente libre aux PNJ ou joueurs.
-* **Approvisionnement :** Réservé aux Organisations/Gangs (via PNJ). Quota d'achat hebdomadaire imposé.
-* **Attribution des Drogues (Lore) :**
-    * *Weed :* Grove Street Families & Ballas.
-    * *Cocaïne :* Los Santos Vagos, Marabunta Grande & Cartels.
-    * *Meth :* Redneck, Kkangpae.
-    * *Ecstasy :* The Lost MC.
-* **Plantations :**
-    * Matériel disponible en magasin (Smoke and the Water, Bricolage, Supérette).
-    * *Intérieur :* Discret mais pousse lente (manque de lumière).
-    * *Extérieur :* Risqué mais pousse rapide.
+* **Production :** Accessible à tous pour l'ensemble des drogues possibles. Un groupe qui revendique l'une d'entre elles, n'est pas à l'abri d'une quelconque concurrence.
 
 ### 5.3. Trafic d'armes
 * **Accès :** Gangs et organisations classiques ont accès aux receleurs d'armes disséminés.
-* **Cartels :** Accès exclusif aux receleurs d'armes lourdes.
+* [!WARNING] Accès exclusif aux receleurs d'armes lourdes pour une seule organisation. Cette gestion peut à tout instant être vendue, ou récupérée par une autre organisation.
 
 ### 5.4. Braquages
 * **Principe :** La négociation est toujours à privilégier.
 * **Braquage de joueurs :** Montant maximal de **30 000$** par semaine sur le compte en banque d'une victime. (Restitution si récidive sur la même victime par le même groupe).
-* **Braquages PNJ :** 3 types (Caisses enregistreuses, Coffres boutiques, Banques Fleeca). Nécessitent matériel spécifique et effectifs de police suffisants.
+* **Braquages PNJ :** 3 types (Caisses enregistreuses, Coffres boutiques, Banques). Nécessitent matériel spécifique et effectifs de police suffisants.
 * **Convois de fonds :** La totalité de la valeur transportée peut être volée.
 
 ---
@@ -200,29 +191,23 @@ La conduite doit rester réaliste (pas de Off-Road abusif, pas de "Mario Kart").
 ## 6. Organisations et gangs
 
 ### 6.1. Typologie
-1.  **Les Gangs :** Organisations par défaut (Lore imposé). Pas de chef officiel sur le papier.
-    * *Recrutement :* Si le gang est occupé, tout se fait en RP. Si vacant, dossier (Background + Motivations) requis. Min. 3 personnes.
-    * *Starter Pack (Gang vide) :* QG, 25.000$, Pétoire (sans n° de série), Couteau.
-2.  **Les Organisations "Classiques" :** Créées par les joueurs. Min. 1 personne, Max. 10 personnes. Les organisations hors gang ne bénéficient pas de Dark Zones
-3.  **Les Cartels :** Grosses organisations créées par les joueurs.
-    * *Prérequis :* Min. 5 joueurs actifs (1 connexion/semaine).
-    * *Avantages :* Accès étendu au marché noir (armes lourdes), rôle clé dans le trafic inter-organisations.
-    * *Contrainte :* RP discret obligatoire.
+Est appelé "Organisation" tout regroupement de joueurs dark. Les Gangs issus du Lore de GTA, mais aussi toute organisation créée par les joueurs. 
 
 ### 6.2. Création d'une organisation
-La création se fait sur dossier validé par le groupe Dark, incluant : Présentation, Spécialisations, Besoins, Aide technique (Dev).
-* **Coût :** 30.000$ (frais dossier) + Coûts spécifiques + Achat bâtiment (Immo Dark).
+Chaque création ou reprise doit être motivée auprès du Groupe Dark d'un dossier (Background + Motivation). 
+Autrement, tout se fait en RP. (Grade, gestion business, hiérarchie, etc...) 
 
 ### 6.3. Spécialisations
 Choix d'une spécialisation unique (si libre) pour favoriser l'interaction :
 * **Recel de véhicules :** Majoration prix de vente (+35%) et réduction délai.
-* **Vente d'armes lourdes (Cartel uniquement) :** -50% prix achat.
+* **Vente d'armes lourdes :** -50% prix achat.
 * **Vente d'armes classiques :** -50% prix achat.
 * **Faux papiers :** Accès magasin confection.
 * **Braquages :** -50% sur matériel de braquage.
 
 ### 6.5 Fausse identité
-
+Permet d'utiliser des faux noms pour différentes actions (locations, etc...) 
+Géré par le propriétaire de la spécialisation "faux papiers"
 
 ### 6.6. Blackmarket et informateurs
 * **Blackmarket (Discord) :** Plateforme anonyme pour services, achats (véhicules, infos), échanges. Accès via Référent. **Interdit à la police** (sauf policiers corrompus sur dossier).
