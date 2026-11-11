@@ -1459,13 +1459,15 @@ Cette mesure vise à réguler l’économie en retirant une partie de l’argent
 </tbody>
 </table>
 
-## Grand Señora Raceway
-Le Grand Señora Raceway est un circuit automobile accessible à tous, **qui n'appartient pas à une entreprise, à un joueur et ni à l'État.**
+## Grand Señora Raceway et Los Santos Circuit
+Le Grand Señora Raceway et le Los Santos Circuit sont deux circuits automobiles ouverts à tous. Ils n’appartiennent à aucune entreprise, à aucun joueur ni à l’État.
 
-Destiné principalement aux loisirs et aux activités automobiles, il peut être mis à disposition pour l'organisation de différents événements. Pour déclarer un évènement, merci de contacter les économistes pour la coordination et le tarif d'utilisation.
+Dédiés avant tout aux loisirs et aux activités automobiles, ils peuvent également accueillir différents événements. Pour en déclarer un sur l’un ou l’autre de ces circuits, il convient de contacter les économistes, qui se chargent de la coordination et de la tarification.
 
-À l'image du parking de drift, il s'agit d'un espace ouvert à tous, sans exclusivité d'utilisation ni appropriation possible par une entreprise ou une organisation.
+Toute exploitation partielle de ces espaces (station-service, shop, etc.) doit faire l’objet d’une validation préalable par les économistes.
 
-Son accès libre ne signifie toutefois pas qu'il constitue une zone de non-droit : les règles et lois en vigueur continuent de s'y appliquer.
+Comme le parking de drift, ce sont des espaces publics, sans usage exclusif ni possibilité d’appropriation par une entreprise ou une organisation.
 
-**L'objectif est de préserver un lieu de rassemblement, de partage et de pratique automobile accessible à l'ensemble des joueurs.**
+Cette liberté d’accès ne fait pas pour autant de ces lieux des zones de non-droit : les règles et les lois en vigueur y restent pleinement applicables.
+
+**Le but est de conserver deux lieux de rencontre, de partage et de pratique automobile ouverts à l’ensemble des joueurs.**
