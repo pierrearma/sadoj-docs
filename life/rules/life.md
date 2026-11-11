@@ -25,13 +25,8 @@
   * D'écouter et d'utiliser l'audio entendu via les caméras de surveillance **sauf en visualisation directe.**
   * De se déconnecter ou quitter le jeu afin d'éviter une interaction.
   * D'utiliser un nom appartenant à une personne connue (Pablo Escobar, Tony Montana, Bonnie Tyler, etc….), ainsi que l'utilisation de jeux de mots (Alain Terrieur, Jean Bonneau, etc….).
-  * De spammer les centrales d'appels. Il faut attendre quelques minutes avant de rappeler.
   * Toute suppression non souhaitée de documents RP, sites RP, réseaux sociaux RP, Discord RP, etc…
-  * De porter plus de **60** items vêtements sur soi.
-    * Au-delà une suppression des tenues etc… pourra être faite **(le joueur devra être averti avant)**.
-  * D'effectuer tout type de scènes sexuelles “Hard” (Pratique Sado, scato, …) même consenti
-  * Toute tentative de pression, menace, règlement de compte ou reproche effectué en HRP pour des faits exclusivement RP.
-    * Le canal dark-police-citoyens-hrp est le seul espace autorisé pour débattre d'une situation RP passée, uniquement dans un objectif d'éclaircissement ou d'amélioration du jeu, et jamais pour exercer une quelconque pression ou influence.
+  * D'effectuer des scènes à caractère sexuel.
   * Toute réaction HRP destinée à influencer, punir ou contraindre un joueur en raison d'un comportement RP. Les conflits, tensions ou décisions créées en jeu et liées aux personnages doivent rester strictement en RP.
 * Sont obligatoires
   * De porter une Bodycam lors d'une action pour qu'elle soit considérée comme présente (et être utilisée).
@@ -39,10 +34,8 @@
 * Il arrive que certains masques ou des casques s'enlèvent sans que les porteurs le veuillent, il est donc demandé aux joueurs d'oublier le visage qu'ils auraient pu voir/ découvrir le temps que la personne remettre son casque/ masque. L'utilisation de ce bug est interdite, car considéré comme **H**ors-**R**ôle-**P**lay.
 * Un personnage ne peut pas être reconnu par sa voix ou son accent ou si son visage est dissimulé : Exemples : foulard, cagoule, casque, barbe épaisse et la combinaison lunettes et chapeau, casquette, bonnet, casque. Une casquette seule et une paire de lunettes seule ne suffisent pas. De même, la féminité et la masculinité du corps ou de la voix peuvent être supposées (à tort ou à raison, et toujours sans permettre d'identifier UNE personne en particulier).
 * Un membre qui souhaite faire revenir son personnage commencera de zéro (argent, biens, etc…) (dont les membres ayant quitté la communauté).
-* Seul les PNJ physiquement présents sont à prendre en compte en RP (on n'imagine pas ni invente des PNJ). Si ils vous voient faire un acte illégal, ils est conseillé de prévenir les services de secours (à vous de faire un appel anonyme).
 * Seules les informations des comptes X (Twitter) suivis par le compte de la communauté peuvent être prises en compte en RP.
 * [Termes RolePlay](life/rules/terms.md)
-* Le sexe classique est autorisé si les personnes sont consentantes.
 * Pour garantir l'immersion et privilégier les échanges en jeu, les documents transmis hors-jeu (tels que CV, lettres de motivation, etc.) ne sont pas exigibles et ne doivent pas passer avant une interaction avec un joueur, sauf en cas de nécessité absolue pour le bon déroulement du roleplay. L'impossibilité de se connecter en jeu ne constitue pas une nécessité absolue. Dans tous les autres cas, les interactions doivent se faire en jeu et à l'oral dans un cadre roleplay.
 * Tout graffiti ou affiche devra être dans une langue autre que le français afin de respecter le lore. Les langues prédominantes sont l'anglais, l'espagnol et le coréen.
 
@@ -56,7 +49,6 @@
 <img src="../../_media/life/rules/perte_de_memoire.png" alt="Perte de mémoire" style="max-width: 750px;">
 
 * Pour être valide, un testament doit être déposé avant la mort d'un personnage auprès d'un procureur (si procureur pnj souhaité, voir le groupe justice)
-* Le RP médical est régi par le [ce document](life/rules/medical.md).
 * Il faut faire attention de ne pas annoncer une mort de manière prématurée (en attente du résultat du vote par exemple). Les termes d'état très inquiétant, mort cérébrale sont possibles afin de faire comprendre les différents acteurs.
 
 ## La mort Rôle-Play / départ du personnage
@@ -92,7 +84,6 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
 
 * Cas des joueurs en stream : pour suivre une “logique” dans leur perso et respecter le vote de la communauté, ces personnes devront figer l'action et ne pas déclarer eux-mêmes une mort **R**ôle-**P**lay.
 * Si quelqu'un veut suicider son personnage, sa mort **R**ôle-**P**lay devra être votée par la communauté. **(Situation 1)**
-* Imposer sa mort **R**ôle-**P**lay au ne pas respecter les nouvelles règles aboutira à un vote sanction pour respecter le vote de la communauté et le **R**ôle-**P**lay des autres joueurs.
 
 ## Multi personnage
 
@@ -119,7 +110,6 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
 ## Déplacements / Véhicules
 
 * Sont interdits
-  * De “custom” un véhicule sans garagiste présent (sauf custom illégal).
   * De se déplacer constamment en sprintant, pareil en vélo.
   * De carkill, qui consiste à écraser volontairement quelqu'un sans raison valable.
   * De ranger un véhicule terrestre (voiture, camion, quad, véhicule amphibie, vélo, moto) dans un garage réservé à une entreprise, un service public ou une association, sauf si ce véhicule est directement lié à l'activité exercée par la structure qui l'utilise.
@@ -141,30 +131,6 @@ Voir [ce document](life/rules/justice.md?id=perp%c3%a9tuit%c3%a9-justice-mort-rp
 ## Entreprises
 
 * Chaque personnage peut posséder deux entreprises au maximum (plus de 50% des parts).
-
-## Hospitalisation
-
-* Voici les temps d'hospitalisation sur le Life. (hôpitaux & hôpitaux dark)
-  * Valable uniquement si il y a du personnel soignant à l'hôpital.
-  * Les soins et temps d'hospitalisations ne sont pas cummulable sauf demande du joueur.
-  * Le temps d'hospitalisation est facultatif.
-
-| Raison de la consultation                 | Temps des soins | Temps d'hospitalisation |
-|-------------------------------------------|-----------------|-------------------------|
-| Balles dans zone vitale                   | 15 minutes      | 15 minutes              |
-| Balles dans zone non vitale               | 10 minutes      | 5 minutes               |
-| Accident inter véhicule à forte cinétique | 10 minutes      | 15 minutes              |
-| Accident inter vehicule à basse cinétique | 10 minutes      | 0 minute                |
-| Accident exter véhicule à forte cinétique | 15 minutes      | 15 minutes              |
-| Accident exter vehicule à basse cinétique | 5 minutes       | 0 minute                |
-| Chute de moins de 2 mètres                | 10 minutes      | 0 minute                |
-| Chute de plus de 2 mètres                 | 10 minutes      | 15 minutes              |
-| Laision interne                           | 10 minutes      | 10 minutes              |
-| Fracture                                  | 10 minutes      | 10 minutes              |
-| Brulure légère                            | 5 minutes       | 0 minute                |
-| Brulure grave                             | 10 minutes      | 10 minutes              |
-| Plaie légère                              | 5 minutes       | 0 minute                |
-| Plaie grave                               | 10 minutes      | 10 minutes              |
 
 ## Cayo Perico
 

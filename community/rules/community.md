@@ -50,7 +50,7 @@ La réunion permet d'échanger, d'avoir des réflexions tous ensemble en vocal, 
 * Un sujet peut être reporté 4 fois au maximum.
 * Tout le monde peut déposer un sujet.
 * Il est interdit de déposer un sujet de réunion anonymement ou au nom d'un groupe, à l'exception des cas d'ajout de membres dans un groupe suite à un départ ou une exclusion. Toutefois, il est autorisé de déposer un sujet à plusieurs, mais l'ensemble des pseudonymes doivent être écrits.
-* Tout le monde a droit à la parole (il faut lever la main dans le chat).
+* Tout le monde a droit à la parole.
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
 * Il n'est pas obligatoire d'assister aux réunions, mais c'est toutefois conseillé afin d'être au mieux informé des nouveautés.
 * Tout sujet peut être traité sans son auteur à la condition qu'une mention ***"peut être traité en mon absence"*** soit ajoutée. Exceptions:
@@ -77,7 +77,6 @@ La réunion permet d'échanger, d'avoir des réflexions tous ensemble en vocal, 
 * Le vote est un choix et une décision personnelle. Il ne peut et ne doit pas être remis en question par qui que se soit. Chaque avis, chaque prise de position se doit d'être respecté dans un scrutin. Toute critique ou remise en question du choix d'un membre lors d'un scrutin est et sera considérée comme un comportement anti communautaire, antidémocratique et portant préjudice au fonctionnement fondamental de la communauté.
 * A une même réunion, il ne peut avoir plusieurs votes sanctions d'un même type de sanction d'un même membre. S'il y a plusieurs demandes du même type de sanction envers un membre, chaque sujet doit être discuté séparément mais la communauté décide de la sanction des multiples sujets sur un seul et même vote par type de sanction.
 * Pour toute élection de membres où plusieurs places sont disponibles, l'option "Aucun de la liste" doit apparaître dans le vote. Tout candidat recevant un nombre de voix égal ou inférieur à celui de l'option "Aucun de la liste" ne peut être retenu.
-* Les groupes de la communauté doivent faire un compte-rendu hebdomadaire.
 
 ## Discord
 
@@ -162,21 +161,30 @@ Le vote sanction est une décision de la communauté de punir un membre qui aura
 * En cas de sanction communautaire, perte du rôle SADoJ sur Discord et compte désactivé sur le site pour la durée de la sanction.
 * En cas de sanction serveur et/ou communautaire, interaction RP interdite pour la durée de l'exclusion (serveurs, réseaux sociaux, Discord RP, Sites RP, etc…).
 
+## Sanction de médiation
+
+Procédure rapide permettant de sanctionner de manière simple et efficace les infractions commises sur le serveur Life uniquement.
+
+* **Effet** : suspension temporaire d’accès au serveur Life pour le joueur concerné.
+* **Modalités** : décidée par les médiateurs (accord d'au moins 5/7), pour une durée de 7 jours maximum.
+* **Portée** : couvre l'ensemble des fautes connues de la médiation au moment de la décision. Une même faute ne peut être sanctionnée plusieurs fois par voie de médiation.
+* **Information** : les médiateurs informent obligatoirement la communauté de chaque sanction prise.
+* **Passerelle communautaire** : des faits sanctionnés par la médiation peuvent faire l'objet d'un sujet communautaire si un membre estime la sanction insuffisante, que ce soit pour alourdir la sanction Life ou pour demander une sanction communautaire globale.
+* **Contestation** : le membre sanctionné peut contester en déposant un sujet de réunion. La sanction est alors automatiquement levée dès le dépôt du sujet.
+* **Vote en réunion** : en cas de contestation, la communauté doit obligatoirement se prononcer à la fois :
+  1. Sur une sanction communautaire : pour déterminer si la contestation est légitime et si la ou les fautes justifient une sanction globale.
+  2. Sur une sanction Life : pour décider si les faits reprochés doivent effectivement être sanctionnés sur le Life.
+
 ## Inactivité
 
-Il est possible de demander en réunion l'exclusion d'un membre inactif avec la possibilité de revenir.
-
-Un de ces deux critères est valide :
-* Aucun message posté sur Discord depuis plus de 3 mois.
-* Aucune connexion sur le site (sadoj-rp.fr) depuis plus de 3 mois
-
-Si la personne a eu l'amabilité de prévenir de son absence, il convient de l'exclure de la procédure.
-
-Dans le document “suivi des formations” le suivi est effectué.
-
-Les personnes concernées par la procédure sont prévenues une semaine avant le vote en réunion.
-
-Elles peuvent demander un retour à tout moment par un simple vote, **ce n'est pas une sanction**.
+* Il est possible de demander en réunion l'exclusion d'un membre inactif avec la possibilité de revenir.
+* Un de ces deux critères est valide :
+  * Aucun message posté sur Discord depuis plus de 3 mois.
+  * Aucune connexion sur le site (sadoj-rp.fr) depuis plus de 3 mois
+* Si la personne a eu l'amabilité de prévenir de son absence, il convient de l'exclure de la procédure.
+* Dans le document “suivi des formations” le suivi est effectué.
+* Les personnes concernées par la procédure sont prévenues une semaine avant le vote en réunion.
+* Elles peuvent demander un retour à tout moment par un simple vote, **ce n'est pas une sanction**.
 
 ## Rôle "Vacancier"
 
