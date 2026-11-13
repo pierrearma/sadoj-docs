@@ -344,26 +344,26 @@ Exemple : *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
     <tr>
       <td>Vente de bien entre joueurs (particuliers)</td>
       <td>Passer par une agence immo pour le changement de propriétaire (travail administratif de l’agence)</td>
-      <td>10% du prix de vente à la charge de l’acheteur facturé par l’agence</td>
-      <td></td>
+      <td>10% minimum du prix de vente à la charge de l’acheteur facturé par l’agence</td>
+      <td>Le pourcentage de commission de l’agence est un minimum</td>
     </tr>
     <tr>
       <td>Vente d’un bien en passant par l’agence (obligatoire pour entreprises ou banques)</td>
       <td>Gestion de la vente, visites, négociation de l’agence</td>
-      <td>Commission de 15% frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-      <td></td>
+      <td>Commission de 15% minimum, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td>Le pourcentage de commission de l’agence est un minimum</td>
     </tr>
-    <tr>
-      <td>Achat d’un bien PNJ</td>
-      <td>Obligation de passer par une agence, gestion de la vente, visites, négociation de l’agence</td>
-      <td>Commission de 15%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-      <td>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce)</td>
-    </tr>
+   <tr>
+  <td>Achat d’un bien PNJ</td>
+  <td>Obligation de passer par une agence, gestion de la vente, visites, négociation de l’agence</td>
+  <td>Commission de 15% minimum, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+  <td>Le pourcentage de commission de l’agence est un minimum<br><strong>Prix de vente payé au compte PNJ (PacificBank 8ed734bcce)</strong></td>
+</tr>
     <tr>
       <td>Vente d’un bien au PNJ</td>
       <td>Obligation de passer par une agence, gestion de la vente auprès du notaire</td>
-      <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 10%, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
-      <td></td>
+      <td>Revente du bien à 120% de sa valeur de base sur le marché, commission de 10% fixe, frais de notaire inclus à la charge de l’acheteur facturé par l’agence</td>
+      <td>La commission de 10% est fixe (non modifiable par l’agence)</td>
     </tr>
     <tr>
       <td>Location de biens (particuliers)</td>
@@ -374,14 +374,16 @@ Exemple : *un bien de 250.000$ peut se vendre de 200.000$ à 325.000$*
     <tr>
       <td>Location de biens par l’agence (obligatoire pour entreprises ou banques)</td>
       <td>Gestion de la location, commission de l’agence</td>
-      <td>Commission de 20% du prix de la location (loyer +20%) à la charge du locataire, frais de notaire inclus</td>
-      <td>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
+      <td>Commission de 20% minimum du prix de la location (loyer +20%) à la charge du locataire, frais de notaire inclus</td>
+      <td>Le pourcentage de commission de l’agence est un minimum<br>Le locataire verse la somme à l’agence qui elle reverse le loyer au propriétaire</td>
     </tr>
   </tbody>
 </table>
 
 >[!NOTE]
 > Les agences ne payent pas les frais de changement de propriétaire.
+>
+> Le prix de vente doit être versé directement sur le compte PNJ, sans transiter par l'agence en cas d'achat d'un bien PNJ.
 >
 ### Calcul de la valeur
 
