@@ -1407,12 +1407,12 @@ Ce quota permet tout de même de gagner de l'argent mais évite juste les abus e
 > [!NOTE]
 > Cette règle vise à empêcher toute accumulation excessive d'argent inaccessible.
 
-### Magasin joueur
-
-- Les entreprises, associations, clubs, bars, sont tenues d'installer des magasins joueurs (pas de magasins PNJ). Le point de vente devra être situé dans un intérieur.
-- Le coffre du magasin, où sera stocké l'argent, doit être accessible (tout en pouvant être sécurisé conformément aux règles en vigueur concernant la sécurité) et placé dans un local appartenant à l'entreprise ou à l'association, clubs, ou bar.
-- Le prix maximum d'un item est plafonné à 30 000 $.
-- Sont exclus la vente d'arme, le custom d'arme, de licence.
+## Magasins joueurs
+- Les entreprises, associations, clubs et bars doivent installer des magasins joueurs (pas de magasins PNJ).
+- Le point de vente est situé de préférence dans un intérieur. Une installation en extérieur est tolérée si l’activité l’exige (ex. : circuit).
+- Le coffre du magasin, où est stocké l’argent, doit rester accessible et peut être sécurisé conformément aux règles en vigueur en matière de sécurité. Il peut se trouver ailleurs que sur le lieu de vente (local d’un sous-traitant ou d’un partenaire, par exemple).
+- Le prix maximum d’un item est plafonné à 30 000 $.
+- Sont exclus de la vente : les armes, le custom d’armes et les licences.
 
 ### Assurance
 * Le principe de l'assurance largement généreuse c'est de compenser les pertes liées au dark et de "ne pas avoir peur" de se faire voler son véhicule et non pour permettre aux voleurs eux même de  s'enrichir x2 ou de s'enrichir sur le dos du dark.
