@@ -23,9 +23,6 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 
 #### Véhicule
 
-- <kbd>Verr Maj</kbd> : Entrer dans un véhicule par la porte la plus proche
-- <kbd>Alt</kbd> + <kbd>?</kbd> : Verrouiller / Déverrouiller un véhicule
-- **MAINTENIR** <kbd>F</kbd> : Sortir d'un véhicule en laissant le moteur allumé
 - <kbd>Maj G</kbd> + <kbd>E</kbd> : Pousser un véhicule
 - <kbd>G</kbd> : Descendre en rappel depuis un hélicoptère équipé *(il faut être en passager)*
 - Caméra embarquée *(uniquement sur les hélicoptères équipées)* :
@@ -65,15 +62,12 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 
 - <kbd>F2</kbd> : Inventaire
 - <kbd>F7</kbd> : Menu métiers
-- <kbd>X</kbd> : Menu radial
 - <kbd>.</kbd> : Téléphone
 - <kbd>!</kbd> : Préférences de l'interface
-- <kbd>?</kbd> : Gestion du véhicule (quand vous êtes dans un véhicule)
 - **MAINTENIR** <kbd>Alt</kbd> : Système de ciblage
 - **MAINTENIR** <kbd>Alt</kbd> : État des plantations de cannabis
 - <kbd>F6</kbd> : Gestion du trafic *(uniquement accessible pour les services de secours et dépanneurs en service)*
 - <kbd>F4</kbd> : Gestion des gyrophares *(uniquement accessible par la police)*
-- <kbd>Dispatch</kbd> : Menu Dispatch
 - <kbd>Maj G</kbd> : Mégaphone *(uniquement accessible par la police)*
 
 #### Personnage
