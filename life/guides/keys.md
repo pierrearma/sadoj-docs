@@ -60,7 +60,6 @@ Les touches suivantes sont les touches par défaut et son modifiables dans vos p
 #### Menus
 
 - <kbd>F2</kbd> : Inventaire
-- <kbd>F7</kbd> : Menu métiers
 - <kbd>.</kbd> : Téléphone
 - <kbd>!</kbd> : Préférences de l'interface
 - **MAINTENIR** <kbd>Alt</kbd> : Système de ciblage
