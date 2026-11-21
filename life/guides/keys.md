@@ -23,7 +23,6 @@ Les touches suivantes ne sont pas modifiable et utilise le mappage de GTA V *(la
 
 #### Véhicule
 
-- <kbd>Maj G</kbd> + <kbd>E</kbd> : Pousser un véhicule
 - <kbd>G</kbd> : Descendre en rappel depuis un hélicoptère équipé *(il faut être en passager)*
 - Caméra embarquée *(uniquement sur les hélicoptères équipées)* :
   - <kbd>Maj G</kbd> : Activer / Désactiver la caméra d'un hélicoptère
